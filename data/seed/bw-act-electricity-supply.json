@@ -1,0 +1,108 @@
+{
+  "id": "bw-act-electricity-supply",
+  "type": "statute",
+  "title": "Electricity Supply",
+  "title_en": "Electricity Supply",
+  "short_name": "Electricity Supply",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/electricity-supply",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Electricity Supply Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Authority\" means the Botswana Energy Regulatory Authority established under the Botswana Energy Regulatory Authority Act (Act No. 13 of 2016);\n\"bulk supply\" means the wholesale supply of electricity to any one or more customers or consumers in or outside Botswana as provided in terms of a supply licence;\n\"consumer\" means the end-user of electricity;\n\"customer\" means a person that buys and sells electricity for the purpose of resale;\n\"distribution\" means the conveyance and delivery of electricity through or over a distribution power system;\n\"distribution power system\" —\n( a ) means the facilities, consisting wholly or mainly of electric lines used for the distribution of electricity from the grid supply points to the point of delivery to the consumer; and\n( b ) includes any electrical plant and meters operated in connection with the distribution of electricity, but does not include any part of a transmission system and shall, without limiting the generality of the foregoing, include a power system operating at or below 66 kV;\n\"electricity undertaking\" means any undertaking which engages in the business of generation, transmission, distribution or supply of electricity;\n\"export\" means the sale of electricity to any person outside Botswana;\n\"generation\" means the production of electricity by any means;\n\"import\" means the purchase of electricity from outside of Botswana to any person inside Botswana;\n\"licence\" means a licence issued in accordance with section 3 of this Act;\n\"licensee\" means any person who holds a licence issued under this Act;\n\"local authority\" means a city council, a town council, a township authority, a district council, a sub-district council or an administrative authority;\n\"retail supply\" means the retail supply of electricity to any consumer as provided in terms of a supply licence;\n\"supply\" means the bulk or retail supply of electricity;\n\"transmission\" means the conveyance of electricity through or over a transmission power system;\n\"transmission line\" —\n( a ) means any cable or overhead line used for from one undertaking to another or from an undertaking, to a consumer; and\n( b ) includes any transformers, switchgear and other works necessary to and used in connection with the cable or overhead line, and the buildings or a part thereof as may be required to accommodate such transformers, switchgear and other works; and\n\"transmission power system\" —\n( a ) means a system consisting wholly or mainly of high voltage electric lines for the conveyance of electricity within an electricity undertaking or from one electricity undertaking to another;\n( b ) includes any transmission lines, transformers, switchgear and other works necessary for and used in connection with electrical equipment, and buildings as may be required to accommodate the transformers, switchgear and other works; and\n( c ) includes, without limiting the generality of the foregoing, a power system operating at or above 132 kV."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Licensing requirements",
+      "content": "3. Licensing requirements\n(1) A person shall not—\n( a ) generate, supply, transmit, distribute, export, or import electricity;\n( b ) use, work or operate or permit to be used, worked or operated any plant, apparatus or works designed for the supply or use of electricity; or\n( c ) supply, to or for the use by any other person, electricity from any plant, apparatus or works designed for the supply or use of electricity,\nexcept in terms of a licence issued by the Authority and expressly authorising such generation, supply, transmission, distribution, export, import, use, work or operation."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Authority",
+      "definition": "the Botswana Energy Regulatory Authority established under the Botswana Energy Regulatory Authority Act (Act No. 13 of 2016)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bulk supply",
+      "definition": "the wholesale supply of electricity to any one or more customers or consumers in or outside Botswana as provided in terms of a supply licence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consumer",
+      "definition": "the end-user of electricity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "customer",
+      "definition": "a person that buys and sells electricity for the purpose of resale",
+      "source_provision": "s2"
+    },
+    {
+      "term": "distribution",
+      "definition": "the conveyance and delivery of electricity through or over a distribution power system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electricity undertaking",
+      "definition": "any undertaking which engages in the business of generation, transmission, distribution or supply of electricity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "export",
+      "definition": "the sale of electricity to any person outside Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "generation",
+      "definition": "the production of electricity by any means",
+      "source_provision": "s2"
+    },
+    {
+      "term": "import",
+      "definition": "the purchase of electricity from outside of Botswana to any person inside Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued in accordance with section 3 of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "any person who holds a licence issued under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local authority",
+      "definition": "a city council, a town council, a township authority, a district council, a sub-district council or an administrative authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "retail supply",
+      "definition": "the retail supply of electricity to any consumer as provided in terms of a supply licence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "supply",
+      "definition": "the bulk or retail supply of electricity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transmission",
+      "definition": "the conveyance of electricity through or over a transmission power system",
+      "source_provision": "s2"
+    }
+  ]
+}

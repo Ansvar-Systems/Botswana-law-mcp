@@ -1,0 +1,148 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-construction-of-visual-and-instrument-flight-procedures-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (construction of Visual and Instrument Flight Procedures) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (construction of Visual and Instrument Flight Procedures) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-construction-of-visual-and-instrument-flight-procedures-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Construction of Visual and Instrument Flight Procedures) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"aerodrome operating minima\" means the limits of usability of an aerodrome for—\n( a ) take-off, expressed in terms of runway visual range or visibility and, if necessary, cloud conditions;\n( b ) landing in precision approach and landing operations, expressed in terms of visibility or runway visual range and decision altitude/height (DA/H) as appropriate to the category of the operation;\n( c ) landing in approach and landing operations with vertical guidance, expressed in terms of visibility or runway visual range and decision altitude/height (DA/H); and\n( d ) landing in non-precision approach and landing operations, expressed in terms of visibility or runway visual range, minimum descent altitude/height (MDA/H) and if necessary, cloud conditions;\n\"aeronautical data\" means a representation of aeronautical facts, concepts or instructions in a formalised manner suitable for communication, interpretation or processing;\n\"aeronautical information\" means information resulting from the assembly, analysis and formatting of aeronautical data;\n\"Aeronautical Information Circular (AIC)\" means a notice containing information that does not qualify for the origination of a NOTAM or for inclusion in the AIP, but which relates to flight safety, air navigation, technical, administrative or legislative matters;\n\"Aeronautical Information Publication (AIP)\" means a publication issued by or with the authority of a State and containing aeronautical information of a lasting character essential to air navigation;\n\"Aeronautical Information Service (AIS)\" means a service established within the defined area of coverage responsible for the provision of aeronautical data and aeronautical information necessary for the safety, regularity and efficiency of air navigation;\n\"AIRAC\" means the Aeronautical Information Regulation and Control signifying a system aimed at advance notification, based on common effective dates, of circumstances that necessitate significant changes in operating practices;\n\"air navigation service provider\" means an independent entity established for the purpose of providing one or more of the air navigation services;\n\"air navigation services\" means one or more of the following services provided for air navigation—\n( a ) air traffic services or air traffic management;\n( b ) instrument flight procedure design services;\n( c ) aeronautical information services/aeronautical information management;\n( d ) aeronautical cartographic services;\n( e ) aeronautical telecommunication services;\n( f ) aeronautical meteorological services; or\n( g ) aeronautical search and rescue;\n\"ATS route\" means a specified route designed for channelling the flow of traffic as necessary for the provision of air traffic services;\n\"certificate\" means the certificate for the provision of Air Navigation Services issued by the Authority under Part II of these Regulations;\n\"instrument flight procedure designer\" means a person responsible for flight procedure design who meets the competency requirements as laid down by the Authority;\n\"instrument flight procedure design service\" means a service established for the design, documentation, validation, maintenance and periodic review of instrument flight procedures necessary for the safety, regularity and efficiency of air navigation;\n\"obstacle\" means all fixed objects, whether temporary or permanent, or mobile objects, or parts thereof, that—\n( a ) are located on an area intended for the surface movement of aircraft;\n( b ) extend above a defined surface intended to protect aircraft in flight; or\n( c ) stand outside those defined surfaces and that have been assessed as being a hazard to air navigation;\n\"operator\" means a person, organisation or enterprise engaged in or offering to engage in an aircraft operation;\n\"operations manual\" means a manual prepared by a service provider or a person applying for approval;\n\"Point-in-Space (PinS) approach\" means an approach procedure designed for helicopters only that includes both a visual and an instrument segment;\n\"quality\" means a degree to which a set of inherent characteristics fulfils requirement;\n\"quality assurance\" means part of quality management focused on providing confidence that quality requirements will be fulfilled;\n\"quality management\" means co-ordinated activities to direct and control an organisation with regard to quality; and\n\"terrain\" means the surface of the earth containing naturally occurring features such as mountains, hills, ridges, valleys, bodies of water, permanent ice and snow, and excluding obstacles."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Regulations shall apply to any person providing an instrument flight procedure design service within a designated airspace and at an aerodrome for civil aviation purposes."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II General Requirements (regs 4-17)",
+      "section": "4",
+      "title": "Requirements for provision of instrument flight procedure design service",
+      "content": "4. Requirements for provision of instrument flight procedure design service\n(1) An air navigation service provider shall—\n( a ) provide an instrument flight procedure design service;\n( b ) agree with one or more air navigation service providers to provide a joint instrument flight procedure design service; or\n( c ) delegate the provision of the instrument flight procedure design service to an external agency.\n(2) A person shall not provide an instrument flight procedure design service within Botswana unless—\n( a ) he or she holds a certificate issued under the Civil Aviation (Certification of Air Navigation Service Providers) Regulations (Cap. 71:01 (Sub. Leg.)); and"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aerodrome operating minima",
+      "definition": "the limits of usability of an aerodrome for—\n( a ) take-off, expressed in terms of runway visual range or visibility and, if necessary, cloud conditions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical data",
+      "definition": "a representation of aeronautical facts, concepts or instructions in a formalised manner suitable for communication, interpretation or processing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical information",
+      "definition": "information resulting from the assembly, analysis and formatting of aeronautical data",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Information Circular (AIC)",
+      "definition": "a notice containing information that does not qualify for the origination of a NOTAM or for inclusion in the AIP, but which relates to flight safety, air navigation, technical, administrative or legislative matters",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Information Publication (AIP)",
+      "definition": "a publication issued by or with the authority of a State and containing aeronautical information of a lasting character essential to air navigation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Information Service (AIS)",
+      "definition": "a service established within the defined area of coverage responsible for the provision of aeronautical data and aeronautical information necessary for the safety, regularity and efficiency of air navigation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "AIRAC",
+      "definition": "the Aeronautical Information Regulation and Control signifying a system aimed at advance notification, based on common effective dates, of circumstances that necessitate significant changes in operating practices",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air navigation service provider",
+      "definition": "an independent entity established for the purpose of providing one or more of the air navigation services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air navigation services",
+      "definition": "one or more of the following services provided for air navigation—\n( a ) air traffic services or air traffic management",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ATS route",
+      "definition": "a specified route designed for channelling the flow of traffic as necessary for the provision of air traffic services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate",
+      "definition": "the certificate for the provision of Air Navigation Services issued by the Authority under Part II of these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "instrument flight procedure designer",
+      "definition": "a person responsible for flight procedure design who meets the competency requirements as laid down by the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "instrument flight procedure design service",
+      "definition": "a service established for the design, documentation, validation, maintenance and periodic review of instrument flight procedures necessary for the safety, regularity and efficiency of air navigation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "obstacle",
+      "definition": "all fixed objects, whether temporary or permanent, or mobile objects, or parts thereof, that—\n( a ) are located on an area intended for the surface movement of aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operator",
+      "definition": "a person, organisation or enterprise engaged in or offering to engage in an aircraft operation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operations manual",
+      "definition": "a manual prepared by a service provider or a person applying for approval",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Point-in-Space (PinS) approach",
+      "definition": "an approach procedure designed for helicopters only that includes both a visual and an instrument segment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quality",
+      "definition": "a degree to which a set of inherent characteristics fulfils requirement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quality assurance",
+      "definition": "part of quality management focused on providing confidence that quality requirements will be fulfilled",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quality management",
+      "definition": "co-ordinated activities to direct and control an organisation with regard to quality",
+      "source_provision": "s2"
+    },
+    {
+      "term": "terrain",
+      "definition": "the surface of the earth containing naturally occurring features such as mountains, hills, ridges, valleys, bodies of water, permanent ice and snow, and excluding obstacles.",
+      "source_provision": "s2"
+    }
+  ]
+}

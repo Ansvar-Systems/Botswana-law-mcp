@@ -1,0 +1,104 @@
+{
+  "id": "bw-act-botswana-open-university-act",
+  "type": "statute",
+  "title": "Botswana Open University Act",
+  "title_en": "Botswana Open University Act",
+  "short_name": "Botswana Open University Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-open-university-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Open University Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Council\" means the University Council established under section 10;\n\"Chairperson\" means the Chairperson of the Council appointed under section 9;\n\"distance learning\" means a mode of delivery of education to persons situated at a distance from the University, without such persons necessarily attending classes;\n\"member\" means a member of the Council;\n\"regional centres\" means designated places for providing support services to the students of the University;\n\"repealed Act\" means the Botswana College of Distance and Open Learning Act (Cap. 57:03);\n\"Statutes\" means the Statutes of the University enacted under section 32; and\n\"University\" means the Botswana Open University."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment and functions of Botswana Open University",
+      "section": "3",
+      "title": "Establishment of University",
+      "content": "3. Establishment of University\n(1) The Botswana College of Distance and Open Learning established under section 3 of the repealed Act, is hereby continued under the new name of the Botswana Open University and shall continue to exist as if established under this Act.\n(2) The University shall be a body corporate with perpetual succession and a common seal, capable of suing and being sued in its own name and, subject to the provisions of this Act, of performing such acts as bodies corporate may by law perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment and functions of Botswana Open University",
+      "section": "4",
+      "title": "Powers and functions of University",
+      "content": "4. Powers and functions of University\n(1) The primary function of the University shall be to provide quality education through open and distance learning.\n(2) Without prejudice to the generality of the provisions of subsection (1), the University shall—\n( a ) provide tertiary education and professional training and open schooling;\n( b ) provide in-service programmes to upgrade the skills of staff;\n( c ) provide guidance and counselling services to students;\n( d ) formulate and carry out the academic policy of the University;\n( e ) devise and regulate courses of instruction and study;\n( f ) advise the Minister on the requirements of admission of students;\n( g ) prescribe disciplinary rules for the staff and students;\n( h ) determine fees, commissions, charges and other payments for services and use of facilities of the University;\n( i ) raise funds in such a manner as the University may deem fit;\n( j ) receive and accept donations of money or property, on such terms and conditions as shall not be inconsistent with this Act and the functions of the University;\n( k ) report on such matters as may be referred to it by the Vice-Chancellor; and\n( l ) do all such things and perform all such functions as may be necessary for, or incidental to the functions of the University."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment and functions of Botswana Open University",
+      "section": "5",
+      "title": "Seal of University",
+      "content": "5. Seal of University\n(1) The seal of the University shall be such device as may be determined by the Council and shall be kept by the Vice-Chancellor.\n(2) The affixing of the seal shall be authenticated by the Chairperson or Vice-Chairperson and the Vice-Chancellor or any other person authorised in that behalf by a resolution of the Council.\n(3) Any contract or instrument which if entered into or executed by a person not being a body corporate would not be required to be under seal, may be entered into or executed without seal on behalf of the University by the Vice-Chancellor or any other person generally or specifically authorised by the Council in that behalf."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART III Governance of University",
+      "section": "6",
+      "title": "Principal officers of University",
+      "content": "6. Principal officers of University\nThe principal officers of the University shall be—\n( a ) the Chancellor;\n( b ) the Chairperson of the Council;\n( c ) the Vice-Chairperson of the Council;\n( d ) the Vice-Chancellor; and\n( e ) such Deputy Vice-Chancellor as may be appointed under section 8(3)."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART III Governance of University",
+      "section": "7",
+      "title": "Chancellor",
+      "content": "7. Chancellor\n(1) The Chancellor of the University shall be the President of the Republic of Botswana or such eminent person as may be appointed by the President."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Council",
+      "definition": "the University Council established under section 10",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the Chairperson of the Council appointed under section 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "distance learning",
+      "definition": "a mode of delivery of education to persons situated at a distance from the University, without such persons necessarily attending classes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regional centres",
+      "definition": "designated places for providing support services to the students of the University",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "the Botswana College of Distance and Open Learning Act (Cap. 57:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Statutes",
+      "definition": "the Statutes of the University enacted under section 32",
+      "source_provision": "s2"
+    },
+    {
+      "term": "University",
+      "definition": "the Botswana Open University.",
+      "source_provision": "s2"
+    }
+  ]
+}

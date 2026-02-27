@@ -1,0 +1,734 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-communication-procedures-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (communication Procedures) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (communication Procedures) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-communication-procedures-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Communication Procedures) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"aeronautical fixed telecommunication network circuit\" means a circuit forming part of the aeronautical fixed telecommunication network (AFTN);\n\"aeronautical mobile (R) service (RR SI. 33)\" means an aeronautical mobile service reserved for communications relating to safety and regularity of flight, primarily along national or international civil air routes;\n\"aeronautical mobile service (RR SI. 32)\" means a mobile service between aeronautical stations and aircraft stations, or between aircraft stations, in which survival craft stations may participate; emergency position-indicating radio beacon stations may also participate in this service on designated distress and emergency frequencies;\n\"aeronautical mobile-satellite (R) service (RR SI. 36)\" means an aeronautical mobile-satellite service reserved for communications relating to safety and regularity of flights, primarily along national or international civil air routes;\n\"aeronautical mobile-satellite service (RR S1. 35)\" means a mobile-satellite service in which mobile earth stations are located on board aircraft; survival craft stations and emergency position-indicating radio beacon stations may also participate in this service;\n\"aeronautical radio navigation service (RR S1. 46)\" means a radio navigation service intended for the benefit and for the safe operation of aircraft;\n\"aeronautical station (RR S1. 81)\" means a land station in the aeronautical mobile service;\n\"aeronautical telecommunication agency\" means an agency responsible for operating a station or stations in the aeronautical telecommunication service;\n\"aeronautical telecommunication service\" means a telecommunication service provided for any aeronautical purpose;\n\"aeronautical telecommunication station\" means a station in the aeronautical telecommunication service;\n\"AFTN communication centre\" means an AFTN station whose primary function is the relay or retransmission of AFTN traffic from or to a number of other AFTN stations connected to it;\n\"AFTN destination station\" means an AFTN station to which messages or digital data are addressed for processing for delivery to the addressee;\n\"AFTN origin station\" means an AFTN station where messages or digital data are accepted for transmission over the AFTN;\n\"AFTN station\" means a station forming part of the aeronautical fixed telecommunication network (AFTN) and operating as such under the authority or control of a State;\n\"air navigation services provider\" means an entity established for the purpose of providing one or more of the air navigation services as defined in these Regulations;\n\"aircraft operating agency\" means the person, organisation or enterprise engaged in, or offering to engage in, an aircraft operation;\n\"aircraft station (RR S1.83)\" means a mobile station in the aeronautical mobile service, other than a survival craft station, located on board an aircraft;\n\"air-ground communication\" means a two-way communication between aircraft and stations or locations on the surface of the earth;\n\"air-ground control radio station\" means an aeronautical telecommunication station having primary responsibility for handling communications pertaining to the operation and control of aircraft in a given area;\n\"air navigation services\" means one or more of the following services provided for air navigation—\n( a ) air traffic services;\n( b ) instrument flight procedure design (IFPD) services;\n( c ) aeronautical cartographic services;\n( d ) aeronautical telecommunication services; and\n( e ) search and rescue services;\n\"air-report\" means a report from an aircraft in flight prepared in conformity with requirements for position, and operational and/or meteorological reporting;\n\"air-to-ground communication\" means a one-way communication from aircraft to stations or locations on the surface of the earth;\n\"air traffic safety electronics personnel (ATSEP)\" means a person directly engaged with operations, maintenance and installation activities of CNS/ATM systems;\n\"altitude\" means the vertical distance of a level, a point or an object considered as a point, measured from mean sea level (MSL);\n\"ANSP\" means air navigation services provider;\n\"ATS direct speech circuit\" means an aeronautical fixed service (AFS) telephone circuit, for direct exchange of information between air traffic services (ATS) units;\n\"automatic relay installation\" means a teletypewriter installation where automatic equipment is used to transfer messages from incoming to outgoing circuits;\n\"blind transmission\" means a transmission from one station to another station in circumstances where two-way communication cannot be established but where it is believed that the called station is able to receive the transmission;\n\"broadcast\" means a transmission of information relating to air navigation that is not addressed to a specific station or stations;\n\"CNS\" means communication, navigation and surveillance;\n\"communication centre\" means an aeronautical fixed station which relays or retransmits telecommunication traffic from (or to) a number of other aeronautical fixed stations directly connected to it;\n\"controller-pilot data link communications (CPDLC)\" means a means of communication between controller and pilot, using data link for ATC communications;\n\"current data authority\" means the designated ground system through which a CPDLC dialogue between a pilot and a controller currently responsible for the flight is permitted to take place;\n\"downstream data authority\" means a designated ground system, different from the current data authority, through which the pilot can contact an appropriate ATC unit for the purposes of receiving a downstream clearance;\n\"flight level\" means a surface of constant atmospheric pressure which is related to a specific pressure datum, 1013.2 hectopascals (hPa), and is separated from other such surfaces by specific pressure intervals;\n\"free text message element\" means a message element used to convey information not conforming to any standardised message element in the CPDLC message set;\n\"frequency channel\" means a continuous portion of the frequency spectrum appropriate for a transmission utilising a specified class of emission;\n\"fully automatic relay installation\" means a teletypewriter installation where interpretation of the relaying responsibility in respect of an incoming message and the resultant setting up of the connections required to effect the appropriate retransmissions is carried out automatically, as well as all other normal operations of relay, thus obviating the need for operator intervention, except for supervisory purposes;\n\"ground-to-air communication\" means a one-way communication from stations or locations on the surface of the earth to aircraft;\n\"height\" means the vertical distance of a level, a point or an object considered as a point, measured from a specified datum;\n\"human performance\" means human capabilities and limitations which have an impact on the safety and efficiency of aeronautical operations;\n\"inter-pilot air-to-air communication\" means a two-way communication on the designated air-to-air channel to enable aircraft engaged in flights over remote and oceanic areas out of range of VHF ground stations to exchange necessary operational information and to facilitate the resolution of operational problems;\n\"location indicator\" means a four-letter code group formulated in accordance with rules prescribed by ICAO and assigned to the location of an aeronautical fixed station;\n\"MANSOPS\" means manual of air navigation services operations;\n\"meteorological operational channel\" means a channel of the aeronautical fixed service (AFS), for the exchange of aeronautical meteorological information;\n\"meteorological operational telecommunication network\" means an integrated system of meteorological operational channels, as part of the aeronautical fixed service (AFS), for the exchange of aeronautical meteorological information between the aeronautical fixed stations within the network;\n\"mobile surface station\" means a station in the aeronautical telecommunication service, other than an aircraft station, intended to be used while in motion or during halts at unspecified points;\n\"network station\" means an aeronautical station forming part of a radiotelephony network;\n\"next data authority\" means the ground system so designated by the current data authority through which an onward transfer of communications and control can take place;\n\"NOTAM\" means a notice distributed by means of telecommunication containing information concerning the establishment, condition or change in any aeronautical facility, service, procedure or hazard, the timely knowledge of which is essential to personnel concerned with flight operations;\n\"pre-formatted free text message element\" means a free text message element that is stored within the aircraft system or ground system for selection;\n\"primary frequency\" means the radiotelephony frequency assigned to an aircraft as a first choice for air-ground communication in a radiotelephony network;\n\"radio direction finding (RR SI.12)\" means radio determination using the reception of radio waves for the purpose of determining the direction of a station or object;\n\"radio direction-finding station (RR SI.91)\" means a radio determination station using radio direction finding;\n\"radiotelephony network\" means a group of radiotelephony aeronautical stations which operate on and guard frequencies from the same family and which support each other in a defined manner to ensure maximum dependability of air-ground communications and dissemination of air-ground traffic;\n\"readback\" means a procedure whereby the receiving station repeats a received message or an appropriate part thereof back to the transmitting station so as to obtain confirmation of correct reception;\n\"regular station\" means a station selected from those forming an en route air-ground radiotelephony network to communicate with or to intercept communications from aircraft in normal conditions;\n\"route segment\" means a route or portion of route usually flown without an intermediate stop;\n\"secondary frequency\" means the radiotelephony frequency assigned to an aircraft as a second choice for air-ground communication in a radiotelephony network;\n\"semi-automatic relay installation\" means a teletypewriter installation where interpretation of the relaying responsibility in respect of an incoming message and the resultant setting up of the connections required to effect the appropriate retransmissions require the intervention of an operator but where all other normal operations of relay are carried out automatically;\n\"SNOWTAM\" means a special series NOTAM notifying the presence or removal of hazardous conditions due to snow, ice, slush or standing water associated with snow, slush and ice on the movement area, by means of a specific format;\n\"telecommunication (RR SI.3)\" means any transmission, emission, or reception of signs, signals, writing, images and sounds or intelligence of any nature by wire, radio, optical or other electromagnetic systems;\n\"teletypewriter tape\" means a tape on which signals are recorded in the 5-unit Start-Stop code by completely severed perforations (Chad Type) or by partially severed perforations (Chadless Type) for transmission over teletypewriter circuits; and\n\"tributary station\" means an aeronautical fixed station that may route receive or transmit messages or digital data, but which does not relay except for the purpose of serving similar stations connected through it to a communication centre."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Regulations shall apply to a person providing communication, navigation and surveillance services within designated airspaces and at aerodromes."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "4",
+      "title": "Requirements for communication, navigation and surveillance facilities",
+      "content": "4. Requirements for communication, navigation and surveillance facilities\nThe minimum requirements for planning, installation, commissioning, training, operations and maintenance of the CNS facilities shall comply with these Regulations."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "5",
+      "title": "Certification of air navigation service provider",
+      "content": "5. Certification of air navigation service provider\nA person who wishes to provide air navigation services or operates a facility to support air traffic services shall have an air navigation service provider (ANSP) certificate issued in accordance with the Civil Aviation (Certification of Air Navigation Services Providers) Regulations (Cap. 71:01 (Sub. Leg.))."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "6",
+      "title": "Approval requirement",
+      "content": "6. Approval requirement\n(1) A person shall not provide air navigation services or operate communication, navigation and surveillance facilities or systems in the designated airspace and aerodromes unless the facilities or systems have been approved by the Authority.\n(2) The ANS provider shall notify the Authority of its intention to procure, install, use, decommission, upgrade or relocate any communication, navigation and surveillance facility or facilities in the designated airspace and aerodromes not less than 30 days prior to the date of start of the process.\n(3) The Authority shall approve installation, use, decommissioning, upgrading or relocation of all the communication, navigation and surveillance facility or facilities in the designated airspace and aerodromes."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "7",
+      "title": "Inspections and audits",
+      "content": "7. Inspections and audits\n(1) The Authority shall carry out safety inspections and audits on CNS facilities, documents and records of the CNS facilities to determine compliance in accordance with these Regulations.\n(2) An inspector of the Authority shall have unrestricted access to the facilities, installations, records and documents of the service provider to determine compliance with these Regulations and required procedures."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "8",
+      "title": "Siting and installation",
+      "content": "8. Siting and installation\n(1) The air navigation service provider shall—\n( a ) establish procedures to ensure that the communication, navigation and surveillance systems—\n(i) are operated, maintained, available and reliable in accordance with the requirements set out by the Authority in these Regulations,\n(ii) are designed to meet the applicable operational specification for that facility,\n(iii) are installed and commissioned as set out by the Authority in these Regulations, and\n(iv) conform to the applicable system characteristics and specification standards set out by the Authority in these Regulations; and\n( b ) determine the site for installation of a new facility based on operational requirements, construction aspects and maintainability.\n(2) The facilities in subregulation (1) shall be installed by experienced technical officers with relevant ratings for the facilities."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "9",
+      "title": "Commissioning requirement",
+      "content": "9. Commissioning requirement\nThe air navigation service provider shall—\n( a ) establish procedures to ensure that each new facility—\n(i) is commissioned to meet the specifications for that facility, and\n(ii) is in compliance with applicable standards under these Regulations;\n( b ) ensure that the system performance of the new facility has been validated by the necessary tests, and that all parties involved with the operations and maintenance of the facility, including its maintenance contractors have accepted and are satisfied with the results of the tests; and\n( c ) ensure that procedures include documentation of tests conducted on the facility prior to the commissioning, including those that test the compliance of the facility with the applicable standards and any flight check required."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "10",
+      "title": "Availability and reliability of CNS facilities",
+      "content": "10. Availability and reliability of CNS facilities\n(1) The air navigation services provider shall be responsible for the provision of communication, navigation and surveillance services and facilities to ensure that the telecommunication information and data necessary for the safe, regular and efficient operation of air navigation is available.\n(2) The functional specification of each of the air navigation service provider's telecommunication services shall include the following values or characteristics for each service—\n( a ) availability;\n( b ) reliability;\n( c ) accuracy;\n( d ) integrity;\n( e ) Mean Time Between Failure (MTBF); and\n( f ) Mean Time to Repair (MTTR).\n(3) The values mentioned in subregulation (2) shall be derived or measured from either or both of—\n( a ) the configuration of each service; and\n( b ) the known performance of each service.\n(4) The air navigation service provider shall describe in the operations manual the method used to calculate each of the values.\n(5) For a radio navigation service, the integrity values or characteristics shall be given for each kind of navigation aid facility that forms part of the service.\n(6) The air navigation service provider shall ensure that performance of technical facilities are monitored, reviewed and reported against these Regulations.\n(7) The air navigation service provider shall ensure that a facility is installed with main and standby power supply and adequate air conditioning to ensure continuity of operation appropriate to the service being provided."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "11",
+      "title": "Interface arrangement for support services",
+      "content": "11. Interface arrangement for support services\nAn air navigation service provider shall formalise interface arrangements where applicable with external organisations in the form of service level agreements, detailing the following—\n( a ) interface (interoperability) and functional specifications of the support service;\n( b ) service level of the support service such as availability, accuracy, integrity and recovery time of failure of service; and\n( c ) monitoring and reporting of the operational status of the service to the service provider."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "12",
+      "title": "Record keeping and documentation",
+      "content": "12. Record keeping and documentation\n(1) The air navigation service provider shall—\n( a ) hold copies of relevant equipment manuals, technical standards, practices, instructions, maintenance procedures, site logbooks, systems backup data, equipment and test gear inventory and any other documentation that are necessary for the provision and operation of the facility;\n( b ) establish a procedure for the control of the documentation required under these Regulations;\n( c ) keep records under the control of the relevant key personnel;\n( d ) control access to the records system to ensure appropriate security;\n( e ) ensure that data and voice for air navigation service operational systems are recorded continuously and procedures established for the retention and utilisation of these recordings for analysis;\n( f ) maintain all documents and records which are necessary for the operation and maintenance of the service and make available copies of these documents to personnel where needed and these documents shall include—\n(i) a copy of these Regulations,\n(ii) the air navigation service provider's operations manual,\n(iii) ICAO Annex 10 Volumes I to V, ICAO Doc 8071 – Manual on Testing of Radio Navigation Aids, and other relevant ICAO documents,\n(iv) records of malfunction and safety incident reports,\n(v) records of internal audit reports,\n(vi) agreements with other organisations,\n(vii) records of investigation into serious incidents,\n(viii) records of staff deployment, duty and leave rosters,\n(ix) records of equipment spares,\n(x) records of job description, training programme and plan of each staff member, and\n(xi) all related air navigation service technical standards and technical guidance material developed by the Authority;\n( g ) retain for this regulation a document for at least three years where the document is paper based and 180 days if it is computer based;\n( h ) establish a process for the authorisation and amendment of these documents to ensure that they are constantly updated and ensure that—\n(i) the currency of the documentation can be readily determined,\n(ii) amendments to the documentation are controlled in accordance with established quality management principles,\n(iii) only current versions of documents are available, and\n(iv) the person authorising the creation and any revision is identified;\n( i ) ensure that where documents are held as computer-based records and where paper copies of computer-based records are made, they are subjected to the same control as paper documents;\n( j ) shall establish procedures to identify, collect, index, store, maintain, and dispose records covering—\n(i) the performance and maintenance history of each facility,\n(ii) the establishment of the periodic test programmes for each facility,\n(iii) each item of test equipment required for the measurement of critical performance parameters,\n(iv) each reported or detected facility malfunction,\n(v) each internal quality assurance review,\n(vi) each person who is authorised to place facilities into operational."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "13",
+      "title": "Operations manual and maintenance plan",
+      "content": "13. Operations manual and maintenance plan\n(1) An air navigation services provider shall develop an operations manual that demonstrates the air navigation services provider's compliance with these Regulations.\n(2) The contents of the operations manual shall contain—\n( a ) the information required of the air navigation services provider in accordance with these Regulations;\n( b ) an organisation chart of the air navigation services provider and its maintenance contractors, if any, that shows the position of each personnel and the name, qualification, experience, duties and responsibilities of personnel who are responsible for ensuring the compliance of the organisation with the requirements described in these Regulations;\n( c ) an overall operation and maintenance plan for the aeronautical telecommunication service, and for each facility, an operation and maintenance plan, as described under subregulation (4);\n( d ) for each facility, information on the compliance of the facility with these Regulations and the applicable aeronautical telecommunication standards; and\n( e ) the system performance target of each facility, such as its availability and reliability.\n(3) The operations manual shall consist of a main manual covering the main areas that need to be addressed, as well as separate supporting documents and manuals such as the operation and maintenance plan of each facility that are referred to in the main manual.\n(4) The air navigation service provider shall establish an operation and maintenance plan for each facility which shall include—\n( a ) a procedure for the periodic inspection and testing of each facility to verify that it meets the operational and performance specifications of that facility;\n( b ) details of flight test, if necessary, such as the standards and procedures to be used and flight test interval, which shall be in compliance with guidelines determined by the Authority;\n( c ) the interval between periodic inspection and flight test and the basis for that interval and whenever the interval is changed, the reasons for such change shall be documented;\n( d ) the operation and maintenance instructions for each facility;\n( e ) an analysis of the number of personnel required to operate and maintain each facility taking into account the workload required; and\n( f ) the corrective plan and procedures for each facility, such as whether the repair of modules and component are undertaken in-house or by equipment manufacturers and the spare support plan for each facility.\n(5) The maintenance plan or the operating and maintenance instructions for each facility shall specify the test equipment requirements for all levels of operation and maintenance undertaken.\n(6) The air navigation service provider shall control the distribution of the operations manual and ensure that it is amended whenever necessary to maintain the accuracy of the information in the operations manual and to keep its contents up-to-date."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "14",
+      "title": "Periodic inspection, testing and security of CNS facilities",
+      "content": "14. Periodic inspection, testing and security of CNS facilities\n(1) An air navigation service provider shall establish a procedure for the periodic inspection and testing of the communication, navigation and surveillance systems to verify that each facility meets the applicable operational requirements and performance specifications for that facility.\n(2) An air navigation service provider shall ensure—\n( a ) appropriate inspection, measuring and test equipment are available for staff to maintain the operation of each facility; and\n( b ) control, calibration and maintenance of such equipment so that they have the precision and accuracy necessary for the measurements and tests to be performed.\n(3) Periodic inspection shall include—\n( a ) security of the facility and site;\n( b ) adherence to the approved maintenance programme;\n( c ) upkeep of the equipment, building, site and site services; and\n( d ) adequacy of facility records and documentation.\n(4) The air navigation service provider shall establish a security programme for the communication, navigation and surveillance facility.\n(5) The security programme required under subregulation (4) shall specify the physical security requirements, practices, and procedures to be followed for the purposes of minimising the risk of destruction of, damage to, or interference with the operation of communication, navigation and surveillance facility.\n(6) The air navigation service provider shall make a test transmission if—\n( a ) the transmission is necessary to test a service, facility or equipment;\n( b ) within a reasonable time before commencing the transmission, the users have been informed about the transmission;\n( c ) at the commencement of the transmission, the service provider identifies the transmission as a test transmission; and\n( d ) the transmission contains information identifying it as a test transmission.\n(7) The air navigation services provider shall ensure that—\n( a ) CNS systems and services are protected against cyber threats and attacks to a level consistent with the application service requirements;\n( b ) all end-systems supporting air navigation security services shall be capable of authenticating the identity of peer end-systems, authenticating the source of messages and ensuring the data integrity of the messages;\n( c ) strategies and best practices on the protection of critical information and communications technology systems used for civil aviation purposes are developed and implemented;\n( d ) policies are established to ensure that, for critical aviation systems—\n(i) system architectures are secure by design,\n(ii) systems are resilient,\n(iii) methods for data transfer are secured, ensuring integrity and confidentiality of data,\n(iv) system monitoring, and incident detection and reporting, methods are implemented, and\n(v) forensic analysis of cyber incidents is carried out."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "15",
+      "title": "Flight inspection and facility check after accident or incident",
+      "content": "15. Flight inspection and facility check after accident or incident\nThe air navigation service provider shall—\n( a ) ensure that radio navigation aids are available for use by aircraft engaged in air navigation and that the radio navigation aids are subjected to periodic ground and flight inspections; and\n( b ) establish a procedure to check and accurately record the operating condition of any communication, navigation and surveillance facility that may have been used by an aircraft that is involved in an accident or incident."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "16",
+      "title": "Radio frequency management and interference reporting",
+      "content": "16. Radio frequency management and interference reporting\nThe air navigation service provider shall—\n( a ) establish a procedure for the management and protection of aeronautical radio spectrum;\n( b ) designate a responsible person to control any frequency allocation within the aeronautical radio spectrum to ensure that there will be no conflict and interference to any radio stations or facility;\n( c ) ensure that there is no wilful transmission of unnecessary or anonymous radio signals, messages or data by any of its radio stations;\n( d ) establish procedures with the communication authority to address occurrence of radio frequency interference;\n( e ) ensure that any frequency interference occurrences are reported, investigated and follow-up actions taken to prevent recurrence;\n( f ) keep updated records of all allocated frequencies; and\n( g ) ensure that no facility providing radio signals for the purpose of aviation safety shall be allowed to continue in operation, if there is a suspicion or any cause to suspect that the information being provided by that facility is erroneous."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "17",
+      "title": "CNS personnel training and other requirements",
+      "content": "17. CNS personnel training and other requirements\n(1) The air navigation services provider shall—\n( a ) ensure that it employs sufficient number of personnel who possess the skills and competencies required in the provision of the aeronautical telecommunication service;\n( b ) provide in the MANSOPS an analysis of the personnel required to perform the communication, navigation and surveillance services for each facility taking into account the duties and workload required;\n( c ) develop job descriptions for each of its staff that depict the job purpose, key responsibilities, and outcome to be achieved of each staff member;\n( d ) develop an overall training policy and programme for the organisation that shall lay down training requirements;\n( e ) designate an officer in charge of training or on-job training at the operational stations;\n( f ) maintain individual training records for each of its staff member;\n( g ) conduct a yearly review of the training plan for each staff member at the beginning of the year to identify any gaps in competency and changes in training requirement and prioritise the type of training required for the coming year; and\n( h ) ensure that the training requirements of these Regulations are similarly applied to its maintenance contractors, if any.\n(2) The on-job training officer in subregulation (1)( e ) above shall have satisfactorily completed the on-job training officer instructional techniques course.\n(3) A person shall not perform a function related to the installation, training, operation or maintenance of any communication, navigation and a surveillance system unless—\n( a ) that person has successfully completed training in the performance of that function in line with the ATSEP competency-based training requirements;\n( b ) the air navigation service provider is satisfied that the technical person is competent in performing that function; and\n( c ) that person has been certified in accordance with requirements of Civil Aviation Regulations or by original equipment manufacturer."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "18",
+      "title": "Facility malfunction, incident reporting and operational status of CNS systems",
+      "content": "18. Facility malfunction, incident reporting and operational status of CNS systems\n(1) The air navigation service provider shall establish procedures for the reporting, collection and notification of facility malfunction incidents and safety incidents.\n(2) The procedures in subregulation (1) shall be documented in the MANSOPS.\n(3) The air navigation service provider shall compile reports of incidents and review such reports periodically with its maintenance contractors to—\n( a ) determine the cause of the incidents and determine any adverse trends;\n( b ) implement corrective and preventive actions where necessary to prevent recurrence of the incidents; and\n( c ) implement any measures to improve the safety performance of the aeronautical telecommunication service.\n(4) The air navigation service provider shall—\n( a ) report any serious service failure or safety incident to the Authority and investigate such incidents in order to establish how and why the incident happened, including possible organisational contributing factors and to recommend actions to prevent a recurrence; and\n( b ) ensure that information on the operational status of each communication, navigation and surveillance facility that is essential for the en route , approach, landing and take-off phases of flight is provided to meet the operational needs of the service being provided."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "19",
+      "title": "Proficiency certification programme",
+      "content": "19. Proficiency certification programme\n(1) The air navigation service provider shall develop proficiency certification program for ATSEP engaged in the installation, training, operations and maintenance of communication, navigation and surveillance systems in accordance with guidelines set out by the Authority.\n(2) The Authority shall certify ATSEP in subregulation (1) in accordance with the established guidelines in these Regulations."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART II General Requirements (regs 4-20)",
+      "section": "20",
+      "title": "Safety case, notification of aeronautical facility status and interruption to service",
+      "content": "20. Safety case, notification of aeronautical facility status and interruption to service\n(1) The air navigation service provider shall ensure that for safety critical systems, including automated air traffic control systems, communication systems and instrument landing systems, the commissioning of such systems shall include the conduct of a safety case or equivalent.\n(2) The air navigation service provider shall ensure that human performance principles are observed in the design, operations and maintenance of aeronautical telecommunication facilities.\n(3) The air navigation service provider shall, as soon as possible—\n( a ) forward to the aeronautical information services—\n(i) information on the operational details of any new facility for publication in the Aeronautical Information Publication, and\n(ii) information concerning any change in the operational status of any existing facility, for the issue of a Notice to Airmen; and\n( b ) ensure that the information forwarded under subparagraph ( a ) has been accurately published.\n(4) The air navigation service provider shall—\n( a ) establish a procedure to be used in the event of interruption to or when upgrading communication, navigation and surveillance systems; and\n( b ) specify an acceptable recovery time for each service."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART III Administrative Provisions Relating to the International Aeronautical Telecommunication Service (regs 21-26)",
+      "section": "21",
+      "title": "Division of Service",
+      "content": "21. Division of Service\nThe International Aeronautical Telecommunication Service shall be divided into four parts—\n( a ) aeronautical fixed service;\n( b ) aeronautical mobile service;\n( c ) aeronautical radio navigation service; and\n( d ) aeronautical broadcasting service."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART III Administrative Provisions Relating to the International Aeronautical Telecommunication Service (regs 21-26)",
+      "section": "22",
+      "title": "Telecommunication on access",
+      "content": "22. Telecommunication on access\nAll aeronautical telecommunication stations, including end systems and intermediate systems of the aeronautical telecommunication network, shall be protected from unauthorised direct or remote access."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART III Administrative Provisions Relating to the International Aeronautical Telecommunication Service (regs 21-26)",
+      "section": "23",
+      "title": "Hours of service",
+      "content": "23. Hours of service\n(1) The air navigation service provider shall give notification of—\n( a ) the normal hours of service of stations and offices of the international aeronautical telecommunication service under its control to the aeronautical telecommunication;\n( b ) any change in the normal hours of service, before such a change is effected, to the aeronautical telecommunication agencies designated to receive this information by other administrations concerned.\n(2) The changes in subregulation (1)( b ) shall also be promulgated in a NOTAM.\n(3) Where a station of the international aeronautical telecommunication service, or an aircraft operating agency, requests a change in the hours of service of another station, such change shall be requested as soon as possible after the need for change is known.\n(4) The station or aircraft operating agency requesting for the change in subregulation (3) shall be informed of the result of its request as soon as possible."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART III Administrative Provisions Relating to the International Aeronautical Telecommunication Service (regs 21-26)",
+      "section": "24",
+      "title": "Supervision",
+      "content": "24. Supervision\n(1) The Authority shall be responsible for ensuring that the International aeronautical telecommunication service is conducted in accordance with these Regulations.\n(2) The Authority shall ensure that where occasional infringements of the Procedures contained herein and are not serious, they are dealt with by direct communication between the parties immediately interested either by correspondence or by personal contact.\n(3) The Authority shall ensure that when a station commits serious or repeated infringements, representations relating to them are made to the Authority as specified in subregulalion (1) to which the station belongs by the authority which detects them.\n(4) The Authority designated in subregulation (1) shall exchange information regarding the performance of systems of communication, radio navigation, operation and maintenance or unusual transmission phenomena."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART III Administrative Provisions Relating to the International Aeronautical Telecommunication Service (regs 21-26)",
+      "section": "25",
+      "title": "Superfluous transmissions",
+      "content": "25. Superfluous transmissions\nThe air navigation service provider shall ensure that there is no wilful transmission of unnecessary or anonymous signals, messages or data by any aeronautical station within Botswana."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART III Administrative Provisions Relating to the International Aeronautical Telecommunication Service (regs 21-26)",
+      "section": "26",
+      "title": "Interference",
+      "content": "26. Interference\nThe air navigation service provider shall ensure that all precautions, such as the choice of frequency and of time and the reduction or if possible, the suppression of radiation are taken to avoid any harmful interference during tests and experiments in any station and any resulting interference eliminated as soon as possible."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART IV General Procedures for the International Aeronautical Telecommunication Service (regs 27-34)",
+      "section": "27",
+      "title": "Extensions of Service and closing down of stations",
+      "content": "27. Extensions of Service and closing down of stations\n(1) A station of the international aeronautical telecommunication service shall extend their normal hours of service as required by the Authority to provide for traffic necessary for flight operation.\n(2) A station shall notify its intention to all other stations with which it is in direct communication to confirm that an extension of service is not required and advise the time of re-opening if not within its normal hours of service.\n(3) A Station shall notify its intention of closing down either to the control station, if any, or to all stations in the network when it is working regularly in a network on a common circuit.\n(4) The station referred to in subregulation (3) shall continue watch for two minutes and may then close down if the station has received no call during this period."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART IV General Procedures for the International Aeronautical Telecommunication Service (regs 27-34)",
+      "section": "28",
+      "title": "Acceptance of messages",
+      "content": "28. Acceptance of messages\n(1) An air navigation service provider shall accept for transmission only messages coming within the categories specified in regulation 39.\n(2) The station where the message is filed for transmission shall be responsible for determining the acceptability of the message.\n(3) The air navigation service provider in control of any station through which a message is relayed, shall make representations at a later date to the air navigation service provider in control of the accepting station regarding any message which is considered unacceptable.\n(4) The air navigation service provider shall accept only messages from stations forming part of the aeronautical telecommunication service for transmission, except where special arrangements have been made with the air navigation service provider concerned.\n(5) The air navigation service provider shall accept as a single message, a message intended for two or more addresses, whether at the same station or at different stations, subject to the provisions set out in Schedule 3.\n(6) The air navigation service provider shall handle and accept messages for aircraft operating agencies only when handed in to the telecommunication station in the form specified in these Regulations and by an authorised representative of that agency, or when received from that agency over an authorised circuit."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART IV General Procedures for the International Aeronautical Telecommunication Service (regs 27-34)",
+      "section": "29",
+      "title": "Transmission and delivery of messages",
+      "content": "29. Transmission and delivery of messages\n(1) A message accepted in regulation 28 shall be transmitted, relayed and delivered in accordance with the priority classification and without discrimination or undue delay.\n(2) A single office for each aircraft operating agency shall be designated by agreement between the air navigation service provider and the aircraft operating agency concerned for each station of the air navigation service provider from which messages are delivered to one or more aircraft operating agencies.\n(3) A Station of the international aeronautical telecommunication service shall be responsible for delivery of messages to an address located within the boundaries of the aerodrome served by that station and beyond those boundaries only to an address as may be agreed by special arrangements with the Administrations concerned.\n(4) The Authority shall determine a form of written record or other permanent means of delivering messages.\n(5) Messages originated in the aeronautical mobile service by an aircraft in flight and which require transmission over the aeronautical fixed telecommunication network to effect delivery, shall be reprocessed by the aeronautical telecommunication station into the message format specified in Schedule 1 prior to transmission on the aeronautical fixed telecommunication network.\n(6) Messages originated in the aeronautical mobile service by an aircraft in flight and which require transmission over the aeronautical fixed service, other than on aeronautical fixed telecommunication network circuits, shall be reprocessed by the aeronautical telecommunication station into the format prescribed in Schedule 1 except where, subject to subregulation (3), prior and other arrangements have been made between the aeronautical telecommunication agency and the aircraft operating agency concerned for predetermined distribution of messages from aircraft.\n(7) Messages, including air-reports, without specific address containing—\n( a ) meteorological information received from an aircraft in flight shall be forwarded without delay to the meteorological office associated with the point of reception; and\n( b ) air traffic services information from aircraft in flight shall be forwarded without delay to the air traffic services unit associated with the communication station receiving the message."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART IV General Procedures for the International Aeronautical Telecommunication Service (regs 27-34)",
+      "section": "30",
+      "title": "Time systems",
+      "content": "30. Time systems\n(1) The Universal Co-ordinated Time (UTC) shall be used by all stations in the aeronautical telecommunication service.\n(2) The stations in subregulation (1) shall designate midnight as 2400 for the end of the day and 0000 for the beginning of the day.\n(3) A date-time group shall consist of six figures, the first two figures representing the date of the month and the last four figures the hours and minutes in Universal Co-ordinated Time."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART IV General Procedures for the International Aeronautical Telecommunication Service (regs 27-34)",
+      "section": "31",
+      "title": "Record of communications",
+      "content": "31. Record of communications\n(1) A telecommunication log, written or automatic, shall be maintained in each station of the aeronautical telecommunication service except that an aircraft station, when using radiotelephony in direct communication with an aeronautical station, need not maintain a telecommunication log.\n(2) An aeronautical station shall record messages at the time of its receipt, except that, if during an emergency the continued manual recording would result in delays in communication, the recording of messages may be temporarily interrupted and completed at the earliest opportunity.\n(3) Where a record is maintained in an aircraft station, either in a radiotelephone log or elsewhere, concerning distress communications, harmful interference or interruption to communications, such a record shall be associated with information concerning the time, position and altitude of the aircraft.\n(4) An operator on duty or shall make entries in written logs except that other person having knowledge of facts pertinent to the entries may certify in the log the accuracy of entries of the operators.\n(5) An operator on duty or any other person having knowledge of facts pertinent to the entries shall not make superfluous marks or notations in the log and all entries shall be complete, clear, correct and intelligible.\n(6) In written logs, any necessary correction in the log shall be—\n( a ) made only by the person making the initial entry;\n( b ) accomplished by drawing or typing a single line through the incorrect entry, initialling same, recording the time and date of correction; and\n( c ) made on the next fine after the last entry.\n(7) An operator on duty shall retain for a period of at least 30 days telecommunication logs, written or automatic, and when such logs are pertinent to inquiries or investigations, the logs shall be retained for longer periods until it is evident that they will no longer be required.\n(8) The following information shall be entered in written logs—\n( a ) the name of the agency operating the station;\n( b ) the identification of the station;\n( c ) the date;\n( d ) the time of opening and closing the station;\n( e ) the signature of each operator, with the time the operator assumes and relinquishes a watch;\n( f ) the frequencies being guarded and type of watch being maintained on each frequency;\n( g ) the text of the communication may be omitted from the log when copies of the messages handled are available and form part of the log except at intermediate mechanical relay stations where the provisions of this paragraph need not be complied with, a record of each communication, test transmission, or attempted communication showing text of communication, time communication completed, station communicated with, and frequency used;\n( h ) all distress communications and action;\n( i ) a brief description of communication conditions and difficulties, including harmful interference;\n( j ) a brief description of interruption to communications due to equipment failure or other troubles, giving the duration of the interruption and action taken; and\n( k ) such additional information as may be considered by the operator to be of value as a part of the record of the operations of the station."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART IV General Procedures for the International Aeronautical Telecommunication Service (regs 27-34)",
+      "section": "32",
+      "title": "Establishment of radio communication",
+      "content": "32. Establishment of radio communication\n(1) A station shall answer calls directed to them by another station in the aeronautical telecommunication service and shall exchange communications on request.\n(2) A station shall radiate the minimum power necessary to ensure a satisfactory service."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART IV General Procedures for the International Aeronautical Telecommunication Service (regs 27-34)",
+      "section": "33",
+      "title": "Use of abbreviations and codes",
+      "content": "33. Use of abbreviations and codes\n(1) Abbreviations and codes shall be used in the international aeronautical telecommunication service whenever they are appropriate and their use will shorten or otherwise facilitate communication.\n(2) The originator of the communication shall, when required by the Aeronautical Telecommunication Station accepting the message for transmission, make available to that station a decode for the abbreviations and codes used where abbreviations and codes other than those approved by the Authority are contained in the text of messages."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART IV General Procedures for the International Aeronautical Telecommunication Service (regs 27-34)",
+      "section": "34",
+      "title": "Cancellation of messages",
+      "content": "34. Cancellation of messages\nThe Aeronautical Telecommunication Station shall cancel messages when the cancellation is authorised by the message originator."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "35",
+      "title": "Systems and applications used in aeronautical fixed service",
+      "content": "35. Systems and applications used in aeronautical fixed service\nThe aeronautical fixed service shall comprise the following systems and applications that are used for ground-ground being point to point or point to multi-to-multipoint, in the international aeronautical telecommunication service—\n( a ) air traffic services direct speech circuits and networks;\n( b ) meteorological operational circuits, networks and broadcast systems;\n( c ) the aeronautical fixed telecommunications network (AFTN);\n( d ) the common ICAO data interchange network (CIDIN);\n( e ) the air traffic services (ATS) message handling services; and\n( f ) the inter-centre communications (ICC)."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "36",
+      "title": "Material permitted in aeronautical fixed services messages",
+      "content": "36. Material permitted in aeronautical fixed services messages\nThe material permitted in aeronautical fixed services messages shall be as specified in the Schedule 1 to these Regulations."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "37",
+      "title": "Air traffic services direct speech circuits",
+      "content": "37. Air traffic services direct speech circuits\nThe air traffic services direct speech communications shall be as specified in Part VI of the Civil Aviation (Air Traffic Services) Regulations (Cap. 71:01 (Sub. Leg.))."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "38",
+      "title": "Meteorological operational channels and meteorological operational telecommunication networks",
+      "content": "38. Meteorological operational channels and meteorological operational telecommunication networks\nMeteorological operational channel procedures and meteorological operational communication network procedures shall be compatible with aeronautical fixed telecommunications network procedures."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "39",
+      "title": "Aeronautical fixed telecommunication network",
+      "content": "39. Aeronautical fixed telecommunication network\nSubject to regulations 28 and 29, the following categories of message shall be handled by the aeronautical fixed telecommunication network—\n( a ) distress messages (priority indicator SS): shall comprise those messages sent by mobile stations reporting that they are threatened by grave and imminent danger and all other messages relative to the immediate assistance required by the mobile station in distress;\n( b ) urgency messages (priority indicator DD): shall comprise messages concerning the safety of a ship, aircraft or other vehicles or of some person on board or within sight;\n( c ) flight safety messages (priority indicator FF): shall comprise—\n(i) movement and control messages as defined in PANS – ATM (Doc 4444), chapter 11,\n(ii) messages originated by an aircraft operating agency of immediate concern to aircraft in flight or preparing to depart, or\n(iii) meteorological messages restricted to SIGMET information, special air-reports, AIRMET messages, volcanic ash and tropical cyclone advisory information and amended forecasts;\n( d ) meteorological messages (priority indicator GG): shall comprise—\n(i) messages concerning forecasts, or\n(ii) messages concerning observations and reports;\n( e ) flight regularity messages (priority indicator GG): shall comprise—\n(i) aircraft load messages required for weight and balance computation,\n(ii) messages concerning changes in aircraft operating schedules,\n(iii) messages concerning aircraft servicing,\n(iv) messages concerning changes in collective requirements for passengers, crew and cargo covered by deviation from normal operating schedules,\n(v) messages concerning non-routine landings,\n(vi) messages concerning pre-flight arrangements for air navigation services and operational servicing for non-scheduled aircraft operations, such as overflight clearance requests,\n(vii) messages originated by aircraft operating agencies reporting an aircraft arrival or departure, or\n(viii) messages concerning parts and materials urgently required for the operation of aircraft;\n( f ) aeronautical information services messages (priority indicator GG) comprises messages concerning NOTAMs;\n( g ) aeronautical administrative messages (priority indicator KK): shall comprise—\n(i) messages regarding the operation or maintenance of facilities provided for the safety or regularity of aircraft operations,\n(ii) messages concerning the functioning of aeronautical telecommunication services, or\n(iii) messages exchanged between civil aviation authorities relating to aeronautical services; and\n( h ) service messages (priority indicator as appropriate): shall comprise messages originated by aeronautical fixed stations to obtain information or verification concerning other messages which appear to have been transmitted incorrectly by the aeronautical fixed service, confirming channel-sequence numbers."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "40",
+      "title": "Service messages",
+      "content": "40. Service messages\n(1) Service messages shall be prepared in the format specified in regulation 56.\n(2) In applying the provisions of Schedule 1 to these Regulations to service messages addressed to an aeronautical fixed station identified only by a location indicator, the indicator shall be immediately followed by the ICAO three-letter designator YFY, followed by an appropriate 8th letter.\n(3) A service message shall be assigned the appropriate priority indicator.\n(4) Where a service message refer to a message previously transmitted, the priority indicator assigned shall be that used for the message to which they refer.\n(5) A service message correcting an error in transmission shall be addressed to the address that shall have received the incorrect transmission.\n(6) A reply to a service message shall be addressed to the station which originated the initial service message.\n(7) The text of a service message shall be concise.\n(8) A service message, other than one acknowledging receipt of SS messages, shall be further identified by the use of the abbreviation SVC as the first item in the text.\n(9) Where a service message refers to a message previously handled, reference to the previous message shall be made by use of the appropriate transmission identification or the filing time and originator indicator groups identifying the reference message."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "41",
+      "title": "Order of priority",
+      "content": "41. Order of priority\nThe order of priority for the transmission of messages in the aeronautical fixed telecommunication network shall be as follows—\n( a ) Transmission Priority 1 shall comprise of message with priority indicator SS;\n( b ) Transmission Priority 2 shall comprise of message with priority indicator DD and FF; and\n( c ) Transmission Priority 3 shall comprise of message with priority indicator GG and KK."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "42",
+      "title": "Same priority messages",
+      "content": "42. Same priority messages\nMessages having the same priority indicator shall be transmitted in the order in which they are received for transmission."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "43",
+      "title": "Routing of messages and supervision of message traffic",
+      "content": "43. Routing of messages and supervision of message traffic\nWhere an aeronautical fixed telecommunication networks is used, the routing of messages and supervision of message traffic shall be as specified in the Schedule 2 to these Regulations."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "44",
+      "title": "Failure of communications",
+      "content": "44. Failure of communications\nWhere an aeronautical fixed telecommunication networks is used and there exists a communication failure, the requirements contained in Schedule 2 to these Regulations shall be used."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "45",
+      "title": "Long term retention of aeronautical fixed telecommunication networks traffic records",
+      "content": "45. Long term retention of aeronautical fixed telecommunication networks traffic records\n(1) An aeronautical fixed telecommunication network origin station shall retain for a period of at least 30 days all copies of transmitted messages in their entirety.\n(2) An aeronautical fixed telecommunication networks destination stations shall retain, for a period of at least 30 days, a record containing the information necessary to identify all messages received and the action taken thereon.\n(3) An aeronautical fixed telecommunication networks communication centres shall retain, for a period of at least 30 days, a record containing the information necessary to identify all messages relayed or retransmitted and the action taken."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "46",
+      "title": "Short term retention of aeronautical fixed telecommunication networks traffic records",
+      "content": "46. Short term retention of aeronautical fixed telecommunication networks traffic records\n(1) An aeronautical fixed telecommunication networks communication centres shall retain, for a period of at least one hour, a copy of all messages, in their entirety, retransmitted or relayed by that communication centre, except as provided in subregulation (2).\n(2) Where acknowledgement is made between aeronautical fixed telecommunication network communication centres, a relay centre shall be considered as having no further responsibility for retransmission or repetition of a message for which it has received positive acknowledgement, and it may be deleted from its records."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "47",
+      "title": "Test procedures on aeronautical fixed telecommunication networks channels",
+      "content": "47. Test procedures on aeronautical fixed telecommunication networks channels\nA test message transmitted an aeronautical fixed telecommunication network channel for the purpose of testing and repairing lines shall comprise of the following—\n( a ) the start-of-message signal;\n( b ) the procedure signal QJH;\n( c ) the originator indicator;\n( d ) three page-copy lines of the sequence of characters U (5/5) *(2/10) in International Alphabet-5; and\n( e ) the end-of-message signal."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "48",
+      "title": "Characters of aeronautical fixed telecommunication networks messages",
+      "content": "48. Characters of aeronautical fixed telecommunication networks messages\nAn aeronautical fixed telecommunication network message entered by the aeronautical fixed telecommunication network origin station shall not exceed 2100 characters in length."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "49",
+      "title": "Stripped address",
+      "content": "49. Stripped address\nAn aeronautical fixed telecommunication network communication centre shall omit from the address all the addressee indicators not required for—\n( a ) an onward transmission by the aeronautical fixed telecommunication networks communication centre to which the message is transmitted;\n( b ) local delivery to the addressee by the aeronautical fixed telecommunication networks destination station; or\n( c ) an onward transmission or local delivery by the aggregate of stations on a multi-point circuit."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "50",
+      "title": "Correction of errors during message origination",
+      "content": "50. Correction of errors during message origination\n(1) Messages flowing into the aeronautical fixed telecommunication networks during preparation shall not be terminated with an end-of-message signal if they contain known uncorrected errors.\n(2) The unfinished message shall be cancelled by sending the sequence followed by a complete ending where an error is made in any part of the message which precedes the text.\n(3) Errors made in the text and noticed immediately shall be corrected by making the error sign ( ) transmitting the last correct word or group and then continuing with the message.\n(4) The station shall comply with the provisions contained in Schedule 2 where errors are made in the text and not noticed until later in the origination process.\n(5) The station shall take the action described in subregulation (2) where it becomes obvious, during the origination of the text, that the message is to be cancelled."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "51",
+      "title": "Predetermined distribution system for aeronautical fixed telecommunication networks messages",
+      "content": "51. Predetermined distribution system for aeronautical fixed telecommunication networks messages\n(1) The predetermined distribution addressee Indicator shall be constructed as follows—\n( a ) the first and second letters: The first two letters of the location indicator of the communications centre of the State which has agreed to implement the system and which receives messages over a circuit for which it has a predetermined routing responsibility;\n( b ) the third and fourth letters: The letters ZZ, indicating a requirement for special distribution;\n( c ) the fifth, sixth and seventh letters—\n(i) the fifth, sixth and seventh letters taken from the series A to Z and denoting the national or international distribution list to be used by the receiving aeronautical fixed telecommunication networks centre;\n(ii) \"N\" and \"S\", as the fifth letter, are reserved for NOTAM and SNOWTAM respectively; and\n( d ) the eighth letter: Either the filler letter \"X\" or a letter taken from the series A to Z to further define the national and international distribution list to be used by the receiving AFTN centre.\n(2) The system described in subregulation (1) shall be used when it has been agreed between the administrations concerned to make use of a predetermined distribution system for aeronautical fixed telecommunication networks messages.\n(3) A predetermined distribution addressee Indicator shall be used whenever possible on aeronautical fixed telecommunication networks messages between States which have agreed to make use of the predetermined distribution system.\n(4) An aeronautical fixed telecommunication network message carrying a predetermined distribution addressee Indicator allocated by the State receiving the message shall be routed to the address listed on the associated list of addressee Indicators described in subregulation (5).\n(5) A State shall send its list of selected predetermined distribution addressee Indicators together with the associated lists of addressee indicators to—\n( a ) the States from which they receive aeronautical fixed telecommunication networks messages for predetermined distribution, to assure correct routing; and\n( b ) the States which originate aeronautical fixed telecommunication networks messages for predetermined distribution to facilitate the treatment of requests for retransmission and to assist originators in using the Predetermined Distribution Addressee Indicators correctly.\n(6) The list of addressee indicators associated with a predetermined distribution addressee indicator shall include—\n( a ) addressee indicators for national distribution;\n( b ) addressee indicators for international distribution;\n( c ) predetermined distribution addressee indicators for international distribution; or\n( d ) any combination of paragraphs ( a ), ( b ) and ( c )."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "52",
+      "title": "Message format – international alphabet No. 5 (IA-5)",
+      "content": "52. Message format – international alphabet No. 5 (IA-5)\nAll messages of International Alphabet No. 5 (IA-5) shall comply with the format specified in Schedule 3 to these Regulations."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "53",
+      "title": "Action taken on mutilated messages in international telegraph alphabet No. 5 detected in computerised AFTN relay stations",
+      "content": "53. Action taken on mutilated messages in international telegraph alphabet No. 5 detected in computerised AFTN relay stations\nThe action taken on mutilated messages in international telegraph alphabet No. 5 detected in computerised aeronautical fixed telecommunication network relay stations shall be as specified in Schedule 3 to these Regulations."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "54",
+      "title": "Transfer of aeronautical fixed telecommunication networks messages over code and byte independent circuits and networks",
+      "content": "54. Transfer of aeronautical fixed telecommunication networks messages over code and byte independent circuits and networks\nWhere aeronautical fixed telecommunication network messages are transferred across code and byte independent circuits and networks of the aeronautical fixed service, the following shall apply—\n( a ) the message shall start with an alignment function followed by the address except as provided in paragraph ( c ) the heading line of the message shall be omitted;\n( b ) the message shall end with a complete ending;\n( c ) an entry centre shall be permitted to insert additional data preceding the first alignment function and following the ending of the message for the purposes of technical supervision; and\n( d ) When the provisions of paragraph ( c ) are applied, the data added shall not include either carriage return or line feed characters or any of the combinations listed in Schedule 3 to these Regulations."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "55",
+      "title": "Air traffic services message handling services (ATS-MHS)",
+      "content": "55. Air traffic services message handling services (ATS-MHS)\nThe air traffic services message handling service application shall be used to exchange air traffic services messages between users over the aeronautical telecommunication network internet in accordance with Schedule 4 to these Regulations."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "PART V Aeronautical Fixed Service (regs 35-56)",
+      "section": "56",
+      "title": "Inter-centre communications",
+      "content": "56. Inter-centre communications\nThe inter-centre communications applications set shall be used to exchange air traffic services messages between air traffic service users over the aeronautical telecommunication network internet."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "PART VI Aeronautical Mobile Service – Voice Communications (regs 57-71)",
+      "section": "57",
+      "title": "General procedures for aeronautical mobile service-voice communications",
+      "content": "57. General procedures for aeronautical mobile service-voice communications\n(1) In all aeronautical mobile service voice communications, the highest standard of discipline shall be observed at all times.\n(2) ICAO standardised phraseology shall be used in all situations for which it has been specified and when standardised phraseology cannot serve an intended transmission, plain language shall be used.\n(3) The transmission of messages, other than those specified in regulation 58 on aeronautical mobile frequencies where the aeronautical fixed services are able to serve the intended purpose, shall be avoided.\n(4) In all communications, the consequences of human performance which affect the accurate reception and comprehension of messages shall be taken into consideration.\n(5) Where it is necessary for an aircraft station to send signals for testing or adjustment which are liable to interfere with the working of a neighbouring aeronautical station, the consent of the station shall be obtained before such signals are sent and such transmissions shall be kept to a minimum.\n(6) Where it is necessary for a station in the aeronautical mobile service to make test signals, either for the adjustment of a transmitter before making a call or for the adjustment of a receiver, such signals shall not continue for more than 10 seconds and shall be composed of spoken numerals in radiotelephony, followed by the radio call sign of the station transmitting the test signals and such transmissions shall be kept to a minimum.\n(7) The station which has traffic to transmit shall be responsible for establishing communication except as otherwise provided.\n(8) After a call has been made to the aeronautical station, a period of at least 10 seconds shall elapse before a second call is made.\n(9) Where an aeronautical station is called simultaneously by several aircraft stations, the aeronautical station shall decide the order in which aircraft shall communicate.\n(10) In communications between aircraft stations, the duration of communication shall be controlled by the aircraft station which is receiving, subject to the intervention of an aeronautical station."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aeronautical fixed telecommunication network circuit",
+      "definition": "a circuit forming part of the aeronautical fixed telecommunication network (AFTN)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical mobile (R) service (RR SI. 33)",
+      "definition": "an aeronautical mobile service reserved for communications relating to safety and regularity of flight, primarily along national or international civil air routes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical mobile service (RR SI. 32)",
+      "definition": "a mobile service between aeronautical stations and aircraft stations, or between aircraft stations, in which survival craft stations may participate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical mobile-satellite (R) service (RR SI. 36)",
+      "definition": "an aeronautical mobile-satellite service reserved for communications relating to safety and regularity of flights, primarily along national or international civil air routes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical mobile-satellite service (RR S1. 35)",
+      "definition": "a mobile-satellite service in which mobile earth stations are located on board aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical radio navigation service (RR S1. 46)",
+      "definition": "a radio navigation service intended for the benefit and for the safe operation of aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical station (RR S1. 81)",
+      "definition": "a land station in the aeronautical mobile service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical telecommunication agency",
+      "definition": "an agency responsible for operating a station or stations in the aeronautical telecommunication service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical telecommunication service",
+      "definition": "a telecommunication service provided for any aeronautical purpose",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical telecommunication station",
+      "definition": "a station in the aeronautical telecommunication service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "AFTN communication centre",
+      "definition": "an AFTN station whose primary function is the relay or retransmission of AFTN traffic from or to a number of other AFTN stations connected to it",
+      "source_provision": "s2"
+    },
+    {
+      "term": "AFTN destination station",
+      "definition": "an AFTN station to which messages or digital data are addressed for processing for delivery to the addressee",
+      "source_provision": "s2"
+    },
+    {
+      "term": "AFTN origin station",
+      "definition": "an AFTN station where messages or digital data are accepted for transmission over the AFTN",
+      "source_provision": "s2"
+    },
+    {
+      "term": "AFTN station",
+      "definition": "a station forming part of the aeronautical fixed telecommunication network (AFTN) and operating as such under the authority or control of a State",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air navigation services provider",
+      "definition": "an entity established for the purpose of providing one or more of the air navigation services as defined in these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft operating agency",
+      "definition": "the person, organisation or enterprise engaged in, or offering to engage in, an aircraft operation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft station (RR S1.83)",
+      "definition": "a mobile station in the aeronautical mobile service, other than a survival craft station, located on board an aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air-ground communication",
+      "definition": "a two-way communication between aircraft and stations or locations on the surface of the earth",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air-ground control radio station",
+      "definition": "an aeronautical telecommunication station having primary responsibility for handling communications pertaining to the operation and control of aircraft in a given area",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air navigation services",
+      "definition": "one or more of the following services provided for air navigation—\n( a ) air traffic services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air-report",
+      "definition": "a report from an aircraft in flight prepared in conformity with requirements for position, and operational and/or meteorological reporting",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air-to-ground communication",
+      "definition": "a one-way communication from aircraft to stations or locations on the surface of the earth",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic safety electronics personnel (ATSEP)",
+      "definition": "a person directly engaged with operations, maintenance and installation activities of CNS/ATM systems",
+      "source_provision": "s2"
+    },
+    {
+      "term": "altitude",
+      "definition": "the vertical distance of a level, a point or an object considered as a point, measured from mean sea level (MSL)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ANSP",
+      "definition": "air navigation services provider",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ATS direct speech circuit",
+      "definition": "an aeronautical fixed service (AFS) telephone circuit, for direct exchange of information between air traffic services (ATS) units",
+      "source_provision": "s2"
+    },
+    {
+      "term": "automatic relay installation",
+      "definition": "a teletypewriter installation where automatic equipment is used to transfer messages from incoming to outgoing circuits",
+      "source_provision": "s2"
+    },
+    {
+      "term": "blind transmission",
+      "definition": "a transmission from one station to another station in circumstances where two-way communication cannot be established but where it is believed that the called station is able to receive the transmission",
+      "source_provision": "s2"
+    },
+    {
+      "term": "broadcast",
+      "definition": "a transmission of information relating to air navigation that is not addressed to a specific station or stations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "CNS",
+      "definition": "communication, navigation and surveillance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "communication centre",
+      "definition": "an aeronautical fixed station which relays or retransmits telecommunication traffic from (or to) a number of other aeronautical fixed stations directly connected to it",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controller-pilot data link communications (CPDLC)",
+      "definition": "a means of communication between controller and pilot, using data link for ATC communications",
+      "source_provision": "s2"
+    },
+    {
+      "term": "current data authority",
+      "definition": "the designated ground system through which a CPDLC dialogue between a pilot and a controller currently responsible for the flight is permitted to take place",
+      "source_provision": "s2"
+    },
+    {
+      "term": "downstream data authority",
+      "definition": "a designated ground system, different from the current data authority, through which the pilot can contact an appropriate ATC unit for the purposes of receiving a downstream clearance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight level",
+      "definition": "a surface of constant atmospheric pressure which is related to a specific pressure datum, 1013.2 hectopascals (hPa), and is separated from other such surfaces by specific pressure intervals",
+      "source_provision": "s2"
+    },
+    {
+      "term": "free text message element",
+      "definition": "a message element used to convey information not conforming to any standardised message element in the CPDLC message set",
+      "source_provision": "s2"
+    },
+    {
+      "term": "frequency channel",
+      "definition": "a continuous portion of the frequency spectrum appropriate for a transmission utilising a specified class of emission",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fully automatic relay installation",
+      "definition": "a teletypewriter installation where interpretation of the relaying responsibility in respect of an incoming message and the resultant setting up of the connections required to effect the appropriate retransmissions is carried out automatically, as well as all other normal operations of relay, thus obviating the need for operator intervention, except for supervisory purposes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ground-to-air communication",
+      "definition": "a one-way communication from stations or locations on the surface of the earth to aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "height",
+      "definition": "the vertical distance of a level, a point or an object considered as a point, measured from a specified datum",
+      "source_provision": "s2"
+    },
+    {
+      "term": "human performance",
+      "definition": "human capabilities and limitations which have an impact on the safety and efficiency of aeronautical operations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inter-pilot air-to-air communication",
+      "definition": "a two-way communication on the designated air-to-air channel to enable aircraft engaged in flights over remote and oceanic areas out of range of VHF ground stations to exchange necessary operational information and to facilitate the resolution of operational problems",
+      "source_provision": "s2"
+    },
+    {
+      "term": "location indicator",
+      "definition": "a four-letter code group formulated in accordance with rules prescribed by ICAO and assigned to the location of an aeronautical fixed station",
+      "source_provision": "s2"
+    },
+    {
+      "term": "MANSOPS",
+      "definition": "manual of air navigation services operations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "meteorological operational channel",
+      "definition": "a channel of the aeronautical fixed service (AFS), for the exchange of aeronautical meteorological information",
+      "source_provision": "s2"
+    },
+    {
+      "term": "meteorological operational telecommunication network",
+      "definition": "an integrated system of meteorological operational channels, as part of the aeronautical fixed service (AFS), for the exchange of aeronautical meteorological information between the aeronautical fixed stations within the network",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mobile surface station",
+      "definition": "a station in the aeronautical telecommunication service, other than an aircraft station, intended to be used while in motion or during halts at unspecified points",
+      "source_provision": "s2"
+    },
+    {
+      "term": "network station",
+      "definition": "an aeronautical station forming part of a radiotelephony network",
+      "source_provision": "s2"
+    },
+    {
+      "term": "next data authority",
+      "definition": "the ground system so designated by the current data authority through which an onward transfer of communications and control can take place",
+      "source_provision": "s2"
+    },
+    {
+      "term": "NOTAM",
+      "definition": "a notice distributed by means of telecommunication containing information concerning the establishment, condition or change in any aeronautical facility, service, procedure or hazard, the timely knowledge of which is essential to personnel concerned with flight operations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pre-formatted free text message element",
+      "definition": "a free text message element that is stored within the aircraft system or ground system for selection",
+      "source_provision": "s2"
+    },
+    {
+      "term": "primary frequency",
+      "definition": "the radiotelephony frequency assigned to an aircraft as a first choice for air-ground communication in a radiotelephony network",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radio direction finding (RR SI.12)",
+      "definition": "radio determination using the reception of radio waves for the purpose of determining the direction of a station or object",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radio direction-finding station (RR SI.91)",
+      "definition": "a radio determination station using radio direction finding",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radiotelephony network",
+      "definition": "a group of radiotelephony aeronautical stations which operate on and guard frequencies from the same family and which support each other in a defined manner to ensure maximum dependability of air-ground communications and dissemination of air-ground traffic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "readback",
+      "definition": "a procedure whereby the receiving station repeats a received message or an appropriate part thereof back to the transmitting station so as to obtain confirmation of correct reception",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regular station",
+      "definition": "a station selected from those forming an en route air-ground radiotelephony network to communicate with or to intercept communications from aircraft in normal conditions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "route segment",
+      "definition": "a route or portion of route usually flown without an intermediate stop",
+      "source_provision": "s2"
+    },
+    {
+      "term": "secondary frequency",
+      "definition": "the radiotelephony frequency assigned to an aircraft as a second choice for air-ground communication in a radiotelephony network",
+      "source_provision": "s2"
+    },
+    {
+      "term": "semi-automatic relay installation",
+      "definition": "a teletypewriter installation where interpretation of the relaying responsibility in respect of an incoming message and the resultant setting up of the connections required to effect the appropriate retransmissions require the intervention of an operator but where all other normal operations of relay are carried out automatically",
+      "source_provision": "s2"
+    },
+    {
+      "term": "SNOWTAM",
+      "definition": "a special series NOTAM notifying the presence or removal of hazardous conditions due to snow, ice, slush or standing water associated with snow, slush and ice on the movement area, by means of a specific format",
+      "source_provision": "s2"
+    },
+    {
+      "term": "telecommunication (RR SI.3)",
+      "definition": "any transmission, emission, or reception of signs, signals, writing, images and sounds or intelligence of any nature by wire, radio, optical or other electromagnetic systems",
+      "source_provision": "s2"
+    },
+    {
+      "term": "teletypewriter tape",
+      "definition": "a tape on which signals are recorded in the 5-unit Start-Stop code by completely severed perforations (Chad Type) or by partially severed perforations (Chadless Type) for transmission over teletypewriter circuits",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tributary station",
+      "definition": "an aeronautical fixed station that may route receive or transmit messages or digital data, but which does not relay except for the purpose of serving similar stations connected through it to a communication centre.",
+      "source_provision": "s2"
+    }
+  ]
+}

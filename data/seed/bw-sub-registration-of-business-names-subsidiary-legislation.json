@@ -1,0 +1,74 @@
+{
+  "id": "bw-sub-registration-of-business-names-subsidiary-legislation",
+  "type": "statute",
+  "title": "Registration of Business Names: Subsidiary Legislation",
+  "title_en": "Registration of Business Names: Subsidiary Legislation",
+  "short_name": "Registration of Business Na...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/registration-of-business-names-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Registration of Business Names Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application for reservation of name",
+      "content": "2. Application for reservation of name\n(1) An applicant shall, in accordance with section 4 of the Act, apply for reservation of a business name in Form A set out in Schedule 1.\n(2) An application made in accordance with subregulation (1) shall be accompanied by a fee set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Statement of particulars",
+      "content": "3. Statement of particulars\n(1) A firm, individual or body corporate intending to register under the Act shall, in accordance with section 7 of the Act, deliver to the Registrar a notice in Form B set out in Schedule 1.\n(2) An application made in accordance with section 7(3) of the Act, shall be accompanied by a fee set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Certificate of registration",
+      "content": "4. Certificate of registration\nThe Registrar, in accordance with section 7(3) of the Act shall, after entering a business name in the register, issue a certificate of registration in Form C set out in Schedule 1."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Notice of change of particulars",
+      "content": "5. Notice of change of particulars\n(1) A firm, individual or body corporate shall deliver a notice of any changes in the particulars specified in section 11 of the Act to the Registrar in Form D set out in Schedule 1.\n(2) An application made in accordance with subregulation (1) shall be accompanied by a fee set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Cancellation of business name",
+      "content": "6. Cancellation of business name\n(1) A firm, individual or body corporate shall, in accordance with section 16 of the Act, deliver a notice of cancellation to carry on business name in Form E set out in Schedule 1.\n(2) An application made in accordance with subregulation (1) shall be accompanied by a fee set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Restoration of business name",
+      "content": "7. Restoration of business name\n(1) A firm, individual or body corporate whose name has been cancelled from the register shall make an application to the Registrar in terms of section 17 of the Act for restoration of its business name in Form F set out in Schedule 1.\n(2) An application made in accordance with subregulation (1) shall be accompanied by a fee set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Renewal of business name",
+      "content": "8. Renewal of business name\n(1) A firm, individual or body corporate shall make an application to the Registrar in terms of section 18 of the Act in Form G set out in Schedule 1, for the renewal of a business name.\n(2) An application made in accordance with subregulation (1) shall be accompanied by a fee set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Application for extension of time",
+      "content": "9. Application for extension of time\n(1) An applicant shall, in accordance with section 19 of the Act, apply to the Registrar for an extension of time in Form H set out in Schedule 1.\n(2) An application made in accordance with subregulation (1) shall be accompanied by a fee set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Inspection of documents and provision of copies",
+      "content": "10. Inspection of documents and provision of copies\nAny person may, in accordance with section 20 of the Act, and after payment of a fee set out in Schedule 2—\n( a ) inspect the register or any document filed with the Registrar; or\n( b ) be provided with a certified copy of a certificate, or an extract from any document filed with the Registrar."
+    }
+  ],
+  "definitions": []
+}

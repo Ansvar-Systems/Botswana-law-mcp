@@ -1,0 +1,48 @@
+{
+  "id": "bw-act-building-control",
+  "type": "statute",
+  "title": "Building Control",
+  "title_en": "Building Control",
+  "short_name": "Building Control",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/building-control",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Building Control Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act, unless the context otherwise requires—\n\"building regulations\" means regulations made under section 4;\n\"commercial building\" means a shop, warehouse, factory or hotel;\n\"plans\" includes sections, elevations and specifications;\n\"the construction of buildings\" means—\n( a ) the erection of new buildings; and\n( b ) the re-erection, adding to, altering and conversion of buildings, and the covering of open spaces between walls and buildings.\n(2) All or any of the powers and duties conferred or imposed on a local authority under this Act or regulations made thereunder may, subject to the local authority's control, be exercised and performed by the officers, servants and agents thereof (including any officers of the public service of Botswana acting as officers or agents thereof), and all references in this Act and the regulations to a local authority shall be construed accordingly."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment of Building Regulations Board",
+      "content": "3. Establishment of Building Regulations Board\n(1) The Minister shall, by order published in the Gazette , establish a Board to be known as the Building Regulations Board which shall consist of a Chairman and such other persons not exceeding six in number as the Minister may from time to time appoint; and he shall appoint a member of the public service to be Secretary to the Board."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "building regulations",
+      "definition": "regulations made under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commercial building",
+      "definition": "a shop, warehouse, factory or hotel",
+      "source_provision": "s2"
+    },
+    {
+      "term": "plans",
+      "definition": "sections, elevations and specifications",
+      "source_provision": "s2"
+    }
+  ]
+}

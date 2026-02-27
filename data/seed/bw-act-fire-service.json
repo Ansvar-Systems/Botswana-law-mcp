@@ -1,0 +1,55 @@
+{
+  "id": "bw-act-fire-service",
+  "type": "statute",
+  "title": "Fire Service",
+  "title_en": "Fire Service",
+  "short_name": "Fire Service",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/fire-service",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Fire Service Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Council\" means a district council established under the Local Government (District Councils) Act, or a town or city council established under the Townships Act, as the case may be, and shall also include a township authority;\n\"Council area\" means the area for the administration of which a Council is responsible."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment of fire service",
+      "content": "3. Establishment of fire service\n(1) There shall be a Fire Service for Botswana, which shall be part of the Unified Local Government Service, and shall be comprised of such fire brigades as shall be necessary or desirable for the prevention and control of fires in Botswana.\n(2) There shall be a Fire Service Director, hereinafter referred to as \"the Director\", who shall be a public officer and whose duties shall include the organisation, co-ordination and regulation of fire brigades throughout Botswana."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Establishment of fire brigades",
+      "content": "4. Establishment of fire brigades\n(1) When the Director is of the opinion that a fire brigade should be established in any Council area, he shall so advise the Council concerned and the Establishment Secretary, at the same time making such recommendations regarding the size of the brigade, its situation, the equipment required, the training to be provided, and any other matters that he considers relevant.\n(2) Upon receipt of the advice and recommendations of the Director, the Council concerned shall proceed to take whatever steps are necessary to provide a suitable site for a fire station, housing for personnel, whatever vehicles and equipment are necessary for the proper operation of the fire brigade, and to deal with any other matters required under this Act, or referred to or recommended by the Director, and the Establishment Secretary shall make the necessary appointments of personnel to constitute the fire brigade.\n(3) Promotions within the Fire Service, transfers between brigades, schemes of service and training, and conditions of service shall be made or determined by the Establishment Secretary, in consultation with the Director, and with the senior officer of the brigade concerned."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Provision of adequate water supplies",
+      "content": "5. Provision of adequate water supplies"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Council",
+      "definition": "a district council established under the Local Government (District Councils) Act, or a town or city council established under the Townships Act, as the case may be, and shall also include a township authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council area",
+      "definition": "the area for the administration of which a Council is responsible.",
+      "source_provision": "s2"
+    }
+  ]
+}

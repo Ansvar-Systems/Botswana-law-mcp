@@ -1,0 +1,21 @@
+{
+  "id": "bw-act-anti-human-trafficking",
+  "type": "statute",
+  "title": "Anti-human Trafficking",
+  "title_en": "Anti-human Trafficking",
+  "short_name": "Anti-human Trafficking",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/anti-human-trafficking",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Anti-Human Trafficking Act."
+    }
+  ],
+  "definitions": []
+}

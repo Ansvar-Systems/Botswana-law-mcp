@@ -1,0 +1,43 @@
+{
+  "id": "bw-act-botswana-honours",
+  "type": "statute",
+  "title": "Botswana Honours",
+  "title_en": "Botswana Honours",
+  "short_name": "Botswana Honours",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-honours",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Honours Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"honour\" means an honour, order, decoration, insignia, badge, medal or distinction and, except in the case of a foreign or Commonwealth honour, means an honour prescribed in the Schedule;\n\"unauthorised person\" means any person other than the person to whom an honour has been awarded under this Act, or his widow."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Award of honours",
+      "content": "3. Award of honours\n(1) Honours shall be awarded by the President—\n( a ) on such occasions and to such persons as he may determine; or\n( b ) in accordance with any motion passed by a simple majority in the National Assembly calling upon him so to do."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "honour",
+      "definition": "an honour, order, decoration, insignia, badge, medal or distinction and, except in the case of a foreign or Commonwealth honour, means an honour prescribed in the Schedule",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unauthorised person",
+      "definition": "any person other than the person to whom an honour has been awarded under this Act, or his widow.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "bw-sub-banking-subsidiary-legislation-previously-financial-institutions",
+  "type": "statute",
+  "title": "Banking: Subsidiary Legislation (previously \"financial Institutions\")",
+  "title_en": "Banking: Subsidiary Legislation (previously \"financial Institutions\")",
+  "short_name": "Banking: Subsidiary Legisla...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/banking-subsidiary-legislation-previously-financial-institutions",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Banking Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires-\n\"back-up capital\" means any additional capital that a bank may be required to provide in case it is called upon by the Central Bank to increase the level of its capital during the course of business;\n\"exposure\" means any facility granted by a bank whether drawn or undrawn, to a client or group of connected clients, on or off-balance sheet;\n\"related interests\" means two or more persons whether natural or legal, with borrowings from the same bank, whether on a joint or separate basis, having, by way of example, a controlling interest, common ownership, common management, common directors, cross guarantees or direct financial interdependency which cannot be substituted in the short term;\n\"risk weighted assets\" means the aggregated values of balance sheet assets and off-balance sheet assets following adjustments for relative risks associated with the exposures in accordance with the Bank of Botswana schedule of risk weights."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Applications for banking licences",
+      "content": "3. Applications for banking licences\n(1) The following corporate documents and information shall be furnished in an application for a licence to transact banking business under the Act:\n( a ) the name, nationality and address of the applicant;\n( b ) the name and curriculum vitae of the initial directors and principal officers, with a clear indication of the particular responsibilities to be assumed by each officer;\n( c ) details of the shareholding of the applicant and prospects for local shareholding;\n( d ) a list of associate companies in or outside Botswana doing banking business or engaged in any financial undertaking such as insurance, brokerage, etc.;\n( e ) such audited accounting and financial data as may be required by the Central Bank including the balance sheet of the applicant as at date within 90 days prior to the date of application;\n( f ) the business plan of the applicant over a period of five years from the start of operations in Botswana including scale of envisaged operations, any specialised services and financial projections;\n( g ) the proposed principal place and other places of business of the applicant in Botswana, and a schedule of any proposed branch and agency network;\n( h ) the proposed initial capital of the applicant;\n( i ) any proposed back-up capital in case of need, and a declaration of its availability in Botswana;\n( j ) in the case of a foreign applicant, the name of any supervisory authority and the country of incorporation;\n( k ) in the case of an agent acting on behalf of a principal, a written authorisation by the principal;\n( l ) any other information that the Central Bank may deem necessary to complete the assessment of the application.\n(2) All applications for a banking licence should be made in duplicate in the form shown as Annexure 1 in the Schedule hereto.\n(3) Every applicant for a licence shall pay to the Central Bank a non-refundable fee of P15,000 for the processing of the application, and after the grant of the licence an annual fee of P50,000."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Processing of applications",
+      "content": "4. Processing of applications\nFor the purposes of section 8(1) of the Act, in processing an application, the Central Bank shall require to be satisfied with regard to:\n( a ) the technical knowledge, integrity, experience, financial condition and history of the applicant;\n( b ) the adequacy of its capital;\n( c ) the character of its business, and the experience and qualifications of its management;\n( d ) the convenience and needs of the community and market to be served;\n( e ) the ability and willingness of the applicant to comply with any conditions the Central Bank may impose pursuant to the Act."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Appeal to the Minister",
+      "content": "5. Appeal to the Minister\n(1) Any appeal to the Minister against a refusal to grant a licence, the revocation of a licence, or against any condition subject to which a licence is issued, or the variation, addition, or cancellation of any such condition, shall be in writing in the form shown as Annexure 2 in the Schedule hereto, shall be accompanied by an appeal fee of P30,000, and shall:\n( a ) clearly state the reasons for the appeal or the precise elements of the grievance; and\n( b ) state the remedy sought."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "back-up capital",
+      "definition": "any additional capital that a bank may be required to provide in case it is called upon by the Central Bank to increase the level of its capital during the course of business",
+      "source_provision": "s2"
+    },
+    {
+      "term": "exposure",
+      "definition": "any facility granted by a bank whether drawn or undrawn, to a client or group of connected clients, on or off-balance sheet",
+      "source_provision": "s2"
+    },
+    {
+      "term": "related interests",
+      "definition": "two or more persons whether natural or legal, with borrowings from the same bank, whether on a joint or separate basis, having, by way of example, a controlling interest, common ownership, common management, common directors, cross guarantees or direct financial interdependency which cannot be substituted in the short term",
+      "source_provision": "s2"
+    },
+    {
+      "term": "risk weighted assets",
+      "definition": "the aggregated values of balance sheet assets and off-balance sheet assets following adjustments for relative risks associated with the exposures in accordance with the Bank of Botswana schedule of risk weights.",
+      "source_provision": "s2"
+    }
+  ]
+}

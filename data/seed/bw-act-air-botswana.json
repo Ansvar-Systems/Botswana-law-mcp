@@ -1,0 +1,90 @@
+{
+  "id": "bw-act-air-botswana",
+  "type": "statute",
+  "title": "Air Botswana",
+  "title_en": "Air Botswana",
+  "short_name": "Air Botswana",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/air-botswana",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Air Botswana Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"aerial work\" means a service, other than an air transport service, which is performed by means of an aircraft for payment or material advantage and includes any letting out on hire of an aircraft without pilot or crew;\n\"air transport services\" means services for the carriage of passengers or goods which are performed by means of aircraft for payment or material advantage;\n\"Board\" means the Board of Management appointed under section 4;\n\"Corporation\" means the body corporate known as Air Botswana established by section 3;\n\"financial year\" means the year ending on 31st March in each year;\n\"former airline\" means the subsidiary private limited company wholly owned by Air Botswana Holdings (Pty) Limited and incorporated under the name of Air Botswana (Pty) Limited under the Companies Act (Cap. 42:01);\n\"former owners\" means Botswana Development Corporation Limited and its wholly owned subsidiary private company under the name of Air Botswana Holdings (Pty) Limited both of which are incorporated under the Companies Act (Cap. 42:01);\n\"prescribed\" means prescribed by regulations made under section 30."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment, Constitution and Membership of Corporation",
+      "section": "3",
+      "title": "Establishment of Corporation",
+      "content": "3. Establishment of Corporation\n(1) There is hereby established a Corporation to be known as Air Botswana.\n(2) Air Botswana shall be a body corporate capable of suing and being sued in its own name and, subject to the provisions of this Act, of performing such acts as bodies corporate may by law perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment, Constitution and Membership of Corporation",
+      "section": "4",
+      "title": "Composition of Corporation",
+      "content": "4. Composition of Corporation\n(1) The governing body of the Corporation shall be a Board of Management consisting of the following members appointed by the Minister—\n( a ) the Chairman;\n( b ) the General Manager of the Corporation appointed under section 10, ex-officio ; and\n( c ) not less than 5 or more than 7 other persons who in the opinion of the Minister have knowledge and experience likely to contribute to the successful management of the Corporation.\n(2) A person shall not be competent to be appointed or to act as a member of the Board if he—\n( a ) is a member of the National Assembly;\n( b ) is an employee of the Corporation;\n( c ) has been declared insolvent or bankrupt under any law in any country and has not been discharged or made a composition with his creditors and has not paid his debts in full; or\n( d ) has been convicted in any country of an offence involving dishonesty."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment, Constitution and Membership of Corporation",
+      "section": "5",
+      "title": "Resignation and removal from office",
+      "content": "5. Resignation and removal from office\n(1) Any member of the Board other than the General Manager may resign his membership of the Board by notice in writing addressed to the Minister.\n(2) A member of the Board may be removed from membership thereof if—\n( a ) any circumstances arise, which if he were not a member would cause him to be disqualified for appointment as a member of the Board under section 4(1);\n( b ) he becomes of unsound mind;\n( c ) he suspends payment of his debts or compounds with his creditors;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aerial work",
+      "definition": "a service, other than an air transport service, which is performed by means of an aircraft for payment or material advantage and includes any letting out on hire of an aircraft without pilot or crew",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air transport services",
+      "definition": "services for the carriage of passengers or goods which are performed by means of aircraft for payment or material advantage",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of Management appointed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Corporation",
+      "definition": "the body corporate known as Air Botswana established by section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial year",
+      "definition": "the year ending on 31st March in each year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "former airline",
+      "definition": "the subsidiary private limited company wholly owned by Air Botswana Holdings (Pty) Limited and incorporated under the name of Air Botswana (Pty) Limited under the Companies Act (Cap. 42:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "former owners",
+      "definition": "Botswana Development Corporation Limited and its wholly owned subsidiary private company under the name of Air Botswana Holdings (Pty) Limited both of which are incorporated under the Companies Act (Cap. 42:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by regulations made under section 30.",
+      "source_provision": "s2"
+    }
+  ]
+}

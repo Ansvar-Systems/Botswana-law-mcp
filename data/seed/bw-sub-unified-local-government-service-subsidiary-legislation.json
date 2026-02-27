@@ -1,0 +1,60 @@
+{
+  "id": "bw-sub-unified-local-government-service-subsidiary-legislation",
+  "type": "statute",
+  "title": "Unified Local Government Service: Subsidiary Legislation",
+  "title_en": "Unified Local Government Service: Subsidiary Legislation",
+  "short_name": "Unified Local Government Se...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/unified-local-government-service-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Unified Local Government Service Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires-\n\"General Orders\" means General Orders governing the unified local government service;\n\"local government office\" means an office of emolument in the unified local government service."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Constitution and Abolition of Offices (regs 3-5)",
+      "section": "3",
+      "title": "Notification of offices",
+      "content": "3. Notification of offices\nThe Establishment Secretary shall publish once in every year a list of all local government offices."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Constitution and Abolition of Offices (regs 3-5)",
+      "section": "4",
+      "title": "Constitution of local government office",
+      "content": "4. Constitution of local government office\nApplication for the constitution of any local government office shall be made to the Establishment Secretary by a principal officer and every such application shall state-\n( a ) the title of the office;\n( b ) the salary or salary scale to be attached to such office;\n( c ) whether the proposed office is to be permanent;\n( d ) the reason why the constitution of such office is considered desirable;\n( e ) the qualifications which will be required of any holder of the proposed office and the duties which any such holder will be required to perform;\n( f ) whether or not funds are available; and\n( g ) such other matters as the Establishment Secretary may require."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Constitution and Abolition of Offices (regs 3-5)",
+      "section": "5",
+      "title": "Abolition of local government office",
+      "content": "5. Abolition of local government office\nApplication for the abolition of any local government office shall be made to the Establishment Secretary by the principal officer and every such application shall state-\n( a ) the reason why it is considered desirable that the office should be abolished; and\n( b ) such other matters as the Establishment Secretary may require."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "General Orders",
+      "definition": "General Orders governing the unified local government service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local government office",
+      "definition": "an office of emolument in the unified local government service.",
+      "source_provision": "s2"
+    }
+  ]
+}

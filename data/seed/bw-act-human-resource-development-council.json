@@ -1,0 +1,108 @@
+{
+  "id": "bw-act-human-resource-development-council",
+  "type": "statute",
+  "title": "Human Resource Development Council",
+  "title_en": "Human Resource Development Council",
+  "short_name": "Human Resource Development ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/human-resource-development-council",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (ss1-2)",
+      "section": "1",
+      "title": "Short title.",
+      "content": "1. Short title.\nThis Act may be cited as the Human Resource Development Council Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (ss1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Board\" means the Board of the Council;\n\"Chairperson\" means the Chairperson of the Council;\n\"Chief Executive Officer\" means the Chief Executive Officer of the Council appointed as such under section 18;\n\"Code of Practice\" means the Code of Practice issued by the Council under section 35;\n\"Council\" means the Human Resource Development Council established under section 3(1);\n\"education training provider\" means a person or entity that provides or organises a programme of education and training, including the provision of professional development services;\n\"member\" means a member of the Board appointed under section 5(2);\n\"national human resource development\" means the life cycle stages from early childhood development through formal education (primary, secondary and tertiary education) to skills training and development and employment all underpinned by the process of life-long learning;\n\"national human resource development plan\" means a human resource development which focuses on, but is not limited to, the planning of the specific elements of a national human resource development life cycle inclusive of tertiary education, skills training and development and employment;\n\"repealed Act\" means the Tertiary Education Act repealed under section 37;\n\"tertiary education\" means a programme which is offered beyond the level of senior secondary education, including technical and vocational education and training (TVET) and such programmes with a set theoretical foundation, through to advanced research qualifications, which have been accredited by the Botswana Qualifications Authority or by a competent authority in the country from which the programme is offered;\n\"tertiary education institution\" means a public or private post secondary education and training institution including a university save where the context expresses otherwise; and\n\"work-place learning\" means skills training and development that is provided at the work-place for employees, apprentices and interns but is not limited to informal and indigenous skills training and development, on the job training and other vocational and technical training other than those offered by a tertiary education institution."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment and Functions of the Human Resource Development Council",
+      "section": "3",
+      "title": "Continuation and establishment of Council",
+      "content": "3. Continuation and establishment of Council\n(1) The Council known as the Tertiary Education Council, established under section 3 of the repealed Act is hereby continued under the new name of the Human Resource Development Council and shall continue as if established under this Act.\n(2) The Council shall be a body corporate with perpetual succession and a common seal, capable of suing and being sued in its own name and, subject to the provisions of this Act, performing such acts as bodies corporate, may by law, do or perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment and Functions of the Human Resource Development Council",
+      "section": "4",
+      "title": "Objectives and functions of Council",
+      "content": "4. Objectives and functions of Council\n(1) The objectives of the Council shall be to—\n( a ) provide for policy advice on all matters of national human resource development;\n( b ) co-ordinate and promote the implementation of the national human resource development strategy;\n( c ) prepare the national human resource development plans; and\n( d ) plan and advise on tertiary education financing and work-place learning.\n(2) Without derogating from the generality of subsection (1), the Council shall—\n( a ) advise the Minister on all policy issues relevant to the implementation of the national human resource development strategy as developed by the Government from time to time;\n( b ) formulate the national human resource development plan;\n( c ) provide advice on management, planning and financing with specific reference to—\n(i) internship,\n(ii) apprenticeship,\n(iii) work-place learning, and\n(iv) reimbursing employers who have incurred training costs for apprentices or trainees;\n( d ) manage Funds established under Part VII of the Act;\n( e ) promote work-place learning;\n( f ) establish and manage a national labour market information system and national education and skills development database;\n( g ) promote the establishment, co-ordination and approval of institutional plans for public and private tertiary education institutions and post implementation monitoring and evaluation with specific reference to—\n(i) human resource development,\n(ii) research and innovation, and\n(iii) institutional capacity building;\n( h ) co-ordinate, promote and support tertiary education-industry link research and innovation activities;\n( i ) formulate human resource development plans for key sectors of the economy through linkages with employers in the public and private;\n( j ) develop strategies for student attachments and academically prescribed internships and promote methods of skills development; and\n( k ) act as a supervisory agency and to co-ordinate the implementation of the National Human Resource Development Strategy and ensure a link between the different levels of education, training and skills development."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Board of the Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the Chairperson of the Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Executive Officer",
+      "definition": "the Chief Executive Officer of the Council appointed as such under section 18",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Code of Practice",
+      "definition": "the Code of Practice issued by the Council under section 35",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Human Resource Development Council established under section 3(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "education training provider",
+      "definition": "a person or entity that provides or organises a programme of education and training, including the provision of professional development services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board appointed under section 5(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "national human resource development",
+      "definition": "the life cycle stages from early childhood development through formal education (primary, secondary and tertiary education) to skills training and development and employment all underpinned by the process of life-long learning",
+      "source_provision": "s2"
+    },
+    {
+      "term": "national human resource development plan",
+      "definition": "a human resource development which focuses on, but is not limited to, the planning of the specific elements of a national human resource development life cycle inclusive of tertiary education, skills training and development and employment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "the Tertiary Education Act repealed under section 37",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tertiary education",
+      "definition": "a programme which is offered beyond the level of senior secondary education, including technical and vocational education and training (TVET) and such programmes with a set theoretical foundation, through to advanced research qualifications, which have been accredited by the Botswana Qualifications Authority or by a competent authority in the country from which the programme is offered",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tertiary education institution",
+      "definition": "a public or private post secondary education and training institution including a university save where the context expresses otherwise",
+      "source_provision": "s2"
+    },
+    {
+      "term": "work-place learning",
+      "definition": "skills training and development that is provided at the work-place for employees, apprentices and interns but is not limited to informal and indigenous skills training and development, on the job training and other vocational and technical training other than those offered by a tertiary education institution.",
+      "source_provision": "s2"
+    }
+  ]
+}

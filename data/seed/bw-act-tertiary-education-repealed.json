@@ -1,0 +1,92 @@
+{
+  "id": "bw-act-tertiary-education-repealed",
+  "type": "statute",
+  "title": "Tertiary Education",
+  "title_en": "Tertiary Education",
+  "short_name": "Tertiary Education",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/tertiary-education-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Tertiary Education Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"accreditation\" means recognition of a tertiary institution in accordance with section 28;\n\"Certificate of registration\" means a certificate issued in terms of section 22;\n\"Council\" means the Tertiary Education Council established under section 3;\n\"Executive Secretary\" means the Executive Secretary of the Council appointed under section 9;\n\"member\" means a member of the Tertiary Education Council;\n\"tertiary institution\" means a post secondary training institution including a university;\n\"letter of interim authority\" means a letter authorising the operation of a tertiary institution issued in terms of section 19."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment of the Tertiary Education Council",
+      "section": "3",
+      "title": "Establishment of Council",
+      "content": "3. Establishment of Council\n(1) There is hereby established the Tertiary Education Council.\n(2) The Council shall be a body corporate with perpetual succession and a common seal, capable of suing and being sued in its own name and, subject to the provisions of this Act, of performing such acts as bodies corporate may by law perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment of the Tertiary Education Council",
+      "section": "4",
+      "title": "Membership of Council",
+      "content": "4. Membership of Council\n(1) The Council shall consist of the following members—\n( a ) the Chairperson;\n( b ) the Permanent Secretary to the Ministry responsible for education;\n( c ) two public officers at Permanent Secretary level;\n( d ) two persons of recognised standing in business from statutory corporations or the private sector;\n( e ) one person from the community;\n( f ) at least one Vice Chancellor from either a public or private university;\n( g ) the Chief Executive of Botswana Training Authority;\n( h ) a representative of tertiary institutions;\n( i ) a representative of the academic community;\n( j ) a student of a tertiary institution; and\n( k ) two persons co-opted by the Council.\n(2) The Chairperson of the Council shall be appointed by the President and the other members of the Council shall be appointed by the Minister.\n(3) The members to be appointed under subsection 1( k ) shall be co-opted by the members appointed under paragraphs ( a ) to ( j ) of subsection (1) at an initial meeting convened for such purpose by the Chairperson.\n(4) The Vice-Chairperson shall be elected by the members from among their number.\n(5) The appointments to the Council shall be published by notice in the Gazette ."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment of the Tertiary Education Council",
+      "section": "5",
+      "title": "Powers and functions of Council",
+      "content": "5. Powers and functions of Council\n(1) The Council shall be responsible for the promotion and co-ordination of tertiary education and for the determination and maintenance of standards of teaching, examination and research in tertiary institutions.\n(2) Without prejudice to the generality of subsection (1), the Council shall—\n( a ) formulate policy on tertiary education and advise Government accordingly;\n( b ) co-ordinate the long term planning and overall development of tertiary education;\n( c ) liaise with both public and private sectors of the economy on all matters relating to human resources development and requirements;\n( d ) plan for the funding of tertiary education and research, including the recurrent and development needs of public tertiary institutions;\n( e ) receive and review budgets for public tertiary institutions and make recommendations to Government;\n( f ) promote co-ordination among tertiary institutions;\n( g ) advise Government on the establishment of public tertiary institutions;\n( h ) receive and approve applications from persons seeking to establish private tertiary institutions;\n( i ) review and approve programmes of study in respect of private tertiary institution;\n( j ) accredit private tertiary institutions;\n( k ) ensure that quality assurance procedures are in place in all tertiary institutions;\n( l ) ensure the audit of physical facilities and the assessment of their adequacy in tertiary institutions; and\n( m ) advise on any other matter related to tertiary education."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Establishment of the Tertiary Education Council",
+      "section": "6",
+      "title": "Seal of Council",
+      "content": "6. Seal of Council\n(1) The seal of the Council shall be such device as may be determined by the Council and shall be kept by the Executive Secretary.\n(2) The affixing of the seal shall be authenticated by the Chairperson and Vice-Chairperson or any other person authorised in that behalf by a resolution of the Council.\n(3) Any contract or instrument which if entered into or executed by a person not being a body corporate would not be required to be under seal, may be entered into or executed without seal on behalf of the Council by the Chairperson or any other person generally or specifically authorised by the Council to do so."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accreditation",
+      "definition": "recognition of a tertiary institution in accordance with section 28",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Certificate of registration",
+      "definition": "a certificate issued in terms of section 22",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Tertiary Education Council established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Executive Secretary",
+      "definition": "the Executive Secretary of the Council appointed under section 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Tertiary Education Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tertiary institution",
+      "definition": "a post secondary training institution including a university",
+      "source_provision": "s2"
+    },
+    {
+      "term": "letter of interim authority",
+      "definition": "a letter authorising the operation of a tertiary institution issued in terms of section 19.",
+      "source_provision": "s2"
+    }
+  ]
+}

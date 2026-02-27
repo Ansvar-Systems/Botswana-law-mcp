@@ -1,0 +1,81 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-kweneng-district-council-natural-resources-protection-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Kweneng District Council (natural Resources Protection) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Kweneng District Council (natural Resources Protection) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-kweneng-district-council-natural-resources-protection-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-Laws may be cited as the Kweneng District Council (Natural Resources Protection) Bye-laws."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"council\" means the Kweneng District Council;\n\"council area\" means the area under the jurisdiction of the Kweneng District Council;\n\"firewood\" includes any tree or bush, or a part of a tree or bush or a tree-pole, charcoal, or any solid natural substance commonly used as fuel;\n\"natural resource\" includes firewood, gravel, sand, soil, stones, thatching grass, veld product and river reeds;\n\"removal permit\" means a permit issued in accordance with bye-law 5(1); and\n\"veld product\" means any plant, root, fruit or tuber used for consumption by humans or domestic animals or for medicinal or veterinary purposes."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Removal permit required",
+      "content": "3. Removal permit required\nA person shall not remove any natural resource from the council area for any purpose, except in accordance with the terms and conditions of a removal permit."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application for removal permit",
+      "content": "4. Application for removal permit\n(1) A person who wishes to remove any natural resource from the council area shall make an application to the Council Secretary in accordance with Form 1 set out in the Schedule.\n(2) The application referred to in subbye-law (1) shall specify\n( a ) the type and quantity of the natural resource that the applicant wishes to remove;\n( b ) whether or not the applicant is resident in the council area, and whether or not the natural resource is for use within the council area; and\n( c ) the purpose for which the natural resource is required.\n(3) An application under this bye-law shall be in respect of one type of natural resource and a person may apply for different types of natural resources at the same time."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Issuance of removal permit",
+      "content": "5. Issuance of removal permit\n(1) The Council Secretary may, where satisfied that the requirements for these Bye-laws are met, and on payment of a fee determined by the council, with the approval of the Minister, issue a removal permit in Form 2 set out in the Schedule.\n(2) The fee to be paid for a removal permit under subbye-law (1) shall be determined in respect of\n( a ) different types of natural resources;\n( b ) whether the natural resource is to be used within or outside the council area;\n( c ) whether the natural resource is for the applicants personal use or whether the applicant has been instructed by another person to apply for the removal permit;\n( d ) whether the natural resource is for domestic or commercial purposes; and\n( e ) the quantity of the natural resource.\n(3) The Council Secretary shall not issue a removal permit\n( a ) in respect of any natural resource where the natural resource is to be used outside Botswana; or\n( b ) where the applicant intends to remove firewood of a quantity in excess of five tons, or any quantity of natural resource which is in excess of what is reasonably required for the purpose stated in the application."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Denied application to be laid before council",
+      "content": "6. Denied application to be laid before council"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "council",
+      "definition": "the Kweneng District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council area",
+      "definition": "the area under the jurisdiction of the Kweneng District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "firewood",
+      "definition": "any tree or bush, or a part of a tree or bush or a tree-pole, charcoal, or any solid natural substance commonly used as fuel",
+      "source_provision": "s2"
+    },
+    {
+      "term": "natural resource",
+      "definition": "firewood, gravel, sand, soil, stones, thatching grass, veld product and river reeds",
+      "source_provision": "s2"
+    },
+    {
+      "term": "removal permit",
+      "definition": "a permit issued in accordance with bye-law 5(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "veld product",
+      "definition": "any plant, root, fruit or tuber used for consumption by humans or domestic animals or for medicinal or veterinary purposes.",
+      "source_provision": "s2"
+    }
+  ]
+}

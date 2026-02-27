@@ -1,0 +1,69 @@
+{
+  "id": "bw-act-prescriptions",
+  "type": "statute",
+  "title": "Prescriptions",
+  "title_en": "Prescriptions",
+  "short_name": "Prescriptions",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/prescriptions",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Prescriptions Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"action\" means any legal proceedings of a civil nature brought in a competent court in Botswana for the enforcement of a right but does not include any legal proceedings founded on customary law;\n\"creditor\" means a person by whom a right is enforceable by action;\n\"debtor\" means a person against whom a right is enforceable by action;\n\"oral contract\" means any contract other than a written contract;\n\"person under disability\" means—\n( a ) a minor;\n( b ) any person under curatorship;\n( c ) in the case of an action between spouses both the husband and the wife, unless they are living apart; and\n( d ) in the case of an action between partners in respect of rights arising out of the partnership, each partner for so long as he remains a member of such partnership;\n\"prescription\" includes acquisitive and extinctive prescription;\n\"written contract\" includes a contract of which the terms to be proved in order to establish the claim in issue are in writing if such writing is admissible in evidence."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Acquisitive prescription",
+      "content": "3. Acquisitive prescription\n(1) Acquisitive prescription is the acquisition of ownership by the possession of another person's movable or immovable property or the use of a servitude in respect of immovable property continuously for 30 years nec vi , nec clam , nec precario .\n(2) As soon as the aforesaid period of 30 years had elapsed such possessor or user shall ipso jure become the owner of the property or the servitude, as the case may be."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Extinctive prescription",
+      "content": "4. Extinctive prescription"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "action",
+      "definition": "any legal proceedings of a civil nature brought in a competent court in Botswana for the enforcement of a right but does not include any legal proceedings founded on customary law",
+      "source_provision": "s2"
+    },
+    {
+      "term": "creditor",
+      "definition": "a person by whom a right is enforceable by action",
+      "source_provision": "s2"
+    },
+    {
+      "term": "debtor",
+      "definition": "a person against whom a right is enforceable by action",
+      "source_provision": "s2"
+    },
+    {
+      "term": "oral contract",
+      "definition": "any contract other than a written contract",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescription",
+      "definition": "acquisitive and extinctive prescription",
+      "source_provision": "s2"
+    },
+    {
+      "term": "written contract",
+      "definition": "a contract of which the terms to be proved in order to establish the claim in issue are in writing if such writing is admissible in evidence.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "bw-act-engineers-registration",
+  "type": "statute",
+  "title": "Engineers Registration",
+  "title_en": "Engineers Registration",
+  "short_name": "Engineers Registration",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/engineers-registration",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Engineers Registration Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Board\" means the Engineers Registration Board established by section 3;\n\"engineer\" means a person registered under section 5 of the Act;\n[ 23 of 2013, s. 2. ]\n\"Minister\" means the Minister responsible for administering this Act;\n\"Register\" means the register of engineers kept in accordance with section 5(2), and includes all or any particular parts thereof as the context so permits or implies;\n\"Registrar\" means the Registrar of the Board appointed in accordance with section 5(1)."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II The Engineers Registration Board",
+      "section": "3",
+      "title": "Establishment of the Engineers Registration Board",
+      "content": "3. Establishment of the Engineers Registration Board\n(1) There is hereby established a Board, to be known as the Engineers Registration Board, which shall have responsibility for regulating the activities and conduct of engineers in accordance with the functions and powers conferred upon it by this Act.\n[ 23 of 2013, s. 3. ]\n(2) The Board shall—\n( a ) be a body corporate with perpetual succession and a common seal;\n( b ) in its corporate name be capable of suing and being sued;\n( c ) for and in connection with the purposes of this Act, be capable of acquiring, holding and disposing of movable and immovable property in its corporate name; and\n( d ) generally have such powers as are necessary for the proper exercise its functions under this Act.\n(3) The provisions of the Schedule shall have effect as to the constitution and proceedings of the Board and otherwise in relation to the Board."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II The Engineers Registration Board",
+      "section": "4",
+      "title": "Members not to be liable",
+      "content": "4. Members not to be liable\nNo member of the Board shall be personally liable for any act or omission of the Board done or omitted in good faith in the course of carrying out the responsibilities and functions of, or exercising the powers conferred upon, the Board."
+    },
+    {
+      "provision_ref": "s4A",
+      "chapter": "PART II The Engineers Registration Board",
+      "section": "4A",
+      "title": "Objectives and functions of Board",
+      "content": "4A. Objectives and functions of Board\n(1) The objectives of the Board are to—\n( a ) promote the highest standards of engineering practice in Botswana; and\n( b ) protect the welfare and interest of the public in the engineering practice.\n[ 19 of 2008, s. 2. ]\n(2) The functions of the Board shall be to—\n( a ) assess applications made to it under this Act;\n( b ) register professional engineers and issue practising certificates;\n( c ) monitor standards of engineering practice and ethics;\n( d ) conduct or authorise inquiries regarding any alleged professional misconduct of any engineer; and\n[ 23 of 2013, s. 4. ]\n( e ) prescribe the eligibility requirements for persons applying to be registered under this Act to practise professional engineering.\n[ 19 of 2008, s. 2. ]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART III The Registrar and the Registry",
+      "section": "5",
+      "title": "Appointment of Registrar and keeping of engineers' register",
+      "content": "5. Appointment of Registrar and keeping of engineers' register\n(1) The Board shall appoint a Registrar of the Board, who may be a public officer, and who shall hold and vacate office in accordance with the terms of his appointment.\n[ 19 of 2008, s. 3. ]\n(2) The Registrar shall keep and maintain a register in which the name of every engineer entitled to have his name entered therein shall be entered as soon as is practicable after his being accepted by the Board for registration, showing against his name—\n[ 23 of 2013, s. 5. ]\n( a ) the date of entry;\n( b ) his address;\n( c ) his qualifications;\n( d ) the engineering discipline in which he is registered, that is to say, whether as civil engineer, mechanical engineer, electrical engineer, or as the case may require; and\n( e ) such other particulars as the Board may from time to time direct.\n(3) All changes in the particulars registered under subsection (2) shall be entered in the register by the Registrar."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART III The Registrar and the Registry",
+      "section": "6",
+      "title": "Inspection of register",
+      "content": "6. Inspection of register\nAny person may inspect the register and any documents relating to any entry therein, and may obtain from the Registrar a copy of or an extract from the register or any such document, on payment of the prescribed fee."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART III The Registrar and the Registry",
+      "section": "7",
+      "title": "Proof of documents",
+      "content": "7. Proof of documents\n(1) In any legal proceedings, a paper purporting to be a copy of or an extract from the register or any document kept by the Registrar, and purporting to be certified by the Registrar to be a true copy or extract thereof, shall be admissible as prima facie evidence of the contents of the register or such document.\n(2) The Registrar shall not, in any legal proceedings to which he is not a party, be compellable—\n( a ) to produce the register or any document kept or published by him, if its contents can be proved under subsection (1); or\n( b ) to appear as a witness to prove any entry in the register, any matter recorded in the register, or any such document, unless the court for special cause so orders."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART IV Registration",
+      "section": "8",
+      "title": "Qualifications for registration",
+      "content": "8. Qualifications for registration"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Engineers Registration Board established by section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "engineer",
+      "definition": "a person registered under section 5 of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for administering this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Register",
+      "definition": "the register of engineers kept in accordance with section 5(2), and includes all or any particular parts thereof as the context so permits or implies",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of the Board appointed in accordance with section 5(1).",
+      "source_provision": "s2"
+    }
+  ]
+}

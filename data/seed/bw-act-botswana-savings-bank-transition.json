@@ -1,0 +1,44 @@
+{
+  "id": "bw-act-botswana-savings-bank-transition",
+  "type": "statute",
+  "title": "Botswana Savings Bank (transition)",
+  "title_en": "Botswana Savings Bank (transition)",
+  "short_name": "Botswana Savings Bank (tran...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-savings-bank-transition",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Savings Bank (Transition) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Board\" means the Board of the Botswana Savings Bank established under the Botswana Savings Bank Act (Cap. 56:03);\n\"Botswana Savings Bank\" means the Botswana Savings Bank established under the Botswana Savings Bank Act;\n\"Company\" means Botswana Savings Bank Limited, as continued under section 3;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Board of the Botswana Savings Bank established under the Botswana Savings Bank Act (Cap. 56:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Botswana Savings Bank",
+      "definition": "the Botswana Savings Bank established under the Botswana Savings Bank Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Company",
+      "definition": "Botswana Savings Bank Limited, as continued under section 3",
+      "source_provision": "s2"
+    }
+  ]
+}

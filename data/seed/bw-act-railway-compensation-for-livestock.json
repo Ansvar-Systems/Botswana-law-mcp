@@ -1,0 +1,32 @@
+{
+  "id": "bw-act-railway-compensation-for-livestock",
+  "type": "statute",
+  "title": "Railway (compensation for Livestock)",
+  "title_en": "Railway (compensation for Livestock)",
+  "short_name": "Railway (compensation for L...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/railway-compensation-for-livestock",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Railway (Compensation for Livestock) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"daylight\" means the period between sunrise and sunset;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "daylight",
+      "definition": "the period between sunrise and sunset",
+      "source_provision": "s2"
+    }
+  ]
+}

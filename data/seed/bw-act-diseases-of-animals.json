@@ -1,0 +1,82 @@
+{
+  "id": "bw-act-diseases-of-animals",
+  "type": "statute",
+  "title": "Diseases of Animals",
+  "title_en": "Diseases of Animals",
+  "short_name": "Diseases of Animals",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/diseases-of-animals",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Diseases of Animals Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"animal\" means any bull, cow, ox, heifer, calf, sheep, goat, camel, horse, mule, donkey, pig, domestic fowl, and any other vertebrate animal or bird, any wild carnivore tamed and kept as a pet, guineafowl, pigeon, pea-fowl, dog, cat, and any other creature prescribed as an animal for the purposes of this Act;\n\"carcass\" means the body of an animal or any portion thereof;\n\"departmental officer\" means any veterinary officer, livestock officer, stock inspector or veterinary assistant employed by the Government;\n\"Director\" means the Director of Veterinary Services, and includes the Deputy Director of Veterinary Services and any veterinary officer authorised by the Director;\n\"disease\" means anthrax, brucellosis, dourine, East Coast fever, epizootic lymphangletla, foot and mouth disease, glanders and farcy, mange in equines, contagious bovine, pleuro-pneumonia, African swine fever, swine fever, rabies, rinderpest, sheep-pox and sheep scab, tuberculosis, African horse sickness, ulcerative lymphangitis, lumpy skin disease, Newcastle disease, blue tongue, psittacosis, Rift Valley fever, trypanosomiasis, and any other disease of animals prescribed as a disease for the purposes of this Act;\n\"fence\" means any fence declared by the Minister to be a fence for the purposes of disease control, and means a substantially large stock-proof fence with gates at places where it crosses a public or a private road and with suitable appliances where it crosses any obstacle;\n\"infective agent\" means anything declared by the Minister as an infective agent under section 6;\n\"owner\" means—\n( a ) when used in relation to any land or place, the registered owner thereof when he is in actual occupation of such land, and, when such owner is not in occupation of such land, the expression when so used means any person who, whether as lessee or licensee, or otherwise entitled, has for the time being the charge, control and management or occupation of such land or place;\n( b ) when used in relation to any animal—\n(i) every person who is the sole or part owner thereof; or\n(ii) if the sole or part owner has not for the time being the control or custody of such animal, the person who has such control or custody of such animal;\n\"stock\" means bulls, oxen, cows, heifers, calves, sheep, goats, pigs, and any other animal prescribed as stock for the purposes of this Act;\n\"stock-free zone\" means any area declared by the Minister to be a stock-free zone under section 8;\n\"veterinary officer\" means any officer in the service of the Government who is a veterinary surgeon;\n\"veterinary surgeon\" has the same meaning as that assigned to that expression in the Veterinary Surgeons Act (Cap. 61:04)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "animal",
+      "definition": "any bull, cow, ox, heifer, calf, sheep, goat, camel, horse, mule, donkey, pig, domestic fowl, and any other vertebrate animal or bird, any wild carnivore tamed and kept as a pet, guineafowl, pigeon, pea-fowl, dog, cat, and any other creature prescribed as an animal for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "carcass",
+      "definition": "the body of an animal or any portion thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "departmental officer",
+      "definition": "any veterinary officer, livestock officer, stock inspector or veterinary assistant employed by the Government",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the Director of Veterinary Services, and includes the Deputy Director of Veterinary Services and any veterinary officer authorised by the Director",
+      "source_provision": "s2"
+    },
+    {
+      "term": "disease",
+      "definition": "anthrax, brucellosis, dourine, East Coast fever, epizootic lymphangletla, foot and mouth disease, glanders and farcy, mange in equines, contagious bovine, pleuro-pneumonia, African swine fever, swine fever, rabies, rinderpest, sheep-pox and sheep scab, tuberculosis, African horse sickness, ulcerative lymphangitis, lumpy skin disease, Newcastle disease, blue tongue, psittacosis, Rift Valley fever, trypanosomiasis, and any other disease of animals prescribed as a disease for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fence",
+      "definition": "any fence declared by the Minister to be a fence for the purposes of disease control, and means a substantially large stock-proof fence with gates at places where it crosses a public or a private road and with suitable appliances where it crosses any obstacle",
+      "source_provision": "s2"
+    },
+    {
+      "term": "infective agent",
+      "definition": "anything declared by the Minister as an infective agent under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stock",
+      "definition": "bulls, oxen, cows, heifers, calves, sheep, goats, pigs, and any other animal prescribed as stock for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stock-free zone",
+      "definition": "any area declared by the Minister to be a stock-free zone under section 8",
+      "source_provision": "s2"
+    },
+    {
+      "term": "veterinary officer",
+      "definition": "any officer in the service of the Government who is a veterinary surgeon",
+      "source_provision": "s2"
+    },
+    {
+      "term": "veterinary surgeon",
+      "definition": "as that assigned to that expression in the Veterinary Surgeons Act (Cap. 61:04).",
+      "source_provision": "s2"
+    }
+  ]
+}

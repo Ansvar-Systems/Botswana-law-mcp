@@ -1,0 +1,80 @@
+{
+  "id": "bw-act-botswana-power-corporation",
+  "type": "statute",
+  "title": "Botswana Power Corporation",
+  "title_en": "Botswana Power Corporation",
+  "short_name": "Botswana Power Corporation",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-power-corporation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Power Corporation Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Authority\" means the Botswana Energy Regulatory established under the Botswana Energy Regulatory Authority Act (Act No. 13 of 2016);\n[ 15 of 2016, s. 2(a). ]\n\"Corporation\" means the Botswana Power Corporation established under section 3;\n\"financial year\" means the year ending on the 31st March in each year;\n\"Government electricity undertakings\" means works established and arrangements concluded by the Government for the purpose of supplying electricity to communities and enterprises in Botswana;\n\"main transmission lines\" means all cables and overhead lines, whether constructed or due to be constructed, for the transmission of electricity from a generating station to any other generating station or to a substation, together with any step-up or step-down transformers and switch-gear necessary to and used for the control of such cables or overhead lines, and the buildings, or such part thereof as may be required to accommodate such transformers or switch-gear, which the Authority may declare by notice published in the Gazette to be main transmission lines;\n[ 15 of 2016, s. 2(b). ]\n\"undertaking\" means any business for the supply of electricity to the public."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment, Constitution and Membership of the Corporation",
+      "section": "3",
+      "title": "Establishment of the Corporation",
+      "content": "3. Establishment of the Corporation\n(1) There is hereby established a Corporation to be known as the Botswana Power Corporation.\n(2) The Corporation shall be a body corporate capable of suing and being sued in the name of the Botswana Power Corporation and, subject to the provisions of this Act, of performing such acts as bodies corporate may by law perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment, Constitution and Membership of the Corporation",
+      "section": "4",
+      "title": "Constitution",
+      "content": "4. Constitution\n(1) The Corporation shall consist of a chairman and not less than six nor more than eight other members, who shall be appointed by the Minister by notice published in the Gazette .\n(2) In making such appointments the Minister shall take into account the desirability of such interests as are affected by the Corporation's activities being represented.\n(3) A person shall be disqualified from being appointed or being a member of the Corporation—\n( a ) if he is a Member of the National Assembly, or is an employee of the Corporation; or\n( b ) if he has been declared insolvent or bankrupt under any law in any country and has not been discharged, or has made a composition with his creditors and has not paid his debts in full."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment, Constitution and Membership of the Corporation",
+      "section": "5",
+      "title": "Resignation and removal from office",
+      "content": "5. Resignation and removal from office\nThe chairman and any other member of the Corporation may, if not a public officer, resign his office by notice in writing addressed to the Minister, and may be removed from office by the Minister if he—\n( a ) ceases to hold the office by virtue of which he was appointed;\n( b ) becomes of unsound mind;\n( c ) is declared insolvent or bankrupt under any law in force in any country;\n( d ) suspends payment of his debts or compounds with his creditors;\n( e ) is absent from three consecutive meetings of the Corporation without such reason as appears to the Minister to be sufficient;\n( f ) is sentenced to imprisonment without the option of a fine or is convicted of an offence involving dishonesty;\n( g ) is guilty of serious misconduct in relation to his duties as chairman or member of the Corporation; or\n( h ) in the case of a person possessed of professional qualifications, is disqualified or suspended, otherwise than at his own request, from practising his profession in Botswana or in any other country by order of any competent authority made in respect of him personally."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Authority",
+      "definition": "the Botswana Energy Regulatory established under the Botswana Energy Regulatory Authority Act (Act No. 13 of 2016)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Corporation",
+      "definition": "the Botswana Power Corporation established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial year",
+      "definition": "the year ending on the 31st March in each year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Government electricity undertakings",
+      "definition": "works established and arrangements concluded by the Government for the purpose of supplying electricity to communities and enterprises in Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "main transmission lines",
+      "definition": "all cables and overhead lines, whether constructed or due to be constructed, for the transmission of electricity from a generating station to any other generating station or to a substation, together with any step-up or step-down transformers and switch-gear necessary to and used for the control of such cables or overhead lines, and the buildings, or such part thereof as may be required to accommodate such transformers or switch-gear, which the Authority may declare by notice published in the Gazette to be main transmission lines",
+      "source_provision": "s2"
+    },
+    {
+      "term": "undertaking",
+      "definition": "any business for the supply of electricity to the public.",
+      "source_provision": "s2"
+    }
+  ]
+}

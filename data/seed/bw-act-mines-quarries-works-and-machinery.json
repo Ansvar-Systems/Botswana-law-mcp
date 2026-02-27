@@ -1,0 +1,109 @@
+{
+  "id": "bw-act-mines-quarries-works-and-machinery",
+  "type": "statute",
+  "title": "Mines, Quarries, Works and Machinery",
+  "title_en": "Mines, Quarries, Works and Machinery",
+  "short_name": "Mines, Quarries, Works and ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/mines-quarries-works-and-machinery",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Mines, Quarries, Works and Machinery Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"boiler\" means any apparatus, with all its fittings and appurtenances, adapted to convert any liquid continuously into steam or vapour of a higher pressure than that due to the atmosphere, and includes any super-heater, economiser and steam accumulator, with all their fittings and appurtenances, and where any such apparatus consists of two or more parts, each of which is capable of being adapted for use as a separate boiler by the mere closing of a valve, means each of such parts with all its fittings and appurtenances;\n\"Chief Government Mining Engineer\" means the Chief Government Mining Engineer appointed under section 3;\n\"engine\" means any appliance or combination of appliances by which power, other than man or animal power, can be applied to do mechanical work;\n\"excavation\" means any cavity in the ground and includes trenches, pits, sewers under construction, shafts, winzes, raises, open cuts, tunnels, adits, drives and all underground passages and workings;\n\"Government Mining Engineer\" means a Government Mining Engineer appointed under section 3;\n\"inspector\" means an inspector of mines, quarries, works and machinery appointed under section 3;\n\"machinery\" means any engine, boiler or appliances or combination of appliances which is used or intended to be used for generating, developing, receiving, storing, converting, transforming or transmitting any form of power or energy, or for conveying persons, materials or minerals, and which is situated at a mine, quarry or works and used or intended to be used in connection with operations at, and pertaining to, such mine, quarry or works;\n\"mine\" means any excavation in the ground, whether abandoned or being worked, made for the purpose of searching for or winning any mineral, and any place where any mineral deposit is being worked, but if two or more such excavations or places are being worked in conjunction with one another, they shall be deemed to constitute one mine, unless the Chief Government Mining Engineer notifies the owner thereof in writing that such excavations or places shall constitute two or more mines, and any place at or near or in connection with a mine where any building, construction, dump, dam, machinery or appliance is used or intended to be used or any demolition effected by the owner of the mine for any of the following purposes, or for any purpose necessary or incidental thereto, shall form part of such mine—\n( a ) searching for or winning a mineral;\n( b ) crushing, reducing, dressing, concentrating, leaching, drying or smelting a mineral;\n( c ) producing a product of commercial value, from a mineral; or\n( d ) extracting, concentrating or refining any constituent of a mineral;\n\"mineral\" means any substance, whether in solid, liquid or gaseous form, occurring naturally in or on the earth and having been formed by or subjected to a geological process, but does not include water and soil unless they are taken from the earth for the production or extraction therefrom, of a product of commercial value;\n\"mines, quarries and works safety committee\" means the mines, quarries and works safety committee established under section 5;\n\"mining\" means the activity of obtaining or extracting or attempting to obtain or extract any mineral occurring naturally in or on the earth's crust, by any mode or method, or any purpose directly or indirectly connected therewith or incidental thereto and includes the working of any dump or tailing;\n\"owner\" , in relation to a mine, quarry, works or machinery, includes the lessee of the mine, quarry, works or machinery or any part thereof, but does not include a person who owns only rights to the surface of the land on which a mine, quarry, works or machinery is situated;\n\"prospecting\" means the activity of searching for minerals or mineral deposits;\n\"quarry\" means any working at which quarrying operations are carried on;\n\"quarrying\" means the activity of obtaining or extracting or attempting to obtain or extract any rock, stone, gravel, sand, clay or similar material for commercial or industrial use by any mode or method, or any purpose directly or indirectly connected therewith or incidental thereto;\n\"Principal Government Mining Engineer\" means the Principal Government Mining Engineer appointed under section 3;\n\"serious bodily injury\" includes—\nfracture of skull, spine, pelvis, arm, forearm, thigh or leg;\ndislocation of shoulder, elbow, hip, knee or spine;\namputation of hand or foot, or substantial part of a hand or foot;\nloss of sight of an eye;\ninternal haemorrhage, burns, asphyxia, or other injury likely to endanger life, cause permanent incapacity for work or substantially impair efficiency;\n\"working\" means any excavation of a mine or quarry made or being made for the purpose of searching for or winning minerals;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "boiler",
+      "definition": "any apparatus, with all its fittings and appurtenances, adapted to convert any liquid continuously into steam or vapour of a higher pressure than that due to the atmosphere, and includes any super-heater, economiser and steam accumulator, with all their fittings and appurtenances, and where any such apparatus consists of two or more parts, each of which is capable of being adapted for use as a separate boiler by the mere closing of a valve, means each of such parts with all its fittings and appurtenances",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Government Mining Engineer",
+      "definition": "the Chief Government Mining Engineer appointed under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "engine",
+      "definition": "any appliance or combination of appliances by which power, other than man or animal power, can be applied to do mechanical work",
+      "source_provision": "s2"
+    },
+    {
+      "term": "excavation",
+      "definition": "any cavity in the ground and includes trenches, pits, sewers under construction, shafts, winzes, raises, open cuts, tunnels, adits, drives and all underground passages and workings",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Government Mining Engineer",
+      "definition": "a Government Mining Engineer appointed under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "an inspector of mines, quarries, works and machinery appointed under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "machinery",
+      "definition": "any engine, boiler or appliances or combination of appliances which is used or intended to be used for generating, developing, receiving, storing, converting, transforming or transmitting any form of power or energy, or for conveying persons, materials or minerals, and which is situated at a mine, quarry or works and used or intended to be used in connection with operations at, and pertaining to, such mine, quarry or works",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mine",
+      "definition": "any excavation in the ground, whether abandoned or being worked, made for the purpose of searching for or winning any mineral, and any place where any mineral deposit is being worked, but if two or more such excavations or places are being worked in conjunction with one another, they shall be deemed to constitute one mine, unless the Chief Government Mining Engineer notifies the owner thereof in writing that such excavations or places shall constitute two or more mines, and any place at or near or in connection with a mine where any building, construction, dump, dam, machinery or appliance is used or intended to be used or any demolition effected by the owner of the mine for any of the following purposes, or for any purpose necessary or incidental thereto, shall form part of such mine—\n( a ) searching for or winning a mineral",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mineral",
+      "definition": "any substance, whether in solid, liquid or gaseous form, occurring naturally in or on the earth and having been formed by or subjected to a geological process, but does not include water and soil unless they are taken from the earth for the production or extraction therefrom, of a product of commercial value",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mines, quarries and works safety committee",
+      "definition": "the mines, quarries and works safety committee established under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mining",
+      "definition": "the activity of obtaining or extracting or attempting to obtain or extract any mineral occurring naturally in or on the earth's crust, by any mode or method, or any purpose directly or indirectly connected therewith or incidental thereto and includes the working of any dump or tailing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prospecting",
+      "definition": "the activity of searching for minerals or mineral deposits",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quarry",
+      "definition": "any working at which quarrying operations are carried on",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quarrying",
+      "definition": "the activity of obtaining or extracting or attempting to obtain or extract any rock, stone, gravel, sand, clay or similar material for commercial or industrial use by any mode or method, or any purpose directly or indirectly connected therewith or incidental thereto",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Principal Government Mining Engineer",
+      "definition": "the Principal Government Mining Engineer appointed under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "working",
+      "definition": "any excavation of a mine or quarry made or being made for the purpose of searching for or winning minerals",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "id": "bw-act-prisons",
+  "type": "statute",
+  "title": "Prisons",
+  "title_en": "Prisons",
+  "short_name": "Prisons",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/prisons",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Prisons Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"appellant prisoner\" means a convicted prisoner who is detained in a prison as a result of a conviction which is the subject matter of an appeal which has been entered or lodged but the decision in regard to which has not been given;\n\"Commissioner\" means the Commissioner of Prison Service appointed by the President in accordance with section 9;\n[ 14 of 2017, s. 2. ]\n\"convicted prisoner\" means a prisoner under sentence of a court or who has been convicted by a court and is awaiting sentence or upon whom sentence has, for any reason, been respited;\n\"earnings\" means earnings earned in a prescribed earnings scheme instituted under section 96;\n\"judge\" means a judge of the High Court of Botswana and includes the Chief Justice;\n\"junior officer\" means a prison officer of one of the ranks set out in section 5 in respect of junior officers;\n\"major prison offence\" means an offence declared to be a major prison offence by section 105;\n\"mechanical restraint\" means restraint by the use of handcuffs, leg irons, strait jacket, body belt or any other form of restraint approved by the Minister in writing for the purposes of this Act;\n\"medical officer\" means a person appointed to be the medical officer responsible for a prison in accordance with section 56;\n\"minister of religion\" means an accredited representative of any religious body;\n\"minor prison offence\" means an offence declared to be a minor prison offence by section 106;\n\"mutiny\" means a combination between prison officers or a combination between prisoners or a combination between prison officers and prisoners to overthrow or resist or attempt to overthrow or resist lawful authority in the Prison Service or any part thereof;\n\"offence against discipline\" means an offence declared to be an offence against discipline by section 46;\n\"officer in charge\" means a prison officer appointed to be the officer in charge of a prison under section 24;\n\"official visitor\" means a person who is an official visitor by virtue of section 131;\n\"peace officer\" has the same meaning as in the Criminal Procedure and Evidence Act (Cap. 08:02);\n\"prison\" means any building, enclosure or place or any part thereof declared to be a prison or temporary prison under section 3 or 4 and includes an open prison;\n\"prisoner\" means any person, whether convicted or not, under detention in a prison;\n\"prison offence\" means a major or minor prison offence;\n\"prison officer\" means any senior, junior or subordinate officer, whether permanent or temporary;\n\"prohibited article\" means any article which is not issued to a prisoner by authority of the officer in charge with the approval of the Commissioner or in accordance with this Act;\n\"public authority\" means the Government or an agency thereof, a local authority or statutory corporation;\n\"reduced diet\" means a reduced diet awarded as a punishment under section 109 or 110;\n\"release on parole\" means conditional release from prison, before he has completed his term of imprisonment, of a prisoner under section 87;\n\"remission\" means remission granted or restored to a prisoner under section 91;\n\"senior officer\" means a prison officer of one of the ranks set out in section 5 in respect of senior officers;\n\"Service\" means the Prison Service referred to in section 5;\n\"subordinate officer\" means a prison officer of one of the ranks set out in section 5 in respect of subordinate officers;\n\"temporary officer\" means any person recruited temporarily to serve as a prison officer;\n\"unconvicted prisoner\" means a person, not being a convicted prisoner, duly committed to prison custody under a writ, warrant or order of any court or an order of detention issued by any person authorised in that behalf by any law;\n\"visiting committee\" means a visiting committee prescribed by section 134;\n\"weapon\" means a baton, riot stick, shield, tear gas grenade or firearm or any other article approved by the Minister in writing for use as a weapon by prison officers."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment of Prisons",
+      "section": "3",
+      "title": "Declaration of prisons",
+      "content": "3. Declaration of prisons\nThe Minister may, by order published in the Gazette , declare any building, enclosure or place or any part thereof to be a prison."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment of Prisons",
+      "section": "4",
+      "title": "Declaration of temporary prisons",
+      "content": "4. Declaration of temporary prisons\nThe Commissioner may, by order published in the Gazette , with the approval of the Minister, declare any building, enclosure or place or any part thereof to be a temporary prison for the detention of such number of prisoners as the Commissioner may, with the approval of the Minister, determine."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "5",
+      "title": "Prison Service",
+      "content": "5. Prison Service\n(1) There shall be a Prison Service for Botswana, the members of which shall consist of the following rank of officers, namely, senior officers, junior officers and subordinate officers.\n(2) The rank of officers referred to in subsection (1) shall comprise—\n( a ) in the case of senior officers—\n(i) the Commissioner, as head of the Prison Service;\n(ii) the Deputy Commissioner;\n(iii) Assistant Commissioner;\n(iv) Senior Superintendent;\n(v) Superintendent; and\n(vi) Assistant Superintendent;\n( b ) in the case of junior officers—\n(i) Cadet Assistant Superintendent;\n(ii) Principal Officer; and\n(iii) Assistant Principal Officer; and\n( c ) in the case of subordinate officers—\n(i) Cadet Assistant Principal Officer;\n(ii) Sergeant; and\n(iii) Warder.\n(3) The Minister may by Order create additional ranks for the Prison Service.\n[ 12 of 2000, s. 2. ]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "6",
+      "title": "Application of G.O. to prison officers",
+      "content": "6. Application of G.O. to prison officers\nEvery prison officer shall be subject to the Botswana Public Service General Orders in so far as such Orders are not inconsistent with the provisions of this Act."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "7",
+      "title": "Commissioner of Prisons and Rehabilitation",
+      "content": "7. Commissioner of Prisons and Rehabilitation\n(1) The Commissioner shall be responsible to the Minister for securing the general efficiency of the Prison Service.\n[ 14 of 2017, s. 3 .]\n(2) Any functions conferred on the Commissioner by this Act may, subject to the directions of the Commissioner, be exercised by the Deputy Commissioner or Assistant Commissioner."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "8",
+      "title": "Method of filling vacancies",
+      "content": "8. Method of filling vacancies\nA vacancy in a Prison Service post may be filled—\n( a ) by promotion, that is by appointing a prison officer who is to be moved from another grade with an immediate increase in his salary;\n( b ) by transfer within the Service, that is appointing a prison officer who is to be moved from another grade with no alteration in his salary;\n( c ) on reduction in rank, that is by appointing a prison officer who is to be moved from another grade with an immediate reduction in his salary;\n( d ) by recruitment, that is by appointing a person who is not a prison officer or who would cease to be a prison officer if the appointment were not made."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "9",
+      "title": "Appointing authorities",
+      "content": "9. Appointing authorities\n(1) The person empowered to fill vacancies in a service post shall be known as the appointing authority for that post.\n[ 14 of 2017, s. 4. ]\n(2) The President shall be the appointing authority for the post of Commissioner.\n[ 14 of 2017, s. 4. ]\n(3) The Permanent Secretary to the President shall in consultation with the Commissioner, be the appointing authority for the post of Deputy Commissioner.\n[ 14 of 2017, s. 4. ]\n(4) The Commissioner shall be the appointing authority for all other ranks below the post of Deputy Commissioner.\n[ 14 of 2017, s. 4. ]\n(5) An appointing authority may, at any time dismiss a prison officer if he is convicted of any criminal offence or a disciplinary offence under this Act.\n[ 14 of 2017, s. 4. ]\n(6) Notwithstanding any of the provisions of this section, a prison officer who has been convicted of a criminal offence or dismissed from the Service shall not be appointed to any public office without the written approval of the appointing authority.\n[ 14 of 2017, s. 4. ]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "10",
+      "title": "Principle for filling vacancies",
+      "content": "10. Principle for filling vacancies\n(1) Where practicable, a vacancy in a Prison Service post shall be filled either by promotion or transfer within the Service.\n(2) Promotions shall be made according to merit.\n(3) A person who to the knowledge of the appointing authority has attained the prescribed voluntary retiring age shall not be appointed by recruitment to the pensionable post of a prison officer otherwise than on a limited engagement:\nProvided that this subsection shall not apply if that person has such accrued entitlement to retirement benefits as may be prescribed."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "11",
+      "title": "Appointment procedure",
+      "content": "11. Appointment procedure\n(1) Appointment to all Prison Service posts shall be made by a letter of appointment addressed to the person appointed and signed by or on behalf of the appointing authority.\n(2) A person not already holding a pensionable post shall not be appointed to a pensionable post unless he has been medically examined and found to be fit to be appointed to pensionable service."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "12",
+      "title": "Limited engagement",
+      "content": "12. Limited engagement\n(1) Where a vacancy in a Prison Service post is filled by recruitment the person recruited may, if the appointing authority thinks fit, be appointed on a limited engagement.\n(2) The letter of appointment of a person appointed to a post on a limited engagement—\n( a ) shall specify the period of the engagement, that is, the period for which it is contemplated that he will remain in the post;\n( b ) may provide that the provisions of this Act and of any statutory instrument made thereunder shall apply subject to such modifications as may be set out in the letter of appointment.\n(3) Subject to such conditions as may be prescribed, the period of a limited engagement may be extended by the consent of the person serving under the engagement and the appointing authority."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "13",
+      "title": "Probationary and trial periods",
+      "content": "13. Probationary and trial periods\n(1) An appointment of a prison officer to a pensionable post shall be subject to satisfactory service in that post for a probationary period of two years.\n(2) An appointment of a prison officer by promotion to a pensionable post shall be subject to satisfactory service in that post for a trial period of six months.\n(3) Where a pensionable post is held by a prison officer on probation or trial and it appears to the appointing authority at the end of the probationary or trial period, or at any time during that period, that the said officer is unlikely to fulfil the requirements of the post, the appointing authority may provide for him to be transferred or reduced in rank, or if he holds the post on probation, may order that he shall cease to be a prison officer.\n(4) The appointing authority for a post held by a prison officer on probation or on trial may if he thinks fit reduce or extend the probationary or trial period:\nProvided that no probationary period shall be extended for more than 12 months.\n(5) A decision of an appointing authority to terminate, extend or not to confirm a probationary or trial appointment shall be final and no appeal shall lie therefrom to any person or body."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "14",
+      "title": "Acting assignment",
+      "content": "14. Acting assignment\n(1) Where a Prison Service post is vacant or the holder of the post is absent from duty for any reason the appointing authority for that post may assign a prison officer to carry out the duties of the post.\n(2) An assignment under this section shall cease to have effect—\n( a ) on the filling of the vacancy or the return to duty of the holder of the post, as the case may be; or\n( b ) if some other person is assigned to carry out the duties of the post; or\n( c ) if the assignment is revoked by the appointing authority."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "15",
+      "title": "Scheme of service",
+      "content": "15. Scheme of service\n(1) The Commissioner shall prepare a scheme of service giving details of the composition of the branches within the Service, the duties assigned thereto, modes of entry and qualifications required, prospects of promotion, training facilities and other matters relating to service as a prison officer.\n(2) No scheme of service made under subsection (1) shall be promulgated without the consent of the Permanent Secretary."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "16",
+      "title": "Training",
+      "content": "16. Training\n(1) The Commissioner shall appoint a senior officer who shall be responsible for the training of prison officers.\n(2) There shall be a branch of the Prison Service with the function of supervising and co-ordinating, under the general direction of the Commissioner, arrangements for the training of prison officers.\n(3) No prison officer shall be selected for training with a view to enabling him to qualify for appointment to a particular post unless the appointing authority for that post has given his approval.\n(4) Subject to the preceding provisions of this section, it is the duty of the officer appointed under this section to secure, so far as is practicable, that facilities exist, and are used, to enable prison officers to undergo such training as may be necessary for the performance of the duties of their posts and for enabling them to qualify for advancement within the Service."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "17",
+      "title": "Modes of leaving the Service",
+      "content": "17. Modes of leaving the Service\nThe modes by which a prison officer may leave the Service are as follows—\n( a ) on dismissal or removal under section 18 or in consequence of disciplinary proceedings;\n( b ) on compulsory retirement;\n( c ) on voluntary retirement;\n( d ) on retirement for medical reasons;\n( e ) on resignation in accordance with such conditions as may be prescribed;\n( f ) on the expiry or other termination of a limited engagement;\n( g ) on the abolition of his post;\n( h ) in the case of a prison officer on probation, on making of an order under section 13(3);\n( i ) in the case of a prison officer holding a non-pensionable post, on being discharged by his appointing authority;\n( j ) on death.\n[ 14 of 2017, s. 5. ]"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "18",
+      "title": "Power of Minister",
+      "content": "18. Power of Minister\n(1) The Minister may dismiss or remove any prison officer if he is satisfied that it is in the public interest to do so.\n(2) The appointing authority shall allow an officer against whom he contemplates dismissal or removal to make representations in writing within 30 days as to why he should not be dismissed or removed from the Service.\n[ 14 of 2017, s. 6. ]\n(3) The appointing authority shall consider any representations made under subsection (2) before dismissing or removing an officer from the Service under subsection (1).\n[ 14 of 2017, s. 6. ]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "19",
+      "title": "Compulsory retirement",
+      "content": "19. Compulsory retirement\n(1) A prison officer appointed on permanent and pensionable terms shall retire from the Service on attaining the age of 62 years.\n[ 26 of 2019, s. 2. ]\n(2) Notwithstanding subsection (1), the appointing authority may if he considers it to be in the interest of the Service, permit a prison officer to remain in the Service for such period as the appointing authority may determine.\n[ 26 of 2019, s. 2. ]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "20",
+      "title": "Voluntary retirement",
+      "content": "20. Voluntary retirement\n(1) A prison officer holding a pensionable post may retire from the Service upon reaching the age of 45 years, or upon serving for 20 years of continuous service.\n[ 14 of 2017, s. 8. ]\n(2) Subject to subsection (1), a prison officer appointed on pensionable terms may, at the discretion of the appointing authority, be retired at anytime on or after reaching the age of 45 years and the appointing authority shall do so by giving the prison officer three months&rsquo; notice to be retired from the Service.\n[ 14 of 2017, s. 8. ]\n(3) A prison officer who retires voluntarily under subsection (1) shall do so by giving the appointing authority written notification of his intention to retire at least three months prior to the date on which he intends to retire or by giving one month&rsquo;s salary in lieu of notice.\n[ 14 of 2017, s. 8. ]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "21",
+      "title": "Retirement for medical reasons",
+      "content": "21. Retirement for medical reasons\nA prison officer shall retire from the Service if, in accordance with the prescribed procedure, it is found that he is incapable by reason of infirmity of mind or body of discharging the duties of his post and that the infirmity is likely to be permanent:\nProvided that this section shall not prevent a prison officer found so incapable from being moved to a grade in which his infirmity will not prevent the discharge of his duties."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "22",
+      "title": "Abolition of post",
+      "content": "22. Abolition of post\n(1) Where a post in a grade is abolished by the repeal or amendment of the enactment by which it was created, the appointing authority shall, if two or more persons hold posts in that grade, determine which of those persons is to be treated as the person whose post is abolished.\n(2) Unless the person in respect of whom a determination is to be made under subsection (1) is to be promoted, he shall be afforded an opportunity to make representations to the appointing authority, who shall consider any such representations before making the determination."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "23",
+      "title": "Discharge of non-pensionable staff",
+      "content": "23. Discharge of non-pensionable staff\n(1) The appointing authority may discharge a person holding a non-pensionable post—\n( a ) on the ground that he is physically incapable of performing the duties of the post; or\n( b ) where he has not held a Prison Service post during the whole of the preceding 12 months, on the ground that he is generally unsuitable for the post; or\n( c ) on the ground that the post is no longer required to be occupied.\n(2) Where a person is discharged under this section the appointing authority shall furnish him with a statement in writing of the ground on which he is discharged."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "24",
+      "title": "Officers in charge of prisons",
+      "content": "24. Officers in charge of prisons\nThe Commissioner shall, in respect of every prison, appoint a prison officer to be the officer in charge of that prison and control of that prison shall be vested in the officer so appointed."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART III Constitution and Administration of Prison Service",
+      "section": "25",
+      "title": "Retention of prison officer in Service in certain circumstances",
+      "content": "25. Retention of prison officer in Service in certain circumstances\nWhere the period of engagement in the Service of any prison officer is about to expire during any period when Botswana is at war or when a declaration under section 17 of the Constitution that a state of public emergency exists is in force or at a time when, in the Minister's opinion, war or such a declaration is imminent, the Minister may, in writing, direct that the prison officer shall remain in the Service for such period as the Minister shall specify."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART IV Powers and Duties of Prison Officers",
+      "section": "26",
+      "title": "Powers and duties of prison officers",
+      "content": "26. Powers and duties of prison officers\n(1) Every prison officer shall exercise such powers and perform such duties as may be assigned to him in accordance with this Act or any other law and shall obey all lawful orders in respect of the performance of his duties which he may from time to time receive from a prison officer senior to him in the Service.\n(2) A prison officer shall immediately report to his superior officer any contravention of this Act which may come to his notice."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART IV Powers and Duties of Prison Officers",
+      "section": "27",
+      "title": "Standing orders",
+      "content": "27. Standing orders\n(1) The Commissioner may, with the approval of the Minister, make standing orders to be observed by all prison officers.\n(2) In this Act, unless the context otherwise requires, every reference to the Act shall be deemed to include a reference to any standing orders made under this section."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART IV Powers and Duties of Prison Officers",
+      "section": "28",
+      "title": "Duties of officers in charge",
+      "content": "28. Duties of officers in charge\n(1) The officer in charge of a prison shall supervise and control all matters in connection with the prison in accordance with this Act and shall be responsible to the Commissioner for the conduct and treatment of the prison officers and prisoners under his control and for the due observance by the prison officers and prisoners of this Act and of all instructions issued thereunder.\n(2) The officer in charge of a prison shall keep or cause to be kept such records as the Commissioner may require.\n(3) The officer in charge of a prison shall forthwith report to the Commissioner any unusual incident or circumstances involving the good order and discipline of the prison or damage or injury to any building, equipment, prison officer, prisoner or other person under his charge.\n(4) The officer in charge of a prison shall visit every part of the prison daily during working hours and at least once every week at night."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART IV Powers and Duties of Prison Officers",
+      "section": "29",
+      "title": "Prison officers always liable for duty",
+      "content": "29. Prison officers always liable for duty\nEvery prison officer shall be liable for duty at all times and may at any time be detailed for duty in any part of Botswana."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART IV Powers and Duties of Prison Officers",
+      "section": "30",
+      "title": "Powers of prison officers in respect of escaped prisoners, etc.",
+      "content": "30. Powers of prison officers in respect of escaped prisoners, etc.\nFor the purpose of apprehending any prisoner who may have escaped or is attempting to escape from a prison or while being conveyed to or from a prison or for the purpose of preventing the rescue of or an attack on a prisoner, every prison officer shall have all the powers, authority, protection and privileges of a peace officer."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "appellant prisoner",
+      "definition": "a convicted prisoner who is detained in a prison as a result of a conviction which is the subject matter of an appeal which has been entered or lodged but the decision in regard to which has not been given",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "the Commissioner of Prison Service appointed by the President in accordance with section 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "convicted prisoner",
+      "definition": "a prisoner under sentence of a court or who has been convicted by a court and is awaiting sentence or upon whom sentence has, for any reason, been respited",
+      "source_provision": "s2"
+    },
+    {
+      "term": "earnings",
+      "definition": "earnings earned in a prescribed earnings scheme instituted under section 96",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judge",
+      "definition": "a judge of the High Court of Botswana and includes the Chief Justice",
+      "source_provision": "s2"
+    },
+    {
+      "term": "junior officer",
+      "definition": "a prison officer of one of the ranks set out in section 5 in respect of junior officers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "major prison offence",
+      "definition": "an offence declared to be a major prison offence by section 105",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mechanical restraint",
+      "definition": "restraint by the use of handcuffs, leg irons, strait jacket, body belt or any other form of restraint approved by the Minister in writing for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical officer",
+      "definition": "a person appointed to be the medical officer responsible for a prison in accordance with section 56",
+      "source_provision": "s2"
+    },
+    {
+      "term": "minister of religion",
+      "definition": "an accredited representative of any religious body",
+      "source_provision": "s2"
+    },
+    {
+      "term": "minor prison offence",
+      "definition": "an offence declared to be a minor prison offence by section 106",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mutiny",
+      "definition": "a combination between prison officers or a combination between prisoners or a combination between prison officers and prisoners to overthrow or resist or attempt to overthrow or resist lawful authority in the Prison Service or any part thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "offence against discipline",
+      "definition": "an offence declared to be an offence against discipline by section 46",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer in charge",
+      "definition": "a prison officer appointed to be the officer in charge of a prison under section 24",
+      "source_provision": "s2"
+    },
+    {
+      "term": "official visitor",
+      "definition": "a person who is an official visitor by virtue of section 131",
+      "source_provision": "s2"
+    },
+    {
+      "term": "peace officer",
+      "definition": "as in the Criminal Procedure and Evidence Act (Cap. 08:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prison",
+      "definition": "any building, enclosure or place or any part thereof declared to be a prison or temporary prison under section 3 or 4 and includes an open prison",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prisoner",
+      "definition": "any person, whether convicted or not, under detention in a prison",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prison offence",
+      "definition": "a major or minor prison offence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prison officer",
+      "definition": "any senior, junior or subordinate officer, whether permanent or temporary",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prohibited article",
+      "definition": "any article which is not issued to a prisoner by authority of the officer in charge with the approval of the Commissioner or in accordance with this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public authority",
+      "definition": "the Government or an agency thereof, a local authority or statutory corporation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reduced diet",
+      "definition": "a reduced diet awarded as a punishment under section 109 or 110",
+      "source_provision": "s2"
+    },
+    {
+      "term": "release on parole",
+      "definition": "conditional release from prison, before he has completed his term of imprisonment, of a prisoner under section 87",
+      "source_provision": "s2"
+    },
+    {
+      "term": "remission",
+      "definition": "remission granted or restored to a prisoner under section 91",
+      "source_provision": "s2"
+    },
+    {
+      "term": "senior officer",
+      "definition": "a prison officer of one of the ranks set out in section 5 in respect of senior officers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Service",
+      "definition": "the Prison Service referred to in section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "subordinate officer",
+      "definition": "a prison officer of one of the ranks set out in section 5 in respect of subordinate officers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "temporary officer",
+      "definition": "any person recruited temporarily to serve as a prison officer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unconvicted prisoner",
+      "definition": "a person, not being a convicted prisoner, duly committed to prison custody under a writ, warrant or order of any court or an order of detention issued by any person authorised in that behalf by any law",
+      "source_provision": "s2"
+    },
+    {
+      "term": "visiting committee",
+      "definition": "a visiting committee prescribed by section 134",
+      "source_provision": "s2"
+    },
+    {
+      "term": "weapon",
+      "definition": "a baton, riot stick, shield, tear gas grenade or firearm or any other article approved by the Minister in writing for use as a weapon by prison officers.",
+      "source_provision": "s2"
+    }
+  ]
+}

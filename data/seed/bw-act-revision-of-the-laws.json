@@ -1,0 +1,60 @@
+{
+  "id": "bw-act-revision-of-the-laws",
+  "type": "statute",
+  "title": "Revision of the Laws",
+  "title_en": "Revision of the Laws",
+  "short_name": "Revision of the Laws",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/revision-of-the-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Revision of the Laws Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"the Commissioner\" means the person specified as Law Revision Commissioner under section 3;\n\"Law Revision Order\" means an order made by the Commissioner under section 5;\n\"revision date\" has the meaning given by section 4."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Law Revision Commissioner",
+      "content": "3. Law Revision Commissioner\nThe Attorney-General shall be the Law Revision Commissioner for the purposes of this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Duty of Commissioner",
+      "content": "4. Duty of Commissioner\nIt shall be the duty of the Commissioner, in accordance with this Act, to cause to be prepared and published from time to time an edition to be known as the Laws of Botswana containing all the enactments required to be included therein as they stand at a date appointed by the Commissioner (in this Act referred to as a \"revision date\")."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Publication of the Laws of Botswana",
+      "content": "5. Publication of the Laws of Botswana"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Commissioner",
+      "definition": "the person specified as Law Revision Commissioner under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Law Revision Order",
+      "definition": "an order made by the Commissioner under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "revision date",
+      "definition": "given by section 4.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bw-sub-mental-disorders-subsidiary-legislation",
+  "type": "statute",
+  "title": "Mental Disorders: Subsidiary Legislation",
+  "title_en": "Mental Disorders: Subsidiary Legislation",
+  "short_name": "Mental Disorders: Subsidiar...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/mental-disorders-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Mental Disorders (Forms) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Forms",
+      "content": "2. Forms\nThe forms set out in the Schedule and specified in the table of forms set out herein are prescribed for the purposes of the sections of the Act which are set in relation to such forms in such table.\nTABLE OF FORMS\nForm\nNature of Form\nRelevant sections\n1\nApplication for Reception Order\n5\n2\nMedical Practitioner's Certificate as to Mental State of Patient\n6, 16, 17 or 29(1)\n3\nMedical Practitioner's Certificate as to desirability of Further Detention of Patient\n15\n4\nReception Order\n9\n5\nApplication by Police Officer for Reception Order\n12\n6\nUrgent Application\n17\n7\nApplication for Reception Order\n20\n8\nOrder for Further Detention\n21\n9\nMaster's Order for Further Detention\n27(1)( a )\n10\nDirection for Patient's Removal to an Institution\n28\n11\nSuperintendent's Annual Report on Patient\n32(1)\n12\nNotification of Death or Escape of Detained Patient\n32(3)\n13\nMedical Certificate that Patient no longer mentally disordered or defective\n34\n14\nApplication for Own Admission as Voluntary Patient\n36(1)\n15\nApplication for admission of person under 16 years as voluntary patient\n36(2)\n16\nMedical Recommendation\n36\n17\nWarrant for Removal of Patient from Botswana\n52"
+    }
+  ],
+  "definitions": []
+}

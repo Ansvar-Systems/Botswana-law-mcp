@@ -1,0 +1,78 @@
+{
+  "id": "bw-act-extradition",
+  "type": "statute",
+  "title": "Extradition",
+  "title_en": "Extradition",
+  "short_name": "Extradition",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/extradition",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Extradition Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act, unless the context otherwise requires—\n\"arrangement\" includes a convention, protocol, agreement, scheme or treaty;\n\"designated country\" means a requesting country which is declared as a designated country under section 4, and to which a fugitive criminal may be extradited even though there exists no arrangement between Botswana and that country;\n[ 9 of 1997, s. 2. ]\n\"fugitive criminal\" means any person accused or convicted of an extradition crime committed within the jurisdiction of any other country who is in or is suspected of being in Botswana;\n\"magistrate\" means any person appointed as Magistrate Grade I or over in accordance with the Magistrates' Courts Act (Cap. 04:04);\n\"related offence\" has the meaning assigned to it under section 7(2);\n\"requesting country\" means any country to which this Act applies which requests the surrender of a fugitive criminal;\n\"warrant\" , in the case of any country, includes any judicial document authorising the arrest of a person accused or convicted of a crime.\n(2) Subject to the provisions of section 3, for the purposes of this Act \"extradition crime\" means a crime which, if committed within the jurisdiction of Botswana, would be an offence punishable with imprisonment for a term of not less than two years or other greater penalty, and includes an offence of purely fiscal character."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II General Provisions relating to Extradition",
+      "section": "3",
+      "title": "Application of Act",
+      "content": "3. Application of Act\n(1) Where an arrangement has been made with any country, with respect to the surrender to that country of any fugitive criminal, the Minister may, having regard to reciprocal provisions under the law of that country, by order published in the Gazette , direct that this Act shall apply in the case of that country subject to such conditions, exceptions and qualifications as may be specified in the order.\n(2) An order made under subsection (1) shall recite or embody the terms of the arrangement and shall not remain in force for any longer period than the arrangement.\n(3) Any order under subsection (1) may prescribe what crimes shall be deemed to be extradition crimes for the purposes of the order and this Act.\n(4) Where an arrangement has not been made under subsection (1) with respect to the surrender to a country of any fugitive criminal, the President may, by order published in the Gazette , direct that this Act shall apply in the case of that country subject to such conditions, exceptions and qualifications as may be specified in the order.\n[ 12 of 2018, s. 2. ]\n(5) Any order under subsection (4) may prescribe what crimes shall be deemed to be extradition crimes for the purposes of the order and this Act.\n[ 12 of 2018, s. 2. ]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II General Provisions relating to Extradition",
+      "section": "4",
+      "title": "Declaration of designated countries",
+      "content": "4. Declaration of designated countries\n(1) For the purposes of this Act, and notwithstanding the provisions of section 3, the Minister may, by order published in the Gazette , declare any Commonwealth country to be a designated country.\n[ 9 of 1997, s. 3. ]\n(2) An order made under subsection (1) may prescribe what crimes shall be deemed to be extradition crimes for the purposes of the order and of this Act, and may be made whether or not the designated country has made any provision for the extradition of any fugitive criminal from its territory to Botswana.\n[ 9 of 1997, s. 3. ]\n(3) The Minister may revoke any order made under this section, or remove any country from the list of designated countries where he considers that it would be in the interest of Botswana to do so."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "arrangement",
+      "definition": "a convention, protocol, agreement, scheme or treaty",
+      "source_provision": "s2"
+    },
+    {
+      "term": "designated country",
+      "definition": "a requesting country which is declared as a designated country under section 4, and to which a fugitive criminal may be extradited even though there exists no arrangement between Botswana and that country",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fugitive criminal",
+      "definition": "any person accused or convicted of an extradition crime committed within the jurisdiction of any other country who is in or is suspected of being in Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "magistrate",
+      "definition": "any person appointed as Magistrate Grade I or over in accordance with the Magistrates' Courts Act (Cap. 04:04)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "related offence",
+      "definition": "assigned to it under section 7(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "requesting country",
+      "definition": "any country to which this Act applies which requests the surrender of a fugitive criminal",
+      "source_provision": "s2"
+    },
+    {
+      "term": "extradition crime",
+      "definition": "a crime which, if committed within the jurisdiction of Botswana, would be an offence punishable with imprisonment for a term of not less than two years or other greater penalty, and includes an offence of purely fiscal character.",
+      "source_provision": "s2"
+    }
+  ]
+}

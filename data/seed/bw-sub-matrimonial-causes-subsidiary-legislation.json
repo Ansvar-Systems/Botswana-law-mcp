@@ -1,0 +1,55 @@
+{
+  "id": "bw-sub-matrimonial-causes-subsidiary-legislation",
+  "type": "statute",
+  "title": "Matrimonial Causes: Subsidiary Legislation",
+  "title_en": "Matrimonial Causes: Subsidiary Legislation",
+  "short_name": "Matrimonial Causes: Subsidi...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/matrimonial-causes-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Rules may be cited as the Matrimonial Causes Rules."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Rules unless the context otherwise requires—\n\"court\" means the High Court of Botswana;\n\"Registrar\" means the Registrar of the High Court of Botswana."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application of other rules",
+      "content": "3. Application of other rules\nSubject to the provisions of these Rules and of any enactment, the Rules of the High Court shall apply with the necessary modifications to the practice and procedure in matrimonial proceedings in the High Court."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Commencement of proceedings",
+      "content": "4. Commencement of proceedings\n(1) An application under section 21 of the Act for leave to bring an action for divorce before the expiration of two years from the date of the marriage shall be made by notice of motion.\n(2) To the application must be attached—\n( a ) an affidavit by the applicant exhibiting a copy of the proposed declaration and stating—\n(i) the grounds of the application;\n(ii) particulars of the hardship or depravity alleged;\n(iii) whether there has been any previous application under the said section 21;\n(iv) whether any, and if so what, attempts at reconciliation have been made;\n(v) particulars of any circumstances which may assist the court in determining whether there is a reasonable probability of reconciliation between the parties;\n( b ) a copy of the application and of the supporting affidavit for service on the defendant; and\n( c ) unless otherwise directed on an application made ex parte , a certificate of the marriage.\n(3) Unless otherwise directed the application shall be heard in chambers."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Cause to be begun by writ of summons",
+      "content": "5. Cause to be begun by writ of summons\n(1) Every cause other than an application under section 21 of the Act shall be begun by a writ of summons to which shall be attached a declaration.\n(2) Unless otherwise directed, every declaration shall contain the information set out in the Schedule, as near as may be in the order there set out, and any further or other information required by such of the following paragraphs of this rule as may be applicable.\n(3) If the action has been brought for a decree of nullity under section 22(3)( b ), ( c ) or ( d ) of the Act, the declaration shall state whether the plaintiff was at the time of the marriage ignorant of the facts alleged and whether marital intercourse with the consent of the plaintiff has taken place since the plaintiff discovered the existence of the grounds for a decree.\n(4) If the action has been brought for a decree on the ground contained in section 15(1)( d ) of the Act, then the plaintiff shall attach to his declaration a document of consent as set out in Form 1 in the Schedule.\n(5) The plaintiff's declaration shall also contain sufficient information as will enable the defendant to understand the consequences of his signing the document, and that the defendant is not obliged to sign it, but that if he signs it a decree of divorce may be pronounced in favour of the plaintiff.\n(6) If the action has been brought for a decree of presumption of death and dissolution of marriage, the declaration shall state—\n( a ) the last place at which the parties to the marriage cohabited;\n( b ) the circumstances under which the parties ceased to cohabit;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "court",
+      "definition": "the High Court of Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of the High Court of Botswana.",
+      "source_provision": "s2"
+    }
+  ]
+}

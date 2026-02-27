@@ -1,0 +1,105 @@
+{
+  "id": "bw-act-casino-repealed",
+  "type": "statute",
+  "title": "Casino",
+  "title_en": "Casino",
+  "short_name": "Casino",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/casino-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Casino Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Board\" means the Casino Control Board established by section 3;\n\"casino\" means premises on which gaming is conducted and in respect of which a licence is in force;\n\"game\" means a game of chance played for money or money's worth;\n\"gaming\" means the playing of any game;\n\"gaming area\" means an area in a casino specified and defined under section 8(2);\n\"gaming revenue\" means the total amount of all sums received as winnings by the licensee, including any amount deducted by him for his benefit from any stake or bank in any game, less only the total of all sums paid out by him as losses in respect of games played under his licence;\n\"gaming room\" means a room in the gaming area of a casino for gaming, and any adjoining room or verandah;\n\"intoxicating liquor\" has the same meaning as in the Liquor Act (Cap. 43:11);\n\"licence\" means a licence granted under section 8 to establish and operate a casino;\n\"licensee\" means the holder of a licence;\n\"money's worth\" includes any counter or chip representing money or any article of value."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Casino Control Board",
+      "section": "3",
+      "title": "Establishment and constitution of Board",
+      "content": "3. Establishment and constitution of Board\n(1) There is hereby established a Board to be known as the Casino Control Board.\n(2) The Board shall consist of a Chairman, who shall not be a public officer, and two other members, who shall be public officers, all of which members shall be appointed by the Minister by notice in the Gazette .\n(3) A person shall not be qualified to be appointed a member of the Board if he—\n( a ) is a member of the National Assembly;\n( b ) has been declared insolvent or adjudged or otherwise declared bankrupt under any law in force in Botswana or elsewhere and has not been discharged, or has made a composition with his creditors and has not paid his debts in full; or\n( c ) has been convicted of any offence involving dishonesty.\n(4) A member of the Board shall hold office for such period, not exceeding three years, as may be specified in the notice appointing him and on the expiration of such period shall be eligible for re-appointment.\n(5) There shall be paid to the Chairman of the Board out of public funds such remuneration and allowances as the Minister may prescribe.\n(6) A quorum for a meeting of the Board shall be two members.\n(7) The Minister shall appoint a Secretary to the Board."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Casino Control Board",
+      "section": "4",
+      "title": "Temporary members",
+      "content": "4. Temporary members\nWhen the Minister is satisfied that a member of the Board is temporarily incapacitated by illness, absence or other cause from satisfactorily performing the duties of his office, the Minister may by notice in the Gazette appoint temporarily to act in his place a person other than a public officer, in the case of the Chairman, or a public officer, in the case of a member other than the Chairman, for such period not exceeding six months as the Minister may specify."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Casino Control Board",
+      "section": "5",
+      "title": "Vacation of office",
+      "content": "5. Vacation of office\n(1) The Chairman or any other member may at any time resign his office by notice in writing addressed to the Minister,and on the receipt of such notice by the Minister the office of such member shall become vacant.\n(2) The Minister may by instrument in writing require any member to vacate his office if, after giving such member an opportunity to be heard, the Minister is satisfied that such member—\n( a ) has been absent from meetings of the Board without reasonable excuse for a period exceeding six consecutive months;\n( b ) is unable to exercise the functions of his office by reason of illness, absence or other cause and has been, or is likely to be, so unable for a period exceeding six months; or"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Casino Control Board established by section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "casino",
+      "definition": "premises on which gaming is conducted and in respect of which a licence is in force",
+      "source_provision": "s2"
+    },
+    {
+      "term": "game",
+      "definition": "a game of chance played for money or money's worth",
+      "source_provision": "s2"
+    },
+    {
+      "term": "gaming",
+      "definition": "the playing of any game",
+      "source_provision": "s2"
+    },
+    {
+      "term": "gaming area",
+      "definition": "an area in a casino specified and defined under section 8(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "gaming revenue",
+      "definition": "the total amount of all sums received as winnings by the licensee, including any amount deducted by him for his benefit from any stake or bank in any game, less only the total of all sums paid out by him as losses in respect of games played under his licence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "gaming room",
+      "definition": "a room in the gaming area of a casino for gaming, and any adjoining room or verandah",
+      "source_provision": "s2"
+    },
+    {
+      "term": "intoxicating liquor",
+      "definition": "as in the Liquor Act (Cap. 43:11)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence granted under section 8 to establish and operate a casino",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "the holder of a licence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "money's worth",
+      "definition": "any counter or chip representing money or any article of value.",
+      "source_provision": "s2"
+    }
+  ]
+}

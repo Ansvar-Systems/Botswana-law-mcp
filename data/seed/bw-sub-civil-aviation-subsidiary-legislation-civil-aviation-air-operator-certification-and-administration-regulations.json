@@ -1,0 +1,645 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-air-operator-certification-and-administration-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (air Operator Certification and Administration) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (air Operator Certification and Administration) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-air-operator-certification-and-administration-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Air Operator Certification and Administration) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"act of unlawful interference\" means an act or attempted act which is intended or likely to jeopardise the safety of civil aviation;\n\"acceptance\" means a State may accept a matter submitted to it for review as being in compliance with the applicable standards if the State does not specifically reject all or a portion of the matter under review;\n\"accountable executive\" means a person who has corporate authority, for ensuring that all operations and maintenance activities can be financed and carried out to the standard required by the Authority, and any additional requirements defined by the operator;\n\"aerodrome operating minima\" means the limits of usability of an aerodrome for—\n( a ) take-off, expressed in terms of runway visual range and/or visibility and, if necessary, cloud conditions;\n( b ) landing in 2D instrument approach operations, expressed in terms of visibility and/or runway visual range, minimum descent altitude/height (MDA/H) and, if necessary, cloud conditions; and\n( c ) landing in 3D instrument approach operations, expressed in terms of visibility and/or runway visual range and decision altitude/height (DA/H) as appropriate to the type and/or category of the operation;\n\"aeroplane\" means a power-driven heavier-than-air aircraft, deriving its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight;\n\"aircraft\" means any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface;\n\"aircraft operating manual\" means a manual, acceptable to the state of the operator, containing normal, abnormal and emergency procedures, checklists, limitations, performance information, details of the aircraft systems, and other material relevant to the operation of the aircraft;\n\"aircraft technical log\" means the documentation for an aircraft that includes the maintenance record for the aircraft and a record for each flight made by the aircraft;\n\"aircraft tracking\" means a process, established by the operator, that maintains and updates, at standardised intervals, a ground-based record of the four dimensional position of individual aircraft in flight;\n\"Air Operator Certificate\" or \"AOC\" means a certificate authorising an operator to carry out specified commercial air transport operations;\n\"airworthy\" means the status of an aircraft, engine, propeller or part when it conforms to its approved design and is in a condition for safe operation;\n\"approval\" means an active response by the State to a matter submitted for its review and constitutes a finding or determination of compliance with applicable standards and is evidenced by the signature of the approving official, the issuance of a document or certificate, or some other formal action taken by the State;\n\"cabin crew member\" means a crew member who performs, in the interest of safety of passengers, duties assigned by the operator or the Pilot-In-Command of the aircraft but who shall not act as a flight crew member;\n\"commercial air transport operation\" means an aircraft operation involving the transport of passengers, cargo or mail for remuneration or hire;\n\"competency in civil aviation\" means that an individual has technical qualification and management experience acceptable to the Authority for that specific position;\n\"Configuration Deviation List\" or \"CDL\" means a list established by the organisation responsible for the type design with the approval of the state of design which identifies any external parts of an aircraft type which may be missing at the commencement of a flight, and which contains, where necessary, any information on associated operating limitations and performance correction;\n\"contaminated runway\" means a runway is contaminated when a significant portion of the runway surface area (whether in isolated areas or not) within the length and width being used is covered by one or more of the substances listed in the runway surface condition descriptors;\n\"continuing airworthiness\" means the set of processes, by which an aircraft, engine, propeller or part complies with the applicable airworthiness requirements and remains in a condition for safe operation throughout its operating life;\n\"continuing airworthiness record\" means records which are related to the continuing airworthiness status of an aircraft, engine, propeller or associated parts;\n\"crew member\" means a person assigned by an operator to duty on an aircraft during a flight duty period;\n\"damp lease\" means a wet leased aircraft that includes a cockpit crew but not cabin attendants;\n\"dangerous goods\" means articles or substances which are capable of posing a risk to health, safety, property or the environment and which are shown in the list of dangerous goods in the Technical Instructions or which are classified according to those Instructions;\n\"duty\" means any task that flight or cabin crew members are required by the operator to perform including, for example, flight duty, administrative work, training, positioning and standby when it is likely to induce fatigue;\n\"dry lease\" means a lease where the aircraft is provided without crew;\n\"duty period\" means a period which starts when a flight or cabin crew member is required by an operator to report for or to commence a duty and ends when that person is free from all duties;\n\"engine\" means a unit used or intended to be used for aircraft propulsion and consists of at least those components and equipment necessary for functioning and control, but excludes the propeller/rotors, if applicable;\n\"enhanced vision system\" or \"EVS\" means a system to display electronic real-time images of the external scene achieved through the use of image sensors;\n\"fatigue\" means a physiological state of reduced mental or physical performance capability resulting from sleep loss, extended wakefulness, circadian phase, and/or workload (mental and/or physical activity) that can impair a person's alertness and ability to perform safety-related operational duties;\n\"fatigue risk management system\" or \"FRMS\" means a data driven means of continuously monitoring and managing fatigue-related safety risks, based upon scientific principles and knowledge as well as operational experience that aims to ensure relevant personnel are performing at adequate levels of alertness;\n\"flight operations officer/flight dispatcher\" means a person designated by the operator to engage in the control and supervision of flight operations, whether licensed or not, suitably qualified in accordance with Civil Aviation (Personnel Licensing) Regulations (Cap. 71:01 (Sub. Leg.)), who supports, briefs or assists the Pilot-In-Command the safe conduct of the flight;\n\"head-up display\" or \"HUD\" means a display system that presents flight information into the pilots forward external field of view;\n\"human factor principles\" means principles which apply to aeronautical design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance;\n\"Instrument Flight Rules\" or \"IFR\" means rules that govern the procedures for conducting flight under instrument meteorological conditions;\n\"Instrument Meteorological Conditions\" or \"IMC\" means meteorological conditions expressed in terms of visibility, distance from cloud, and ceiling, less than the minima specified for Visual Meteorological Conditions;\n\"interchange agreement\" means a leasing agreement which permits an air carrier to dry lease and take or relinquish operational control of an aircraft at an airport;\n\"large aircraft\" means—\n(i) an aeroplane of a maximum certificated take-off mass of 5 700 kg or more; or\n(ii) a helicopter which has a maximum certified take-off mass of 3 175 kg or more;\n\"Maintenance Control Manual\" or \"MCM\" means a document that describes the operator's procedures necessary to ensure that all scheduled and unscheduled maintenance is performed on the operator's aircraft on time and in a controlled and satisfactory manner;\n\"Maintenance Organisations Procedures Manual\" means a document endorsed by the head of a maintenance organisation which details the maintenance organisation's structure and management responsibilities, scope of work, description of facilities, maintenance procedures and quality assurance or inspection systems;\n\"maintenance release\" means a document which contains a certification confirming that the maintenance work to which it relates has been completed in a satisfactory manner in accordance with appropriate airworthiness requirements;\n\"Master Minimum Equipment List\" means a list established for a particular aircraft type by the organisation responsible for the type design with the approval of the state of design containing items, one or more of which is permitted to be unserviceable at the commencement of a flight and may be associated with special operating conditions, limitations or procedures;\n\"Minimum Equipment List\" or \"MEL\" means a list which provides for the operation of the aircraft, subject to specified conditions, with particular equipment inoperative, prepared by an operator in conformity with, or more restrictive than, the Master Minimum Equipment List established for the aircraft type;\n\"operational control\" means the exercise of authority over the initiation, continuation, diversion or termination of a flight in the interest of safety of the aircraft and the regularity and efficiency of the flight;\n\"operational flight plan\" means the operator's plan for the safe conduct of the flight based on consideration of aeroplanes performance, other operating limitations and relevant expected conditions on the route to be followed and at the aerodromes concerned;\n\"operational personnel\" means persons employed by the operator to ensure that the aircraft flight is conducted in a safe manner and may consist of crew members;\n\"operations manual\" means a manual containing procedures, instructions and guidance for use by operational personnel in the execution of their duties;\n\"operations specifications\" means the authorisation, conditions and limitations associated with the AOC and subject to the condition in the operations manual;\n\"operator\" means a person, organisation or enterprise engaged in or offering to engage in an aircraft operation;\n\"passenger aircraft\" means an aircraft that carries any person other than a crew member, an operator's employee in an official capacity, an authorised representative of an appropriate national authority or a person accompanying a consignment or other cargo;\n\"Pilot-In-Command\" or \"PIC\" means the pilot designated by the operator, or in the case of general aviation, the owner, as being in command and charged with the safe operation of a flight;\n\"quality control\" means the regulatory inspection process through which actual performance is compared with standards such as the maintenance of standards of manufactured aeronautical products;\n\"quality system\" means the organisational structure, responsibilities, procedures, processes and resources for implementing quality management;\n\"safety manager\" means the manager accountable to the Authority and who is responsible for the development and maintenance of an effective Safety Management System;\n\"Safety Management System\" or \" SMS \" means a systematic approach to managing safety, including the necessary organisational structures, accountability, responsibility, policies and procedures;\n\"state of design\" means the state that has jurisdiction over the organisation responsible for the type design;\n\"state of operator\" means the state in which the operator's principal place of business is located, or if there is no such business, the operator's permanent place of residence;\n\"state of registry\" means the state on whose register the aircraft is entered;\n\"training to proficiency\" means the process of the che"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\n(1) These Regulations apply to air operators carrying passengers, cargo or mail for remuneration or hire whose principal place of business or permanent residence is located in Botswana.\n(2) These Regulations apply to all commercial air transport operations by air operator certificate holders for which Botswana is the state of the operator, except where specifically stated.\n(3) These Regulations prescribe requirements for the original certification and continued validity of an AOC issued by the Authority."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Air Operator Certificate (regs 4-16)",
+      "section": "4",
+      "title": "Air Operator Certificate",
+      "content": "4. Air Operator Certificate\n(1) An operator shall not engage in commercial air transport operations unless in possession of a valid Air Operator Certificate issued by the Authority.\n(2) A person shall not operate an aircraft in commercial air transport operations which are not authorised by the terms and conditions of the AOC.\n(3) An air operator certificate holder shall at all times, operate in compliance with the terms, conditions of issuance and maintenance requirements of an AOC.\n(4) The AOC shall authorise the operator to conduct commercial air transport operations in accordance with the operations specifications.\n(5) The AOC and its associated operations specifications shall follow the layout set out in Schedule 1.\n(6) An AOC and its associated operations specifications shall define the operations for which the operator is authorised."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Air Operator Certificate (regs 4-16)",
+      "section": "5",
+      "title": "Certification and surveillance of air operator certification",
+      "content": "5. Certification and surveillance of air operator certification\nThe Authority shall establish a system for both the certification and the continued surveillance of the operator to ensure that the required standards of operations established in these Regulations are maintained."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Air Operator Certificate (regs 4-16)",
+      "section": "6",
+      "title": "Application for an Air Operator Certificate",
+      "content": "6. Application for an Air Operator Certificate\n(1) Any person who wishes to apply for an AOC shall do so in the manner and form specified under Form B set out in Schedule 1.\n(2) The certification process shall follow a five phase approach, the—\n( a ) pre-application phase;\n( b ) formal application phase;\n( c ) document evaluation phase;\n( d ) demonstration and inspection phase; and\n( e ) certification phase.\n(3) The formal application phase shall be made in a manner determined by the Authority.\n(4) An application for an AOC shall be made to the Authority at least 180 days before the date of intended operation.\n(5) An application shall be accompanied by an application fee as set out in Schedule 2.\n(6) Any person who operates an aircraft in commercial air transport without a valid AOC commits an offence and is liable to a fine not exceeding P5 000 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Air Operator Certificate (regs 4-16)",
+      "section": "7",
+      "title": "Issue of Air Operator Certificate",
+      "content": "7. Issue of Air Operator Certificate\n(1) An applicant under this regulation may be issued with an AOC as set out in Form A of Schedule 1 if, after investigation, the Authority is satisfied that the applicant—\n( a ) has at least 51 per cent of its voting rights held, and effective control exercised by citizens of Botswana or by Government department, agency or a parastatal or entity which is under any Government department;\n( b ) has its principal place of business and its registered office, if any, located in Botswana;\n( c ) meets the applicable regulations and standards for being issued with an AOC; and\n( d ) is properly and adequately equipped for safe operations in commercial air transport and maintenance of the aircraft.\n(2) The Authority may refuse an application for an Air Operator Certificate where—\n( a ) the applicant is not properly or adequately equipped or is not able to conduct safe operations in commercial air transport;\n( b ) the applicant previously held an Air Operator Certificate which was revoked; or\n( c ) an individual that contributed to the circumstances causing the revocation process of an AOC obtains a substantial ownership or is employed in a senior management position.\n(3) The issue of an AOC by the Authority shall be dependent upon the operator demonstrating an adequate organisation, method of control and supervision of flight operations, training programme as well as ground handling and maintenance arrangements consistent with the nature, extent of the operations specified, and payment of a fee set out in Schedule 2.\n(4) An air operator certificate holder may apply in writing to the Authority for the issue of a duplicate certificate where the AOC is lost, destroyed or mutilated subject to payment of a fee set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Air Operator Certificate (regs 4-16)",
+      "section": "8",
+      "title": "Requirement of carrying certified true copies",
+      "content": "8. Requirement of carrying certified true copies\n(1) An aeroplane being operated under an AOC issued under these Regulations shall carry a certified true copy of the original AOC and a certified true copy of the original operations specifications relevant to the aeroplane type, issued in conjunction with the certificate.\n(2) When the certificate and the associated operations specifications are issued by the state of the operator in a language other than English, an English translation shall be included."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Air Operator Certificate (regs 4-16)",
+      "section": "9",
+      "title": "Contents of Air Operator Certificate",
+      "content": "9. Contents of Air Operator Certificate\n(1) The AOC shall contain at least the following information and shall follow the layout set out under Part I of Schedule 1—\n( a ) the state of the operator and the issuing authority;\n( b ) the AOC number and its expiration date;\n( c ) the operator name, trading name (if different) and address of the principal place of business;\n( d ) the date of issue and the name, signature and title of the Authority representative; and\n( e ) the location, in a controlled document carried on board, where the contact details of operational management can be found.\n(2) The operations specifications associated with the AOC shall contain information listed in Schedule 1, and shall follow the layout of Schedule 1, Part II – Operations Specifications."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II Air Operator Certificate (regs 4-16)",
+      "section": "10",
+      "title": "Duration of Air Operator Certificate",
+      "content": "10. Duration of Air Operator Certificate\n(1) An AOC or any portion thereof issued by the Authority shall be valid for 24 months unless—\n( a ) it is amended, suspended, revoked or otherwise terminated by the Authority under this Part;\n( b ) surrendered to the Authority by the holder; or\n( c ) the air operator certificate holder suspends operations for more than 60 days.\n(2) The continued validity of an AOC shall depend upon the operator maintaining the requirements of these Regulations under the supervision of the Authority."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II Air Operator Certificate (regs 4-16)",
+      "section": "11",
+      "title": "Amendment of Air Operator Certificate",
+      "content": "11. Amendment of Air Operator Certificate\n(1) The Authority may amend any AOC on payment of a fee set out in Schedule 2 and if—\n( a ) the Authority determines that safety in commercial air transport and the public interest require the amendment; or\n( b ) the air operator certificate holder applies for an amendment, and the Authority determines that safety in commercial air transport and the public interest allows the amendment.\n(2) Where the Authority stipulates, by a notice in writing, that an emergency exists that requires immediate amendment of the AOC, such an amendment shall be effective without stay on the date the air operator certificate holder receives the notice.\n(3) An air operator certificate holder may appeal the amendment provided for under subregulation (2), but shall operate in accordance with it, until such a time the amendment is withdrawn.\n(4) Any amendments proposed by the Authority, other than emergency amendments shall become effective 30 days after notice to the air operator certificate holder, except where the air operator certificate holder appeals the proposal in writing prior to the effective date.\n(5) Any amendments proposed by the air operator certificate holder shall be made at least 30 days prior to the intended date of any operation under that amendment.\n(6) A person shall not perform a commercial air transport operation for which an AOC amendment is required unless the person has received notice of the approval from the Authority.\n(7) Any person who contravenes this regulation commits an offence and is liable to a fine not exceeding P5 000 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II Air Operator Certificate (regs 4-16)",
+      "section": "12",
+      "title": "Renewal of Air Operator Certificate",
+      "content": "12. Renewal of Air Operator Certificate\n(1) An air operator certificate holder may apply for renewal of an AOC at least 60 days before the date of expiry of the certificate, as set out in Form A of Schedule 1.\n(2) Where an application for renewal is made within a period not exceeding six months after the expiry of the AOC, the Authority may renew the AOC subject to the payment of a fee as set out in Schedule 2.\n(3) A fee payable in accordance with subregulation (2) shall be a sum equal to one quarter of the renewal fee multiplied by the number of months which have elapsed since the date on which the validity of the AOC expired, calculated to the nearest pula.\n(4) An application for the renewal of an AOC that expired six months or more prior to the application for renewal shall be treated as an application for a new AOC and the provisions of regulation 6 shall apply."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II Air Operator Certificate (regs 4-16)",
+      "section": "13",
+      "title": "Suspension of Air Operator Certificate",
+      "content": "13. Suspension of Air Operator Certificate\nThe Authority may suspend an AOC or a part thereof, where—\n( a ) an inspection made for the purpose of ascertaining whether the operator remains compliant has shown that the operator is not compliant;\n( b ) the operator has contravened any of the provisions of the Act; or\n( c ) the operator has failed to comply with any other condition specified by the Authority."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART II Air Operator Certificate (regs 4-16)",
+      "section": "14",
+      "title": "Revocation of Air Operator Certificate",
+      "content": "14. Revocation of Air Operator Certificate\nThe Authority may revoke an AOC where—\n( a ) the continuous operations of the operator are against public interest;\n( b ) the air operator certificate holder has been convicted of an offence under the Act;\n( c ) any inspection made for the purpose of ascertaining whether the operator remains compliant has shown that the operator is not compliant; and\n( d ) the air operator certificate holder fails to comply with regulation 12(1)."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART II Air Operator Certificate (regs 4-16)",
+      "section": "15",
+      "title": "Access for inspection",
+      "content": "15. Access for inspection\n(1) An air operator certificate holder shall, for purposes of determining compliance with these Regulations—\n( a ) grant the Authority access to and co-operation with any of its organisations, facilities and aircraft;\n( b ) ensure that the Authority is granted access to and co-operation with any organisation or facilities that it has contracted for services associated with commercial air transport operations and maintenance; and\n( c ) grant the Authority free and uninterrupted access to the flight deck of the aircraft during flight operations.\n(2) An air operator certificate holder shall provide to the Authority, a forward observer's seat on each of the air operator certificate holder's aircraft from which the flight crew's actions and conversations may be easily observed and heard.\n(3) Any person who contravenes this regulation commits an offence and is liable to a fine not exceeding P5 000 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART II Air Operator Certificate (regs 4-16)",
+      "section": "16",
+      "title": "Conducting tests and inspections",
+      "content": "16. Conducting tests and inspections\n(1) The Authority shall conduct ongoing validation of the air operator certificate holder's continued eligibility to hold its AOC and associated approvals.\n(2) An air operator certificate holder shall allow the Authority to conduct tests and inspections, at any time or place, to determine whether an air operator certificate holder is compliant with any written laws and AOC terms and conditions.\n(3) An air operator certificate holder shall make available at its principal base of operations—\n( a ) all portions of its current AOC;\n( b ) all portions of its Operations and Maintenance Manuals; and\n( c ) a current listing that includes the location and individual positions responsible for each record, document and report required to be kept by the air operator certificate holder under the applicable laws or standards.\n(4) The failure by any air operator certificate holder to make available to the Authority upon request, all portions of the AOC, Operations and Maintenance Manuals and any required record, document or report shall form grounds for suspension of all or part of the AOC."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "17",
+      "title": "Base of operations",
+      "content": "17. Base of operations\n(1) An air operator certificate holder that is not authorised to conduct maintenance under its AOC shall maintain a principal base of operations.\n(2) An air operator certificate holder that is authorised to conduct maintenance under its AOC shall maintain a principal base of operations and maintenance.\n(3) An air operator certificate holder may establish a main operations base and a main maintenance base at the same location or at separate locations.\n(4) An air operator certificate holder shall give the Authority at least 30 days written notice of its intention to establish or change the location of its base."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "18",
+      "title": "Management personnel required for commercial air transport services",
+      "content": "18. Management personnel required for commercial air transport services\n(1) An air operator certificate holder shall have an accountable executive, approved by the Authority, who has corporate authority for ensuring that all flight operations and maintenance activities can be financed and carried out to the highest degree of safety standards required by the Authority.\n(2) When conducting commercial air transport operations, the air operator certificate holder shall have qualified personnel, with proven competency in civil aviation, available and serving full-time in the following positions or their equivalent—\n( a ) Operations Manager;\n( b ) Chief Pilot;\n( c ) Safety Manager;\n( d ) Maintenance Manager; and\n( e ) Quality Manager.\n(3) The Authority may approve positions or a number of positions, other than those listed at subregulation (2), if the air operator certificate holder is able to show that it can perform the operation with the highest degree of safety under the direction of fewer or different categories of management personnel due to the—\n( a ) the kind of operations involved;\n( b ) the number of aircraft used; and\n( c ) the area of operation.\n(4) An air operator certificate holder shall comply with management personnel requirements as set out in Schedule 3.\n(5) A person who serves in any of the positions required or approved under this regulation and anyone in a position to exercise control over operations conducted under the AOC shall—\n( a ) be qualified through training, experience, and expertise; and\n( b ) discharge their duties to meet applicable legal requirements and to maintain safe operations.\n(6) A person who serves in the positions at subregulations (2) and (3) shall have a full understanding of the following materials with respect to their air operator certificate holder's operation—\n( a ) aviation safety standards and safe operating practices;\n( b ) the air operator certificate holder's operations specifications;\n( c ) all appropriate maintenance and airworthiness requirements in these Regulations; and\n( d ) the manuals required under these Regulations.\n(7) An air operator certificate holder shall—\n( a ) state in the general policy provisions of the operations manual the duties, responsibilities and authority of personnel required under this regulation;\n( b ) list in the operations manual the names and business addresses of the individuals assigned to those positions; and\n( c ) notify the Authority in writing, within 10 days of any vacancy in any position listed under subregulation (2).\n(8) An air operator certificate holder shall not effect any changes without the written approval of the Authority with respect to—\n( a ) the accountable executive; and\n( b ) any of the management personnel specified in the operations manual.\n(9) Any person who contravenes subregulation (8) commits an offence and is liable to a fine not exceeding P5 000 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "19",
+      "title": "Quality system",
+      "content": "19. Quality system\n(1) An air operator certificate holder shall establish a quality system and designate a quality manager to monitor compliance with, and adequacy of, procedures required to ensure safe operational practices and airworthy aircraft.\n(2) Compliance monitoring shall include a feedback system to the accountable executive to ensure corrective action as necessary.\n(3) An air operator certificate holder shall ensure that the quality system includes a quality assurance programme that contains procedures designed to verify that all operations are being conducted in accordance with all applicable requirements, standards and procedures.\n(4) The Authority shall approve an air operator certificate holders quality system and quality manager.\n(5) An air operator certificate holder shall describe the quality system in relevant documentation as specified in Schedule 4.\n(6) Notwithstanding subregulation (1), the Authority may accept the nomination of two Quality Managers, one for operations and one for maintenance, provided that the operator has designated one Quality Management Unit to ensure that the quality system is applied uniformly throughout the entire operation.\n(7) Where the air operator certificate holder is also an approved maintenance organisation, the air operator certificate holder's quality management system may be combined with the requirements of an approved maintenance organisation and submitted for approval to the Authority, and state of registry for aircraft not registered in Botswana."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "20",
+      "title": "Submission and revision of policy and procedure manual",
+      "content": "20. Submission and revision of policy and procedure manual\n(1) A manual required under these Regulations shall—\n( a ) include instructions and information necessary to allow the personnel concerned to perform their duties and responsibilities with a high degree of safety;\n( b ) be in a form that is easy to revise and contains a system which allows personnel to determine the current revision status of each manual;\n( c ) have a date of the last revision on each page concerned;\n( d ) not be contrary to any applicable Regulations and the air operator certificate holder's operations specifications; and\n( e ) include a reference to appropriate civil aviation regulations.\n(2) A person shall not cause the use of any policy and procedure for flight operations or airworthiness function without co-ordinating with the Authority.\n(3) An air operator certificate holder shall submit to the Authority, the proposed policy or procedure 30 days before date of intended implementation.\n(4) A person who contravenes this regulation commits an offence and is liable to a fine not exceeding P5 000 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "21",
+      "title": "Retention of record",
+      "content": "21. Retention of record\n(1) An air operator certificate holder shall keep—\n( a ) flight and duty records;\n( b ) flight crew records;\n( c ) other air operator certificate holder personnel for which a training program is required;\n( d ) fuel and oil records;\n( e ) maintenance records of the aircraft;\n( f ) operational flight plan;\n( g ) flight preparation forms listed below—\n(i) completed load manifests,\n(ii) mass and balance records,\n(iii) dispatch releases,\n(iv) flight plans,\n(v) passenger manifests, and\n(vi) weather reports;\n( h ) aircraft technical logbook, including—\n(i) journey records section, and\n(ii) maintenance records section;\n( i ) flight recorder records;\n( j ) quality system records;\n( k ) dangerous goods transport document;\n( l ) dangerous goods acceptance checklist;\n( m ) records on cosmic and solar radiation dosage; and\n( n ) such other records as may be required by the Authority,\nfor a period as set out in Schedule 5 of these Regulations.\n(2) An air operator certificate holder shall maintain—\n( a ) current records which detail the qualifications and training of all its employees, and contract employees, involved in the operational control, flight operations, ground operations and maintenance of the air operator; and\n( b ) detailed records of employees performing crew member or flight operations officer duties in order to determine whether the employees meet the required experience and qualification for duties in commercial air transport operations,\nof the records under subregulation (1).\n(3) An air operator certificate holder shall maintain records in a manner approved by the Authority and an air operator certificate holder who fails to comply with this requirement commits an offence and is liable to a fine not exceeding P5 000 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "22",
+      "title": "Cockpit voice and flight data recorder record",
+      "content": "22. Cockpit voice and flight data recorder record\n(1) An air operator certificate holder shall keep—\n( a ) the most recent flight data recorder calibration, including the recording medium from which the calibration is derived; and\n( b ) the flight data recorder correlation for one aircraft of any group of aircraft operated by the air operator certificate holder—\n(i) that are of the same type,\n(ii) on which the model flight recorder and its installation are the same, and\n(iii) on which there is no difference in type design with respect to the original installation of instruments associated with the recorder.\n(2) In the event of an accident or incident requiring immediate notification of the Authority, the air operator certificate holder shall preserve all related flight recorder records and if necessary, the associated flight recorders and ensure their retention in safe custody for at least 60 days or, if requested by the Authority, for a longer period.\n(3) The flight data recorder calibration and the flight data recorder correlation shall be kept as part of the maintenance records for aircraft and its components.\n(4) The recordings or transcripts of CVR, CARS, Class A AIR and Class A AIRS shall not be used for purposes other than the investigation of an accident or incident as per Civil Aviation (Accident Investigation) Regulations (Cap. 71:01 (Sub. Leg.)) except where the recordings or transcripts are—\n( a ) are related to a safety-related event identified in the context of a Safety Management System; are restricted to the relevant portions of a de-identified transcript of the recording; and are subject to the protections accorded by Safety Management System;\n( b ) are sought for use in criminal proceedings not related to an event involving an accident or incident investigation and are subject to the protections accorded by Safety Management System;\n( c ) subject to the protections accorded by Civil Aviation (Safety Management) Regulations (Cap. 71:01 (Sub. Leg.));\n( d ) sought for use in criminal proceedings not related to an event involving an accident or incident investigation and are subject to the protections accorded by Civil Aviation (Safety Management) Regulations (Cap. 91:01 (Sub. Leg.)); or\n( e ) used for inspections of flight recorder systems as required by the Authority.\n(5) The recordings or transcripts of FDR, ADRS as well as Class B and Class C AIR and AIRS shall not be used for purposes other than the investigation of an accident or incident as per Civil Aviation (Accident Investigation) Regulations, except where the recordings or transcripts are subject to the protections accorded Civil Aviation (Safety Management) Regulations and—\n( a ) are used by the operator for airworthiness or maintenance purposes;\n( b ) are used by the operator in the operation of a flight data analysis programme required in this regulation;\n( c ) are sought for use in proceedings not related to an event involving an accident or incident investigation;\n( d ) are de-identified; or\n( e ) are disclosed under secure procedures.\n(6) An air operator certificate holder who contravenes this regulation commits an offence and is liable to a fine not exceeding P5 000 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "23",
+      "title": "Power to inspect and copy records",
+      "content": "23. Power to inspect and copy records\n(1) An authorised person shall have power to inspect and copy any of the records referred to in regulations 21 and 22.\n(2) A person who refuses an authorised person access to any of the records referred to under regulation 21 or 22 commits an offence and is liable to a fine not exceeding P5 000 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "24",
+      "title": "Aircraft tracking",
+      "content": "24. Aircraft tracking\n(1) An air operator certificate holder shall establish an aircraft tracking capability to track aeroplanes throughout its area of operations.\n(2) An air operator certificate holder shall track the position of an aeroplane through automated reporting every 15 minutes for the portions of the in-flight operation that is planned in oceanic areas under the following conditions—\n( a ) the aeroplane has a maximum certificated take-off mass of over 45 500 kg and a seating capacity greater than 19; and\n( b ) where an ATS unit obtains aeroplane position information greater than 15 minute intervals.\n(3) Notwithstanding subregulation (2), the Authority may, based on the results of an approved risk assessment process implemented by the operator, allow for variations to automated reporting intervals.\n(4) The process in subregulation (3) shall demonstrate how risks to the operation, resulting from such variations, can be managed and shall include the following—\n( a ) capability of the operator's operational control systems and processes including those for contacting ATS units;\n( b ) overall capability of the aeroplane and its systems;\n( c ) available means to determine the position of, and communicate with, the aeroplane;\n( d ) frequency and duration of gaps in automated reporting;\n( e ) human factors consequences resulting from changes to flight crew procedures; and\n( f ) specific mitigation measures and contingency procedures.\n(5) An air operator certificate holder shall establish procedures, approved by the Authority, for the retention of aircraft tracking data to assist SAR in determining the last known position of the aircraft."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "25",
+      "title": "Aircraft operated by air operator certificate holder",
+      "content": "25. Aircraft operated by air operator certificate holder\n(1) The air operator certificate holder shall maintain, in the operation specification, a current list of all aircraft it operates.\n(2) The operation specification referred to under subregulation (1) shall contain information for each aircraft in the operator's fleet, identified by aircraft make, model, series and master series as specified in Part II of Form A set out in Schedule 1.\n(3) An air operator certificate holder shall apply in writing to the Authority, for an amendment to its operation specification 60 days before any intended change of aircraft.\n(4) An aircraft of another certificate holder operated under an interchange agreement shall be incorporated to the operations specifications as required under subregulation (2)."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "26",
+      "title": "Aircraft technical log",
+      "content": "26. Aircraft technical log\nAn air operator certificate holder shall carry on an aircraft, a technical log which contains a journey records section and an aircraft maintenance record section."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "27",
+      "title": "Company procedures indoctrination",
+      "content": "27. Company procedures indoctrination\n(1) A person or any air operator certificate holder's employee shall not perform or serve in the air operator certificate holder's company unless the person or the employee has completed the company indoctrination curriculum approved by the Authority, appropriate to that person or employee's duties and responsibilities.\n(2) The indoctrination curriculum shall include training in knowledge and skills related to human performance and co-ordination with other Air Operator Certificate personnel."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "28",
+      "title": "Flight safety document system",
+      "content": "28. Flight safety document system\n(1) An air operator certificate holder shall establish a flight safety document system, approved by the Authority, for the use and guidance of operational personnel.\n(2) The development and organisation of a flight safety document system shall contain the minimum elements specified in Schedule 6."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "29",
+      "title": "Safety Management System",
+      "content": "29. Safety Management System\n(1) An air operator certificate holder shall establish and maintain a Safety Management System approved by the Authority that, as a minimum—\n( a ) identifies safety hazards;\n( b ) ensures that remedial action necessary to maintain an acceptable level of safety is implemented;\n( c ) provides for continuous monitoring and regular assessment of the safety level achieved;\n( d ) aims to make continuous improvement to the overall level of safety;\n( e ) clearly defines lines of safety accountability throughout the operator's organisation, including direct accountability for safety on the part of senior management; and\n( f ) is periodically reviewed to ensure safety levels on the operator operations.\n(2) An air operator certificate holder that operates an aircraft with a maximum certificated take-off mass of more than 20 000 kg shall include a flight data monitoring programme as part of its Safety Management System.\n(3) An operator of an aeroplane of a maximum certificated take-off mass in excess of 27 000 kg shall establish and maintain a flight data analysis programme as part of its Safety Management System.\n(4) An air operator certificate holder's flight data analysis programme shall be non-punitive and contain adequate safeguards to protect the sources of the data.\n(5) An air operator certificate holder's Safety Management System shall include a flight safety documents system for the use and guidance of its operational personnel, as part of its Safety Management System.\n(6) The Safety Management System shall be established in accordance with the Civil Aviation (Safety Management) Regulations.\n(7) An operator may contract the operation of a flight data analysis programme to another patty while retaining overall responsibility for the maintenance of such a programme.\n(8) An operator's flight data analysis programme specified in subregulations (1) and (2) shall contain adequate safeguards to protect the sources of the data in accordance with the Civil Aviation (Safety Management) Regulations."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "30",
+      "title": "Continuing airworthiness information",
+      "content": "30. Continuing airworthiness information\nAn AOC holder who, operates a large aircraft, shall obtain and assess continuing airworthiness information and recommendations available from the organisation responsible for the type design and shall implement resulting actions considered necessary in accordance with a procedure approved by the Authority."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART III Air Operator Certification and Continued Validity (regs 17-31)",
+      "section": "31",
+      "title": "Maintenance and operational experience",
+      "content": "31. Maintenance and operational experience\n(1) An operator of a large aircraft shall monitor and assess maintenance and operational experience with respect to continuing airworthiness and provide the information as prescribed by the state of registry and report through the system specified in the Civil Aviation (Airworthiness) Regulations (Cap. 71:01 (Sub. Leg.)).\n(2) An operator and maintenance organisation shall report to the Authority, the service information of large aircraft required by the Authority according to the procedure, established by the Authority.\n(3) An operator and maintenance organisation shall transmit to the organisation responsible for the type design of aircraft in respect of large aircraft information on faults, malfunctions, defects and other occurrences that cause or might cause adverse effects on the continuing airworthiness of the aircraft."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART IV Aircraft (regs 32-38)",
+      "section": "32",
+      "title": "Authorised aircraft",
+      "content": "32. Authorised aircraft\n(1) A person shall not operate an aircraft in commercial air transport unless that aircraft has a current airworthiness certificate, is in an airworthy condition, and meets the applicable airworthiness requirements for these operations, including those related to identification and equipment.\n(2) A person shall not operate an aircraft in commercial air transport until the aircraft has completed satisfactory initial certification, which includes the issuance of an AOC listing for that type of aircraft.\n(3) A person shall not operate an additional or replacement aircraft of a type for which it is currently authorised unless he or she can show that each aircraft has completed an evaluation process for inclusion in the air operator certificate holder's fleet.\n(4) Any person who contravenes this regulation commits an offence and is liable to a fine not exceeding P5 000 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART IV Aircraft (regs 32-38)",
+      "section": "33",
+      "title": "Dry leasing of registered aircraft",
+      "content": "33. Dry leasing of registered aircraft\n(1) An air operator certificate holder may dry-lease a registered aircraft for commercial air transport where authorised by the Authority.\n(2) A person shall not operate a registered aircraft unless there is an agreement between the Authority and the state of registry that—\n( a ) while the aircraft is operated by a Botswana air operator certificate holder, these Regulations shall apply;\n( b ) while the aircraft is operated by the air operator certificate holder, the Airworthiness Regulations of the state of registry shall apply; or\n( c ) if the state of registry agrees to transfer some or all of the responsibility for airworthiness to the Authority under Article 83 bis of the Chicago Convention, the Civil Aviation (Airworthiness) Regulations shall apply to the extent agreed upon by the Authority and the state of registry.\n(3) An agreement under this regulation is an acknowledgement that the Authority shall have free and uninterrupted access to the aircraft at any place and time and any person who refuses any authorised person such access commits an offence and is liable to a fine not exceeding P5 000 000, or to imprisonment for a term not exceeding 10 years, or to both.\n(4) An air operator certificate holder shall comply with all the requirements for aircraft dry lease as set out in Schedule 7.\n(5) A person who operates an aircraft without the authority required under this regulation commits an offence and is liable to a fine not exceeding P5 000 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART IV Aircraft (regs 32-38)",
+      "section": "34",
+      "title": "Aircraft interchange",
+      "content": "34. Aircraft interchange\n(1) An air operator certificate holder shall not interchange aircraft with another air operator certificate holder without the approval of the Authority.\n(2) An air operator certificate holder shall comply with all the requirements for aircraft interchange set out in Schedule 8."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART IV Aircraft (regs 32-38)",
+      "section": "35",
+      "title": "Wet leasing",
+      "content": "35. Wet leasing\n(1) An air operator certificate holder shall not conduct wet lease operations on behalf of another air operator except in accordance with these Regulations or the applicable laws of the State in which the operation occurs and the restrictions imposed by the Authority.\n(2) An air operator certificate holder shall not allow another entity or air operator to conduct wet-lease operations on its behalf unless—\n( a ) that air operator holds an AOC or its equivalent from a Contracting State that authorises those operations; and\n( b ) the air operator certificate holder advises the Authority of such operations and provides a copy of the AOC under which the operation was conducted.\n(3) An air operator certificate holder shall comply with all the requirements for the wet leasing of aircraft set out in Schedule 9."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART IV Aircraft (regs 32-38)",
+      "section": "36",
+      "title": "Damp lease",
+      "content": "36. Damp lease\n(1) The Authority may where applicable, approve a damp lease upon request by the operator.\n(2) The Authority shall ensure that both flight and cabin crew are trained to use common communications and emergency procedures, and that the cabin crew receives training on common communication, safety and emergency procedures, standard operating procedures and knowledge of flight and duty limitation.\n(3) An air operator shall comply with all the requirements for the damp leasing of aircraft as set out in Schedule 9."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART IV Aircraft (regs 32-38)",
+      "section": "37",
+      "title": "Emergency evacuation demonstration",
+      "content": "37. Emergency evacuation demonstration\n(1) An air operator certificate holder shall not use an aircraft type and model in commercial air transport passenger-carrying operations unless the AOC has first conducted, for the Authority, an actual full capacity emergency evacuation demonstration for the configuration in 90 seconds or less.\n(2) The demonstration referred to in subregulation (1) may not be required where the air operator certificate holder provides evidence that—\n( a ) a satisfactory full capacity emergency evacuation for the aircraft to be operated was demonstrated during the aircraft type certification or during the certification of another air operator; or\n( b ) there is an engineering analysis which shows that an evacuation is still possible within the 90 seconds under subregulation (1) if the air operator certificate holder's aircraft configuration differs with regard to number of exits or exit type or number of cabin crew members or location of the cabin crew members.\n(3) Where a full capacity demonstration is not required, a person shall not use an aircraft type and model in commercial air transport passenger-carrying operations unless it has first demonstrated to the Authority that its available personnel, procedures, and equipment can provide sufficient open exits for evacuation in 15 seconds or less.\n(4) A person shall not use a land plane in extended overwater operations unless he or she has first demonstrated to the Authority that the land plane has the ability and equipment to efficiently carry out its ditching procedures.\n(5) An air operator certificate holder shall comply with all the requirements for the emergency evacuation demonstration set out in Schedule 10."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART IV Aircraft (regs 32-38)",
+      "section": "38",
+      "title": "Demonstration flight",
+      "content": "38. Demonstration flight\n(1) An air operator certificate holder shall not operate an aircraft type in commercial air transport unless the air operator certificate holder first conducts satisfactory demonstration flights for the Authority in that aircraft type.\n(2) An air operator certificate holder shall not operate an aircraft in a designated special area, or using a specialised navigation system, unless it has conducted a demonstration flight to the satisfaction of the Authority.\n(3) A demonstration flight required under subregulation (1) shall be conducted in accordance with the regulations applicable to the type of operation and aircraft type used.\n(4) A demonstration flight required under subregulation (1) shall be conducted for each type of aircraft, including those aircraft materially altered in design, and for each kind of operation the air operator certificate holder intends to conduct.\n(5) The type of demonstration and the total number of demonstration flight hours shall be determined by the Authority and shall be dependent upon the complexity of the type of intended operation.\n(6) A person shall not carry passengers in an aircraft during demonstration flights, except for those needed to make the demonstration flight and those designated by the Authority.\n(7) The Authority shall determine the necessity and extent of demonstration flights for those operators operating aircraft with a maximum certificated take-off mass of 5 700 kg or less."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART V Facilities and Operations Schedules (regs 39-40)",
+      "section": "39",
+      "title": "Facilities",
+      "content": "39. Facilities\n(1) An air operator certificate holder shall maintain operational and airworthiness support facilities at the main operating base, appropriate for the area and type of operation.\n(2) An air operator certificate holder shall arrange appropriate ground handling facilities at each aerodrome used to ensure the safe servicing and loading of its flights."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART V Facilities and Operations Schedules (regs 39-40)",
+      "section": "40",
+      "title": "Operating schedule",
+      "content": "40. Operating schedule\n(1) An air operator certificate holder conducting scheduled operations shall in establishing flight operations schedules—\n( a ) allow enough time for the proper servicing of aircraft at intermediate stops; and\n( b ) consider the prevailing winds en route and cruising speed for the type of aircraft.\n(2) The cruising speed referred to under subregulation (1) shall not be more than that resulting from the specified cruising output of the engines."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART VI Air Operator Certificate Flight Operations Management (regs 41-74)",
+      "section": "41",
+      "title": "Operation manual",
+      "content": "41. Operation manual\n(1) An air operator certificate holder shall provide for the use and guidance of operations personnel concerned, an operations manual in accordance with Schedule 11 to these Regulations approved by the Authority and such amendments or revisions shall be issued to all personnel that are required to use this manual.\n(2) An air operator certificate holder shall prepare and keep a current operations manual which contains the air operator certificate holder's procedures and policies for the use and guidance of its personnel.\n(3) The operations manual shall contain the overall general company policies and procedures regarding the flight operations it conducts.\n(4) An air operator certificate holder shall issue the operations manual, or pertinent portions, together with all amendments and revisions to all personnel that are required to use it.\n(5) An air operator certificate holder shall not provide for use of its personnel in commercial air transport, any operations manual or portion thereof which has not been reviewed and approved for the air operator certificate holder by the Authority.\n(6) An air operator certificate holder shall ensure that, depending on the size and complexity of operations, the contents of the operations manual includes at least those subjects designated by the Authority that are applicable to the air operator holder's operations such as—\n( a ) the holder's general policies;\n( b ) duties and responsibilities of personnel;\n( c ) operational control policy and procedures;\n( d ) instructions and information necessary to permit flight and ground personnel to perform their duties to the level of safety acceptable to the Authority; and\n( e ) any other subjects.\n(7) An air operator certificate holder shall provide an operations manual approved by the Authority containing information on—\n( a ) operations administration and supervision;\n( b ) accident prevention and flight safety programmes;\n( c ) personnel training;\n( d ) flight crew and cabin crew member fatigue;\n( e ) flight time limitations;\n( f ) flight operations including operational flight planning, aeroplane performance, routes, guides and charts;\n( g ) minimum flight altitudes;\n( h ) aerodrome operating minima;\n( i ) search and rescue;\n( j ) dangerous goods; and\n( k ) navigation, communications, security, and human factors.\n(8) An operations manual may be published in parts, as a single document, or as a series of volumes and shall be organised with the following structure—\n( a ) general;\n( b ) aircraft operating information;\n( c ) areas, routes and aerodromes; and\n( d ) training.\n(9) Subjects under this regulation shall be—\n( a ) Aircraft Operating Manual;\n( b ) Minimum Equipment List and Configuration Deviation List;\n( c ) Training Programme;\n( d ) Aircraft Performance Planning Manual;\n( e ) Route Guide;\n( f ) Dangerous Goods Procedures;\n( g ) Accident Reporting Procedures;\n( h ) Security Procedures;\n( i ) Aircraft Loading and Handling Manual; and\n( j ) Cabin Crew Member Manual, if required.\n(10) An air operator certificate holder shall develop policies and procedures for third parties that perform work on its behalf.\n(11) An operations manual shall conform to the outline and structure set out in Schedule 11."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART VI Air Operator Certificate Flight Operations Management (regs 41-74)",
+      "section": "42",
+      "title": "Training programme",
+      "content": "42. Training programme\n(1) An air operator certificate holder shall ensure that all operations personnel are properly instructed in their particular duties and responsibilities and the relationship of such duties to the operation as a whole.\n(2) An air operator certificate holder shall have a training programme approved by the Authority containing the general training, checking, and record keeping policies.\n(3) An air operator certificate holder shall get the approval of the Authority prior to using a training curriculum for the purpose of qualifying a crew member, or person performing operational control functions, for duties in commercial air transport.\n(4) An air operator certificate holder shall submit to the Authority any revision to an approved training programme, and shall receive written approval from the Authority before that revision can be used.\n(5) The Training Programme shall conform to the outline set out in Schedule 12."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "PART VI Air Operator Certificate Flight Operations Management (regs 41-74)",
+      "section": "43",
+      "title": "Aircraft operating manual",
+      "content": "43. Aircraft operating manual\n(1) An air operator certificate holder shall provide operations staff and flight crew with an aircraft operating manual, for each aircraft type operated, containing the normal, abnormal and emergency procedures relating to the operation of the aircraft.\n(2) The manual design and utilisation shall observe human factors principles and include details of the aircraft systems and checklists to be used.\n(3) An air operator certificate holder or applicant shall submit proposed aircraft operating manuals for each type and variant of aircraft operated, containing the normal, abnormal, and emergency procedures relating to the operation of the aircraft for approval by the Authority.\n(4) An aircraft operating manual shall be based upon the aircraft manufacturer's data for the specific aircraft type and variant operated by the air operator certificate holder and shall include specific operating parameters, details of the aircraft systems, and of the checklists applicable to the operations of the air operator certificate holder that are approved by the Authority.\n(5) The checklists provided in accordance with subregulation (2) shall be used by flight crews prior to, during and after all phases of operations, and in emergency, to ensure compliance with the operating procedures contained in the aircraft operating, and flight manuals or other documents associated with the certificate of airworthiness and otherwise in the operations manual are followed and the design and utilisation of checklists shall observe human factors principles.\n(6) The aircraft operating manual shall be issued to the flight crew members and persons assigned operational control functions to each aircraft operated by the air operator certificate holder.\n(7) The aircraft operating manual shall conform to the outline set out in Schedule 13."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "PART VI Air Operator Certificate Flight Operations Management (regs 41-74)",
+      "section": "44",
+      "title": "Journey log book",
+      "content": "44. Journey log book\n(1) An air operator certificate holder shall use an aircraft journey log book for each flight, which includes the—\n( a ) aircraft nationality and registration;\n( b ) date;\n( c ) names of crew members;\n( d ) duty assignments of crew members;\n( e ) place of departure;\n( f ) place of arrival;\n( g ) time of departure;\n( h ) time of arrival;\n( i ) hours of flight;\n( j ) nature of flight (private, aerial work, scheduled, non-scheduled);\n( k ) incidents, observations, if any; and\n( l ) signature of person in charge.\n(2) Any entry in the journey log book shall be made currently and in ink or indelible pencil.\n(3) An air operator certificate holder shall retain completed journey log books of the last two years operations.\n(4) The Authority may waive the requirement of subregulation (1) if the relevant information is available in the aircraft technical logbook.\n(5) An operator shall maintain a journey log book for every aeroplane engaged in international air navigation in which shall be entered particulars of the aeroplane, its crew and each journey.\n(6) The Pilot-In-Command shall be responsible for the journey log book containing the information listed in this regulation."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART VI Air Operator Certificate Flight Operations Management (regs 41-74)",
+      "section": "45",
+      "title": "Designation of Pilot-In-Command",
+      "content": "45. Designation of Pilot-In-Command\nAn air operator certificate holder shall—\n( a ) designate one pilot as the Pilot-In-Command for each commercial air transport operation; and\n( b ) maintain records for each flight of an aeroplane above 15 000 m (49 000 ft) so that the total cosmic radiation dose received by each crew member over a period of 12 consecutive months can be determined."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "PART VI Air Operator Certificate Flight Operations Management (regs 41-74)",
+      "section": "46",
+      "title": "Required cabin crew members",
+      "content": "46. Required cabin crew members\n(1) An air operator certificate holder shall establish, to the satisfaction of the Authority—\n( a ) the minimum number of cabin crew required for each type of aeroplane, based on seating capacity or the number of passengers carried, in order to effect a safe and expeditious evacuation off the aeroplane; and\n( b ) the necessary functions to be performed in an emergency or a situation requiring emergency evacuation.\n(2) The operator shall assign the functions under subregulation (1)( b ) for each type of aeroplane.\n(3) The number of cabin crew members shall not be less than the minimum specified by the Authority in the air operator certificate holder's operations specifications and—\n( a ) for a seating capacity of 20 to 50 passengers, one cabin crew member; and\n( b ) one additional cabin crew member for each unit, or part of a unit, of 50 passenger seat capacity.\n(4) When passengers are on board a parked aircraft, the minimum number of flight attendants shall be one-half of what is required for the flight operation, but there shall be one cabin crew member or another person qualified in the emergency evacuation procedures for the aircraft.\n(5) Any person who contravenes this regulation commits an offence and is liable to a fine not exceeding P5 000 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "PART VI Air Operator Certificate Flight Operations Management (regs 41-74)",
+      "section": "47",
+      "title": "Carriage of special situation passengers",
+      "content": "47. Carriage of special situation passengers\n(1) An air operator certificate holder shall not allow the transportation of special situation passengers except—\n( a ) where provided for in the air operator certificate holder's operations manual procedures; and\n( b ) with the knowledge and concurrence of the Pilot-In-Command.\n(2) Any person who contravenes this regulation commits an offence and is liable to a fine not exceeding P5 000 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "PART VI Air Operator Certificate Flight Operations Management (regs 41-74)",
+      "section": "48",
+      "title": "Crew member checking and standardisation programme",
+      "content": "48. Crew member checking and standardisation programme\n(1) An air operator certificate holder shall have a programme approved by the Authority of checking and the standardisation of crew members to address the air operator certificate holder's unique fleet differences and compliance method.\n(2) An air operator certificate holder shall check pilots' proficiency on those manoeuvres and procedures that are specified by the Authority for pilot proficiency checks, which shall include emergency procedures and, where applicable, instrument flight rules.\n(3) An air operator certificate holder shall not use a person for checks unless he or she has completed the curricula approved by the Authority.\n(4) An air operator certificate holder shall ensure that initial ground training for check personnel includes—\n( a ) check personnel duties, functions, and responsibilities;\n( b ) regulations and the air operator certificate holder's policies and procedures;\n( c ) methods, procedures, and techniques for conducting the required checks;\n( d ) evaluation of student performance including the detection of—\n(i) improper and insufficient training, and\n(ii) personal characteristics of an applicant that could adversely affect safety;\n( e ) corrective action in the case of unsatisfactory checks; and\n( f ) approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures in the aircraft.\n(5) Any transition ground training for all check personnel, shall include the approved methods, procedures, and limitations for performing the required normal, abnormal, and emergency procedures applicable to the aircraft to which the person is in transition."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "PART VI Air Operator Certificate Flight Operations Management (regs 41-74)",
+      "section": "49",
+      "title": "Cockpit check procedures",
+      "content": "49. Cockpit check procedures\n(1) An air operator certificate holder shall issue to the flight crews and make available on each aircraft, the checklist procedures approved by the Authority appropriate for the type and variant of aircraft.\n(2) An air operator certificate holder shall ensure that approved procedures include each item necessary for flight crew members to check for safety before starting engines, taking off, or landing, and for engine and systems abnormalities and emergencies.\n(3) An air operator certificate holder shall ensure that the checklist procedures are designed so that a flight crew member does not need to rely upon his or her memory for items to be checked.\n(4) An air operator certificate holder shall make the approved procedures readily useable in the cockpit of each aircraft and the flight crew shall be required to follow them when operating the aircraft."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "PART VI Air Operator Certificate Flight Operations Management (regs 41-74)",
+      "section": "50",
+      "title": "Minimum Equipment List and Configuration Deviation List",
+      "content": "50. Minimum Equipment List and Configuration Deviation List\n(1) An air operator certificate holder shall provide for the use of the flight crew members, maintenance personnel and persons assigned operational control functions during the performance of their duties, a MEL approved by the Authority.\n(2) The MEL shall be specific to the aircraft type and variant which contains the circumstances, limitations and procedures for release or continuance of flight of the aircraft with inoperative components, equipment or instruments.\n(3) An air operator certificate holder may provide, for the use of flight crew members, maintenance personnel and persons assigned operational control functions during the performance of their duties a CDL specific to the aircraft type if one is provided and approved by the state of design.\n(4) An air operator certificate holder operations manual shall contain those procedures approved by the Authority for operations in accordance with the CDL requirements.\n(5) The operator shall include in the operations manual a MEL, approved by the Authority which will enable the Pilot-In-Command to determine whether a flight may be commenced or continued from any intermediate stop should any instrument, equipment or systems become inoperative.\n(6) The MEL prepared by an operator shall be in conformity with the Master Minimum Equipment List established for the aircraft type."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "act of unlawful interference",
+      "definition": "an act or attempted act which is intended or likely to jeopardise the safety of civil aviation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "acceptance",
+      "definition": "a State may accept a matter submitted to it for review as being in compliance with the applicable standards if the State does not specifically reject all or a portion of the matter under review",
+      "source_provision": "s2"
+    },
+    {
+      "term": "accountable executive",
+      "definition": "a person who has corporate authority, for ensuring that all operations and maintenance activities can be financed and carried out to the standard required by the Authority, and any additional requirements defined by the operator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome operating minima",
+      "definition": "the limits of usability of an aerodrome for—\n( a ) take-off, expressed in terms of runway visual range and/or visibility and, if necessary, cloud conditions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeroplane",
+      "definition": "a power-driven heavier-than-air aircraft, deriving its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft",
+      "definition": "any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft operating manual",
+      "definition": "a manual, acceptable to the state of the operator, containing normal, abnormal and emergency procedures, checklists, limitations, performance information, details of the aircraft systems, and other material relevant to the operation of the aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft technical log",
+      "definition": "the documentation for an aircraft that includes the maintenance record for the aircraft and a record for each flight made by the aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft tracking",
+      "definition": "a process, established by the operator, that maintains and updates, at standardised intervals, a ground-based record of the four dimensional position of individual aircraft in flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "AOC",
+      "definition": "a certificate authorising an operator to carry out specified commercial air transport operations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "airworthy",
+      "definition": "the status of an aircraft, engine, propeller or part when it conforms to its approved design and is in a condition for safe operation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approval",
+      "definition": "an active response by the State to a matter submitted for its review and constitutes a finding or determination of compliance with applicable standards and is evidenced by the signature of the approving official, the issuance of a document or certificate, or some other formal action taken by the State",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cabin crew member",
+      "definition": "a crew member who performs, in the interest of safety of passengers, duties assigned by the operator or the Pilot-In-Command of the aircraft but who shall not act as a flight crew member",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commercial air transport operation",
+      "definition": "an aircraft operation involving the transport of passengers, cargo or mail for remuneration or hire",
+      "source_provision": "s2"
+    },
+    {
+      "term": "competency in civil aviation",
+      "definition": "that an individual has technical qualification and management experience acceptable to the Authority for that specific position",
+      "source_provision": "s2"
+    },
+    {
+      "term": "CDL",
+      "definition": "a list established by the organisation responsible for the type design with the approval of the state of design which identifies any external parts of an aircraft type which may be missing at the commencement of a flight, and which contains, where necessary, any information on associated operating limitations and performance correction",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contaminated runway",
+      "definition": "a runway is contaminated when a significant portion of the runway surface area (whether in isolated areas or not) within the length and width being used is covered by one or more of the substances listed in the runway surface condition descriptors",
+      "source_provision": "s2"
+    },
+    {
+      "term": "continuing airworthiness",
+      "definition": "the set of processes, by which an aircraft, engine, propeller or part complies with the applicable airworthiness requirements and remains in a condition for safe operation throughout its operating life",
+      "source_provision": "s2"
+    },
+    {
+      "term": "continuing airworthiness record",
+      "definition": "records which are related to the continuing airworthiness status of an aircraft, engine, propeller or associated parts",
+      "source_provision": "s2"
+    },
+    {
+      "term": "crew member",
+      "definition": "a person assigned by an operator to duty on an aircraft during a flight duty period",
+      "source_provision": "s2"
+    },
+    {
+      "term": "damp lease",
+      "definition": "a wet leased aircraft that includes a cockpit crew but not cabin attendants",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dangerous goods",
+      "definition": "articles or substances which are capable of posing a risk to health, safety, property or the environment and which are shown in the list of dangerous goods in the Technical Instructions or which are classified according to those Instructions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "duty",
+      "definition": "any task that flight or cabin crew members are required by the operator to perform including, for example, flight duty, administrative work, training, positioning and standby when it is likely to induce fatigue",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dry lease",
+      "definition": "a lease where the aircraft is provided without crew",
+      "source_provision": "s2"
+    },
+    {
+      "term": "duty period",
+      "definition": "a period which starts when a flight or cabin crew member is required by an operator to report for or to commence a duty and ends when that person is free from all duties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "engine",
+      "definition": "a unit used or intended to be used for aircraft propulsion and consists of at least those components and equipment necessary for functioning and control, but excludes the propeller/rotors, if applicable",
+      "source_provision": "s2"
+    },
+    {
+      "term": "EVS",
+      "definition": "a system to display electronic real-time images of the external scene achieved through the use of image sensors",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fatigue",
+      "definition": "a physiological state of reduced mental or physical performance capability resulting from sleep loss, extended wakefulness, circadian phase, and/or workload (mental and/or physical activity) that can impair a person's alertness and ability to perform safety-related operational duties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "FRMS",
+      "definition": "a data driven means of continuously monitoring and managing fatigue-related safety risks, based upon scientific principles and knowledge as well as operational experience that aims to ensure relevant personnel are performing at adequate levels of alertness",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight operations officer/flight dispatcher",
+      "definition": "a person designated by the operator to engage in the control and supervision of flight operations, whether licensed or not, suitably qualified in accordance with Civil Aviation (Personnel Licensing) Regulations (Cap. 71:01 (Sub. Leg.)), who supports, briefs or assists the Pilot-In-Command the safe conduct of the flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "HUD",
+      "definition": "a display system that presents flight information into the pilots forward external field of view",
+      "source_provision": "s2"
+    },
+    {
+      "term": "human factor principles",
+      "definition": "principles which apply to aeronautical design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "IFR",
+      "definition": "rules that govern the procedures for conducting flight under instrument meteorological conditions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "IMC",
+      "definition": "meteorological conditions expressed in terms of visibility, distance from cloud, and ceiling, less than the minima specified for Visual Meteorological Conditions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "interchange agreement",
+      "definition": "a leasing agreement which permits an air carrier to dry lease and take or relinquish operational control of an aircraft at an airport",
+      "source_provision": "s2"
+    },
+    {
+      "term": "MCM",
+      "definition": "a document that describes the operator's procedures necessary to ensure that all scheduled and unscheduled maintenance is performed on the operator's aircraft on time and in a controlled and satisfactory manner",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Maintenance Organisations Procedures Manual",
+      "definition": "a document endorsed by the head of a maintenance organisation which details the maintenance organisation's structure and management responsibilities, scope of work, description of facilities, maintenance procedures and quality assurance or inspection systems",
+      "source_provision": "s2"
+    },
+    {
+      "term": "maintenance release",
+      "definition": "a document which contains a certification confirming that the maintenance work to which it relates has been completed in a satisfactory manner in accordance with appropriate airworthiness requirements",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Master Minimum Equipment List",
+      "definition": "a list established for a particular aircraft type by the organisation responsible for the type design with the approval of the state of design containing items, one or more of which is permitted to be unserviceable at the commencement of a flight and may be associated with special operating conditions, limitations or procedures",
+      "source_provision": "s2"
+    },
+    {
+      "term": "MEL",
+      "definition": "a list which provides for the operation of the aircraft, subject to specified conditions, with particular equipment inoperative, prepared by an operator in conformity with, or more restrictive than, the Master Minimum Equipment List established for the aircraft type",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operational control",
+      "definition": "the exercise of authority over the initiation, continuation, diversion or termination of a flight in the interest of safety of the aircraft and the regularity and efficiency of the flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operational flight plan",
+      "definition": "the operator's plan for the safe conduct of the flight based on consideration of aeroplanes performance, other operating limitations and relevant expected conditions on the route to be followed and at the aerodromes concerned",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operational personnel",
+      "definition": "persons employed by the operator to ensure that the aircraft flight is conducted in a safe manner and may consist of crew members",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operations manual",
+      "definition": "a manual containing procedures, instructions and guidance for use by operational personnel in the execution of their duties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operations specifications",
+      "definition": "the authorisation, conditions and limitations associated with the AOC and subject to the condition in the operations manual",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operator",
+      "definition": "a person, organisation or enterprise engaged in or offering to engage in an aircraft operation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "passenger aircraft",
+      "definition": "an aircraft that carries any person other than a crew member, an operator's employee in an official capacity, an authorised representative of an appropriate national authority or a person accompanying a consignment or other cargo",
+      "source_provision": "s2"
+    },
+    {
+      "term": "PIC",
+      "definition": "the pilot designated by the operator, or in the case of general aviation, the owner, as being in command and charged with the safe operation of a flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quality control",
+      "definition": "the regulatory inspection process through which actual performance is compared with standards such as the maintenance of standards of manufactured aeronautical products",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quality system",
+      "definition": "the organisational structure, responsibilities, procedures, processes and resources for implementing quality management",
+      "source_provision": "s2"
+    },
+    {
+      "term": "safety manager",
+      "definition": "the manager accountable to the Authority and who is responsible for the development and maintenance of an effective Safety Management System",
+      "source_provision": "s2"
+    },
+    {
+      "term": "SMS",
+      "definition": "a systematic approach to managing safety, including the necessary organisational structures, accountability, responsibility, policies and procedures",
+      "source_provision": "s2"
+    },
+    {
+      "term": "state of design",
+      "definition": "the state that has jurisdiction over the organisation responsible for the type design",
+      "source_provision": "s2"
+    },
+    {
+      "term": "state of operator",
+      "definition": "the state in which the operator's principal place of business is located, or if there is no such business, the operator's permanent place of residence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "state of registry",
+      "definition": "the state on whose register the aircraft is entered",
+      "source_provision": "s2"
+    },
+    {
+      "term": "training to proficiency",
+      "definition": "the process of the che",
+      "source_provision": "s2"
+    }
+  ]
+}

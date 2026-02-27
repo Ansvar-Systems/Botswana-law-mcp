@@ -1,0 +1,70 @@
+{
+  "id": "bw-act-african-development-bank-and-fund",
+  "type": "statute",
+  "title": "African Development Bank and Fund",
+  "title_en": "African Development Bank and Fund",
+  "short_name": "African Development Bank an...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/african-development-bank-and-fund",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the African Development Bank and Fund Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Bank\" means the African Development Bank;\n\"Bank Agreement\" means the Articles of Agreement for the establishment and operation of the Bank;\n\"Fund\" means the African Development Fund;\n\"Fund Agreement\" means the Articles of Agreement for the establishment and operation of the Fund;\n\"Membership Resolutions\" means resolutions adopted by the Boards of Governors of the Bank and the Fund respectively."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Accession to Agreement",
+      "content": "3. Accession to Agreement\nThe accession of Botswana to the Bank Agreement is hereby ratified."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Financial provisions relating to membership of Bank",
+      "content": "4. Financial provisions relating to membership of Bank\n(1) There shall be charged upon and paid out of the Consolidated Fund without further appropriation than this Act all payments required to be made from time to time by the Government to the Bank and Fund under the terms of the Bank Agreement and Fund Agreement and any Membership Resolution.\n(2) For the purpose of providing any sums required for making payments under this section, the Minister may, on behalf of the Government, make such arrangements as may be necessary, and may raise loans by the creation and issue of securities, whether interest-bearing or otherwise and subject to such conditions as to repayment, redemption or otherwise as he thinks fit, and the principal and interest (if any) of such securities and the charges and expenses incurred in connection with their issue shall be charged on and paid out of the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Financial provisions relating to membership of Fund",
+      "content": "5. Financial provisions relating to membership of Fund\n(1) If the Fund Agreement is signed in accordance with the provisions of section 4, then the provisions of this section shall have effect."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bank",
+      "definition": "the African Development Bank",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Bank Agreement",
+      "definition": "the Articles of Agreement for the establishment and operation of the Bank",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Fund",
+      "definition": "the African Development Fund",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Fund Agreement",
+      "definition": "the Articles of Agreement for the establishment and operation of the Fund",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Membership Resolutions",
+      "definition": "resolutions adopted by the Boards of Governors of the Bank and the Fund respectively.",
+      "source_provision": "s2"
+    }
+  ]
+}

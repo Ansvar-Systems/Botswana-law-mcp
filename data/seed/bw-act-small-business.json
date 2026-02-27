@@ -1,0 +1,83 @@
+{
+  "id": "bw-act-small-business",
+  "type": "statute",
+  "title": "Small Business",
+  "title_en": "Small Business",
+  "short_name": "Small Business",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/small-business",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Small Business Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Authority\" means the Local Enterprise Authority established under section 3;\n\"Board\" means the Board of the Local Enterprise Authority established under section 6;\n\"Chairperson\" means the chairperson of the Board appointed under section 8(3);\n\"Council\" ...;\n[ 16 of 2008, s. 3(a). ]\n\"medium enterprise\" means a business entity with such annual turnover and staff complement as the Minister may, by Order published in the Gazette , prescribe;\n\"member\" means a member of the Board;\n[ 16 of 2008, s. 3(b). ]\n\"micro enterprise\" means a business entity with such annual turnover and staff complement as the Minister may, by Order published in the Gazette , prescribe;\n\"small enterprise\" means a business entity with such annual turnover and staff complement as the Minister may, by Order published in the Gazette , prescribe; and\n\"SMME\" means small, micro or medium enterprise."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Local Enterprise Authority",
+      "section": "3",
+      "title": "Establishment of Local Enterprise Authority",
+      "content": "3. Establishment of Local Enterprise Authority\nThere is hereby established an authority to be known as the Local Enterprise Authority (hereinafter referred to as \"the Authority\"), which shall be a body corporate with a common seal, capable of suing and being sued and, subject to the provisions of this Act, of performing such acts as bodies corporate may, by law, perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Local Enterprise Authority",
+      "section": "4",
+      "title": "Functions of Authority",
+      "content": "4. Functions of Authority\nThe functions of the Authority shall be to—\n( a ) provide assistance to SMMEs in the preparation of business plans, feasibility studies and market surveys;\n( b ) improve the business skills and competence of SMME entrepreneurs through the provision of training and advisory services in entrepreneurship development, technology, marketing and through appropriate mentoring services;\n( c ) create growth opportunities for SMMEs through securing greater access to Government procurement contracts for goods and services, in consultation with Government Ministries, local authorities and parastatal organisations;\n( d ) identify SMME firms with export potential and assist them to enhance their productivity and competitiveness for export markets;\n( e ) promote business linkages between SMMEs and big industries, including the purchasing of locally produced goods and services by larger firms;\n( f ) facilitate access to information on support services and sourcing of raw materials by SMMEs through publicity, outreach and information technology;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Authority",
+      "definition": "the Local Enterprise Authority established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of the Local Enterprise Authority established under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the chairperson of the Board appointed under section 8(3)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medium enterprise",
+      "definition": "a business entity with such annual turnover and staff complement as the Minister may, by Order published in the Gazette , prescribe",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "micro enterprise",
+      "definition": "a business entity with such annual turnover and staff complement as the Minister may, by Order published in the Gazette , prescribe",
+      "source_provision": "s2"
+    },
+    {
+      "term": "small enterprise",
+      "definition": "a business entity with such annual turnover and staff complement as the Minister may, by Order published in the Gazette , prescribe",
+      "source_provision": "s2"
+    },
+    {
+      "term": "SMME",
+      "definition": "small, micro or medium enterprise.",
+      "source_provision": "s2"
+    }
+  ]
+}

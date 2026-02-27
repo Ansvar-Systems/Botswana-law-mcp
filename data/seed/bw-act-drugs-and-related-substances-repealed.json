@@ -1,0 +1,80 @@
+{
+  "id": "bw-act-drugs-and-related-substances-repealed",
+  "type": "statute",
+  "title": "Drugs and Related Substances",
+  "title_en": "Drugs and Related Substances",
+  "short_name": "Drugs and Related Substances",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/drugs-and-related-substances-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title and application",
+      "content": "1. Short title and application\nThis Act may be cited as the Drugs and Related Substances Act, and shall apply to all drugs and related substances, including habit-forming drugs."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act, unless the context otherwise requires—\n\"advertisement\" , in relation to a drug, means any written, pictorial, visual or other descriptive matter or verbal statement or reference—\n( a ) appearing in any newspaper, magazine, pamphlet or other publication; or\n( b ) distributed to members of the public; or\n( c ) brought to the attention of the public in any manner whatsoever, which is intended or has the effect of promoting the sale of that drug, and \"advertise\" shall have a corresponding meaning;\n\"drug\" means any substance or mixture of substances used or purporting to be suitable for use, or manufactured or sold for use in the diagnosis, treatment, alleviation, modification or prevention of disease, illness, abnormal physical or organic condition or the symptoms thereof, or restoring, correcting or modifying any somatic or psychic or organic condition, and shall include a related substance and, to the extent that it complies with the above definition, a habit-forming drug;\n\"habit-forming drug\" means any drug, plant, preparation or substance, or mixture of substances, whether or not otherwise complying with the definition of drug, which is prescribed by the Minister to be a habit-forming drug, and in so prescribing the Minister may prescribe different categories of habit-forming drugs and any special conditions relating thereto;\n\"label\" when used as a verb means to brand, mark or otherwise designate or describe, and when used as a noun means any brand or mark or any written, printed or graphic matter on the immediate container, or the outside container or wrapper, or attached to or packed with and referring to the contents of the container;\n\"manufacture\" includes all operations involved in the production, processing, compounding, formulation, filling, packaging, re-packing and labelling of a drug, related substance or a habit-forming drug;\n\"pharmacist\" means a person registered as a pharmacist under the Botswana Health Professions Act (Cap. 61:02);\n\"pharmacy\" means premises approved by the Director for the storing, dispensing and selling of drugs and which is under the control of a pharmacist;\n\"related substance\" means any substance or mixture of substances which the Minister, by notice in the Gazette , declares to be a substance to which the provisions of this Act shall apply."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Control over Drugs",
+      "section": "3",
+      "title": "Registration of drugs",
+      "content": "3. Registration of drugs\n(1) No drug shall be imported into or exported from Botswana, or manufactured, distributed or sold unless such drug has been and is registered by the Director of Health Services, hereinafter referred to as \"the Director\":\nProvided that the Minister may, in such special circumstances as he considers constitute justification for such action, by notice in the Gazette —\n( a ) exempt any drug from the requirements of this section; or\n( b ) declare any drug to be a banned drug, in which case it shall not be registered or registrable, or if already registered such registration shall be forthwith null and void.\n(2) The Director shall keep and maintain, or cause to be kept and maintained, a register in which shall be recorded all drugs registered by him under this section.\n(3) The register shall be open for inspection by the public at such times and places and on such terms as may be determined by the Director.\n(4) Application for the registration of a drug shall be made to the Director in such form and accompanied by such further information as may be prescribed.\n(5) The registration of a drug shall cease to be valid if any significant change has been made in the composition of the product, the dosage form or the conditions of its manufacture without the prior approval of the Director to such change."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Control over Drugs",
+      "section": "4",
+      "title": "Suspension or revocation of registration",
+      "content": "4. Suspension or revocation of registration\nIf, in the opinion of the Director, information not previously available indicates that a registered drug may not be safe and effective when used in the manner and for the purposes approved at the time of its registration, he may—\n( a ) require such revisions in the composition of the drug, its packaging, labelling or advertising as he may consider necessary or desirable to ensure safety and efficacy;\n( b ) suspend the registration for a specified period or pending compliance with any revisions required under paragraph ( a ); or\n( c ) revoke the registration."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Control over Drugs",
+      "section": "5",
+      "title": "Advisory Board",
+      "content": "5. Advisory Board\n(1) The Minister may establish a Drugs Advisory Board, the function of which shall be to advise the Director as to whether a drug should be registered or not, or as to the conditions subject to which it should be registered, or whether those conditions should be revised in accordance with section 4( a ), or whether registration should be suspended or revoked."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "drug",
+      "definition": "any substance or mixture of substances used or purporting to be suitable for use, or manufactured or sold for use in the diagnosis, treatment, alleviation, modification or prevention of disease, illness, abnormal physical or organic condition or the symptoms thereof, or restoring, correcting or modifying any somatic or psychic or organic condition, and shall include a related substance and, to the extent that it complies with the above definition, a habit-forming drug",
+      "source_provision": "s2"
+    },
+    {
+      "term": "habit-forming drug",
+      "definition": "any drug, plant, preparation or substance, or mixture of substances, whether or not otherwise complying with the definition of drug, which is prescribed by the Minister to be a habit-forming drug, and in so prescribing the Minister may prescribe different categories of habit-forming drugs and any special conditions relating thereto",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manufacture",
+      "definition": "all operations involved in the production, processing, compounding, formulation, filling, packaging, re-packing and labelling of a drug, related substance or a habit-forming drug",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pharmacist",
+      "definition": "a person registered as a pharmacist under the Botswana Health Professions Act (Cap. 61:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pharmacy",
+      "definition": "premises approved by the Director for the storing, dispensing and selling of drugs and which is under the control of a pharmacist",
+      "source_provision": "s2"
+    },
+    {
+      "term": "related substance",
+      "definition": "any substance or mixture of substances which the Minister, by notice in the Gazette , declares to be a substance to which the provisions of this Act shall apply.",
+      "source_provision": "s2"
+    }
+  ]
+}

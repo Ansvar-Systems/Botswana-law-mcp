@@ -1,0 +1,264 @@
+{
+  "id": "bw-act-plant-protection",
+  "type": "statute",
+  "title": "Plant Protection",
+  "title_en": "Plant Protection",
+  "short_name": "Plant Protection",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/plant-protection",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Plant Protection Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"affected\" means infected or infested with a pest;\n\"area\" means an area, place or site of production;\n\"area of low pest prevalence\" means an area, whether the whole of Botswana or part of Botswana, as identified by the Minister, in which a specific pest occurs at low levels and which is subject to effective surveillance, control or eradication measures;\n\"beneficial organism\" means any organism including fungus, bacteria, virus, virus-like organisms and invertebrate or any other animal which is declared by the Minister in writing to be beneficial to flora or agricultural production;\n\"Committee\" means the Appeals Committee established under section 26;\n\"consignment\" means a quantity of plants, plant products or other regulated articles being moved from one country to another and covered, when required, by a single phytosanitary certificate;\n\"contain\" means to apply phytosanitary measures in and around an infested area to prevent the spread of a pest;\n\"container\" means a box, bag or other receptacle in which plants, plant products or other regulated articles that may carry pests have been or are being transported;\n\"control\" means to suppress, contain or eradicate a pest population;\n\"conveyance\" means any vessel, aircraft, train, vehicle, cart, container, animal or other thing that can convey plants, plant products, pests, beneficial organisms or other regulated articles from one place to another;\n\"detain\" means to keep a consignment in official custody or confinement for phytosanitary reasons, and \"detention\" shall have a corresponding meaning;\n\"entry\" means the movement of a pest into an area where it is not yet present, or present but not widely distributed and being officially controlled;\n\"eradicate\" means to apply phytosanitary measures to eliminate a pest from an area, and \"eradication\" shall have a corresponding meaning;\n\"establishment\" , in relation to a pest, means the perpetuation, for the foreseeable future, of a pest within an area after entry;\n\"germplasm\" means plants intended for use in breeding or conservation programmes;\n\"importer\" means anyone who, whether as owner, consignor, consignee, agent, broker or otherwise, is in possession of or in any way entitled to the custody of any plant, plant product, pest, beneficial organism or other regulated article landed or likely to be landed in Botswana from another country;\n\"inspection\" means official visual examination of plants, plant products or other regulated articles to determine if pests are present or to determine compliance with phytosanitary standards;\n\"introduction\" means the entry of a pest resulting in its establishment in Botswana;\n\"IPPC\" means the International Plant Protection Convention;\n\"Secretariat\" means the Secretariat appointed under Article XII of the International Plant Protection Convention;\n\"National Plant Protection Organisation\" (in this Act referred to as \"the NPPO\") means the official unit designated by the Minister under section 3 to discharge the functions assigned to such unit under the IPPC;\n\"occupier\" , in relation to any land or building, means a person in actual occupation thereof;\n\"official control\" means the active enforcement of mandatory phytosanitary regulations and the application of mandatory phytosanitary procedures with the objective of eradication or containment of quarantine pests or for the management of regulated non-quarantine pests;\n\"outbreak\" means an isolated pest population, recently detected and expected to survive for the immediate future;\n\"owner\" , in relation to any thing, includes any person having for the time being the possession, custody or control thereof;\n\"packaging\" means any material used to pack, contain or keep plants, plant products or other regulated articles;\n\"pest\" means any species, strain or biotype of plant, animal or pathogenic agent injurious to plants or plant products;\n\"pest free area\" means an area in which a specific pest does not occur as demonstrated by scientific evidence and in which, where appropriate, this condition is being officially maintained;\n\"pest risk analysis\" means the process of evaluating biological or other scientific and economic evidence to determine whether a pest should be regulated and the strength of any phytosanitary measures to be taken against it;\n\"phytosanitary certificate\" means a certificate patterned after the model certificate of the IPPC, and which is set out in the Sixth Schedule;\n\"phytosanitary measure\" means any legislation, regulation or official procedure having the purpose of preventing the introduction or spread of quarantine pests, or limiting the economic impact of regulated non- quarantine pests;\n\"plant\" means living plants or parts thereof, including seeds and germplasm;\n\"plant inspector\" means any person appointed or designated to carry out the functions of a plant inspector under this Act;\n\"plant product\" means any unmanufactured material of plant origin (including grain) and those manufactured products which, by their nature or that of their processing, may create a risk for the introduction and spread of pests;\n\"pre-clearance\" means phytosanitary certification or clearance in the exporting country, performed by or under the supervision of the NPPO;\n\"premises\" means land or any building or other structure situated on land;\n\"quarantine pest\" means a pest of potential economic importance to the area endangered thereby, not yet present there, or present but not widely distributed and being officially controlled, and declared as such in the First Schedule to this Act;\n\"re-export phytosanitary certificate\" means a certificate in the form set out in the Seventh Schedule;\n\"regular business hours\" means the normal operating hours of government offices in Botswana;\n\"regulated article\" means any storage place, packaging, conveyance, container, soil and any other organism, object or material capable of harbouring or spreading pests, deemed to require phytosanitary measures, particularly where international transportation is involved, and includes beneficial organisms;\n\"regulated non-quarantine pest\" means any pest which is not a quarantine pest, whose presence in plants for planting affects the intended use of those plants with an economically unacceptable impact and which is therefore regulated within the territory of Botswana, and which is declared as such in the Second Schedule;\n\"regulated pest\" means a quarantine pest or a regulated non-quarantine pest;\n\"surveillance\" means an official process which collects and records data on pest occurrence or absence by survey, monitoring or other procedures;\n\"treatment\" means an officially authorised procedure for the killing or removal of pests or rendering pests infertile."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Administration",
+      "section": "3",
+      "title": "Designation of National Plant Protection Organisation",
+      "content": "3. Designation of National Plant Protection Organisation\nThe Minister shall designate a government unit dealing with plant health matters to serve as the National Plant Protection Organisation for Botswana."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Administration",
+      "section": "4",
+      "title": "Functions of National Plant Protection Organisation",
+      "content": "4. Functions of National Plant Protection Organisation\nThe NPPO shall perform at least the following functions—\n( a ) implementation of the IPPC and the International Standards for Phytosanitary Measures, including the following responsibilities—\n(i) issuing phytosanitary certificates and import certificates,\n(ii) carrying out surveillance of growing plants, including areas under cultivation and wild flora, and of plants and plant products in storage or in transit, for the purpose of reporting the occurrence, outbreak and spread of pests, and of controlling those pests,\n(iii) inspecting consignments of plants and plant products and, where appropriate, inspecting other regulated articles, for the purpose of preventing the introduction and spread of pests,\n(iv) carrying out pre-clearance inspections where requested,\n(v) disinfesting or disinfecting consignments of plants, plant products and other regulated articles,\n(vi) protecting endangered areas, and designating, maintaining and surveying pest free areas and areas of low pest prevalence,\n(vii) providing justification to other countries concerning phytosanitary measures to be applied, either through pest risk analysis or by reference to applicable international standards,\n(viii) notifying trading partners of relevant instances of non-compliance with import requirements,\n(ix) ensuring the phytosanitary security of consignments after certification and before export,\n(x) establishing auditing and trace-back procedures for plants, plant products and other regulated articles for phytosanitary certification,\n(xi) establishing any minimum qualifications for and overseeing training and development of plant inspectors and other NPPO staff,\n(xii) distributing information regarding regulated pests and the means of their prevention and control,\n(xiii) proposing, reviewing, preparing and enforcing phytosanitary measures and other necessary legislation,\n(xiv) notifying phytosanitary measures to other countries in accordance with international obligations,\n(xv) providing information regarding import and export regulations in force, and technical requirements for plants, plant products and other regulated articles, on request of any interested international, regional or other national plant protection organisation;\n( b ) the enforcement of the present Act, as well as any other legislation relating to plant protection that the Minister may identify;\n( c ) the representation of Botswana in bilateral, regional and international forums related to phytosanitary matters;\n( d ) the development of pest diagnostic, investigative and analytical capabilities as well as the establishment of laboratories and quarantine stations at such places as the NPPO may consider necessary;\n( e ) the establishment of procedures for accreditation of any quarantine station, official analyst, official laboratory or any other person or institution from the public or private sector involved in phytosanitary matters; and\n( f ) the performance of any other functions that the Minister considers necessary in order to achieve the objectives of this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Administration",
+      "section": "5",
+      "title": "Appointment of plant inspectors",
+      "content": "5. Appointment of plant inspectors\n(1) The Minister may, by notice published in the Gazette , and subject to the laws governing the Public Service, appoint such number of persons as may be necessary to be plant inspectors under this Act.\n(2) A plant inspector shall, when discharging his or her duties or exercising his or her powers under this Act, comply with any direction which may be issued by the Minister or the Head of the NPPO."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Administration",
+      "section": "6",
+      "title": "Powers and duties of plant inspectors",
+      "content": "6. Powers and duties of plant inspectors\n(1) A plant inspector may—\n( a ) inspect plants, plant products or other regulated articles under cultivation, in storage or in transit, for the purposes of detecting and reporting the existence, outbreak or spread of pests listed in the First and Second Schedules;\n( b ) expose the roots of, remove the bark of, cut, peg, tag or mark any plant which he or she believes is likely to harbour pests;\n( c ) inspect consignments of plants, plant products or other regulated articles destined for import into or export from Botswana so as to determine whether they are affected, and, where necessary, verify the pest status of consignments by the taking of samples or otherwise; and\n( d ) open any container which he or she believes to contain any growing material or any plant liable to harbour pests.\n(2) Without prejudice to the provisions of subsection (1), a plant inspector shall—\n( a ) ensure the disinfection or disinfestation of consignments of plants, plant products or other regulated articles destined for import into or export from Botswana, as well as their containers, packaging, storage places and transport facilities; and\n( b ) ensure that where waste is being disposed of from—\n(i) an aircraft and other conveyances arriving in Botswana, and\n(ii) premises which process or wash imported plants, plant products or other regulated articles,\nno threat to plant resources in Botswana is caused;\n( c ) issue phytosanitary certificates where he or she is so authorised by the NPPO;\n( d ) inspect and certify exports of plants, plant products and other regulated articles from Botswana;\n( e ) at the invitation of an exporting country, carry out an inspection on the territory of the exporting country as a pre-clearance inspection;\n( f ) carry out detection activities and maintain up-to-date information on the pest status of Botswana;\n( g ) institute inquiries and request information or documentation upon suspicion that the provisions of this Act are being violated; and\n( h ) attend to such other matters as the NPPO may prescribe."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Administration",
+      "section": "7",
+      "title": "Enforcement by plant inspectors",
+      "content": "7. Enforcement by plant inspectors\n(1) A plant inspector may without a warrant enter and inspect any land, area or premises where he or she suspects that a contravention of this Act has taken or is taking place.\n(2) A plant inspector who suspects that any person, container or conveyance entering or moving within Botswana is harbouring a pest, may stop and without a warrant search such person, container or conveyance."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "affected",
+      "definition": "infected or infested with a pest",
+      "source_provision": "s2"
+    },
+    {
+      "term": "area",
+      "definition": "an area, place or site of production",
+      "source_provision": "s2"
+    },
+    {
+      "term": "area of low pest prevalence",
+      "definition": "an area, whether the whole of Botswana or part of Botswana, as identified by the Minister, in which a specific pest occurs at low levels and which is subject to effective surveillance, control or eradication measures",
+      "source_provision": "s2"
+    },
+    {
+      "term": "beneficial organism",
+      "definition": "any organism including fungus, bacteria, virus, virus-like organisms and invertebrate or any other animal which is declared by the Minister in writing to be beneficial to flora or agricultural production",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Committee",
+      "definition": "the Appeals Committee established under section 26",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consignment",
+      "definition": "a quantity of plants, plant products or other regulated articles being moved from one country to another and covered, when required, by a single phytosanitary certificate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contain",
+      "definition": "to apply phytosanitary measures in and around an infested area to prevent the spread of a pest",
+      "source_provision": "s2"
+    },
+    {
+      "term": "container",
+      "definition": "a box, bag or other receptacle in which plants, plant products or other regulated articles that may carry pests have been or are being transported",
+      "source_provision": "s2"
+    },
+    {
+      "term": "control",
+      "definition": "to suppress, contain or eradicate a pest population",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conveyance",
+      "definition": "any vessel, aircraft, train, vehicle, cart, container, animal or other thing that can convey plants, plant products, pests, beneficial organisms or other regulated articles from one place to another",
+      "source_provision": "s2"
+    },
+    {
+      "term": "detain",
+      "definition": "to keep a consignment in official custody or confinement for phytosanitary reasons, and \"detention\" shall have a corresponding meaning",
+      "source_provision": "s2"
+    },
+    {
+      "term": "entry",
+      "definition": "the movement of a pest into an area where it is not yet present, or present but not widely distributed and being officially controlled",
+      "source_provision": "s2"
+    },
+    {
+      "term": "eradicate",
+      "definition": "to apply phytosanitary measures to eliminate a pest from an area, and \"eradication\" shall have a corresponding meaning",
+      "source_provision": "s2"
+    },
+    {
+      "term": "germplasm",
+      "definition": "plants intended for use in breeding or conservation programmes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "importer",
+      "definition": "anyone who, whether as owner, consignor, consignee, agent, broker or otherwise, is in possession of or in any way entitled to the custody of any plant, plant product, pest, beneficial organism or other regulated article landed or likely to be landed in Botswana from another country",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspection",
+      "definition": "official visual examination of plants, plant products or other regulated articles to determine if pests are present or to determine compliance with phytosanitary standards",
+      "source_provision": "s2"
+    },
+    {
+      "term": "introduction",
+      "definition": "the entry of a pest resulting in its establishment in Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "IPPC",
+      "definition": "the International Plant Protection Convention",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Secretariat",
+      "definition": "the Secretariat appointed under Article XII of the International Plant Protection Convention",
+      "source_provision": "s2"
+    },
+    {
+      "term": "official control",
+      "definition": "the active enforcement of mandatory phytosanitary regulations and the application of mandatory phytosanitary procedures with the objective of eradication or containment of quarantine pests or for the management of regulated non-quarantine pests",
+      "source_provision": "s2"
+    },
+    {
+      "term": "outbreak",
+      "definition": "an isolated pest population, recently detected and expected to survive for the immediate future",
+      "source_provision": "s2"
+    },
+    {
+      "term": "packaging",
+      "definition": "any material used to pack, contain or keep plants, plant products or other regulated articles",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pest",
+      "definition": "any species, strain or biotype of plant, animal or pathogenic agent injurious to plants or plant products",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pest free area",
+      "definition": "an area in which a specific pest does not occur as demonstrated by scientific evidence and in which, where appropriate, this condition is being officially maintained",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pest risk analysis",
+      "definition": "the process of evaluating biological or other scientific and economic evidence to determine whether a pest should be regulated and the strength of any phytosanitary measures to be taken against it",
+      "source_provision": "s2"
+    },
+    {
+      "term": "phytosanitary certificate",
+      "definition": "a certificate patterned after the model certificate of the IPPC, and which is set out in the Sixth Schedule",
+      "source_provision": "s2"
+    },
+    {
+      "term": "phytosanitary measure",
+      "definition": "any legislation, regulation or official procedure having the purpose of preventing the introduction or spread of quarantine pests, or limiting the economic impact of regulated non- quarantine pests",
+      "source_provision": "s2"
+    },
+    {
+      "term": "plant",
+      "definition": "living plants or parts thereof, including seeds and germplasm",
+      "source_provision": "s2"
+    },
+    {
+      "term": "plant inspector",
+      "definition": "any person appointed or designated to carry out the functions of a plant inspector under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "plant product",
+      "definition": "any unmanufactured material of plant origin (including grain) and those manufactured products which, by their nature or that of their processing, may create a risk for the introduction and spread of pests",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pre-clearance",
+      "definition": "phytosanitary certification or clearance in the exporting country, performed by or under the supervision of the NPPO",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "land or any building or other structure situated on land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quarantine pest",
+      "definition": "a pest of potential economic importance to the area endangered thereby, not yet present there, or present but not widely distributed and being officially controlled, and declared as such in the First Schedule to this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "re-export phytosanitary certificate",
+      "definition": "a certificate in the form set out in the Seventh Schedule",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regular business hours",
+      "definition": "the normal operating hours of government offices in Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regulated article",
+      "definition": "any storage place, packaging, conveyance, container, soil and any other organism, object or material capable of harbouring or spreading pests, deemed to require phytosanitary measures, particularly where international transportation is involved, and includes beneficial organisms",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regulated non-quarantine pest",
+      "definition": "any pest which is not a quarantine pest, whose presence in plants for planting affects the intended use of those plants with an economically unacceptable impact and which is therefore regulated within the territory of Botswana, and which is declared as such in the Second Schedule",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regulated pest",
+      "definition": "a quarantine pest or a regulated non-quarantine pest",
+      "source_provision": "s2"
+    },
+    {
+      "term": "surveillance",
+      "definition": "an official process which collects and records data on pest occurrence or absence by survey, monitoring or other procedures",
+      "source_provision": "s2"
+    },
+    {
+      "term": "treatment",
+      "definition": "an officially authorised procedure for the killing or removal of pests or rendering pests infertile.",
+      "source_provision": "s2"
+    }
+  ]
+}

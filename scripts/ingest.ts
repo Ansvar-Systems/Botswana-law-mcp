@@ -3,7 +3,7 @@
  * Botswana Law MCP -- Census-Driven Ingestion Pipeline
  *
  * Reads data/census.json and fetches + parses every ingestable Act
- * from elaws.gov.bw (Akoma Ntoso HTML).
+ * from botswanalaws.com.
  *
  * Features:
  *   - Resume support: skips Acts that already have a seed JSON file
@@ -16,9 +16,9 @@
  *   npm run ingest -- --skip-fetch    # Reuse cached HTML (re-parse only)
  *   npm run ingest -- --force         # Re-ingest even if seed exists
  *
- * Data source: elaws.gov.bw (National Council for Law Reporting)
- * Format: AKN (Akoma Ntoso) structured HTML
- * License: Government Open Data
+ * Data source: botswanalaws.com (Blackhall Publishing)
+ * Format: Custom Joomla HTML
+ * Note: ~20% of sections are publicly available (partial paywall)
  */
 
 import * as fs from 'fs';
@@ -34,6 +34,10 @@ const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 const CENSUS_PATH = path.resolve(__dirname, '../data/census.json');
 
+/* ----- Jurisdiction constants ----- */
+const JURISDICTION_NAME = 'Botswana';
+const SOURCE_LABEL = 'botswanalaws.com (Blackhall Publishing)';
+
 /* ---------- Types ---------- */
 
 interface CensusLawEntry {
@@ -41,8 +45,9 @@ interface CensusLawEntry {
   title: string;
   identifier: string;
   url: string;
+  category_path: string;
   status: 'in_force' | 'amended' | 'repealed';
-  category: 'act';
+  category: 'act' | 'subsidiary' | 'constitution';
   classification: 'ingestable' | 'excluded' | 'inaccessible';
   ingested: boolean;
   provision_count: number;
@@ -82,6 +87,8 @@ function parseArgs(): { limit: number | null; skipFetch: boolean; force: boolean
       skipFetch = true;
     } else if (args[i] === '--force') {
       force = true;
+    } else if (args[i] === '--resume') {
+      // Default behavior -- explicit flag accepted but no-op
     }
   }
 
@@ -90,14 +97,8 @@ function parseArgs(): { limit: number | null; skipFetch: boolean; force: boolean
 
 /**
  * Convert a census entry to an ActIndexEntry for the parser.
- * Extracts AKN year/number from the identifier field.
  */
 function censusToActEntry(law: CensusLawEntry): ActIndexEntry {
-  // identifier format: "act/YEAR/NUMBER"
-  const parts = law.identifier.split('/');
-  const aknYear = parts[1] ?? '';
-  const aknNumber = parts[2] ?? '';
-
   return {
     id: law.id,
     title: law.title,
@@ -107,8 +108,6 @@ function censusToActEntry(law: CensusLawEntry): ActIndexEntry {
     issuedDate: '',
     inForceDate: '',
     url: law.url,
-    aknYear,
-    aknNumber,
   };
 }
 
@@ -117,11 +116,10 @@ function censusToActEntry(law: CensusLawEntry): ActIndexEntry {
 async function main(): Promise<void> {
   const { limit, skipFetch, force } = parseArgs();
 
-  console.log('Botswana Law MCP -- Ingestion Pipeline (Census-Driven)');
-  console.log('====================================================\n');
-  console.log(`  Source: elaws.gov.bw (National Council for Law Reporting)`);
-  console.log(`  Format: AKN (Akoma Ntoso) structured HTML`);
-  console.log(`  License: Government Open Data`);
+  console.log(`${JURISDICTION_NAME} Law MCP -- Ingestion Pipeline (Census-Driven)`);
+  console.log('='.repeat(62) + '\n');
+  console.log(`  Source: ${SOURCE_LABEL}`);
+  console.log(`  Note:   ~20% of sections publicly available (partial paywall)`);
 
   if (limit) console.log(`  --limit ${limit}`);
   if (skipFetch) console.log(`  --skip-fetch`);
@@ -199,10 +197,18 @@ async function main(): Promise<void> {
         console.log(`  [${processed + 1}/${acts.length}] Using cached ${act.id} (${(html.length / 1024).toFixed(0)} KB)`);
       } else {
         process.stdout.write(`  [${processed + 1}/${acts.length}] Fetching ${act.id}...`);
-        const result = await fetchWithRateLimit(act.url);
 
-        if (result.status !== 200) {
-          console.log(` HTTP ${result.status}`);
+        try {
+          const result = await fetchWithRateLimit(law.url);
+
+          if (result.status !== 200) {
+            throw new Error(`HTTP ${result.status} from ${law.url}`);
+          }
+
+          html = result.body;
+        } catch (fetchError) {
+          const msg = fetchError instanceof Error ? fetchError.message : String(fetchError);
+          console.log(` FETCH ERROR: ${msg}`);
 
           // Mark as inaccessible in census
           const entry = censusMap.get(law.id);
@@ -210,13 +216,13 @@ async function main(): Promise<void> {
             entry.classification = 'inaccessible';
           }
 
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `HTTP ${result.status}` });
+          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `FETCH ERROR: ${msg.substring(0, 80)}` });
           failed++;
           processed++;
           continue;
         }
 
-        html = result.body;
+        // Cache the HTML source for --skip-fetch reruns
         fs.writeFileSync(sourceFile, html);
         console.log(` OK (${(html.length / 1024).toFixed(0)} KB)`);
       }
@@ -227,7 +233,7 @@ async function main(): Promise<void> {
       totalDefinitions += parsed.definitions.length;
       console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions`);
 
-      // Update census entry (mark ingested even if zero provisions — the act was fetched and parsed)
+      // Update census entry
       const entry = censusMap.get(law.id);
       if (entry) {
         entry.ingested = true;
@@ -265,7 +271,7 @@ async function main(): Promise<void> {
   console.log(`\n${'='.repeat(70)}`);
   console.log('Ingestion Report');
   console.log('='.repeat(70));
-  console.log(`\n  Source:      elaws.gov.bw (Akoma Ntoso HTML)`);
+  console.log(`\n  Source:      ${SOURCE_LABEL}`);
   console.log(`  Processed:   ${processed}`);
   console.log(`  New:         ${ingested}`);
   console.log(`  Resumed:     ${skipped}`);
@@ -274,7 +280,7 @@ async function main(): Promise<void> {
   console.log(`  Total definitions: ${totalDefinitions}`);
 
   // Summary of failures
-  const failures = results.filter(r => r.status.startsWith('HTTP') || r.status.startsWith('ERROR'));
+  const failures = results.filter(r => r.status.startsWith('HTTP') || r.status.startsWith('FETCH') || r.status.startsWith('ERROR'));
   if (failures.length > 0) {
     console.log(`\n  Failed acts:`);
     for (const f of failures) {
@@ -283,7 +289,7 @@ async function main(): Promise<void> {
   }
 
   // Zero-provision acts
-  const zeroProv = results.filter(r => r.provisions === 0 && !r.status.startsWith('HTTP') && !r.status.startsWith('ERROR'));
+  const zeroProv = results.filter(r => r.provisions === 0 && r.status === 'OK');
   if (zeroProv.length > 0) {
     console.log(`\n  Zero-provision acts (${zeroProv.length}):`);
     for (const z of zeroProv.slice(0, 20)) {
@@ -308,9 +314,6 @@ function writeCensus(census: CensusFile, censusMap: Map<string, CensusLawEntry>)
   census.summary.ingestable = census.laws.filter(l => l.classification === 'ingestable').length;
   census.summary.inaccessible = census.laws.filter(l => l.classification === 'inaccessible').length;
   census.summary.excluded = census.laws.filter(l => l.classification === 'excluded').length;
-
-  // Also compute total_provisions for the top-level census.json
-  const totalProvisions = census.laws.reduce((sum, l) => sum + (l.provision_count ?? 0), 0);
 
   fs.writeFileSync(CENSUS_PATH, JSON.stringify(census, null, 2));
 }

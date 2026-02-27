@@ -1,0 +1,105 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-chobe-district-council-barbers-and-braiders-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Chobe District Council (barbers and Braiders) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Chobe District Council (barbers and Braiders) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-chobe-district-council-barbers-and-braiders-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-Laws may be cited as the Chobe District Council (Barbers and Braiders) Bye-Laws*.\n*Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-Laws, unless the context otherwise requires\n\"authorised official\" means a person authorised by the Council Secretary, in writing, for the purpose of giving effect to, or enforcing, these Bye-Laws;\n\"barber\" means a person who, in a fixed place of business, carries on the business of shaving and cutting a persons hair or beard;\n\"braider\" means a person who, in a fixed place of business, carries on the business of braiding, styling and cutting a persons hair;\n\"Bye-law enforcement officer\" means a local government officer serving in the Council, who has been appointed under the Unified Local Government Service Act (Cap. 40:06), and whose main duties include giving effect to and enforcing the Councils Bye-Laws;\n\"Council\" means the Chobe District Council;\n\"council area\" means the area under the jurisdiction of the Council;\n\"licensing authority\" means the licensing authority appointed under bye-law 5(1);\n\"licensing officer\" means the Council Secretary or an employee of the Council, duly appointed as such by the Council Secretary, in writing;\n\"Omang\" means an identity card issued in accordance with the provisions of the National Registration Act (Cap. 01:02);\n\"police officer\" means any member of the Botswana Police Service or the Local Police Force;\n\"premises\" means the place of business of a barber or braider and includes a tent, booth, shed, stall or similar structure which is duly approved by the licensing authority; and\n\"Registrar\" means the Council Secretary or an employee of the Council, duly authorised as such, in writing, by the Council Secretary."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Register of barbers and braiders",
+      "content": "3. Register of barbers and braiders\n(1) There shall be a Registrar who shall keep a register of all licensed barbers and another register of all licensed braiders.\n(2) The Registrar shall cause to be entered in such registers the following particulars in respect of each licensed barber and each licensed braider\n( a ) full names;\n( b ) licence number;\n( c ) the date of issue and expiration of the licence;\n( d ) details of all licence renewals; and\n( e ) such other details as the Registrar believes to be reasonably necessary."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Licence required to carry on business of barber or braider",
+      "content": "4. Licence required to carry on business of barber or braider\n(1) No person shall carry on the business of a barber or braider within the council area unless\n( a ) such person is a citizen of Botswana;\n( b ) such person has attained the age of 16 years;\n( c ) such person is duly licensed under these Bye-Laws; and\n( d ) the premises on which the business is being carried on are approved by the licensing authority in writing.\n(2) Any person who contravenes the provisions of sub-bye-law (1) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Application for licence",
+      "content": "5. Application for licence\n(1) The Council shall, from amongst its members, appoint a licensing authority to perform the Councils functions under these Bye-Laws.\n(2) A person who wishes to carry on the business of a barber or braider shall apply to the licensing authority, in the form set out in Form A of the Schedule which shall contain\n( a ) the name, sex, place of residence, nationality, Omang number and qualifications, or experience, of the applicant;\n( b ) the place at which the business is to be conducted;\n( c ) the number and type of scissors, clippers and other equipment to be used; and\n( d ) such other information as the licensing authority may, on reasonable grounds, require.\n(3) The application shall be accompanied by\n( a ) two photographs, approximately five by four centimetres in size, clearly depicting the face and shoulders of the applicant; and\n( b ) a copy of the applicants Omang.\n(4) The licensing authority may refuse to issue a licence to any person if it is satisfied that the issue of a licence would be contrary to\n( a ) the interests of health; or"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised official",
+      "definition": "a person authorised by the Council Secretary, in writing, for the purpose of giving effect to, or enforcing, these Bye-Laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "barber",
+      "definition": "a person who, in a fixed place of business, carries on the business of shaving and cutting a persons hair or beard",
+      "source_provision": "s2"
+    },
+    {
+      "term": "braider",
+      "definition": "a person who, in a fixed place of business, carries on the business of braiding, styling and cutting a persons hair",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Bye-law enforcement officer",
+      "definition": "a local government officer serving in the Council, who has been appointed under the Unified Local Government Service Act (Cap. 40:06), and whose main duties include giving effect to and enforcing the Councils Bye-Laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Chobe District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council area",
+      "definition": "the area under the jurisdiction of the Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensing authority",
+      "definition": "the licensing authority appointed under bye-law 5(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensing officer",
+      "definition": "the Council Secretary or an employee of the Council, duly appointed as such by the Council Secretary, in writing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Omang",
+      "definition": "an identity card issued in accordance with the provisions of the National Registration Act (Cap. 01:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police officer",
+      "definition": "any member of the Botswana Police Service or the Local Police Force",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "the place of business of a barber or braider and includes a tent, booth, shed, stall or similar structure which is duly approved by the licensing authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Council Secretary or an employee of the Council, duly authorised as such, in writing, by the Council Secretary.",
+      "source_provision": "s2"
+    }
+  ]
+}

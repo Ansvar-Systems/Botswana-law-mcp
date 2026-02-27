@@ -1,0 +1,28 @@
+{
+  "id": "bw-sub-interstate-transfer-of-prisoners-subsidiary-legislation",
+  "type": "statute",
+  "title": "Interstate Transfer of Prisoners: Subsidiary Legislation",
+  "title_en": "Interstate Transfer of Prisoners: Subsidiary Legislation",
+  "short_name": "Interstate Transfer of Pris...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/interstate-transfer-of-prisoners-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Intestate Transfer of Prisoners Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—"
+    }
+  ],
+  "definitions": []
+}

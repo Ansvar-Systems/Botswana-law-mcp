@@ -1,0 +1,56 @@
+{
+  "id": "bw-act-military-veterans-act",
+  "type": "statute",
+  "title": "Military Veterans Act",
+  "title_en": "Military Veterans Act",
+  "short_name": "Military Veterans Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/military-veterans-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Military Veterans Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Appeals Board\" means the Board appointed under section 6(1);\n\"Defence Council\" means the Defence Council established under section 22 of the Botswana Defence Force Act (Cap. 21:05);\n\"medical practitioner\" has the same meaning assigned to it under the Botswana Health Professions Act (Cap. 61:02); and\n\"military veteran\" means a person who—\n( a ) has completed his or her service in the Botswana Defence Force;\n( b ) has completed his or her military training and is no longer serving on account of resignation; or\n( c ) could not complete his or her military service or training due to injuries sustained during military service or training, or a disease contracted during or associated with military service or training."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Benefits Relating to Military Veterans",
+      "section": "3",
+      "title": "Benefits relating to military veterans",
+      "content": "3. Benefits relating to military veterans\nThe benefits relating to a military veteran shall be as follows—\n( a ) dedicated counselling and treatment of a military veteran who suffers from mental disability, post-traumatic stress disorder and related conditions;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Appeals Board",
+      "definition": "the Board appointed under section 6(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Defence Council",
+      "definition": "the Defence Council established under section 22 of the Botswana Defence Force Act (Cap. 21:05)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical practitioner",
+      "definition": "assigned to it under the Botswana Health Professions Act (Cap. 61:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "military veteran",
+      "definition": "a person who—\n( a ) has completed his or her service in the Botswana Defence Force",
+      "source_provision": "s2"
+    }
+  ]
+}

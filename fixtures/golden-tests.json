@@ -2,6 +2,138 @@
   "$schema": "./golden-tests.schema.json",
   "version": "1.0",
   "mcp_name": "Botswana Law MCP",
-  "description": "Golden contract tests for the Botswana Law MCP -- add tests after first ingestion",
-  "tests": []
+  "description": "Golden contract tests for the Botswana Law MCP -- verifies core tools against botswanalaws.com data",
+  "tests": [
+    {
+      "id": "search-001",
+      "category": "search",
+      "description": "Search for 'criminal' returns provisions from Criminal Procedure and Evidence Act",
+      "tool": "search_legislation",
+      "input": { "query": "criminal", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["criminal"]
+      }
+    },
+    {
+      "id": "search-002",
+      "category": "search",
+      "description": "Search for 'constitution' returns provisions",
+      "tool": "search_legislation",
+      "input": { "query": "constitution", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "search-003",
+      "category": "search",
+      "description": "Search for 'marital power' returns Abolition of Marital Power Act provisions",
+      "tool": "search_legislation",
+      "input": { "query": "marital power", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["marital"]
+      }
+    },
+    {
+      "id": "provision-001",
+      "category": "provision",
+      "description": "Get Constitution section 1 - Declaration of Republic",
+      "tool": "get_provision",
+      "input": { "document_id": "bw-constitution-constitution-of-botswana", "section": "1" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["republic", "botswana"]
+      }
+    },
+    {
+      "id": "provision-002",
+      "category": "provision",
+      "description": "Get Abolition of Marital Power Act section 2 - Interpretation",
+      "tool": "get_provision",
+      "input": { "document_id": "bw-act-abolition-of-marital-power", "section": "2" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["court", "joint estate"]
+      }
+    },
+    {
+      "id": "provision-003",
+      "category": "provision",
+      "description": "Get provision by provision_ref format (s4)",
+      "tool": "get_provision",
+      "input": { "document_id": "bw-act-abolition-of-marital-power", "provision_ref": "s4" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["marital power"]
+      }
+    },
+    {
+      "id": "currency-001",
+      "category": "currency",
+      "description": "Check currency of Abolition of Marital Power Act",
+      "tool": "check_currency",
+      "input": { "document_id": "bw-act-abolition-of-marital-power" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["in_force"]
+      }
+    },
+    {
+      "id": "currency-002",
+      "category": "currency",
+      "description": "Check currency of a repealed act handles gracefully",
+      "tool": "check_currency",
+      "input": { "document_id": "bw-act-broadcasting-repeal" },
+      "assertions": {
+        "result_not_empty": true,
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "stance-001",
+      "category": "legal_stance",
+      "description": "Build legal stance on property acquisition in Botswana",
+      "tool": "build_legal_stance",
+      "input": { "query": "acquisition of property", "limit": 3 },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "sources-001",
+      "category": "metadata",
+      "description": "List sources returns Botswana metadata",
+      "tool": "list_sources",
+      "input": {},
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["botswana"]
+      }
+    },
+    {
+      "id": "edge-001",
+      "category": "edge_case",
+      "description": "Search with empty query handles gracefully",
+      "tool": "search_legislation",
+      "input": { "query": "xyznonexistent12345" },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "edge-002",
+      "category": "edge_case",
+      "description": "Get provision for nonexistent document handles gracefully",
+      "tool": "get_provision",
+      "input": { "document_id": "nonexistent-document-id" },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
 }

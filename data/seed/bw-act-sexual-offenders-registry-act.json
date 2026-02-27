@@ -1,0 +1,142 @@
+{
+  "id": "bw-act-sexual-offenders-registry-act",
+  "type": "statute",
+  "title": "Sexual Offenders Registry Act",
+  "title_en": "Sexual Offenders Registry Act",
+  "short_name": "Sexual Offenders Registry Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/sexual-offenders-registry-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Sexual Offenders Registry Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires-\n\"authorised officer\" means a police officer, immigration official, prison officer, social worker, or any other person designated by a court or the Minister for the purposes of this Act as such;\n\"certificate\" means a certificate referred to in section 14;\n\"child\" has the same meaning assigned to it in the Children's Act (Cap. 28:04);\n\"Commissioner of Police\" has the same meaning assigned to it in the Police Act (Cap. 21:01);\n\"Commissioner of Prison Service\" has the same meaning assigned to it in the Prisons Act (Cap. 21:03);\n\"Council\" means the Sexual Offenders Inter-sectoral Council established under section 24;\n\"custodian of Register\" means Commissioner of Police;\n\"dangerous sexual offender\" means a sexual offender declared as dangerous by a court under section 21;\n\"employer\" means an employer in a targeted institution;\n\"foster care\" has the same meaning assigned to it in the Children's Act;\n\"kinship care-giver\" means the full time care, nurturing and protection of a child by a relative or other adult who has a close relationship to the family of the child;\n\"law enforcement officer\" means any person whose duties involve law enforcement and includes a police officer as defined under the Police Act;\n\"police officer\" has the same meaning assigned to it in the Police Act;\n\"Register\" means a Sexual Offenders Register established under section 7;\n\"sexual offence\" means any offence described in section 4 or a sexual offence in any written law;\n\"targeted institution\" means a person, hospital, business or trade which-\n( a ) has a vulnerable person in his, her or its care; or\n( b ) provides a service to a vulnerable person; and\n\"vulnerable person\" means a child, a person with disability, a hospitalised person, or a person who has attained the age of 60 and above."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Guiding principles",
+      "content": "3. Guiding principles\n(1) The following principles shall be observed in the administration of this Act-\n( a ) the best interest of a survivor of a sexual offence shall be paramount;\n( b ) privacy of a survivor of a sexual offence and that of his or her family is to be upheld at all times; and\n( c ) the need to raise awareness of sexual abuse, sexual offenders and emerging forms of sexual offences.\n(2) The following factors shall be taken into account in determining the best interest of children, families and communities-\n( a ) the need to protect a survivor of a sexual offence from further harm;\n( b ) the age, maturity and background of a survivor of a sexual offence; and\n( c ) any other matter which will ensure the general well-being of members of the public.\n(3) The provisions of subsection (2) shall not be construed as limiting the factors and any other factor that an authorised officer may reasonably consider or that may be taken into account in determining what is in the best interests of justice upon an applicant's assessment in terms of sections 14 and 15."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Sexual Offences",
+      "section": "4",
+      "title": "Sexual offences",
+      "content": "4. Sexual offences\n(1) Sexual offence includes a sexual offence listed in the Schedule.\n(2) The Minister may amend the Schedule by an Order published in the Gazette."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Sexual Offences",
+      "section": "5",
+      "title": "Disclosure of conviction of sexual offence",
+      "content": "5. Disclosure of conviction of sexual offence\n(1) A person who has been convicted of a sexual offence in Botswana or outside Botswana shall disclose such conviction to a prospective or existing employer in an institution, entity or trade that has vulnerable persons in its care or that provides service to such persons, upon applying for employment or within seven days or within a reasonable time after his or her application for employment.\n(2) A person who contravenes subsection (1) commits an offence and is liable to a fine not exceeding P200 000 or to imprisonment for a term not exceeding three years, or to both."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Sexual Offences",
+      "section": "6",
+      "title": "Registration of sex offenders entering Botswana",
+      "content": "6. Registration of sex offenders entering Botswana\n(1) A person who has been convicted of a sexual offence outside Botswana and whose particulars appear in an official sexual offenders register in any foreign jurisdiction shall disclose such conviction to an authorised officer immediately upon entry into Botswana.\n(2) An authorised officer shall immediately alert the Court Clerk or Registrar of the High Court through a system, established and maintained by the Minister in consultation with the Minister responsible for immigration, for informing the relevant authorities about a sexual offender entering Botswana.\n(3) The Court Clerk or Registrar of the High Court shall immediately forward particulars of such person to the Commissioner of Police, who shall enter the particulars in the Register."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "a police officer, immigration official, prison officer, social worker, or any other person designated by a court or the Minister for the purposes of this Act as such",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate",
+      "definition": "a certificate referred to in section 14",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child",
+      "definition": "assigned to it in the Children's Act (Cap. 28:04)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner of Police",
+      "definition": "assigned to it in the Police Act (Cap. 21:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner of Prison Service",
+      "definition": "assigned to it in the Prisons Act (Cap. 21:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Sexual Offenders Inter-sectoral Council established under section 24",
+      "source_provision": "s2"
+    },
+    {
+      "term": "custodian of Register",
+      "definition": "Commissioner of Police",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dangerous sexual offender",
+      "definition": "a sexual offender declared as dangerous by a court under section 21",
+      "source_provision": "s2"
+    },
+    {
+      "term": "employer",
+      "definition": "an employer in a targeted institution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foster care",
+      "definition": "assigned to it in the Children's Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "kinship care-giver",
+      "definition": "the full time care, nurturing and protection of a child by a relative or other adult who has a close relationship to the family of the child",
+      "source_provision": "s2"
+    },
+    {
+      "term": "law enforcement officer",
+      "definition": "any person whose duties involve law enforcement and includes a police officer as defined under the Police Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police officer",
+      "definition": "assigned to it in the Police Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Register",
+      "definition": "a Sexual Offenders Register established under section 7",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sexual offence",
+      "definition": "any offence described in section 4 or a sexual offence in any written law",
+      "source_provision": "s2"
+    },
+    {
+      "term": "targeted institution",
+      "definition": "a person, hospital, business or trade which-\n( a ) has a vulnerable person in his, her or its care",
+      "source_provision": "s2"
+    },
+    {
+      "term": "vulnerable person",
+      "definition": "a child, a person with disability, a hospitalised person, or a person who has attained the age of 60 and above.",
+      "source_provision": "s2"
+    }
+  ]
+}

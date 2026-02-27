@@ -1,0 +1,35 @@
+{
+  "id": "bw-sub-public-service-subsidiary-legislation",
+  "type": "statute",
+  "title": "Public Service: Subsidiary Legislation",
+  "title_en": "Public Service: Subsidiary Legislation",
+  "short_name": "Public Service: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/public-service-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Public Service Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, where the Permanent Secretary is required to report to, notify, furnish or forward evidence or information to the appointing authority, or the supervising officer, as the case may be, and the Permanent Secretary is the appointing authority or supervising officer, the Permanent Secretary shall instead proceed to deal with the matter as if he or she is the appointing authority or supervising officer."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Constitution and abolition of Public Service Post (regs 3-4)",
+      "section": "3",
+      "title": "Constitution of office",
+      "content": "3. Constitution of office\nThe Permanent Secretary shall submit an application for the constitution of a public service post to the Director, and the application shall state—\n( a ) the title of the post;\n( b ) the salary or salary scale to be attached to the post;\n( c ) whether the proposed post is to be pensionable;\n( d ) the reason the constitution of the post is considered necessary;"
+    }
+  ],
+  "definitions": []
+}

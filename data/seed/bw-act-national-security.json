@@ -1,0 +1,77 @@
+{
+  "id": "bw-act-national-security",
+  "type": "statute",
+  "title": "National Security",
+  "title_en": "National Security",
+  "short_name": "National Security",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/national-security",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the National Security Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act, unless the context otherwise requires—\n\"authorised officer\" , in relation to any provision of this Act, means a person authorised by the person responsible for the administration of this Act to exercise the powers or perform the duties conferred or imposed by such provision;\n\"classified matter\" means any information or thing declared to be confidential or secret by an authorised officer;\n\"Defence Force\" has the meaning assigned to it under section 4 of the Botswana Defence Force Act (Cap. 21:05);\n\"disaffected person\" includes any person carrying on a seditious activity, that is to say, an activity constituting an offence under section 51 of the Penal Code (Cap. 08:01);\n\"foreign agent\" includes any person who is or has been or is reasonably suspected of being or having been employed by a foreign power either directly or indirectly for the purpose of committing an act whether within or without Botswana prejudicial to the safety or interests of Botswana, or who has or is reasonably suspected of having either within or without Botswana committed, or attempted to commit such an act in the interest of a foreign power;\n\"model\" includes a design, pattern or specimen;\n\"munition of war\" means an article, material, or device, including military stores, or any part thereof, whether actual or proposed, intended or adapted for use in war or the defence of Botswana or capable of being adapted for such use, or any article used, or capable of being used or converted or adapted for use, in the production thereof;\n\"necessary service\" includes—\n( a ) any service relating to the generation, supply or distribution of electricity;\n( b ) any fire brigade or fire service;\n( c ) any sewerage, rubbish disposal or other sanitation service;\n( d ) any health, hospital or ambulance service;\n( e ) any service relating to the supply or distribution of water;\n( f ) any service relating to the production, supply, delivery or distribution of food or fuel;\n( g ) mining;\n( h ) any communications service;\n( i ) any transport service;\n( j ) any road, railway, bridge, ferry, pontoon, airfield, harbour or dock;\n( k ) any other service or facility, whether or not of a kind similar to the foregoing, declared by the President to be a necessary service for the purposes of this Act;\n\"officer in charge of a police station\" means an officer, not below the rank of sub-inspector, appointed by the Commissioner of Police to be in charge of any police station, and includes, when the officer in charge of the police station, is absent therefrom or unable, from illness or other cause, to perform his duties, the police officer present at the police station who is next in rank to such officer;\n\"official document\" includes a passport, any pass of the Defence Force, any police or other official pass, permit, identity card, certificate, licence or other similar document;\n\"prohibited place\" means—\n( a ) any work of defence belonging to or occupied or used by or on behalf of Botswana including arsenals, naval, army or air force establishments or stations, factories, dockyards, mines, minefields, camps, ships, aircraft, telegraph, telephone, wireless or signal stations or offices, and places used for the purpose of building, repairing, making or storing any munitions of war or any sketches, plans, models, or documents relating thereto, or for the purpose of getting any metals, oil or minerals for use in time of war;\n( b ) any place that is for the time being declared by statutory instrument made by the President to be either a protected place or area under the Protected Places and Areas Act (Cap. 22:01) on the ground that information with respect thereto or damage thereto would be useful to a foreign power;\n\"sketch\" includes any photographic or other copy or representation of any place or thing;\n\"telegram\" includes telephone, telex, data fascimile and leased circuit services, together with appropriate terminal equipment.\n(2) For the purposes of this Act—\n( a ) expressions referring to communicating or receiving, include any communicating or receiving whether in whole or in part, and whether the sketch, plan, model, article, note, document, or information itself, or the substance, effect, or description thereof only is communicated or received;\n( b ) expressions referring to obtaining or retaining any sketch, plan, models, note, or document or article, include the copying or causing to be copied the whole or any part thereof;\n( c ) expressions referring to the communication of any sketch, plan, model, note, document, or article include the transfer or transmission thereof."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "classified matter",
+      "definition": "any information or thing declared to be confidential or secret by an authorised officer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Defence Force",
+      "definition": "assigned to it under section 4 of the Botswana Defence Force Act (Cap. 21:05)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "disaffected person",
+      "definition": "any person carrying on a seditious activity, that is to say, an activity constituting an offence under section 51 of the Penal Code (Cap. 08:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foreign agent",
+      "definition": "any person who is or has been or is reasonably suspected of being or having been employed by a foreign power either directly or indirectly for the purpose of committing an act whether within or without Botswana prejudicial to the safety or interests of Botswana, or who has or is reasonably suspected of having either within or without Botswana committed, or attempted to commit such an act in the interest of a foreign power",
+      "source_provision": "s2"
+    },
+    {
+      "term": "model",
+      "definition": "a design, pattern or specimen",
+      "source_provision": "s2"
+    },
+    {
+      "term": "munition of war",
+      "definition": "an article, material, or device, including military stores, or any part thereof, whether actual or proposed, intended or adapted for use in war or the defence of Botswana or capable of being adapted for such use, or any article used, or capable of being used or converted or adapted for use, in the production thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer in charge of a police station",
+      "definition": "an officer, not below the rank of sub-inspector, appointed by the Commissioner of Police to be in charge of any police station, and includes, when the officer in charge of the police station, is absent therefrom or unable, from illness or other cause, to perform his duties, the police officer present at the police station who is next in rank to such officer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "official document",
+      "definition": "a passport, any pass of the Defence Force, any police or other official pass, permit, identity card, certificate, licence or other similar document",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sketch",
+      "definition": "any photographic or other copy or representation of any place or thing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "telegram",
+      "definition": "telephone, telex, data fascimile and leased circuit services, together with appropriate terminal equipment.\n(2) For the purposes of this Act—\n( a ) expressions referring to communicating or receiving, include any communicating or receiving whether in whole or in part, and whether the sketch, plan, model, article, note, document, or information itself, or the substance, effect, or description thereof only is communicated or received",
+      "source_provision": "s2"
+    }
+  ]
+}

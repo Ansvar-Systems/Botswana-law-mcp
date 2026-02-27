@@ -1,0 +1,78 @@
+{
+  "id": "bw-act-lotteries-and-betting-repealed",
+  "type": "statute",
+  "title": "Lotteries and Betting",
+  "title_en": "Lotteries and Betting",
+  "short_name": "Lotteries and Betting",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/lotteries-and-betting-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Lotteries and Betting Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"horse\" includes any pony, galloway or donkey;\n\"race\" means any foot-race, horse race, dog-race, cycle race, motor-race or boat-race and any other race declared under section 25 to be a race;\n\"race-club\" means any club or association of persons promoting and controlling racing;\n\"race-course\" means the place at which a race is or is to be held;\n\"Registrar\" has the meaning assigned to it in the Societies Act (Cap. 18:01);\n\"society\" means any society registered or exempted under the Societies Act;\n\"totalizator\" means the contrivance for betting known as the totalizator or any other machine or instrument of betting of a like nature, whether mechanically operated or not."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Lotteries",
+      "section": "3",
+      "title": "Lotteries deemed lawful",
+      "content": "3. Lotteries deemed lawful\n(1) A lottery shall be deemed to be lawful if it is promoted on behalf of—\n( a ) a society; or\n( b ) an institution or organisation prescribed as a charitable institution,\nand is promoted and conducted in accordance with the provisions of section 4.\n(2) Regulations may prescribe such institutions or organisations which are considered to be charitable institutions or organisations for the purposes of this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Lotteries",
+      "section": "4",
+      "title": "Conditions to be observed in promotion of and conduct of lottery",
+      "content": "4. Conditions to be observed in promotion of and conduct of lottery\nThe following conditions shall for the purposes of section 3 be observed in the promotion and conduct of a lottery—\n( a ) the promoter of the lottery shall be a member of the society authorised in writing by the governing body of the society to act as such;\n( b ) no remuneration shall be paid in respect of the lottery to the promoter, or to any person employed by him in connection therewith;\n( c ) no ticket or chance shall be sold at a price exceeding P2;\n( d ) the whole proceeds, after deducting sums lawfully appropriated on account of expenses or for the provisions of prizes, shall be applied to the purposes of the society;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "horse",
+      "definition": "any pony, galloway or donkey",
+      "source_provision": "s2"
+    },
+    {
+      "term": "race",
+      "definition": "any foot-race, horse race, dog-race, cycle race, motor-race or boat-race and any other race declared under section 25 to be a race",
+      "source_provision": "s2"
+    },
+    {
+      "term": "race-club",
+      "definition": "any club or association of persons promoting and controlling racing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "race-course",
+      "definition": "the place at which a race is or is to be held",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "assigned to it in the Societies Act (Cap. 18:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "society",
+      "definition": "any society registered or exempted under the Societies Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "totalizator",
+      "definition": "the contrivance for betting known as the totalizator or any other machine or instrument of betting of a like nature, whether mechanically operated or not.",
+      "source_provision": "s2"
+    }
+  ]
+}

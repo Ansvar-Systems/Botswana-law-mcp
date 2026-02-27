@@ -1,0 +1,68 @@
+{
+  "id": "bw-sub-botswana-savings-bank-subsidiary-legislation",
+  "type": "statute",
+  "title": "Botswana Savings Bank: Subsidiary Legislation",
+  "title_en": "Botswana Savings Bank: Subsidiary Legislation",
+  "short_name": "Botswana Savings Bank: Subs...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/botswana-savings-bank-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Botswana Savings Bank Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In these Regulations, unless the context otherwise requires—\n\"account\" means an ordinary savings account or a save-as-you-earn account or a special savings account, as the case may be, in the Savings Bank;\n\"association\" means any association, society, club or fund approved by the Managing Director in terms of section 12 of the Act;\n\"deposit book\" means a book issued in terms of regulation 5(1);\n\"ordinary savings account\" means an account in which the minimum balance is P5 and repayment on demand and telegraphic withdrawals may be obtained at any post office;\n\"post office\" means a post office or other place at which the business of the Savings Bank is conducted;\n\"save-as-you-earn account\" means an account for a fixed period contract of 24 monthly deposits, with a minimum monthly deposit of P20;\n\"special savings account\" means an account in which the minimum balance is P200, and in which the interest is higher than that paid on an ordinary savings account.\n(2) In these Regulations, \"depositor\" means—\n( a ) in the case of a person under the age of seven years, the person making the deposit on behalf of the person under the age of seven years;\n( b ) in the case of a person of unsound mind, the curator of his estate;\n( c ) in the case of a joint account, the persons in whose names the account is entered;\n( d ) in the case of a body corporate, an officer of the body corporate;\n( e ) in the case of an association, the persons authorised to withdraw moneys standing to the credit of the account of the association; or\n( f ) in the case of a trustee for a person whose name is to be entered in the title of the account, the trustee."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application to open an account",
+      "content": "3. Application to open an account\n(1) Every application to open an account other than an account mentioned in subregulation (2) shall be made at a post office or in such other manner as the Managing Director may determine."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "account",
+      "definition": "an ordinary savings account or a save-as-you-earn account or a special savings account, as the case may be, in the Savings Bank",
+      "source_provision": "s2"
+    },
+    {
+      "term": "association",
+      "definition": "any association, society, club or fund approved by the Managing Director in terms of section 12 of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "deposit book",
+      "definition": "a book issued in terms of regulation 5(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ordinary savings account",
+      "definition": "an account in which the minimum balance is P5 and repayment on demand and telegraphic withdrawals may be obtained at any post office",
+      "source_provision": "s2"
+    },
+    {
+      "term": "post office",
+      "definition": "a post office or other place at which the business of the Savings Bank is conducted",
+      "source_provision": "s2"
+    },
+    {
+      "term": "save-as-you-earn account",
+      "definition": "an account for a fixed period contract of 24 monthly deposits, with a minimum monthly deposit of P20",
+      "source_provision": "s2"
+    },
+    {
+      "term": "special savings account",
+      "definition": "an account in which the minimum balance is P200, and in which the interest is higher than that paid on an ordinary savings account.\n(2) In these Regulations, \"depositor\" means—\n( a ) in the case of a person under the age of seven years, the person making the deposit on behalf of the person under the age of seven years",
+      "source_provision": "s2"
+    }
+  ]
+}

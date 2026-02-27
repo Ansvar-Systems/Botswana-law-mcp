@@ -1,0 +1,103 @@
+{
+  "id": "bw-act-bogosi",
+  "type": "statute",
+  "title": "Bogosi",
+  "title_en": "Bogosi",
+  "short_name": "Bogosi",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/bogosi",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Bogosi Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act, unless the context otherwise requires—\n\" Bogosi \" means the institution of traditional leadership or the position of Kgosi ;\n\"customary law\" means, in relation to any tribe or tribal community, the general law or custom of such tribe or community except in so far as such law or custom is repugnant to morality, humanity or natural justice, or injurious to the welfare of members thereof or repugnant to the Constitution or any other enactment;\n\"Judicial Commission\" means, one or more Commissioners appointed by a Commission issued under the Commissions of Inquiry Act (Cap. 05:03), the Commissioner or, if there is more than one Commissioner, the Chairperson of the Commissioners, being a person who holds or has held a high judicial office;\n\" Kgosana \" means a person recognised as such in terms of section 22(1);\n\" Kgosi \" means a person so designated by the tribe and recognised as such by the Minister under section 4;\n\" kgotla \" means the customary meeting place of a tribe or tribal community for the discussion, in terms of customary law, of matters of tribal or communal concern;\n\" Moemela Kgosi \" means Kgosi 's representative appointed under section 22(2);\n\" Mothusa Kgosi \" means a person appointed as such in terms of section 10;\n\" Motshwarelela Bogosi \" has the meaning assigned to it under section 7;\n\"senior member of the tribe\" means the person who, according to customary law of that tribe, is responsible for the tribe in the absence of the Kgosi ;\n\"tribal area\" means the area inhabited by a tribe, whether within or outside of a tribal territory;\n\"tribal community\" means any community or ethnic group, whether or not living within a tribal territory, which is organised in a tribal manner;\n\"tribal territory\" means any territory defined as such in the Tribal Territories Act (Cap. 32:03), and includes the territory defined in Schedule B to the Botswana Boundaries Act (Cap. 03:01);\n\"tribe\" means any tribal community in existence and recognised as a tribe immediately before the commencement of this Act and includes such other tribal communities as may be so recognised under section 3.\n(2) A reference in any enactment to \"Chief\", \"Sub-Chief\" or any other variant in the nomenclature of \"Chief\" or \"Sub-Chief\" shall be construed as a reference to \" Kgosi \" or any appropriate variation in the nomenclature of \" Kgosi \"."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Recognition of tribes",
+      "section": "3",
+      "title": "Recognition of tribes",
+      "content": "3. Recognition of tribes\n(1) The Minister, after consulting a tribal community in its Kgotla , may recognise that tribal community as a tribe.\n(2) In deciding whether a tribal community shall be recognised as a tribe, the Minister shall take into account the history, origins, and organisational structure of the community, and any other relevant matters."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART III Recognition and Removal of Dikgosi",
+      "section": "4",
+      "title": "Who is a Kgosi",
+      "content": "4. Who is a Kgosi"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bogosi",
+      "definition": "the institution of traditional leadership or the position of Kgosi",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Kgosana",
+      "definition": "a person recognised as such in terms of section 22(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Kgosi",
+      "definition": "a person so designated by the tribe and recognised as such by the Minister under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "kgotla",
+      "definition": "the customary meeting place of a tribe or tribal community for the discussion, in terms of customary law, of matters of tribal or communal concern",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Moemela Kgosi",
+      "definition": "Kgosi 's representative appointed under section 22(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Mothusa Kgosi",
+      "definition": "a person appointed as such in terms of section 10",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Motshwarelela Bogosi",
+      "definition": "assigned to it under section 7",
+      "source_provision": "s2"
+    },
+    {
+      "term": "senior member of the tribe",
+      "definition": "the person who, according to customary law of that tribe, is responsible for the tribe in the absence of the Kgosi",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tribal area",
+      "definition": "the area inhabited by a tribe, whether within or outside of a tribal territory",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tribal community",
+      "definition": "any community or ethnic group, whether or not living within a tribal territory, which is organised in a tribal manner",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tribal territory",
+      "definition": "any territory defined as such in the Tribal Territories Act (Cap. 32:03), and includes the territory defined in Schedule B to the Botswana Boundaries Act (Cap. 03:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tribe",
+      "definition": "any tribal community in existence and recognised as a tribe immediately before the commencement of this Act and includes such other tribal communities as may be so recognised under section 3.\n(2) A reference in any enactment to \"Chief\", \"Sub-Chief\" or any other variant in the nomenclature of \"Chief\" or \"Sub-Chief\" shall be construed as a reference to \" Kgosi \" or any appropriate variation in the nomenclature of \" Kgosi \".",
+      "source_provision": "s2"
+    }
+  ]
+}

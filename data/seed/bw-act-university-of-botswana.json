@@ -1,0 +1,75 @@
+{
+  "id": "bw-act-university-of-botswana",
+  "type": "statute",
+  "title": "University of Botswana",
+  "title_en": "University of Botswana",
+  "short_name": "University of Botswana",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/university-of-botswana",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the University of Botswana Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Council\" means the University Council established under section 9;\n\"member\" means a member of the Council;\n\"Minister\" means the Minister of Education and Skills Development;\n\"Statutes\" means the statutes enacted under section 23;\n\"University\" means the University of Botswana established under section 3."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment of University of Botswana",
+      "section": "3",
+      "title": "Continuance of University",
+      "content": "3. Continuance of University\n(1) The University of Botswana, established in terms of section 2 of the Act repealed under section 24, shall continue to exist as if established under this Act.\n(2) The University shall be a body corporate with perpetual succession and common seal, capable of suing and being sued in its own name and, subject to the provisions of this Act, performing such acts as bodies corporate may by law perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment of University of Botswana",
+      "section": "4",
+      "title": "Functions of University",
+      "content": "4. Functions of University\nThe functions of the University shall include the following—\n( a ) providing higher education and training;\n( b ) advancing and disseminating knowledge through teaching;\n( c ) undertaking, promoting and facilitating research and scholarly investigations;\n( d ) supporting and contributing to the realisation of economic and social development of the nation;\n( e ) contributing to the cultural and social life of the community; and\n( f ) contributing to the advancement of the intellectual and human resource capacity of the international community."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment of University of Botswana",
+      "section": "5",
+      "title": "Powers of University",
+      "content": "5. Powers of University\n(1) The University shall have the power to do all things necessary or expedient for exercising and discharging its functions subject to this Act.\n(2) Without prejudice to subsection (1), the University shall have the power to—\n( a ) provide programmes and courses of study, conduct examinations and other methods of assessment, and award degrees and other qualifications;\n( b ) establish relationships and collaborate with other persons or bodies, or other institutions of learning, higher education, training or research, within or outside Botswana, upon such terms as may be provided in the Statutes;\n( c ) establish or participate in the establishment of trading, research or other co-operations as may be necessary in the discharge of its functions;\n( d ) collaborate with business, professional, cultural, social or other interests within and outside Botswana as may be necessary in the discharge of its functions;\n( e ) collaborate with alumni and associations of alumni and graduates of the University;\n( f ) receive and accept donations on such terms and conditions as shall not be inconsistent with this Act and the functions of the University;\n( g ) maintain, manage, administer and invest funds in a manner which shall not be inconsistent with this Act and the functions of the University; and\n( h ) acquire and hold movable or immovable property, sell, lease, mortgage or otherwise alienate or dispose of the property, and enter into other transactions.\n(3) Where the University has resolved that it is necessary or expedient to acquire a property under subsection (2)( h ), the property may be treated as property required for public purposes, and the Acquisition of Property Act (Cap. 32:10) shall apply with necessary modifications to allow for the vesting of the property acquired in the University and for the cost to be defrayed by the University."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Council",
+      "definition": "the University Council established under section 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister of Education and Skills Development",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Statutes",
+      "definition": "the statutes enacted under section 23",
+      "source_provision": "s2"
+    },
+    {
+      "term": "University",
+      "definition": "the University of Botswana established under section 3.",
+      "source_provision": "s2"
+    }
+  ]
+}

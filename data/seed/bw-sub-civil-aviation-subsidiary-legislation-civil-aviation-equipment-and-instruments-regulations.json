@@ -1,0 +1,373 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-equipment-and-instruments-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (equipment and Instruments) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (equipment and Instruments) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-equipment-and-instruments-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Equipment and Instruments) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"aeroplane\" means a power-driven heavier-than-air aircraft deriving its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight;\n\"air operator certificate (AOC)\" means a certificate issued by the Authority which authorises an operator to carry out specified commercial air transport operations;\n\"airborne collision avoidance system (ACAS)\" means an aircraft system which—\n( a ) conforms to the requirements prescribed for the purpose;\n( b ) is based on secondary surveillance radar transponder signals; and\n( c ) operates independently of ground based equipment, designed to provide advice and appropriate avoidance manoeuvres to the pilot in relation to other aircrafts which are equipped with secondary surveillance radar and are in undue proximity;\n\"appropriate aeronautical radio station\" means, in relation to an aircraft, an aeronautical radio station serving the area in which the aircraft is, for the time being;\n\"ARDS\" means Aircraft Data Recording System;\n\"area navigation\" means a method of navigation that permits aircraft operations on any desired flight path within the coverage of station-referenced navigation aids or within the limits of the capability of self-contained aids, or a combination of these;\n\"ATS\" means Air Traffic Services;\n\"Automatic Deployable Flight Recorder (ADFR)\" means a combination flight recorder installed on the aircraft which is capable of automatically deploying from the aircraft;\n\"automatic direction finding equipment\" means radio navigation equipment which automatically indicates the bearing of any radio station transmitting the signals received by such equipment;\n\"CARS\" means Cockpit Audio Recording System;\n\"category I operation (CAT I)\" means a precision instrument approach and landing with a decision height not lower than 60 m (200 ft) and with either a visibility of not less than 800 m or a runway visual range not less than 550 m;\n\"category II operation (CAT II)\" means a precision instrument approach and landing with a decision height lower than 60 m (200 ft) but not lower than 30 m (100 ft) and a visual range not less 350 m;\n\"category IIIA operation (CAT IIIA)\" means a precision approach and landing with—\n( a ) a decision height lower than 30 m (100 ft) or no decision height; and\n( b ) a runway visual range not less than 200 m;\n\"category IIIB operation (CAT IIIB)\" means a precision approach and landing with—\n( a ) a decision height lower than 15 m (50 ft) or no decision height; and\n( b ) a runway visual range less than 200 m but not less than 50 m;\n\"category IIIC operation (CAT IIIC)\" means a precision instrument approach and landing with no decision height and no runway visual range limitations;\n\"controlled flight into terrain (CFIT)\" means when an airworthy aircraft is flown, under the control of a qualified pilot, into terrain, water or obstacles, with inadequate awareness on the part of the pilot of the impending collision;\n\"CVR\" means Cockpit Voice Recorder;\n\"distance measuring equipment (DME)\" means radio equipment capable of providing a continuous indication of the aircraft's distance from the appropriate aeronautical radio stations;\n\"Electronic Flight Bag (EFB)\" means an electronic information system, comprised of equipment and applications for flight crew, which allows for the storing, updating, displaying and processing of EFB functions to support flight operations or duties;\n\"emergency locator transmitter (ELT)\" means any equipment capable of broadcasting distinctive signals on designated frequencies and, depending on application, may be automatically activated by impact or be manually activated;\n\"enhanced ground proximity warning system (EGPWS)\" means a forward looking warning system that uses the terrain data base for terrain avoidance;\n\"enhanced vision system (EVS)\" means a system to display electronic real-time images of the external scene achieved through the use of image sensors;\n\"FDR\" means Flight Data Recorder;\n\"flash resistant\" means not susceptible to burning when ignited;\n\"flight recorder\" means any type of recorder installed in the aircraft for the purpose of complementing accident or incident investigation and includes the cockpit voice recorder or flight data recorder;\n\"ground proximity warning system (GPWS)\" means a warning system that uses radar altimeters to alert the pilots of hazardous flight conditions;\n\"head-up display (HUD)\" means a display system that presents aircraft information into the pilot's forward external field of view;\n\"high speed aural warning\" means a speed warning that is required for turbine-engined airplanes and airplanes with a vmo/Mmo greater than 0.80 Mf/Mdf or Vd/Md;\n\"IFR\" means Instrument Flight Rules;\n\"long range overwater flights\" means routes on which an aeroplane may be over water and at more than a distance corresponding to 120 minutes at cruising speed or 740 km (400 NM), whichever is the lesser, away from land suitable for making an emergency landing;\n\"low altitude wind shear warning and guidance system\" means a system that issues a warning of low altitude wind shear and may provide the pilot with guidance information of the escaper manoeuvre;\n\"Mach number indicator\" means an indicator that shows airspeed as a function of the Mach number;\n\"Minimum Equipment List (MEL)\" means a list approved by the Authority which provides for the operation of the aircraft, subject to specified conditions, with particular equipment inoperative, prepared by an operator in conformity with, or more restrictive than, the master minimum equipment list established for the aircraft type;\n\"operator\" means a person, organisation or enterprise engaged in or offering to engage in an aircraft operation;\n\"PBE\" means protective breathing equipment;\n\"reduced vertical separation minimum (RVSM)\" means defined portions of airspace where, based on a Regional Air Navigation Agreement, a reduced vertical separation minimum of 300 m (1,000 ft) is applied between FL 290 and FL 410 inclusive;\n\"Required Communication Performance (RCP) specification\" means a set of requirements for air traffic service provision and associated ground equipment, aircraft capability, and operations needed to support performance-based communication;\n\"required navigation performance\" means a statement of the navigation performance necessary for operations with a defined airspace;\n\"Required Surveillance Performance (RCP) specification\" means a set of requirements for air traffic service provision and associated ground equipment, aircraft capability and operations needed to support performance-based surveillance;\n\"runway visual range (RVR)\" means the range over which the pilot of an aircraft on the centre line of a runway can see the runway surface markings or the light delineating the runway or identifying its centre line;\n\"State of Design\" means the state having jurisdiction over the organisation responsible for the type design;\n\"State of Manufacture\" means the state having jurisdiction over the organisation responsible for the final assembly of the aircraft, engine or propeller;\n\"State of Operator\" means the state in which the operator's principal place of business is located, or if there is no such business, the operator's permanent place of residence;\n\"State of Registry\" means the state on whose register the aircraft is entered;\n\"terrain awareness warning system\" means a system that provides the flight crew with sufficient information and alerting to detect a potentially hazardous terrain situation and so the flight crew may take effective action to prevent a controlled flight into terrain event; and\n\"VFR\" means Visual Flight Rules."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Equipment of Aircraft (regs 3-4)",
+      "section": "3",
+      "title": "General equipment and instruments requirement",
+      "content": "3. General equipment and instruments requirement\n(1) In addition to the minimum equipment necessary for the issuance of a certificate of airworthiness under the Civil Aviation (Airworthiness) Regulations (Cap. 71:01 (Sub. Leg.)), a person shall not fly an aircraft unless appropriate equipment, instrument and flight documents, specified in these Regulations are installed or carried in the aircraft.\n(2) The owner or operator of any aircraft which is operated in Botswana but not registered in Botswana which uses an airworthiness inspection program approved or accepted by the State of Registry, shall ensure that equipment and instruments installed in the aircraft are properly installed and inspected in accordance with the requirements of the State of Registry.\n(2A) The instruments, equipment and documents referred to in subregulation (1), shall be determined in accordance with the aircraft used under the circumstances which the aircraft is to be conducted.\n(3) The Authority may specify other additional or special equipment as may be required in the Schedules to these Regulations.\n(4) All required equipment and instruments shall be approved and in-stalled in accordance with applicable airworthiness requirements specified under the Civil Aviation (Airworthiness) Regulations.\n(5A) Instruments and equipment shall—\n( a ) be provided with approved instrument and equipment necessary for safe operation of the aircraft in the anticipated operating conditions; and\n( b ) include the instruments and equipment necessary to enable the crew to operate the aircraft within its operating limits.\n(5B) Equipment and instruments required under these Regulations, including their installation, shall be approved or accepted by the Authority.\n(5C) A helicopter shall be provided with approved equipment and instrument designed to observe human factors principles necessary—\n( a ) for the safe operation of the helicopter in anticipated operating conditions; and\n( b ) to enable the crew to operate the helicopter within its operating limitations."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Equipment of Aircraft (regs 3-4)",
+      "section": "4",
+      "title": "Equipment for commercial air operations",
+      "content": "4. Equipment for commercial air operations\nA person shall not commence a flight in commercial air transport operations unless the required equipment—\n( a ) meets the minimum performance standard, all operational and airworthiness requirements and the relevant provisions of ICAO Annex 10, Volume IV;\n( b ) is installed such that the failure of any single unit required for either communication or navigation purposes, or both, will not result in the inability to communicate or navigate, or communicate and navigate safely on the route being flown; and\n( c ) is capable of being operated for the kind of operation being conducted, except as provided in the Minimum Equipment List."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART III Flight Instruments (regs 5-12D)",
+      "section": "5",
+      "title": "General requirement - aircraft instruments",
+      "content": "5. General requirement - aircraft instruments\n(1) An aircraft shall be equipped with aircraft instruments to enable the aircraft crew to—\n( a ) control the aircraft path;\n( b ) carry out any required procedural manoeuvres; and\n( c ) observe the operating limitations of the aircraft in the expected operating conditions.\n(2) An aircraft shall be equipped with—\n( a ) accessible and adequate medical supplies which shall comprise—\n(i) one or more first-aid kit for the use of cabin crew in managing incidents of ill health,\n(ii) one universal precaution kit for an aircraft required to carry cabin crew as part of the operating crew,\n(iii) two universal precaution kits for an aircraft authorised to carry more than 250 passengers for—\n( aa ) the use of the cabin crew in managing incidents of ill health; and\n( bb ) managing incidents of ill health associated with a case of suspected communicable disease or illness involving contact with body fluid,\n(iv) a medical kit for—\n( aa ) an aircraft authorised to carry 100 passengers on a sector length of more than two hours;\n( bb ) medical doctors; or\n( cc ) other qualified persons to use in treating medical emergencies in the aircraft;\n( b ) a portable fire extinguisher which—\n(i) will not cause dangerous contamination of the air within the aircraft when discharged,\n(ii) shall be located in—\n( aa ) the pilots' compartment; and\n( bb ) each passenger compartment that is separate from the pilots' compartment;\n( c ) a seat or berth—\n(i) for each person over the age of two years,\n(ii) for each seat and restraining,\n(iii) comprising of a safety harness for each—\n( aa ) aircraft crew;\n( bb ) pilot seat,\n(iv) comprising of a safety harness for each pilot seat which shall incorporate a device—\n( aa ) that will automatically restrain the occupant's torso in the event of rapid deceleration; and\n( bb ) to prevent a suddenly incapacitated pilot from interfering with the aircraft controls; and\n( d ) means of ensuring that the following information and instructions are conveyed to passengers—\n(i) when seat belts are to be fastened,\n(ii) when and how oxygen equipment is to be used if the carriage of oxygen is required,\n(iii) restrictions on smoking,\n(iv) location and use of life jackets or equivalent individual flotation devices where their carriage is required,\n(v) location and method of opening emergency exits, and\n(vi) spare electrical fuses of appropriate ratings for replacement of those accessible in aircraft."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART III Flight Instruments (regs 5-12D)",
+      "section": "6",
+      "title": "Minimum flight instruments",
+      "content": "6. Minimum flight instruments\n(1) An aircraft that is operated as a VFR flight shall be equipped with—\n( a ) a magnetic compass;\n( b ) an accurate timepiece indicating the time in hours, minutes and seconds;\n( c ) a sensitive pressure altimeter;\n( d ) an airspeed indicator; and\n( e ) such additional instruments or equipment as may be specified by the Authority.\n(2) An aircraft that is operated in accordance with the instrument flight rules or which cannot be maintained in a desired attitude without reference to one or more aircraft instruments, shall be equipped with—\n( a ) a magnetic compass;\n( b ) an accurate timepiece indicating the time in hours, minutes and seconds;\n( c ) two sensitive pressure altimeters with counter drum-pointer or equivalent presentation;\n( d ) an airspeed indicating system with means of preventing malfunctioning due to either condensation or icing;\n( e ) a turn and slip indicator;\n( f ) an attitude indicator (artificial horizon);\n( g ) a heading indicator (directional gyroscope);\n( h ) a means of indicating whether the power supply to the gyroscopic instrument is adequate;\n( i ) a means of indicating in the flight crew compartment the outside air temperature;\n( j ) a rate-of-climb and descent indicator; and\n( k ) such additional instruments or equipment as may be specified by the Authority."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART III Flight Instruments (regs 5-12D)",
+      "section": "7",
+      "title": "Instruments for operations requiring two pilots in day VFR",
+      "content": "7. Instruments for operations requiring two pilots in day VFR\n(1) In any flight where two pilots are required, each pilot's station shall have separate flight instruments as follows—\n( a ) an airspeed indicator calibrated in knots, miles per hour or kilometres per hour;\n( b ) a sensitive pressure altimeter calibrated in feet with a sub-scale setting calibrated in hectopascals per millibars, adjustable for any barometric pressure likely to be set during flight;\n( c ) a vertical speed indicator;\n( d ) a turn and slip indicator, or a turn co-coordinator incorporating a slip indicator;\n( e ) an attitude indicator;\n( f ) a stabilised direction indicator; and\n( g ) any other equipment as may be specified by the Authority.\n(1A) A VFR flight which is operated as a controlled flight shall be equipped in accordance with subregulation (1)."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART III Flight Instruments (regs 5-12D)",
+      "section": "8",
+      "title": "Instruments required for IFR operations",
+      "content": "8. Instruments required for IFR operations\n(1) In addition to the requirements under regulation 5, all aircraft when operated in IFR, or when the aircraft cannot be maintained in a desired attitude without reference to one or more flight instruments, shall be equipped with—\n( a ) an airspeed indicating system with a means of preventing malfunctioning due to either condensation or icing;\n( b ) for commercial air transport operations, an additional sensitive pressure altimeter calibrated in feet with a sub-scale setting calibrated in hectopascals per millibars, adjustable for any barometric pressure likely to be set during flight;\n( c ) a turn and slip indicator for aeroplanes or a slip indicator for helicopters;\n( d ) attitude indicator (artificial horizon)—\n(i) one attitude indicator for aeroplanes,\n(ii) three attitude indicators for a commercially operated helicopter, one of which may be replaced by a turn indicator, or\n(iii) two attitude indicators for a non-commercially operated helicopter, one of which may be replaced by a turn indicator;\n( e ) a heading indicator (directional gyroscope);\n( f ) a means of indicating whether the supply of power to the gyroscopic instruments is adequate;\n( g ) a means of indicating the outside air temperature in the flight crew compartment;\n( h ) a rate-of-climb and descent indicator;\n( i ) for a commercial operated helicopter, a stabilisation system operations, unless it has been demonstrated to the satisfaction of the Authority that the helicopter possesses, by nature of its design, adequate stability without such a system; and\n( j ) such additional equipment or instruments as may be specified by the Authority.\n(2) The requirements of subregulation (1)( c ), ( d ) and ( e ) may be met by combinations of instruments or by integrated flight director systems provided that the safeguards against total failure, inherent in the separate instruments are retained.\n(3) A person shall not operate an aeroplane commercially under IFR, or under VFR over routes that cannot be navigated by reference to visual landmarks, unless the aeroplane is equipped with navigation equipment in accordance with the requirements of air traffic services in the area or areas of operation.\n(4) A person shall not conduct single pilot IFR operations for commercial air operations unless the aeroplane is equipped with an autopilot with at least altitude hold and heading mode.\n(5) A person shall not operate an aeroplane under IFR unless it is equipped with an audio selector panel accessible to each required flight crewmember.\n(6) A person shall not conduct single pilot IFR or night operations in commercial air transport operations unless the aeroplane is equipped with a headset with boom microphone or an equivalent and a transmit button on the control wheel."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART III Flight Instruments (regs 5-12D)",
+      "section": "9",
+      "title": "Standby attitude indicator",
+      "content": "9. Standby attitude indicator\n(1) A person shall not operate an aeroplane with a maximum certified take-off mass exceeding 5,700 kg or a performance Class 1 or 2 helicopter unless it is equipped with a single standby attitude indicator (artificial horizon) that—\n( a ) operates independently of any other attitude indicating system;\n( b ) is powered continuously during normal operation; and\n( c ) after a total failure of the normal electrical generating system, is automatically powered for a minimum of 30 minutes from a source independent of the normal electrical generating system.\n(2) Where the standby attitude indicator is being operated by emergency power, it shall be clearly operating and illuminated to the flight crew.\n(3) Where the standby attitude indicator has its own dedicated power supply there shall be an associated indication, either on the instrument or on the instrument panel when this supply is in use.\n(4) Where the standby attitude instrument system is installed and usable through flight attitudes of 3600 of pitch and roll, the turn and slip indicators may be replaced by slip indicators."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART III Flight Instruments (regs 5-12D)",
+      "section": "10",
+      "title": "Equipment and instruments for category II operations",
+      "content": "10. Equipment and instruments for category II operations\n(1) The instruments and equipment listed in this regulation shall be installed, approved and maintained in accordance with the manufacturer's specification and as specified under Schedule 1 for each aircraft operated in a category II operation.\n(2) Group I of a category II operation shall be equipped with the following equipment which shall be inspected both within three calendar months of the previous inspection and shall also have a bench inspection within 12 months of the previous bench inspection using procedures contained in the approved maintenance program—\n( a ) two localiser and glide slope receiving systems and each system shall provide—\n(i) a basic Instrument Landing Systems display, and\n(ii) an instrument panel capable of showing a basic Instrument Landing Systems display:\nProvided a single localiser antenna and a single glide slope antenna may be used;\n( b ) a communications system that does not affect the operation of at least one of the Instrument Landing Systems;\n( c ) a marker beacon receiver that provides distinctive aural and visual indications of the outer and the middle markers;\n( d ) two gyroscopic pitch and bank indicating systems;\n( e ) two gyroscopic direction indicating systems;\n( f ) two airspeed indicators;\n( g ) two sensitive altimeters adjustable for barometric pressure, having markings at 20 foot intervals and each having a placard displaying the correction for altimeter scale error and for the wheel height of the aircraft;\n( h ) one self-monitoring radio altimeter with dual display;\n( i ) two vertical speed indicators; and\n( j ) a flight control guidance system that consists of either an automatic approach coupler or a flight director system.\n(3) Category II operations with decision heights below 150 ft shall be equipped with a radio altimeter.\n(4) Group II of a category II operation shall be equipped with the following equipment which, with the exception of the static system, does not require special maintenance procedures other than those necessary to retain the original approval condition—\n( a ) warning systems for immediate detection by the pilot of system faults in items under subregulation (2)( a ), ( d ), and (i);\n( b ) dual controls;\n( c ) an externally vented static pressure system with an alternate static pressure source;\n( d ) a windshield wiper or equivalent means of providing adequate cockpit visibility for a safe visual transition by either pilot to touchdown and rollout; and\n( e ) a heat source for each airspeed system pitot tube installed or an equivalent means of preventing malfunctioning due to icing of the pitot system.\n(5) Group II of a category II operation equipment shall be inspected within 12 months of the previous inspection using procedures contained in the approved maintenance program."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART III Flight Instruments (regs 5-12D)",
+      "section": "11",
+      "title": "Equipment and instruments for category III operations",
+      "content": "11. Equipment and instruments for category III operations\n(1) The equipment and instruments listed in this regulation shall be installed, approved and maintained in accordance with internationally acceptable criteria and the Aircraft Flight Manual in each aircraft operated in a category III operation.\n(2) Airborne systems for category IIIA minima not less than RVR 200 m (600 ft) shall be equipped with the following equipment in addition to the instrument and navigation equipment required by this Part for IFR flight and category II operations—\n( a ) a redundant flight control or guidance system demonstrated in accordance with internationally acceptable criteria which include—\n(i) a Fail Operational or Fail Passive automatic landing system at least to touchdown,\n(ii) a Fail Operational or Fail Passive manual flight guidance system providing suitable head-up or head-down command guidance, and suitable monitoring capability at least to touchdown,\n(iii) a hybrid system, using automatic landing capability as the primary means of landing at least to touchdown, or\n(iv) other systems that can provide an equivalent level of performance and safety;\n( b ) an automatic throttle or automatic thrust control system that meets approved criteria as specified in the Aircraft Flight Manual except that for operations with a 15 m (50 ft) Decision Height, or other operations that have been specifically evaluated such as for engine inoperative landing capability, automatic throttles may not be required if it has been demonstrated that operations can be safely conducted, with an acceptable work load, without their use;\n( c ) at least two independent navigation receivers or sensors providing lateral and vertical position or displacement information, typically with the first pilot's station receiving the information from one and the second pilot's station receiving the information from the other;\n( d ) at least two approved radio altimeter systems that meet the performance requirements criteria as specified in the Aircraft Flight Manual, typically with the first pilot's station receiving information from one and the second pilot's station receiving information from the other;\n( e ) failure detection, annunciation, and warning capability, as determined to be acceptable by criteria specified in the Aircraft Flight Manual;\n( f ) missed approach guidance provided by one or more of the following means—\n(i) attitude displays that include suitable pitch attitude markings, or a pre-established computed pitch command display,\n(ii) an approved flight path angle display, or\n(iii) an automatic or flight guidance go-around capability;\n( g ) suitable forward and side flight deck visibility for each pilot as specified in the Aircraft Flight Manual; and\n( h ) suitable windshield rain removal, ice protection, or defog capability as specified in the Aircraft Flight Manual.\n(3) The navigation receivers or sensors referred to under subregulation (2)( c ) shall meet the criteria specified for category IIIA operations.\n(4) Airborne systems for category IIIB minima less than RVR 200 m (600 ft) but not less than RVR 125 m (400 ft) shall be equipped with the following equipment in addition to the instrument and navigation equipment required by this Part for IFR flight, category II and category IIIA operations—\n( a ) a redundant flight control or guidance system demonstrated in accordance with internationally acceptable criteria which include—\n(i) a Fail Operational landing system with a Fail Operational or Fail Passive automatic rollout system,\n(ii) a Fail Passive landing system, limited to touchdown zone RVR not less than RVR 200 m (600 ft), with Fail Passive rollout provided automatically or by a flight guidance system providing suitable head-up or head-down guidance, and suitable monitoring capability,\n(iii) a Fail Operational hybrid automatic landing and rollout system with comparable manual flight guidance system, using automatic landing capability as the primary means of landing, or\n(iv) other system that can provide an equivalent level of performance and safety;\n( b ) an automatic throttle or automatic thrust control that meets the appropriate criteria as specified in the Aircraft Flight Manual except that for operations with a 15 m (50 ft) Decision Height, automatic throttles may not be required if it has been demonstrated that operations can safely be conducted, with an acceptable work load, without their use;\n( c ) at least two independent navigation receivers or sensors providing lateral and vertical position or displacement information, typically with the first pilot's station receiving information from one and the second pilot's station receiving information from the other;\n( d ) at least two approved radio altimeter systems that meet the performance criteria specified in the Aircraft Flight Manual, typically with the first pilot's station receiving information from one and the second pilot's station receiving information from the other;\n( e ) failure detection, annunciation and warning capability as specified in the Aircraft Flight Manual;\n( f ) missed approach guidance provided by one or more of the following means—\n(i) attitude displays that include calibrated pitch attitude markings, or a pre-established computed pitch command display,\n(ii) an approved flight path angle display, or\n(iii) an automatic or flight guidance go-around capability;\n( g ) suitable forward and side flight deck visibility for each pilot, as specified in the Aircraft Flight Manual; and\n( h ) suitable windshield rain removal, ice protection, or defog capability as specified in the Aircraft Flight Manual.\n(5) The navigation receivers or sensors referred to under subregulation (4)( c ) shall meet the criteria specified in the Aircraft Flight Manual.\n(6) Airborne systems for category IIIC minima less than RVR 75 m (250 ft) shall be equipped with the following equipment in addition to the instrument and navigation equipment required by this Part for IFR flight and category II, category IIIA and category IIIB operations—\n( a ) a Fail Operational Automatic Flight Control System, or manual flight guidance system designed to meet fail operational system criteria, or a hybrid system in which both the fail-passive automatic system and the monitored manual flight guidance components provide approach and flare guidance to touchdown, and in combination provide full fail operational capability, and\n( b ) a Fail Operational automatic, manual, or hybrid Rollout Control System."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART III Flight Instruments (regs 5-12D)",
+      "section": "12",
+      "title": "Equipment of aeroplanes operated by a single pilot under IFR or at night",
+      "content": "12. Equipment of aeroplanes operated by a single pilot under IFR or at night\nAn aeroplane operated by a single pilot under IFR or at night shall be equipped with—\n( a ) a serviceable autopilot that has at least altitude hold and heading select modes;\n( b ) a headset with a boom microphone or equivalent; and\n( c ) means of displaying charts that enables them to be readable in all ambient light conditions."
+    },
+    {
+      "provision_ref": "s12A",
+      "chapter": "PART III Flight Instruments (regs 5-12D)",
+      "section": "12A",
+      "title": "Emergency power supply for electrically operated attitude indicating",
+      "content": "12A. Emergency power supply for electrically operated attitude indicating\n(1) An airplane of a maximum certificated take-off mass of over 5,700 kg newly introduced into service after 1 January 1975 shall, be fitted with an emergency power supply independent of the main electrical generating system, for the purpose of operating and illuminating, for a minimum period of 30 minutes, an attitude instrument indicating instrument (artificial horizon), clearly visible to the pilot-in-command.\n(2) The emergency power supply shall—\n( a ) be automatically operative after the total failure of the main electrical generating system; and\n( b ) give clear indication on the instrument panel that the attitude indicator is being operated by emergency power.\n(3) The instruments used by a pilot shall be arranged to permit the pilot to see indications readily from his or her station, with the minimum practicable deviation from the position and line of vision normally assumed when looking forward along the aircraft path."
+    },
+    {
+      "provision_ref": "s12B",
+      "chapter": "PART III Flight Instruments (regs 5-12D)",
+      "section": "12B",
+      "title": "Aircraft equipped with automatic landing systems",
+      "content": "12B. Aircraft equipped with automatic landing systems\n(1) Where an aircraft is equipped with the following systems, the Authority shall approve the use of such systems for the safe operation of the aircraft—\n( a ) automatic landing systems;\n( b ) a head-up display (HUD);\n( c ) equivalent displays;\n( d ) enhanced vision systems (EVS);\n( e ) synthetic vision systems (SVS) or combined vision systems (CVS); or\n( f ) any combination of those systems into a hybrid system.\n(2) The Authority shall ensure the following in approving the operational use of automatic landing systems, a HUD or equivalent displays, EVS, SVS or CVS—\n( a ) the equipment meets the appropriate airworthiness certification requirements;\n( b ) the operator has carried out a safety risk assessment of the operations supported by the automatic landing systems, a HUD or equivalent displays, EVS, SVS or CVS; and\n(c) the operator has established and documented the procedures for the use of, and training requirements for, automatic landing systems, a HUD or equivalent displays, EVS, SVS or CVS."
+    },
+    {
+      "provision_ref": "s12C",
+      "chapter": "PART III Flight Instruments (regs 5-12D)",
+      "section": "12C",
+      "title": "EFB equipment",
+      "content": "12C. EFB equipment\n(1) The operator shall ensure that where EFB are used on board, the performance of the aircraft systems, equipment or the ability to operate the aircraft is not affected.\n(2) Where an EFB is used on board of an aircraft, the operator shall—\n( a ) assess the safety risk associated with each EFB function;\n( b ) establish and document the procedures for the use of, and training requirements for, the EFB and each EFB function; and\n( c ) ensure that, in the event of an EFB failure, sufficient information is readily available to the flight crew for the aircraft to be conducted safely.\n(3) The Authority shall approve the operational use of EFB functions to be used for the safe operations of an aircraft.\n(4) The Authority shall ensure that, in approving the use of EFB—\n( a ) the EFB equipment and its associated installation hardware, including interaction with the aircraft system if applicable, meet the appropriate airworthiness certification requirements;\n( b ) the operator has assessed the safety risks associated with the operations supported by the EFB functions;\n( c ) the operator has established requirements for redundancy of the information contained in and displayed by the EFB functions if appropriate;\n( d ) the operator has established and documented procedure for the management of the EFB functions including any database it may use; and\n( e ) the operator has established and documented the procedures for the use of, and training requirements for, the EFB and the EFB functions."
+    },
+    {
+      "provision_ref": "s12D",
+      "chapter": "PART III Flight Instruments (regs 5-12D)",
+      "section": "12D",
+      "title": "Aircraft icing conditions",
+      "content": "12D. Aircraft icing conditions\nAn aircraft shall be equipped with suitable de-icing or anti-icing devices when operated in circumstances in which icing conditions are reported to exist or are expected to be encountered."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART IV Communication Equipment (regs 13-15)",
+      "section": "13",
+      "title": "Radio equipment",
+      "content": "13. Radio equipment\n(1) A person shall not operate an aircraft unless it is equipped with radio communication equipment required for the kind of operation being conducted.\n(2) An aircraft, shall be equipped with radio communication equipment capable of—\n( a ) conducting two-way communication for aerodrome control purposes;\n( b ) receiving meteorological information at any time during the flight;\n( c ) conducting communications on those frequencies specified by the Authority;\n( d ) conducting two-way communications at any time during the flight—\n(i) with at least one aeronautical station, and with such other aeronautical stations; and\n(ii) on such frequencies as may be specified by the Authority.\n(3) The radio communication equipment required in these Regulations shall be approved and installed in accordance with the requirements applicable to them, including the minimum performance requirements, and shall meet any other requirements as may be specified by the Authority.\n(4) The radio communication equipment required in accordance with subregulation (2), shall provide for communications on the aeronautical emergency frequency 121.5 MHz.\n(5) An aircraft shall, where communication equipment is required to meet an RCP specification for performance-based communication and in addition to the requirements specified in subregulation (2)—\n( a ) be equipped with communication equipment which will enable it to operate in accordance with the approved RCP specifications;\n( b ) have information relevant to the aircraft RCP specification capabilities listed in the aircraft manual or other aircraft documentation approved by the State of Design or State of Registry; and\n( c ) information relevant to the aircraft RCP specification capabilities included in the MEL.\n(6) The Authority shall ensure that for operations where an RCP specification has been prescribed, the operator has established and documented—\n( a ) normal and abnormal procedures, including contingency procedures;\n( b ) flight crew qualification and proficiency requirements, in accordance with appropriate RCP specifications;\n( c ) a training programme for relevant personnel consistent with the intended operations; and\n( d ) appropriate maintenance procedures to ensure continued airworthiness, in accordance with appropriate RCP specifications.\n(7) The Authority shall ensure that, in respect of the aircraft mentioned in subregulation (4), adequate provisions exist for—\n( a ) receiving the reports of observed communication performance issued by monitoring programmes established in accordance with Civil Aviation (Rules and Air Traffic Services) Regulations (Cap. 71:01 (Sub. Leg)); and\n( b ) taking immediate corrective action for individual aircraft, aircraft type or operators, identified in such report as not complying with the RCP specifications."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART IV Communication Equipment (regs 13-15)",
+      "section": "14",
+      "title": "Flight crew and cabin crew member interphone system for aeroplanes",
+      "content": "14. Flight crew and cabin crew member interphone system for aeroplanes\n(1) A person shall not operate an aeroplane in commercial air transport operations on which a flight crew of more than one is required unless the aeroplane is equipped with a flight crew interphone system, including headsets and microphones, not of a handheld type, for use by all members of the flight crew.\n(2) A person shall not operate an aeroplane in commercial air transport operations with a maximum certified take-off mass exceeding 15,000 kg, or having an approved passenger seating capacity of 19 or more, or having a flight crew compartment door, unless the aeroplane is equipped with a crew member interphone system that—\n( a ) operates independently of the public address system except for handsets, headsets, microphones, selector switches and signalling devices;\n( b ) provides a means of two-way communication between the flight crew compartment and each—\n(i) passenger compartment,\n(ii) galley located other than on a passenger deck level, and\n(iii) remote crew compartment that is not on the passenger deck and is not easily accessible from a passenger compartment;\n( c ) is readily accessible for use—\n(i) from each of the required flight crew stations in the flight crew compartment, and\n(ii) at required cabin crew member stations close to each separate or pair of floor level emergency exits;\n( d ) has an alerting system incorporating aural or visual signals for use by flight crew members to alert the cabin crew, and for use by cabin crew members to alert the flight crew in the event of suspicious activity or security breaches in the cabin;\n( e ) has a means for the recipient of a call to determine whether it is a normal call or an emergency call; and\n( f ) provides on the ground a means of two-way communication between ground personnel and at least two flight crew members."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART IV Communication Equipment (regs 13-15)",
+      "section": "15",
+      "title": "Public address system - air operator certificate holders",
+      "content": "15. Public address system - air operator certificate holders\n(1) An air operator certificate holder shall not operate a passenger carrying aeroplane with a maximum approved passenger seating configuration of more than 19 unless it is equipped with a public address system that—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aeroplane",
+      "definition": "a power-driven heavier-than-air aircraft deriving its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air operator certificate (AOC)",
+      "definition": "a certificate issued by the Authority which authorises an operator to carry out specified commercial air transport operations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "airborne collision avoidance system (ACAS)",
+      "definition": "an aircraft system which—\n( a ) conforms to the requirements prescribed for the purpose",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ARDS",
+      "definition": "Aircraft Data Recording System",
+      "source_provision": "s2"
+    },
+    {
+      "term": "area navigation",
+      "definition": "a method of navigation that permits aircraft operations on any desired flight path within the coverage of station-referenced navigation aids or within the limits of the capability of self-contained aids, or a combination of these",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ATS",
+      "definition": "Air Traffic Services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Automatic Deployable Flight Recorder (ADFR)",
+      "definition": "a combination flight recorder installed on the aircraft which is capable of automatically deploying from the aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "automatic direction finding equipment",
+      "definition": "radio navigation equipment which automatically indicates the bearing of any radio station transmitting the signals received by such equipment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "CARS",
+      "definition": "Cockpit Audio Recording System",
+      "source_provision": "s2"
+    },
+    {
+      "term": "category I operation (CAT I)",
+      "definition": "a precision instrument approach and landing with a decision height not lower than 60 m (200 ft) and with either a visibility of not less than 800 m or a runway visual range not less than 550 m",
+      "source_provision": "s2"
+    },
+    {
+      "term": "category II operation (CAT II)",
+      "definition": "a precision instrument approach and landing with a decision height lower than 60 m (200 ft) but not lower than 30 m (100 ft) and a visual range not less 350 m",
+      "source_provision": "s2"
+    },
+    {
+      "term": "category IIIA operation (CAT IIIA)",
+      "definition": "a precision approach and landing with—\n( a ) a decision height lower than 30 m (100 ft) or no decision height",
+      "source_provision": "s2"
+    },
+    {
+      "term": "category IIIB operation (CAT IIIB)",
+      "definition": "a precision approach and landing with—\n( a ) a decision height lower than 15 m (50 ft) or no decision height",
+      "source_provision": "s2"
+    },
+    {
+      "term": "category IIIC operation (CAT IIIC)",
+      "definition": "a precision instrument approach and landing with no decision height and no runway visual range limitations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled flight into terrain (CFIT)",
+      "definition": "when an airworthy aircraft is flown, under the control of a qualified pilot, into terrain, water or obstacles, with inadequate awareness on the part of the pilot of the impending collision",
+      "source_provision": "s2"
+    },
+    {
+      "term": "CVR",
+      "definition": "Cockpit Voice Recorder",
+      "source_provision": "s2"
+    },
+    {
+      "term": "distance measuring equipment (DME)",
+      "definition": "radio equipment capable of providing a continuous indication of the aircraft's distance from the appropriate aeronautical radio stations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Electronic Flight Bag (EFB)",
+      "definition": "an electronic information system, comprised of equipment and applications for flight crew, which allows for the storing, updating, displaying and processing of EFB functions to support flight operations or duties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "emergency locator transmitter (ELT)",
+      "definition": "any equipment capable of broadcasting distinctive signals on designated frequencies and, depending on application, may be automatically activated by impact or be manually activated",
+      "source_provision": "s2"
+    },
+    {
+      "term": "enhanced ground proximity warning system (EGPWS)",
+      "definition": "a forward looking warning system that uses the terrain data base for terrain avoidance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "enhanced vision system (EVS)",
+      "definition": "a system to display electronic real-time images of the external scene achieved through the use of image sensors",
+      "source_provision": "s2"
+    },
+    {
+      "term": "FDR",
+      "definition": "Flight Data Recorder",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flash resistant",
+      "definition": "not susceptible to burning when ignited",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight recorder",
+      "definition": "any type of recorder installed in the aircraft for the purpose of complementing accident or incident investigation and includes the cockpit voice recorder or flight data recorder",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ground proximity warning system (GPWS)",
+      "definition": "a warning system that uses radar altimeters to alert the pilots of hazardous flight conditions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "head-up display (HUD)",
+      "definition": "a display system that presents aircraft information into the pilot's forward external field of view",
+      "source_provision": "s2"
+    },
+    {
+      "term": "high speed aural warning",
+      "definition": "a speed warning that is required for turbine-engined airplanes and airplanes with a vmo/Mmo greater than 0.80 Mf/Mdf or Vd/Md",
+      "source_provision": "s2"
+    },
+    {
+      "term": "IFR",
+      "definition": "Instrument Flight Rules",
+      "source_provision": "s2"
+    },
+    {
+      "term": "long range overwater flights",
+      "definition": "routes on which an aeroplane may be over water and at more than a distance corresponding to 120 minutes at cruising speed or 740 km (400 NM), whichever is the lesser, away from land suitable for making an emergency landing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "low altitude wind shear warning and guidance system",
+      "definition": "a system that issues a warning of low altitude wind shear and may provide the pilot with guidance information of the escaper manoeuvre",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Mach number indicator",
+      "definition": "an indicator that shows airspeed as a function of the Mach number",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minimum Equipment List (MEL)",
+      "definition": "a list approved by the Authority which provides for the operation of the aircraft, subject to specified conditions, with particular equipment inoperative, prepared by an operator in conformity with, or more restrictive than, the master minimum equipment list established for the aircraft type",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operator",
+      "definition": "a person, organisation or enterprise engaged in or offering to engage in an aircraft operation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "PBE",
+      "definition": "protective breathing equipment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reduced vertical separation minimum (RVSM)",
+      "definition": "defined portions of airspace where, based on a Regional Air Navigation Agreement, a reduced vertical separation minimum of 300 m (1,000 ft) is applied between FL 290 and FL 410 inclusive",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Required Communication Performance (RCP) specification",
+      "definition": "a set of requirements for air traffic service provision and associated ground equipment, aircraft capability, and operations needed to support performance-based communication",
+      "source_provision": "s2"
+    },
+    {
+      "term": "required navigation performance",
+      "definition": "a statement of the navigation performance necessary for operations with a defined airspace",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Required Surveillance Performance (RCP) specification",
+      "definition": "a set of requirements for air traffic service provision and associated ground equipment, aircraft capability and operations needed to support performance-based surveillance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "runway visual range (RVR)",
+      "definition": "the range over which the pilot of an aircraft on the centre line of a runway can see the runway surface markings or the light delineating the runway or identifying its centre line",
+      "source_provision": "s2"
+    },
+    {
+      "term": "State of Design",
+      "definition": "the state having jurisdiction over the organisation responsible for the type design",
+      "source_provision": "s2"
+    },
+    {
+      "term": "State of Manufacture",
+      "definition": "the state having jurisdiction over the organisation responsible for the final assembly of the aircraft, engine or propeller",
+      "source_provision": "s2"
+    },
+    {
+      "term": "State of Operator",
+      "definition": "the state in which the operator's principal place of business is located, or if there is no such business, the operator's permanent place of residence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "State of Registry",
+      "definition": "the state on whose register the aircraft is entered",
+      "source_provision": "s2"
+    },
+    {
+      "term": "terrain awareness warning system",
+      "definition": "a system that provides the flight crew with sufficient information and alerting to detect a potentially hazardous terrain situation and so the flight crew may take effective action to prevent a controlled flight into terrain event",
+      "source_provision": "s2"
+    },
+    {
+      "term": "VFR",
+      "definition": "Visual Flight Rules.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-rules-of-air-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (rules of Air) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (rules of Air) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-rules-of-air-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Rules of Air) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"advisory airspace\" means an airspace of defined dimensions or designated route, within which air traffic advisory service is available;\n\"advisory route\" means a designated route along which air traffic advisory service is available;\n\"aerodrome\" means a defined area on land or water, including any buildings, installations and equipment, intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft;\n\"aerodrome control service\" means air traffic control service for aerodrome traffic;\n\"aerodrome control tower\" means a unit established to provide ATC service to aerodrome traffic;\n\"aerodrome traffic\" means all traffic on the manoeuvring area of an aerodrome and all aircraft flying in the vicinity of an aerodrome;\n\"aerodrome traffic zone\" means an airspace of defined dimensions established around an aerodrome for the protection of aerodrome traffic;\n\"aeronautical information publication\" means a publication issued by or with the authority of a State and containing aeronautical information of a lasting character essential to air navigation;\n\"aeronautical station\" means a land station in the aeronautical mobile service which in certain instances, may be located, for example, on board a ship or on a platform at sea;\n\"aeroplane\" means a power-driven heavier-than-air aircraft, deriving its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight;\n\"airborne collision avoidance system (ACAS)\" means an aircraft system based on secondary surveillance radar (SSR) transponder signals which operates independently of ground based equipment to provide advice to the PIC on potential conflicting aircraft that are equipped with SSR transponders;\n\"air traffic\" means all aircraft in flight or operating on the manoeuvring area of an aerodrome;\n\"air traffic advisory service\" means a service provided within advisory airspace to ensure separation, in so far as practical, between aircraft which are operating on IFR flight plans;\n\"air traffic control (ATC) clearance\" means authorisation for an aircraft to proceed under conditions specified by an ATC unit;\n\"air traffic control service\" means a service provided for the purpose of—\n( a ) preventing collisions—\n(i) between aircraft, and\n(ii) on manoeuvring area between aircraft and obstructions; and\n( b ) expediting and maintaining an orderly flow of air traffic;\n\"air traffic control unit\" is a generic term meaning variously, area control centre, approach control unit or aerodrome control tower;\n\"air traffic service\" is a generic term meaning variously, flight information service, alerting service, air traffic advisory service, air traffic control service (area control service, approach control service or aerodrome control service);\n\"air traffic services reporting office\" means a unit established for the purpose of receiving reports concerning air traffic services and flight plans submitted before departure;\n\"air traffic services unit\" is a generic term meaning variously, air traffic control unit, flight information centre or air traffic services reporting office;\n\"alerting service\" means a service provided to notify appropriate organisations regarding aircraft in need of search and rescue aid, and assist such organisations as required;\n\"alternate aerodrome\" means an aerodrome to which an aircraft may proceed when it becomes either impossible or inadvisable to proceed to or to land at the aerodrome of intended landing and includes the following—\n( a ) take-off alternate; an alternate aerodrome at which an aircraft can land should this become necessary shortly after take-off and it is not possible to use the aerodrome of departure;\n( b ) en route alternate; an aerodrome at which an aircraft would be able to land after experiencing an abnormal or emergency condition while en route ;\n( c ) extended range operation by turbine-engined aeroplanes en route alternate; a suitable and appropriate alternate aerodrome at which an aeroplane would be able to land after experiencing an engine shutdown or other abnormal or emergency condition while en route in an extended range operation by turbine-engined aeroplanes operation; and\n( d ) destination alternate; an alternate aerodrome to which an aircraft may proceed should it become either impossible or inadvisable to land at the aerodrome of intended landing;\n\"altitude\" means the vertical distance of a level, a point or an object considered as a point, measured from mean sea level;\n\"anti-collision light\" means a flashing red or flashing white light showing in all directions for the purpose of enabling the aircraft to be more readily detected by the PIC of distant aircraft;\n\"approach control service\" means air traffic control service for arriving or departing controlled flights;\n\"approach control unit\" means a unit established to provide air traffic control service to controlled flights arriving at, or departing from, one or more aerodromes;\n\"apron\" means a defined area, on a land aerodrome, intended to accommodate aircraft for purposes of loading or unloading passengers, mail or cargo, fuelling, parking or maintenance;\n\"appropriate air traffic service authority\" means the relevant authority designated for providing air traffic services in Botswana;\n\"area control centre (ACC)\" means a unit established to provide air traffic control service to controlled flights in Control Areas under its jurisdiction;\n\"area control service\" means ATC service for controlled flights in control areas under its jurisdiction;\n\"area navigation (RNAV)\" means a method of navigation which permits aircraft operation on any desired flight path within the coverage of ground-or space-based navigation aids or within the limits of the capability of self-contained aids, or a combination of these;\n\"air traffic services route\" means a specified route designed for channelling the flow of traffic as necessary for the provision of air traffic service;\n\"automatic dependent surveillance-broadcast (ADS-B)\" means a means by which aircraft, aerodrome vehicles and other objects can automatically transmit or receive data such as identification, position and additional data, as appropriate, in a broadcast mode via a data link;\n\"automatic dependent surveillance-contract (ADS-C)\" means a means by which the terms of an ADS-C agreement will be exchanged between the ground system and the aircraft, via a data link, specifying under what conditions ADS-C reports would be initiated, and what data would be contained in the reports;\n\"ceiling\" means the height above the ground or water of the base of the lowest layer of cloud below 6 000 metres (20 000 feet) covering more than half the sky;\n\"changeover point\" means the point at which an aircraft navigating on an air traffic service route segment defined by reference to very high frequency omnidirectional radio ranges is expected to transfer its primary navigational reference from the facility behind the aircraft to the next facility ahead of the aircraft;\n\"clearance limit\" means the point to which an aircraft is granted an air traffic control clearance;\n\"command and control (C2) link\" means the data link between the remotely piloted aircraft and the remote pilot station for the purposes of managing the flight;\n\"control area\" means a controlled airspace extending upwards from a specified limit above the earth;\n\"controlled aerodrome\" means an aerodrome at which air traffic control service is provided to aerodrome traffic;\n\"controlled airspace\" means an airspace of defined dimensions within which air traffic control service is provided in accordance with the airspace classification and covers air traffic service airspace Classes A, B, C, D and E as described in these Regulations;\n\"controlled flight\" means any flight which is subject to an air traffic control clearance;\n\"control zone (CTR)\" means a controlled airspace extending upwards from the surface of the earth to a specified upper limit;\n\"cruise climb\" means an aeroplane cruising technique resulting in a net increase in altitude as the aeroplane mass decreases;\n\"cruising level\" means a level maintained during a significant portion of a flight;\n\"current flight plan (CPL)\" means the flight plan, including changes, if any, brought about by subsequent clearances;\n\"danger area\" means an airspace of defined dimensions within which activities dangerous to the flight of aircraft may exist at specified times;\n\"data link communications\" means a form of communication intended for the exchange of messages via a data link;\n\"detect and avoid\" means the capability to see, sense or detect conflicting traffic or other hazards and take the appropriate action;\n\"estimated off-block time (EOBT)\" means the estimated time at which the aircraft will commence movement associated with departure;\n\"estimated time of arrival (ETA)\" —\n( a ) for IFR flights, means the time at which it is estimated that the aircraft will arrive over that designated point, defined by reference to navigation aids, from which it is intended that an IAP will be commenced, or, if no navigation aid is associated with the aerodrome, the time at which the aircraft will arrive over the aerodrome; and\n( b ) for VFR flights means the time at which it is estimated that the aircraft will arrive over the aerodrome;\n\"expected approach time (EAT)\" means the time at which ATC expects that an arriving aircraft, following a delay, will leave the holding fix to complete its approach for a landing;\n\"filed flight plan (FPL)\" means the flight plan as filed with an air traffic service unit by the PIC or a designated representative, without any subsequent changes;\n\"flight crew member\" means a licensed crew member charged with duties essential to the operation of an aircraft during a flight duty period;\n\"flight (FLT)\" means in the case of—\n( a ) an aeroplane or glider, from the moment it first moves for the purpose of taking off until the moment when it next comes to rest after landing; or\n( b ) an airship or free balloon, from the moment when it first becomes detached from the surface until the moment when it next becomes attached thereto or comes to rest thereon;\n\"flight information centre (FIC)\" means a unit established to provide flight information service and alerting service;\n\"flight information region (FIR)\" means an airspace of defined dimensions within which flight information service and alerting service are provided;\n\"flight information service (FIS)\" means a service provided for the purpose of giving advice and information useful for the safe and efficient conduct of flights;\n\"flight level (FL)\" means a surface of constant atmospheric pressure which is related to a specific pressure datum, 1013.2 hectopascals (hPa), and is separated from other such surfaces by specific pressure intervals;\n\"flight plan\" means specified information provided to air traffic services units, relative to an intended flight or portion of a flight of an aircraft;\n\"flight visibility\" means the visibility forward from the cockpit of an aircraft in flight;\n\"glider\" means a non-power-driven heavier-than-air aircraft, deriving its lift in flight chiefly from aerodynamic reactions on surfaces, which remain, fixed under given conditions of flight;\n\"ground visibility\" means the visibility at an aerodrome, as reported by an accredited observer or by automatic systems;\n\"heading (HDG)\" means the direction in which the longitudinal axis of an aircraft is pointed, usually expressed in degrees from North (true, magnetic, compass or grid);\n\"heavier-than-air aircraft\" means any aircraft deriving its lift in flight chiefly from aerodynamic forces;\n\"height\" means the vertical distance of a level, a point or an object considered as a point, measured from a specified datum;\n\"helicopter (Hel)\" means a heavier-than-air aircraft supported in flight chiefly by the reactions of the air on one or more power-drive"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "3",
+      "title": "Application of Regulations",
+      "content": "3. Application of Regulations\nThe provisions of these Regulations, insofar as they are applicable to aircraft, shall apply to—\n( a ) all aircraft within Botswana; and\n( b ) all aircraft registered in Botswana, wherever they may be, to the extent that they do not conflict with the rules published by the State having jurisdiction over the territory overflown."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "4",
+      "title": "Compliance with rules of air",
+      "content": "4. Compliance with rules of air\nThe operation of an aircraft either in flight or on the movement area of an aerodrome shall be in compliance with the general rules and, in addition, when in flight, either with the—\n( a ) visual flight rules; or\n( b ) the instrument flight rules."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "5",
+      "title": "Responsibility for compliance with rules of air",
+      "content": "5. Responsibility for compliance with rules of air\n(1) A PIC of an aircraft shall, whether manipulating the controls or not, be responsible for the operation of the aircraft in accordance with the rules of the air, except that the PIC may depart from these rules in circumstances that render such departure absolutely necessary in the interests of safety.\n(2) A PIC of an aircraft shall, before beginning a flight, become familiar with all available information appropriate to the intended operation.\n(3) Pre-flight action for all flights shall include a careful study of available current weather reports and forecasts, taking into consideration fuel requirements and an alternative course of action if the flight cannot be completed as planned."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "6",
+      "title": "Authority of pilot-in-command of aircraft",
+      "content": "6. Authority of pilot-in-command of aircraft\nA PIC of an aircraft shall have final authority as to the disposition of the aircraft while in command."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "7",
+      "title": "Dangerous operation of aircraft",
+      "content": "7. Dangerous operation of aircraft\n(1) A PIC or any other person in charge of the aircraft shall not fly an aircraft in such a manner as to cause danger to any person or property on land or water, or in contravention of these Regulations.\n(2) A person who contravenes the provisions of subregulation (1) commits an offence and he or she and the owner of the aircraft shall be liable—\n( a ) for a first offence to a fine not exceeding P50 000 or to imprisonment for a term not exceeding five years, or to both; and\n( b ) for a second or subsequent offence to a fine not exceeding P100 000 or to imprisonment for a term not exceeding 10 years, or to both.\n(3) In any proceedings against the owner of an aircraft in respect of an offence under this regulation, it shall be a defence to prove that the act constituting the offence was done without the knowledge or consent of the owner.\n(4) For the purposes of this regulation, \"owner\", includes any person by whom the aircraft is hired at the time the offence was committed."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "8",
+      "title": "Problematic use of psychoactive substances",
+      "content": "8. Problematic use of psychoactive substances\nA person whose function is critical to the safety of aviation (safety-sensitive personnel) shall not—\n( a ) undertake that function while under the influence of any psychoactive substance, by reason of which human performance is impaired; or\n( b ) engage in any kind of problematic use of substances."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "9",
+      "title": "Low flying",
+      "content": "9. Low flying\n(1) Subject to the provisions of subregulations (2) and (3)—\n( a ) a person shall not fly an aircraft, other than a helicopter, over any congested area of a city, town or settlement below the—\n(i) height that would enable the aircraft to alight clear of the area and without danger to persons or property on the surface, in the event of failure of a power unit, or\n(ii) height of 1 500 feet above the highest fixed object and within 600 metres of the aircraft, whichever is the higher;\n( b ) a person shall not fly a helicopter below such height as would enable it to alight without danger to persons or property on the surface, in the event of failure of a power unit;\n( c ) a person shall not fly a helicopter over a congested area of a city, town or settlement below a height of 1 500 feet above the highest fixed object or within 600 metres of the helicopter, except with the permission, in writing, of the Authority and in accordance with any condition therein specified;\n( d ) a person shall not fly an aircraft—\n(i) over, or within 3 000 metres of any assembly in the open air of more than 1,000 persons assembled for the purpose of witnessing or participating in any organised event, except with the permission in writing of the Authority and in accordance with any conditions therein specified and with the consent, in writing, of the organisers of the event,\n(ii) below a height that would enable it to land clear of the assembly in the event of the failure of a power unit or if such an aircraft is towing a banner the height shall be calculated on the basis that the banner shall not be dropped within 3 000 metres of the assembly, or\n(iii) where a person is charged with an offence under these Regulations by reason of a contravention of this subregulation, it shall be a defence to prove that the flight of the aircraft over, or within 3 000 metres of the assembly was made at a reasonable height and for a reason not connected with the assembly or with the event which was the occasion for the assembly; and\n( e ) an aircraft shall not fly less than 500 feet above ground or water.\n(2) The provisions of—\n( a ) subregulation (1)( a ) shall not apply to—\n(i) an aircraft while it is landing or taking-off in accordance with normal aviation practice, or\n(ii) a glider while it is hill-soaring;\n( b ) subregulation (1)( d ) and ( e ) shall not apply to a State aircraft;\n( c ) subregulation (1)( e ) shall not apply to an aircraft which is being used for aerial work operations in accordance with the operating provisions of the Civil Aviation (Aerial Work) Regulations (Cap. 71:01 (Sub. Leg.)); and\n( d ) subregulation (1)( d ) and ( e ) shall not apply to the flight of an aircraft over or within 3 000 metres of an assembly of persons gathered for the purpose of witnessing an event which consists wholly or principally of an aircraft race contest or an exhibition of flying, if the aircraft is taking part in such a race, contest or exhibition or is engaged in a flight arranged by, or made with the consent in writing of, the organisers of the event, and the races, contest, exhibition or flight is approved by the Authority.\n(3) Nothing in this regulation shall prohibit any aircraft from—\n( a ) taking off or landing;\n( b ) flying for the purpose of checking navigational aids or procedures in accordance with normal aviation practice at a licensed or certificated aerodrome in Botswana or at any aerodrome in any other state;\n( c ) flying in such a manner as may be necessary for the purpose of saving life; or\n( d ) practising approaches to landing, such practising is confined to the airspace customarily used by aircraft when landing or taking off in accordance with normal aviation practice at the aerodrome concerned.\n(4) The provisions of this regulation shall not apply to any captive balloon or kite."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "10",
+      "title": "Formation flights",
+      "content": "10. Formation flights\nA person shall not fly an aircraft in a formation flight except by pre-arrangement among the PICs of the aircraft taking part in the flight and, for a formation flight in controlled airspace, in accordance with the conditions prescribed by the appropriate air traffic service authority, which conditions shall include—\n( a ) the formation operates as a single aircraft with regard to navigation and position reporting;\n( b ) the separation between aircraft in the flight shall be the responsibility of the flight leader and the PIC of the other aircraft in the flight and shall include periods of transition when aircraft are manoeuvring to attain their own separation within the formation flight and during join-up and break-away; and\n( c ) a distance not exceeding 1 km (0.5 NM) laterally and longitudinally and 30 m (100 feet) vertically from the flight leader shall be maintained by each aircraft."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "11",
+      "title": "Unmanned free balloons",
+      "content": "11. Unmanned free balloons\nA person who operates an unmanned free balloon shall operate the balloon in such a manner as to minimise hazards to any person, property or other aircraft and in accordance with the conditions set out in Schedule 3."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "12",
+      "title": "Acrobatic manoeuvres",
+      "content": "12. Acrobatic manoeuvres\nA person shall not acrobatically fly an aircraft—\n( a ) over any city, town or settlement;\n( b ) over an open air assembly of persons;\n( c ) below an altitude of 1 500 feet above the surface;\n( d ) when the flight visibility is less than five kilometres;\n( e ) in manoeuvres exceeding a bank of 60 degrees or pitch of 30 degrees from level flight attitude unless all occupants of the aircraft are wearing parachutes packed by a qualified parachute rigger in the past 12 months;\n( f ) within controlled airspace except with the consent of the appropriate ATC; or\n( g ) except under conditions prescribed by the Authority and as indicated by relevant information, advice or clearance from the appropriate air traffic service unit."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "13",
+      "title": "Right-hand traffic rule",
+      "content": "13. Right-hand traffic rule\nA person flying an aircraft and in sight of the ground and following a road, railway, river, cordon fence or any other line of landmark, shall keep the road, river, cordon fence or other line of landmark on his or her left."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "14",
+      "title": "Prohibited areas and restricted areas",
+      "content": "14. Prohibited areas and restricted areas\n(1) A person shall not operate an aircraft in a prohibited area or a restricted area, the particulars of which prohibited area have been duly published, except in accordance with the conditions of the restrictions or by permission of the Authority.\n(2) Any person who contravenes the provisions of subregulation (1) commits an offence and is liable to a fine not exceeding P100 000 or a term of imprisonment not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "15",
+      "title": "Flights over game parks, game reserves and national parks",
+      "content": "15. Flights over game parks, game reserves and national parks\nSubject to the provisions of regulation 14, a person shall not operate an aircraft, except for the purpose of take-off or landing, below 1 000 feet, above ground level when operating the aircraft over game parks, game reserves and national parks."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "16",
+      "title": "Cruising levels",
+      "content": "16. Cruising levels\n(1) The cruising level at which a flight or a portion of a flight is to be conducted shall be in terms of—\n( a ) flight levels at or above the lowest usable flight level or altitudes if below the transition altitude; or\n( b ) altitudes, for flights below the lowest usable flight level or, where applicable, at or below the transition altitude.\n(2) Subject to subregulation (5), in order to comply with IFR, an aircraft when in level flight at or above 3 000 feet over land or water within controlled airspace shall be flown at a level appropriate to its magnetic track as set out in Schedule 1.\n(3) Subject to subregulation (5), in order to comply with IFR, an aircraft when in level flight at or above 3 000 feet over land or water outside controlled airspace shall be flown at a level appropriate to its magnetic track, as set out in Schedule 1.\n(4) A VFR flights in level cruising flight when operated at or above 3 000 feet from the ground or water shall be conducted at a flight level appropriate to its magnetic track as set out in Schedule 1, except where otherwise indicated in ATC clearances or specified by the Authority.\n(5) The level of flight shall be measured by an altimeter set according to the system notified, or in the case of flight over a State other than Botswana, otherwise published by the competent authority, in relation to the area over which the aircraft is flying."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "17",
+      "title": "Altimeter settings",
+      "content": "17. Altimeter settings\nA person operating an aircraft registered in Botswana shall set the aircraft altimeter to maintain the cruising altitude for flight level reference in accordance with the procedure notified by—\n( a ) the aeronautical information publication; or\n( b ) the State where the aircraft may be."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "18",
+      "title": "Dropping, spraying, towing and parachute descents",
+      "content": "18. Dropping, spraying, towing and parachute descents\nA person shall not—\n( a ) drop any article, substance or spray any substance from the aircraft in flight;\n( b ) tow an aircraft or other object; or\n( c ) make a parachute descent other than an emergency descent,\nexcept in accordance with conditions prescribed by the Authority and as indicated by relevant information, advice and clearance from the appropriate air traffic service unit."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "19",
+      "title": "Proximity to other aircraft",
+      "content": "19. Proximity to other aircraft\nA person shall not operate an aircraft in such proximity to other aircraft as to create a collision hazard."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "20",
+      "title": "Remotely piloted aircraft",
+      "content": "20. Remotely piloted aircraft\nA person shall operate a remotely piloted aircraft in such a manner as to minimise any hazard to any person, property or other aircraft, and as set out in Schedule 2 and as specified by the Authority."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "21",
+      "title": "Right-of-way rules in air operations",
+      "content": "21. Right-of-way rules in air operations\n(1) A PIC of an aircraft who has the right-of-way shall maintain the aircraft's heading and speed.\n(2) A PIC operating an aircraft shall maintain vigilance so as to see and avoid other aircraft, and where this regulation gives another aircraft the right-of-way, the PIC shall give way to that aircraft and shall not pass over, under, or ahead of it unless well clear and taking into account the effect of aircraft wake turbulence.\n(3) An aircraft in distress has the right-of-way over all other air traffic.\n(4) Where two aircraft are converging at approximately the same level, the aircraft that has the other aircraft on its right shall give way, except as follows—\n( a ) power-driven heavier-than-air aircraft shall give way to airships, gliders and balloons;\n( b ) airships shall give way to gliders and balloons;\n( c ) gliders shall give way to balloons; or\n( d ) power-driven aircraft shall give way to aircraft which are seen to be towing other aircraft or objects.\n(5) An aircraft towing or refuelling other aircraft has the right-of-way over all other engine-driven aircraft, except for aircraft in distress.\n(6) Where two aircraft are approaching head-on or nearly so, and there is danger of collision, each PIC shall alter course to the right.\n(7) An aircraft that is being overtaken has the right-of-way and the overtaking aircraft, whether climbing, descending or in horizontal flight, shall keep out of the way of the other aircraft by altering its heading to the right, and no subsequent change in the relative positions of the two aircraft shall absolve the overtaking aircraft from this obligation until it is entirely past and clear.\n(8) An aircraft in flight, or operating on the ground, shall give way to aircraft landing or in the final stages of an approach to land.\n(9) When two or more heavier-than-air aircraft are approaching an aerodrome for the purpose of landing, aircraft at the higher level shall give way to aircraft at the lower level, but the latter shall not take advantage of this rule to cut in front of another which is in the final stages of an approach to land, or to overtake that aircraft.\n(10) When an ATC unit has communicated to any aircraft an order of priority for landing, the aircraft shall approach to land in that order, and when the PIC of an aircraft is aware that another aircraft is making an emergency landing, the PIC shall give way to that aircraft, notwithstanding that the PIC may have received permission to land, and shall not attempt to land until the PIC receives further permission to do so.\n(11) A power-driven heavier-than-air aircraft shall give way to gliders.\n(12) An aircraft taxiing on the manoeuvring area of an aerodrome shall give way to aircraft taking off or about to take off.\n(13) Nothing in these Regulations shall relieve the PIC of an aircraft from the responsibility of taking such action, including collision avoidance manoeuvres based on resolution advisories provided by ACAS equipment, as will best avert collision.\n(14) A PIC who causes a collision while taxing commits an offence and is liable to a fine not exceeding P15 000 or to a term of imprisonment not exceeding nine months, or to both."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART II General Flight Rules (regs 4-24)",
+      "section": "22",
+      "title": "Right-of-way rules in ground operations",
+      "content": "22. Right-of-way rules in ground operations\n(1) This regulation shall apply to aircraft and vehicles on the movement area of a land aerodrome.\n(2) Notwithstanding any ATC clearance, it shall remain the duty of the PIC of an aircraft to take all possible measures to ensure that the aircraft does not collide with any other aircraft or with any vehicle.\n(3) An emergency vehicle proceeding to the assistance of aircraft in distress shall be accorded priority over all other surface movement traffic."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "advisory airspace",
+      "definition": "an airspace of defined dimensions or designated route, within which air traffic advisory service is available",
+      "source_provision": "s2"
+    },
+    {
+      "term": "advisory route",
+      "definition": "a designated route along which air traffic advisory service is available",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome",
+      "definition": "a defined area on land or water, including any buildings, installations and equipment, intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome control service",
+      "definition": "air traffic control service for aerodrome traffic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome control tower",
+      "definition": "a unit established to provide ATC service to aerodrome traffic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome traffic",
+      "definition": "all traffic on the manoeuvring area of an aerodrome and all aircraft flying in the vicinity of an aerodrome",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome traffic zone",
+      "definition": "an airspace of defined dimensions established around an aerodrome for the protection of aerodrome traffic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical information publication",
+      "definition": "a publication issued by or with the authority of a State and containing aeronautical information of a lasting character essential to air navigation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical station",
+      "definition": "a land station in the aeronautical mobile service which in certain instances, may be located, for example, on board a ship or on a platform at sea",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeroplane",
+      "definition": "a power-driven heavier-than-air aircraft, deriving its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "airborne collision avoidance system (ACAS)",
+      "definition": "an aircraft system based on secondary surveillance radar (SSR) transponder signals which operates independently of ground based equipment to provide advice to the PIC on potential conflicting aircraft that are equipped with SSR transponders",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic",
+      "definition": "all aircraft in flight or operating on the manoeuvring area of an aerodrome",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic advisory service",
+      "definition": "a service provided within advisory airspace to ensure separation, in so far as practical, between aircraft which are operating on IFR flight plans",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic control (ATC) clearance",
+      "definition": "authorisation for an aircraft to proceed under conditions specified by an ATC unit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic control service",
+      "definition": "a service provided for the purpose of—\n( a ) preventing collisions—\n(i) between aircraft, and\n(ii) on manoeuvring area between aircraft and obstructions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic services reporting office",
+      "definition": "a unit established for the purpose of receiving reports concerning air traffic services and flight plans submitted before departure",
+      "source_provision": "s2"
+    },
+    {
+      "term": "alerting service",
+      "definition": "a service provided to notify appropriate organisations regarding aircraft in need of search and rescue aid, and assist such organisations as required",
+      "source_provision": "s2"
+    },
+    {
+      "term": "alternate aerodrome",
+      "definition": "an aerodrome to which an aircraft may proceed when it becomes either impossible or inadvisable to proceed to or to land at the aerodrome of intended landing and includes the following—\n( a ) take-off alternate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "altitude",
+      "definition": "the vertical distance of a level, a point or an object considered as a point, measured from mean sea level",
+      "source_provision": "s2"
+    },
+    {
+      "term": "anti-collision light",
+      "definition": "a flashing red or flashing white light showing in all directions for the purpose of enabling the aircraft to be more readily detected by the PIC of distant aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approach control service",
+      "definition": "air traffic control service for arriving or departing controlled flights",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approach control unit",
+      "definition": "a unit established to provide air traffic control service to controlled flights arriving at, or departing from, one or more aerodromes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "apron",
+      "definition": "a defined area, on a land aerodrome, intended to accommodate aircraft for purposes of loading or unloading passengers, mail or cargo, fuelling, parking or maintenance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appropriate air traffic service authority",
+      "definition": "the relevant authority designated for providing air traffic services in Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "area control centre (ACC)",
+      "definition": "a unit established to provide air traffic control service to controlled flights in Control Areas under its jurisdiction",
+      "source_provision": "s2"
+    },
+    {
+      "term": "area control service",
+      "definition": "ATC service for controlled flights in control areas under its jurisdiction",
+      "source_provision": "s2"
+    },
+    {
+      "term": "area navigation (RNAV)",
+      "definition": "a method of navigation which permits aircraft operation on any desired flight path within the coverage of ground-or space-based navigation aids or within the limits of the capability of self-contained aids, or a combination of these",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic services route",
+      "definition": "a specified route designed for channelling the flow of traffic as necessary for the provision of air traffic service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "automatic dependent surveillance-broadcast (ADS-B)",
+      "definition": "a means by which aircraft, aerodrome vehicles and other objects can automatically transmit or receive data such as identification, position and additional data, as appropriate, in a broadcast mode via a data link",
+      "source_provision": "s2"
+    },
+    {
+      "term": "automatic dependent surveillance-contract (ADS-C)",
+      "definition": "a means by which the terms of an ADS-C agreement will be exchanged between the ground system and the aircraft, via a data link, specifying under what conditions ADS-C reports would be initiated, and what data would be contained in the reports",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ceiling",
+      "definition": "the height above the ground or water of the base of the lowest layer of cloud below 6 000 metres (20 000 feet) covering more than half the sky",
+      "source_provision": "s2"
+    },
+    {
+      "term": "changeover point",
+      "definition": "the point at which an aircraft navigating on an air traffic service route segment defined by reference to very high frequency omnidirectional radio ranges is expected to transfer its primary navigational reference from the facility behind the aircraft to the next facility ahead of the aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clearance limit",
+      "definition": "the point to which an aircraft is granted an air traffic control clearance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "command and control (C2) link",
+      "definition": "the data link between the remotely piloted aircraft and the remote pilot station for the purposes of managing the flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "control area",
+      "definition": "a controlled airspace extending upwards from a specified limit above the earth",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled aerodrome",
+      "definition": "an aerodrome at which air traffic control service is provided to aerodrome traffic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled airspace",
+      "definition": "an airspace of defined dimensions within which air traffic control service is provided in accordance with the airspace classification and covers air traffic service airspace Classes A, B, C, D and E as described in these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled flight",
+      "definition": "any flight which is subject to an air traffic control clearance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "control zone (CTR)",
+      "definition": "a controlled airspace extending upwards from the surface of the earth to a specified upper limit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cruise climb",
+      "definition": "an aeroplane cruising technique resulting in a net increase in altitude as the aeroplane mass decreases",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cruising level",
+      "definition": "a level maintained during a significant portion of a flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "current flight plan (CPL)",
+      "definition": "the flight plan, including changes, if any, brought about by subsequent clearances",
+      "source_provision": "s2"
+    },
+    {
+      "term": "danger area",
+      "definition": "an airspace of defined dimensions within which activities dangerous to the flight of aircraft may exist at specified times",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data link communications",
+      "definition": "a form of communication intended for the exchange of messages via a data link",
+      "source_provision": "s2"
+    },
+    {
+      "term": "detect and avoid",
+      "definition": "the capability to see, sense or detect conflicting traffic or other hazards and take the appropriate action",
+      "source_provision": "s2"
+    },
+    {
+      "term": "estimated off-block time (EOBT)",
+      "definition": "the estimated time at which the aircraft will commence movement associated with departure",
+      "source_provision": "s2"
+    },
+    {
+      "term": "expected approach time (EAT)",
+      "definition": "the time at which ATC expects that an arriving aircraft, following a delay, will leave the holding fix to complete its approach for a landing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "filed flight plan (FPL)",
+      "definition": "the flight plan as filed with an air traffic service unit by the PIC or a designated representative, without any subsequent changes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight crew member",
+      "definition": "a licensed crew member charged with duties essential to the operation of an aircraft during a flight duty period",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight (FLT)",
+      "definition": "in the case of—\n( a ) an aeroplane or glider, from the moment it first moves for the purpose of taking off until the moment when it next comes to rest after landing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight information centre (FIC)",
+      "definition": "a unit established to provide flight information service and alerting service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight information region (FIR)",
+      "definition": "an airspace of defined dimensions within which flight information service and alerting service are provided",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight information service (FIS)",
+      "definition": "a service provided for the purpose of giving advice and information useful for the safe and efficient conduct of flights",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight level (FL)",
+      "definition": "a surface of constant atmospheric pressure which is related to a specific pressure datum, 1013.2 hectopascals (hPa), and is separated from other such surfaces by specific pressure intervals",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight plan",
+      "definition": "specified information provided to air traffic services units, relative to an intended flight or portion of a flight of an aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight visibility",
+      "definition": "the visibility forward from the cockpit of an aircraft in flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "glider",
+      "definition": "a non-power-driven heavier-than-air aircraft, deriving its lift in flight chiefly from aerodynamic reactions on surfaces, which remain, fixed under given conditions of flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ground visibility",
+      "definition": "the visibility at an aerodrome, as reported by an accredited observer or by automatic systems",
+      "source_provision": "s2"
+    },
+    {
+      "term": "heading (HDG)",
+      "definition": "the direction in which the longitudinal axis of an aircraft is pointed, usually expressed in degrees from North (true, magnetic, compass or grid)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "heavier-than-air aircraft",
+      "definition": "any aircraft deriving its lift in flight chiefly from aerodynamic forces",
+      "source_provision": "s2"
+    },
+    {
+      "term": "height",
+      "definition": "the vertical distance of a level, a point or an object considered as a point, measured from a specified datum",
+      "source_provision": "s2"
+    },
+    {
+      "term": "helicopter (Hel)",
+      "definition": "a heavier-than-air aircraft supported in flight chiefly by the reactions of the air on one or more power-drive",
+      "source_provision": "s2"
+    }
+  ]
+}

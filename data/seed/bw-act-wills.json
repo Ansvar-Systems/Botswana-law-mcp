@@ -1,0 +1,61 @@
+{
+  "id": "bw-act-wills",
+  "type": "statute",
+  "title": "Wills",
+  "title_en": "Wills",
+  "short_name": "Wills",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/wills",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Wills Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"competent witness\" means a person of the age of 14 years or over who at the time he witnesses a will is not incompetent to give evidence in a court of law;\n\"court\" means the High Court of Botswana or any judge thereof;\n\"Master\" means the Master of the High Court of Botswana;\n\"sign\" includes in the case of testator the making of a mark but does not include the making of a mark in the case of a witness, and \"signature\" has a corresponding meaning;\n\"will\" includes a codicil and any other testamentary writing."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Wills Executed in Botswana",
+      "section": "3",
+      "title": "Formalities required in the execution of a will",
+      "content": "3. Formalities required in the execution of a will\n(1) Subject to the provisions of section 4—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "competent witness",
+      "definition": "a person of the age of 14 years or over who at the time he witnesses a will is not incompetent to give evidence in a court of law",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "the High Court of Botswana or any judge thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Master",
+      "definition": "the Master of the High Court of Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sign",
+      "definition": "in the case of testator the making of a mark but does not include the making of a mark in the case of a witness, and \"signature\" has a corresponding meaning",
+      "source_provision": "s2"
+    },
+    {
+      "term": "will",
+      "definition": "a codicil and any other testamentary writing.",
+      "source_provision": "s2"
+    }
+  ]
+}

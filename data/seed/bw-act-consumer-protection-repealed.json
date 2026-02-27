@@ -1,0 +1,95 @@
+{
+  "id": "bw-act-consumer-protection-repealed",
+  "type": "statute",
+  "title": "Consumer Protection",
+  "title_en": "Consumer Protection",
+  "short_name": "Consumer Protection",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/consumer-protection-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Consumer Protection Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"arrangement\" means an arrangement or undertaking negotiated and concluded by the Office under section 11;\n\"business\" includes—\n( a ) offering, supplying or making available any commodity or services for a stated consideration; or\n( b ) soliciting or receiving any investment;\n\"business practice\" includes—\n( a ) any agreement, accord or undertaking of a business nature;\n( b ) any scheme, practice or method of trading, including any method of marketing or distribution; or\n( c ) any advertising, type of advertising, or any other manner of soliciting business;\n\"commodity\" means—\n( a ) any property, whether corporeal or incorporeal and whether fixed or movable, including any make or brand of commodity; or\n( b ) any service, excluding service due in terms of a contract of employment;\n\"consumer\" means any person or non profit making organisation—\n( a ) to whom or to which any commodity is offered, supplied or made available, where such person or organisation does not intend to apply the commodity for the purposes of resale, lease, rendering services or the manufacture of goods for gain;\n( b ) from whom or from which is solicited or whom or which supplies or makes available any investment;\n\"curator\" means a person or body of persons appointed by the court under section 16 to manage such business affairs, as the court may determine, of any person found responsible for practising unfair business practices in terms of this Act, so as to reimburse or compensate, as far as it is possible, any person that may have been defrauded thereto;\n\"Director\" means the Director of the Office appointed under section 4;\n\"identity card\" means an identity card issued to an investigating officer under section 6;\n\"investigating officer\" means an investigating officer appointed under section 6;\n\"investment\" means any money or other property, or any facility intended for use in connection with any venture or scheme for profit, or purported to be so intended;\n\"Office\" means the Consumer Protection Office established under section 3;\n\"unfair business practice\" means any business practice which, directly or indirectly, has or is likely to have the effect of unfairly affecting any consumer;"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Consumer Protection Office",
+      "section": "3",
+      "title": "Establishment of Consumer Protection Office",
+      "content": "3. Establishment of Consumer Protection Office\nThere shall be established, in accordance with the laws governing the public service, an Office to be known as the Consumer Protection Office."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Consumer Protection Office",
+      "section": "4",
+      "title": "Appointment of Director and other staff",
+      "content": "4. Appointment of Director and other staff\n(1) Subject to the laws governing the public service there shall be appointed—\n( a ) a public officer to be the Director of the Consumer Protection Office; and\n( b ) such number of public officers as may be deemed necessary, to work in the Office under the supervision of the Director.\n(2) The Director shall hold such qualifications and experience, relevant to consumer protection, as the department responsible for public service management may determine."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Consumer Protection Office",
+      "section": "5",
+      "title": "Functions of Office",
+      "content": "5. Functions of Office\n(1) The Office shall, subject to the control of the Minister, be responsible for the administration of this Act.\n(2) Without derogating from the generality of subsection (1) the functions of the Office shall be to—\n( a ) conduct research on consumer protection policies, laws and regulations and make recommendations to the Minister on improvements required thereon;\n( b ) disseminate information to enable consumers to acquire knowledge of basic consumer rights and obligations and the skills needed to make informed choices about goods and services;\n( c ) formulate and implement consumer education programmes;\n( d ) conduct comprehensive surveys on consumer behaviour, consumption patterns, market prices, size and quality of products, unfair business practices and any other related matter, and publish reports on the findings of the surveys;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "arrangement",
+      "definition": "an arrangement or undertaking negotiated and concluded by the Office under section 11",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consumer",
+      "definition": "any person or non profit making organisation—\n( a ) to whom or to which any commodity is offered, supplied or made available, where such person or organisation does not intend to apply the commodity for the purposes of resale, lease, rendering services or the manufacture of goods for gain",
+      "source_provision": "s2"
+    },
+    {
+      "term": "curator",
+      "definition": "a person or body of persons appointed by the court under section 16 to manage such business affairs, as the court may determine, of any person found responsible for practising unfair business practices in terms of this Act, so as to reimburse or compensate, as far as it is possible, any person that may have been defrauded thereto",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the Director of the Office appointed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "identity card",
+      "definition": "an identity card issued to an investigating officer under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "investigating officer",
+      "definition": "an investigating officer appointed under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "investment",
+      "definition": "any money or other property, or any facility intended for use in connection with any venture or scheme for profit, or purported to be so intended",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Office",
+      "definition": "the Consumer Protection Office established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unfair business practice",
+      "definition": "any business practice which, directly or indirectly, has or is likely to have the effect of unfairly affecting any consumer",
+      "source_provision": "s2"
+    }
+  ]
+}

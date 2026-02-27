@@ -1,0 +1,100 @@
+{
+  "id": "bw-sub-monuments-and-relics-subsidiary-legislation",
+  "type": "statute",
+  "title": "Monuments and Relics: Subsidiary Legislation",
+  "title_en": "Monuments and Relics: Subsidiary Legislation",
+  "short_name": "Monuments and Relics: Subsi...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/monuments-and-relics-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Declaration of National Monuments Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Declaration of national monuments",
+      "content": "2. Declaration of national monuments\nThe monuments, relics and recent artifacts listed in the Schedule hereto, are hereby declared as national monuments."
+    },
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Monuments and Relics Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"Collections Management Plan\" means various activities done in order to achieve an objective of how to execute the management of collected materials;\n\"Department\" means the Department of National Museum and Monuments;\n\"developer\" means a person who seeks to undertake an infrastructural project;\n\"fossiliferous\" means a localised area that contains a relic or relics of a fossilised nature where fossil remains have over many years taken a crystal, rock-like formation warranting its recognition as being of heritage value;\n\"management program\" means a specific activity done to achieve a particular plan;\n\"mitigation proposal\" means a particular plan in place to manage or carry out a particular mission;\n\"overnight activity\" includes a recreational and vigil that take place between the hours of 6pm and 6am on any day of the week;\n\"paleoenvironment\" means a past climate of a specific place during a specific era; and\n\"researcher\" means a person who carries out research on a national monument, monument, site, recent artefact or relic."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Functions of officers (regs 3-4)",
+      "section": "3",
+      "title": "Honorary officers",
+      "content": "3. Honorary officers\n(1) In accordance with section 4(3) of the Act, an honorary officer shall have the power to—\n( a ) report to the Commissioner, any vandalism of a monument, site, artefact or relic in his area of jurisdiction; and\n( b ) interrogate or question anyone who carries out any activity in a monument or site in his area of jurisdiction, and submit any information obtained from such interrogation or questioning to the Commissioner, or the Police where the honorary officer deems it necessary to do so.\n(2) An honorary officer shall have the responsibility to—\n( a ) report to the Commissioner, any discovery of a monument, artefact or relic in his area of jurisdiction to be declared a national monument, including chance discovery during construction;\n( b ) report to the Commissioner, any interest by the community and the general public on declaration of a monument, artefact or relic as a national monument;\n( c ) identify any person who shall benefit in the adoption of a monument, site, artefact or relic in their area;\n( d ) collaborate with the Commissioner to raise awareness on, and funds for, the maintenance of a monument, site, artefact or relic;\n( e ) report to the Commissioner, any actual or potential threat posed by any development to, and lack of implementation of specific activities to manage, the monument, site, artefact or relic; and\n( f ) report to the Commissioner, any person who removes any artefact or relic, or any part thereof, from their original site, without the Minister&rsquo;s written permission issued under section 18(1) of the Act."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Functions of officers (regs 3-4)",
+      "section": "4",
+      "title": "Custodians",
+      "content": "4. Custodians\n(1) A custodian shall ensure the protection and maintenance of a monument, site, artefact and relic assigned to the custodian in terms of the management programs.\n(2) A custodian shall, with the assistance of an honorary officer, report to the Commissioner any—\n( a ) discovery of a monument, site, artefact or relic in his area, including a discovery made during a construction;\n( b ) interest by the community and the general public on the declaration of a monument, artefact or relic as a national monument;\n( c ) vandalism of a monument, site, artefact and relic, and any threat to the monument, site, artefact and relic by a development, including indication for lack of implementation of management programs for such monument, site, artefact and relic; and"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Collections Management Plan",
+      "definition": "various activities done in order to achieve an objective of how to execute the management of collected materials",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Department",
+      "definition": "the Department of National Museum and Monuments",
+      "source_provision": "s2"
+    },
+    {
+      "term": "developer",
+      "definition": "a person who seeks to undertake an infrastructural project",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fossiliferous",
+      "definition": "a localised area that contains a relic or relics of a fossilised nature where fossil remains have over many years taken a crystal, rock-like formation warranting its recognition as being of heritage value",
+      "source_provision": "s2"
+    },
+    {
+      "term": "management program",
+      "definition": "a specific activity done to achieve a particular plan",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mitigation proposal",
+      "definition": "a particular plan in place to manage or carry out a particular mission",
+      "source_provision": "s2"
+    },
+    {
+      "term": "overnight activity",
+      "definition": "a recreational and vigil that take place between the hours of 6pm and 6am on any day of the week",
+      "source_provision": "s2"
+    },
+    {
+      "term": "paleoenvironment",
+      "definition": "a past climate of a specific place during a specific era",
+      "source_provision": "s2"
+    },
+    {
+      "term": "researcher",
+      "definition": "a person who carries out research on a national monument, monument, site, recent artefact or relic.",
+      "source_provision": "s2"
+    }
+  ]
+}

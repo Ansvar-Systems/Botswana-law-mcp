@@ -1,0 +1,26 @@
+{
+  "id": "bw-act-cattle-export-and-slaughter-levy",
+  "type": "statute",
+  "title": "Cattle Export and Slaughter Levy",
+  "title_en": "Cattle Export and Slaughter Levy",
+  "short_name": "Cattle Export and Slaughter...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/cattle-export-and-slaughter-levy",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Cattle Export and Slaughter Levy Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "bw-sub-companies-re-registration-subsidiary-legislation",
+  "type": "statute",
+  "title": "Companies Re-registration: Subsidiary Legislation",
+  "title_en": "Companies Re-registration: Subsidiary Legislation",
+  "short_name": "Companies Re-registration: ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/companies-re-registration-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Companies Re-registration Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application for re-registration of a close company",
+      "content": "2. Application for re-registration of a close company\n(1) An applicant shall apply to the Registrar for re-registration of a close company in the re-registration of a close company Form as set out in Schedule 1 and upon payment of a fee as set out in Schedule 3.\n(2) Where, after consideration of an application under subregulation (1), the Registrar is satisfied that all requirements of the Act have been duly complied with, he or she shall issue a new certificate of incorporation as set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application for re-registration of an external company",
+      "content": "3. Application for re-registration of an external company\n(1) An applicant shall apply to the Registrar for re-registration of an external company in the re-registration of an external company Form as set out in Schedule 1 and upon payment of a fee as set out in Schedule 3.\n(2) Where, after consideration of an application under subregulation (1), the Registrar is satisfied that all requirements of the Act have been duly complied with, he or she shall issue a certificate of registration as set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application for re-registration of a company limited by guarantee",
+      "content": "4. Application for re-registration of a company limited by guarantee\n(1) An applicant shall apply to the Registrar for re-registration of a company limited by guarantee in the re-registration of a company limited by guarantee Form as set out in Schedule 1 and upon payment of a fee as set out in Schedule 3.\n(2) Where, after consideration of an application under subregulation (1), the Registrar is satisfied that all requirements of the Act have been duly complied with, he or she shall issue a certificate of incorporation as set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Application for re-registration of a public or private company",
+      "content": "5. Application for re-registration of a public or private company\n(1) An applicant shall apply to the Registrar for re-registration of a public or private company in the re-registration of a public or private company Form as set out in Schedule 1 and upon payment of a fee as set out in Schedule 3.\n(2) Where, after consideration of an application under subregulation (1), the Registrar is satisfied that all requirements of the Act have been duly complied with, he or she shall issue a certificate of incorporation as set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Application for re-registration of a foreign company",
+      "content": "6. Application for re-registration of a foreign company\n(1) An applicant shall apply to the Registrar for the re-registration of a foreign company as set out in Schedule 1 and upon payment of a fee as set out in Schedule 3.\n(2) Where, after consideration of an application under subregulation (1), the Registrar is satisfied that all requirements of the Act have been duly complied with and having entered particulars in the companies register in terms of section 21(1) of the Companies Act (Cap. 42:01), he or she shall issue a certificate of registration as set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Certificate of incorporation",
+      "content": "7. Certificate of incorporation\nWhere, after consideration of an application under these Regulations the Registrar is satisfied that all requirements of the Act have been duly complied with, and having entered particulars in the companies register in terms of section 22 of the Companies Act, he or she shall issue a certificate of incorporation as set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Revocation of S.I. No.68 of 2019",
+      "content": "8. Revocation of S.I. No.68 of 2019\nS.I. No. 68 of 2019 is hereby revoked."
+    }
+  ],
+  "definitions": []
+}

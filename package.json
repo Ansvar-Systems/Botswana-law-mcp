@@ -2,7 +2,7 @@
   "name": "@ansvar/botswana-law-mcp",
   "version": "1.0.0",
   "mcpName": "eu.ansvar/botswana-law-mcp",
-  "description": "Botswana law database -- legislation from elaws.gov.bw with full-text search, definitions, and EU cross-references",
+  "description": "Botswana law database -- 882 acts from botswanalaws.com with full-text search, 6,794 provisions, 7,703 definitions",
   "author": "Ansvar Systems <hello@ansvar.eu>",
   "license": "Apache-2.0",
   "repository": {

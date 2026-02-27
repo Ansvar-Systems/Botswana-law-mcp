@@ -1,0 +1,100 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-jwaneng-town-council-day-care-centre-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Jwaneng Town Council (day Care Centre) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Jwaneng Town Council (day Care Centre) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-jwaneng-town-council-day-care-centre-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Jwaneng Town Council (Day Care Centre) Bye-laws."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"assistant teacher\" means a citizen of Botswana possessing at least junior secondary school or senior secondary school certificate;\n\"baby care\" means the supervision of young children between the ages of zero and two and a half years;\n\"care giver\" means a person trained to the satisfaction of the Ministry responsible for education to teach, train and care for children below the age of six, and registered with the Council as such;\n\"Council\" means the Jwaneng Town Council;\n\"day care centre\" means a place for the care, education and supervision of children below the age of six, which includes a baby care centre, nursery centre and pre-primary centre;\n\"infectious diseases\" includes diphtheria, cerebrospinal meningitis, whooping cough, measles, mumps, German measles (rubella), chicken pox, scabies, ringworm of scalp or body and typhoid fever;\n\"law enforcement officer\" means a person appointed by the Council under section 52(1) of the Act and duly authorised, in writing, by the Council to perform duties under these Bye-laws;\n\"nursery care\" means the supervision of young children between the ages of two and a half and four years;\n\"pre-primary care\" means the supervision of young children between the ages of four and six years; and\n\"qualified teacher\" means a teacher qualified in early childhood and education to the satisfaction of the Ministry responsible for education."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Registration of Day Care Centres (regs 3-7)",
+      "section": "3",
+      "title": "Registration of day care centres",
+      "content": "3. Registration of day care centres\n(1) A person shall not operate a day care centre without the prior approval and registration of the day care centre, by the Council.\n(2) A person who wishes to operate a day care centre shall make an application to the Council in Form A set out in the Schedule and shall provide such information as the Council may require and, in particular\n( a ) details of the premises intended to be used; and\n( b ) the names and qualifications of all teachers and assistants to be employed at the day care centre.\n(3) Where the Council is satisfied that the proposed day care centre meets all the requirements of these Bye-laws, it may, on payment of a fee of P500, register the centre and issue the applicant with a registration licence in Form B set out in the Schedule.\n(4) A registration licence shall not be transferable."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Registration of Day Care Centres (regs 3-7)",
+      "section": "4",
+      "title": "Duration and renewal of registration licence",
+      "content": "4. Duration and renewal of registration licence\n(1) A registration licence shall be valid for a period of 12 months from the date of issue.\n(2) The owner of a day care centre may make an application to renew a licence to the Council in Form C set out in the Schedule, upon payment of a fee of P500.\n(3) An applicant who fails to renew a registration licence upon its expiry commits an offence and is liable to a penalty fee of P20 for each day that the offence continues, up to a maximum of eight months.\n(4) A renewal of a licence made after a period of six months shall be treated as a new application."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Registration of Day Care Centres (regs 3-7)",
+      "section": "5",
+      "title": "Suspension and revocation of registration licence",
+      "content": "5. Suspension and revocation of registration licence\n(1) The Council may suspend or revoke a licence issued under bye-law 3 where"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "assistant teacher",
+      "definition": "a citizen of Botswana possessing at least junior secondary school or senior secondary school certificate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "baby care",
+      "definition": "the supervision of young children between the ages of zero and two and a half years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "care giver",
+      "definition": "a person trained to the satisfaction of the Ministry responsible for education to teach, train and care for children below the age of six, and registered with the Council as such",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Jwaneng Town Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "day care centre",
+      "definition": "a place for the care, education and supervision of children below the age of six, which includes a baby care centre, nursery centre and pre-primary centre",
+      "source_provision": "s2"
+    },
+    {
+      "term": "infectious diseases",
+      "definition": "diphtheria, cerebrospinal meningitis, whooping cough, measles, mumps, German measles (rubella), chicken pox, scabies, ringworm of scalp or body and typhoid fever",
+      "source_provision": "s2"
+    },
+    {
+      "term": "law enforcement officer",
+      "definition": "a person appointed by the Council under section 52(1) of the Act and duly authorised, in writing, by the Council to perform duties under these Bye-laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nursery care",
+      "definition": "the supervision of young children between the ages of two and a half and four years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pre-primary care",
+      "definition": "the supervision of young children between the ages of four and six years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "qualified teacher",
+      "definition": "a teacher qualified in early childhood and education to the satisfaction of the Ministry responsible for education.",
+      "source_provision": "s2"
+    }
+  ]
+}

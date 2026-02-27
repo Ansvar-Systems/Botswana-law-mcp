@@ -4,29 +4,25 @@ mcp_name: "Botswana Law MCP"
 jurisdiction: "BW"
 
 sources:
-  - name: "Botswana Official Legal Database"
-    authority: "Government of Botswana"
-    official_portal: "https://elaws.gov.bw"
-    canonical_identifier: "TBD"
-    retrieval_method: "HTML"
+  - name: "Botswana Laws (Blackhall Publishing)"
+    authority: "Blackhall Publishing / Government of Botswana"
+    official_portal: "https://botswanalaws.com"
+    canonical_identifier: "botswanalaws.com"
+    retrieval_method: "HTML scraping"
     api_documentation: "N/A"
-    update_frequency: "TBD"
-    last_ingested: "PENDING_FIRST_INGEST"
+    update_frequency: "Monthly (manual re-census)"
+    last_ingested: "2026-02-27"
     license_or_terms:
-      type: "Government Publication"
-      url: "https://elaws.gov.bw"
-      summary: "Official government legal database; legislation is public domain as government publication"
+      type: "Public Access (partial paywall)"
+      url: "https://botswanalaws.com"
+      summary: "Legislation content publicly available; approximately 20% of sections per act are visible without subscription"
     coverage:
-      scope: "TBD -- update after census"
-      limitations: "TBD -- update after census"
+      scope: "882 acts across 6 categories: Principal Legislation (352), Subsidiary Legislation (255), Local Government Subsidiary (218), Repealed Acts (42), Acts on Notice (14), Constitution (1)"
+      limitations: "Partial paywall limits visible sections to ~20% per act; 146 acts returned zero provisions; botswanalii.org and elaws.gov.bw were inaccessible"
     languages:
       - "en"
 
 data_freshness:
-  automated_checks: false
-  check_frequency: "TBD"
+  automated_checks: true
+  check_frequency: "weekly"
   last_verified: "2026-02-27"
-
-# Notes:
-# - Source URL: elaws.gov.bw
-# - Update this file after completing census and first ingestion

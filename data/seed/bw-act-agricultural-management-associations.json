@@ -1,0 +1,70 @@
+{
+  "id": "bw-act-agricultural-management-associations",
+  "type": "statute",
+  "title": "Agricultural Management Associations",
+  "title_en": "Agricultural Management Associations",
+  "short_name": "Agricultural Management Ass...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/agricultural-management-associations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Agricultural Management Associations Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"agricultural venture\" means a venture concerned with horticulture, fruit growing, seed growing, dairy farming, the breeding and keeping of livestock (including any creature kept for the production of food, wool, skins or fur, or for the purpose of its use in the farming of land), the use of land as grazing land, meadow lands, market gardens and nursery grounds, and the use of land for woodlands;\n\"association\" means an agricultural management association registered under section 6;\n\"Commissioner\" means the Commissioner of Agricultural Management Associations referred to in section 3;\n\"register\" means the register maintained by the Commissioner under section 4."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Agricultural Management Associations",
+      "section": "3",
+      "title": "Commissioner",
+      "content": "3. Commissioner\nThere shall be a Commissioner of Agricultural Management Associations."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Agricultural Management Associations",
+      "section": "4",
+      "title": "Register of agricultural management associations",
+      "content": "4. Register of agricultural management associations\nThe Commissioner shall keep a register of agricultural management associations registered under this Act and shall enter therein the particulars required by this Act to be so entered."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Agricultural Management Associations",
+      "section": "5",
+      "title": "Association of five or more persons",
+      "content": "5. Association of five or more persons\n(1) Where five or more individuals, all of whom shall be citizens of Botswana, wish to be associated for the purpose of undertaking a collective agricultural venture, they may form an agricultural management association for that purpose and apply to the Commissioner for registration under this Act.\n(2) An application for registration under this Act shall contain such particulars as may be prescribed and shall have attached thereto a copy of the constitution of the proposed association.\n(3) Where the collective agricultural venture involves the use and exploitation of tribal land, the Commissioner shall forthwith transmit a copy of the application to the tribal land board concerned."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "agricultural venture",
+      "definition": "a venture concerned with horticulture, fruit growing, seed growing, dairy farming, the breeding and keeping of livestock (including any creature kept for the production of food, wool, skins or fur, or for the purpose of its use in the farming of land), the use of land as grazing land, meadow lands, market gardens and nursery grounds, and the use of land for woodlands",
+      "source_provision": "s2"
+    },
+    {
+      "term": "association",
+      "definition": "an agricultural management association registered under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "the Commissioner of Agricultural Management Associations referred to in section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "the register maintained by the Commissioner under section 4.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "bw-act-botswana-tourism-organisation",
+  "type": "statute",
+  "title": "Botswana Tourism Organisation",
+  "title_en": "Botswana Tourism Organisation",
+  "short_name": "Botswana Tourism Organisation",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-tourism-organisation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Tourism Organisation Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Board\" means the Board of Directors established under section 5;\n\"Botswana Tourism\" means the Botswana Tourism Organisation established under section 3;\n\"Chief Executive\" means the Chief Executive officer of Botswana Tourism Organisation appointed as such under section 18;\n\"grade\" means to assign a symbol in accordance with the criteria prescribed for the grading and classification of tourist enterprises, and \"re-grade\" shall have a corresponding meaning;\n\"market intelligence\" means, in the context of the tourism industry, the continuous surveillance and evaluation of both the existing and the potential business trends;\n\"member\" means a member of the Board appointed under section 5;\n\"senior staff\" means any employee of Botswana Tourism Organisation who holds a position which is designated as such by the Board; and\n\"tourist enterprise\" shall have the same meaning ascribed to it in the Tourism Act (Cap. 42:09)."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment and functions of Botswana Tourism Organisation and its Board",
+      "section": "3",
+      "title": "Establishment of Botswana Tourism Organisation",
+      "content": "3. Establishment of Botswana Tourism Organisation\n(1) There is hereby established an organisation to be known as Botswana Tourism Organisation which shall be a body corporate with a common seal, capable of suing and being sued in its own name and, subject to the provisions of this Act, of doing or performing all such acts or things as bodies corporate may, by law, do or perform.\n(2) All rights, obligations, assets and liabilities which have accrued to the Botswana Tourism Board in terms of the repealed Act shall, upon this Act coming into force, simultaneously pass and accrue to Botswana Tourism and be dealt with in terms of this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment and functions of Botswana Tourism Organisation and its Board",
+      "section": "4",
+      "title": "General powers and functions of Botswana Tourism",
+      "content": "4. General powers and functions of Botswana Tourism\n(1) Botswana Tourism shall do all such things as are necessary to market and promote tourist attractions, and to encourage and facilitate travel, by local and foreign tourists, to the said attractions.\n(2) Without derogating from the generality of the provisions of subsection (1), Botswana Tourism shall—\n( a ) plan, develop and implement tourism marketing and promotion strategies aimed at creating and sustaining a positive image of Botswana as a tourist and investor destination;\n( b ) plan, formulate and implement strategies for promoting sustainable tourism development in collaboration with the private sector in the tourism industry, local authorities, local communities and non-governmental organisations;\n( c ) implement Government policies and programmes aimed at facilitating the continued growth and development of the tourism sector;\n( d ) develop and implement appropriate strategies for achieving annual work plan objectives and set performance targets aimed at the promotion of the tourism business in Botswana;\n( e ) establish and expand local as well as international travel trade networks to promote and sell Botswana as a tourist destination;\n( f ) manage and co-ordinate tourism promotional and publicity programmes;\n( g ) provide market research information and market intelligence on tourism;\n( h ) promote the expansion of existing tourist enterprises and new investments in the tourism sector;\n( i ) market and promote the establishment of joint tourist enterprise ventures between citizen and foreign investors;\n( j ) promote the improvement of tourist enterprise and service standards;\n( k ) grade and classify tourist enterprise facilities in accordance with\n( l ) conduct tourism awareness campaigns and tourism research within and outside Botswana;\n( m ) develop and improve the existing tourism opportunities and diversify the sector to include other forms of tourism, such as cultural and heritage tourism, eco-tourism, entertainment, recreational and leisure tourism and bring them to the required marketable standard;\n( n ) select, develop and bring to the required marketable standard, any tourism project, solely or through partnerships with any community based organisation or any individual; and\n( o ) select and facilitate any tourism project from any community based organisation or any individual to bring the project to the required marketable standard."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment and functions of Botswana Tourism Organisation and its Board",
+      "section": "5",
+      "title": "Board of Directors",
+      "content": "5. Board of Directors\n(1) There shall be a Board of Director for Botswana Tourism which shall be the governing body of Botswana Tourism.\n(2) The Board shall consist of the following members appointed by the Minister—\n( a ) a Chairperson;\n( b ) a Vice Chairperson;\n( c ) a representative of the Ministry responsible for tourism;\n( d ) six members from the public and private sector who have the skill, experience and competence relevant to the tourism industry.\n(3) The Chief Executive shall be an ex-officio member of the Board."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Board of Directors established under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Botswana Tourism",
+      "definition": "the Botswana Tourism Organisation established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Executive",
+      "definition": "the Chief Executive officer of Botswana Tourism Organisation appointed as such under section 18",
+      "source_provision": "s2"
+    },
+    {
+      "term": "grade",
+      "definition": "to assign a symbol in accordance with the criteria prescribed for the grading and classification of tourist enterprises, and \"re-grade\" shall have a corresponding meaning",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board appointed under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "senior staff",
+      "definition": "any employee of Botswana Tourism Organisation who holds a position which is designated as such by the Board",
+      "source_provision": "s2"
+    }
+  ]
+}

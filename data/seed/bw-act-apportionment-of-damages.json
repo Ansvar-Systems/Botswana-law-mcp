@@ -1,0 +1,28 @@
+{
+  "id": "bw-act-apportionment-of-damages",
+  "type": "statute",
+  "title": "Apportionment of Damages",
+  "title_en": "Apportionment of Damages",
+  "short_name": "Apportionment of Damages",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/apportionment-of-damages",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Contributory Negligence",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Apportionment of Damages Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Contributory Negligence",
+      "section": "2",
+      "title": "Apportionment of liability in case of contributory negligence",
+      "content": "2. Apportionment of liability in case of contributory negligence\n(1) Where any person suffers damage which is caused partly by his own fault and partly by the fault of any other person, a claim in respect of that damage (being a claim arising out of the fault of such other person) shall not be defeated by reason of the fault of the claimant but the damages recoverable in respect thereof shall be reduced by the court to such extent as the court may deem just and equitable having regard to the degree to which the claimant was at fault in relation to the damage.\n(2) Damage shall for the purposes of subsection (1) be regarded as having been caused by a person's fault notwithstanding the fact that another person had an opportunity of avoiding the consequences thereof and negligently failed to do so.\n(3) Where in any case to which the provisions of subsection (1) apply, one of the persons at fault avoids liability to any claimant by pleading and proving that the time within which proceedings should have been instituted or notice should have been given in connection with such proceedings in terms of any law, has been exceeded, such person shall not by virtue of the provisions of the said subsection, be entitled to recover damages from that claimant.\n(4) For the purposes of this section \"fault\" includes any act or omission which would, but for the provisions of this section, have given rise to the defence of contributory negligence but does not include intentional wrongdoing."
+    }
+  ],
+  "definitions": []
+}

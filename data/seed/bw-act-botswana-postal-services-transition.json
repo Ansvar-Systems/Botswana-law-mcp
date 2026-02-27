@@ -1,0 +1,39 @@
+{
+  "id": "bw-act-botswana-postal-services-transition",
+  "type": "statute",
+  "title": "Botswana Postal Services (transition)",
+  "title_en": "Botswana Postal Services (transition)",
+  "short_name": "Botswana Postal Services (t...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-postal-services-transition",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Postal Services (Transition) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Board\" means the Board of the Botswana Postal Services established under the Botswana Postal Services Act (Cap. 72:01);\n\"Botswana Privatisation Asset Holding Proprietary (Limited)\" means a company wholly owned by the Government of Botswana and established under the Companies Act (Cap. 42:01) whose objectives include to collect, receive and hold the portion of assets from privatised entities that are reserved for purposes of economic empowerment of the citizens of Botswana;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Board of the Botswana Postal Services established under the Botswana Postal Services Act (Cap. 72:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Botswana Privatisation Asset Holding Proprietary (Limited)",
+      "definition": "a company wholly owned by the Government of Botswana and established under the Companies Act (Cap. 42:01) whose objectives include to collect, receive and hold the portion of assets from privatised entities that are reserved for purposes of economic empowerment of the citizens of Botswana",
+      "source_provision": "s2"
+    }
+  ]
+}

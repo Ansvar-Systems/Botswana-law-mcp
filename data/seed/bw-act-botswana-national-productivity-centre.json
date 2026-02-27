@@ -1,0 +1,73 @@
+{
+  "id": "bw-act-botswana-national-productivity-centre",
+  "type": "statute",
+  "title": "Botswana National Productivity Centre",
+  "title_en": "Botswana National Productivity Centre",
+  "short_name": "Botswana National Productiv...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-national-productivity-centre",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana National Productivity Centre Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Board\" means the Botswana National Productivity Centre Board established and appointed under section 4;\n\"Centre\" means the Botswana National Productivity Centre established under section 3;\n\"Chairman\" means the Chairman of the Board appointed by the Minister under section 4(2);\n\"Director\" means the executive Director of the Centre appointed under section 9;\n\"financial year\" means the calendar year ending on 31st March in each year;\n\"Vice-Chairman\" means the Vice-Chairman of the Board elected by the members of the Board under section 4(3)."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment, Constitution and Membership of the Centre",
+      "section": "3",
+      "title": "Establishment of Centre",
+      "content": "3. Establishment of Centre\n(1) There is hereby established the Botswana National Productivity Centre.\n(2) The Centre shall be a body corporate with perpetual succession and a common seal, with power, subject to the provisions of this Act, to acquire and dispose of property, both movable and immovable, to sue and be sued in the name of the Centre and of performing all such acts as bodies corporate may by law perform, and as may be necessary for or conducive to the proper carrying out of its objects and the performance of its functions under this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment, Constitution and Membership of the Centre",
+      "section": "4",
+      "title": "Establishment of Board",
+      "content": "4. Establishment of Board\n(1) There shall be a Board to be known as the Botswana National Productivity Centre Board, which Board shall be responsible for the operations of the Centre and the implementation of its functions and responsibilities under the provisions of this Act.\n(2) The Minister shall appoint a suitably qualified person to be the Chairman of the Board.\n(3) The Board shall elect from among its members a Vice-Chairman, who shall act as Chairman of any meeting of the Board when the Chairman is for any reason absent.\n(4) The Board shall be comprised of the Chairman, the Director and not less than 10 or more than 13 other members appointed by the Minister by notice in the Gazette , taking into consideration the interests and the objectives of the Centre:\nProvided that in making the appointments the Minister shall ensure that at least one member is appointed to represent the interests of each of the following—\n( a ) the Government;\n( b ) commerce and industry in Botswana;\n( c ) trade unions in Botswana.\n(5) A person shall not be competent to be appointed to be or to act as the Chairman or a member of the Board if—\n( a ) he is a Member of the National Assembly;\n( b ) he has been declared insolvent or bankrupt under any law in any country and has not been discharged, or has made a composition with his creditors and has not paid his debts in full; or\n( c ) he has been convicted of any offence involving dishonesty or fraud.\n(6) In making appointments to the Board, the Minister may appoint appropriately qualified persons as alternate members to substantive members of the Board, and any such alternate member may attend any meeting of the Board which the member to whom he is alternate is unable to attend, and when so attending shall be deemed for all purposes to be a member of the Board:\nProvided that an alternate member shall not be deemed, by virtue of his alternate membership, to be the Chairman or Vice-Chairman of the Board.\n(7) Any member of the Board, other than the Director, may resign from the Board by notice in writing addressed to the Minister.\n(8) The Chairman or a member of the Board may be removed from office by the Minister if he—\n( a ) becomes of unsound mind;\n( b ) is declared insolvent or bankrupt under any law in force in any country;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Botswana National Productivity Centre Board established and appointed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Centre",
+      "definition": "the Botswana National Productivity Centre established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairman",
+      "definition": "the Chairman of the Board appointed by the Minister under section 4(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the executive Director of the Centre appointed under section 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial year",
+      "definition": "the calendar year ending on 31st March in each year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Vice-Chairman",
+      "definition": "the Vice-Chairman of the Board elected by the members of the Board under section 4(3).",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "bw-act-waterworks",
+  "type": "statute",
+  "title": "Waterworks",
+  "title_en": "Waterworks",
+  "short_name": "Waterworks",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/waterworks",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Waterworks Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"date of acquisition\" means the appointed date for the acquisition of an undertaking in terms of section 7(1);\n\"land\" does not include buildings or land underneath buildings;\n\"meter\" means an apparatus for measuring water and any meter box, meter box cover and indicator marking the position and size of such meter;\n\"occupier\" means any person in occupation of the premises or any part of the premises in connection with which the word is used;\n\"owner\" means the person for the time being receiving the rent of the premises in connection with which the word is used whether on his own account or as agent or trustee for any other person or the person who would receive the rent if the premises were let to a tenant;\n\"premises\" includes land, buildings and structures;\n\"service\" means all pipes, cisterns, cocks, fittings and other appliances (excepting any meter as herein defined) through which water flows or is intended to flow from the waterworks or which are or may be used for the purpose of supplying any premises from the waterworks;\n\"undertaking\" means any business for the supply of water to the public;\n\"Water Authority\" means, in relation to any waterworks area, the authority appointed under section 5 in respect of that waterworks area;\n\"waterworks\" means reservoirs, dams, weirs, tanks, cisterns, tunnels, adits, wells, boreholes, filters, settling tanks, purifying plants, conduits, aqueducts, mains, pipes, foundations, stand-pipes, hydrants, taps, pumps, engines and all other structures and appliances for obtaining, storing, purifying, conveying, distributing, measuring or regulating water;\n\"waterworks area\" means an area declared as a waterworks area and defined under section 4."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Delegation of powers",
+      "content": "3. Delegation of powers\nAll or any of the powers and duties conferred or imposed on a Water Authority under this Act may, subject to the Water Authority's control, be exercised and performed by the officers, servants and agents thereof, and all references in this Act to a Water Authority shall be construed accordingly."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary",
+      "section": "4",
+      "title": "Waterworks area",
+      "content": "4. Waterworks area\nThe Minister may, by statutory instrument, declare any area in which an undertaking exists or in which he considers that a public water supply should be established to be a waterworks area for the purposes of this Act and shall define the boundaries of such area."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART I Preliminary",
+      "section": "5",
+      "title": "Appointment of Water Authority",
+      "content": "5. Appointment of Water Authority\nThe Minister shall by notice published in the Gazette appoint a Water Authority for every waterworks area."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Duties and Powers of Water Authority",
+      "section": "6",
+      "title": "Water Authority to acquire rights to water and to construct and manage works for supplying water",
+      "content": "6. Water Authority to acquire rights to water and to construct and manage works for supplying water\n(1) Subject to the provisions of this section, a Water Authority shall for the purpose of securing an adequate supply of water to the inhabitants of the waterworks area acquire rights to take water, and construct, make, purchase, expropriate or take over, and manage, beyond as well as within the limits of the waterworks area, all such waterworks as may in the opinion of the Water Authority be necessary and expedient for the purpose of taking, impounding, appropriating, storing, conveying or supplying such water, and shall construct, make, purchase, expropriate or take over, and manage, such premises and servitudes as it may deem requisite for the purpose of such waterworks.\n(2) No property of any description, or interest therein or right thereover, shall be expropriated or taken over in terms of this section by a Water Authority without the agreement of every person entitled to such property, interest or right unless it is expropriated or taken over in the interests of public health or in order to secure the development or utilisation of any property for the purpose mentioned in subsection (1).\n(3) Where any property is expropriated or taken over without such agreement adequate compensation shall be promptly payable by the Water Authority and any dispute as to the interest or right of any person in or over the said property, the legality of the expropriation or taking over, or the amount of any compensation to which any person may be entitled by reason thereof shall be determined in accordance, mutatis mutandis , with the provisions of the Acquisition of Property Act (Cap. 32:10), and for the purpose of such determination and for the purpose of obtaining prompt payment of compensation any person having an interest in or right over the property shall have all the rights of access to the High Court provided in the said Act."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Duties and Powers of Water Authority",
+      "section": "7",
+      "title": "Acquisition of existing waterworks",
+      "content": "7. Acquisition of existing waterworks\n(1) If on the declaration of a waterworks area an undertaking already exists in such area, the Water Authority shall have the right, in the interests of public health, town and country planning or land settlement or in order to secure the development or utilisation of any property for the better supply of water to the community, of acquiring the undertaking by serving personally or by registered post on the owner of the undertaking, within six weeks of such declaration a notice setting out the appointed date for the acquisition of the undertaking.\n(2) The Minister shall, before the date of acquisition, make a vesting order having as from the date of acquisition such operation as is provided in subsection (3)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "date of acquisition",
+      "definition": "the appointed date for the acquisition of an undertaking in terms of section 7(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "meter",
+      "definition": "an apparatus for measuring water and any meter box, meter box cover and indicator marking the position and size of such meter",
+      "source_provision": "s2"
+    },
+    {
+      "term": "occupier",
+      "definition": "any person in occupation of the premises or any part of the premises in connection with which the word is used",
+      "source_provision": "s2"
+    },
+    {
+      "term": "owner",
+      "definition": "the person for the time being receiving the rent of the premises in connection with which the word is used whether on his own account or as agent or trustee for any other person or the person who would receive the rent if the premises were let to a tenant",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "land, buildings and structures",
+      "source_provision": "s2"
+    },
+    {
+      "term": "service",
+      "definition": "all pipes, cisterns, cocks, fittings and other appliances (excepting any meter as herein defined) through which water flows or is intended to flow from the waterworks or which are or may be used for the purpose of supplying any premises from the waterworks",
+      "source_provision": "s2"
+    },
+    {
+      "term": "undertaking",
+      "definition": "any business for the supply of water to the public",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waterworks",
+      "definition": "reservoirs, dams, weirs, tanks, cisterns, tunnels, adits, wells, boreholes, filters, settling tanks, purifying plants, conduits, aqueducts, mains, pipes, foundations, stand-pipes, hydrants, taps, pumps, engines and all other structures and appliances for obtaining, storing, purifying, conveying, distributing, measuring or regulating water",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waterworks area",
+      "definition": "an area declared as a waterworks area and defined under section 4.",
+      "source_provision": "s2"
+    }
+  ]
+}

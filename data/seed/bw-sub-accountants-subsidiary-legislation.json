@@ -1,0 +1,75 @@
+{
+  "id": "bw-sub-accountants-subsidiary-legislation",
+  "type": "statute",
+  "title": "Accountants: Subsidiary Legislation",
+  "title_en": "Accountants: Subsidiary Legislation",
+  "short_name": "Accountants: Subsidiary Leg...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/accountants-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Accountants Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"approved training\" means practical training and experience approved by the Council and obtained from an authorised training employer;\n\"authorised training employer\" means a firm or undertaking authorised by the Council to provide approved training;\n...;\n\"independent student\" means a person who is registered as an independent student under regulation 23;\n\"student\" means a person who is registered as a student for the Botswana Chartered Accountancy Qualification under regulation 18; and\n\"Training Agreement\" means an agreement of approved training registered with the Institute, and made between the student and the authorised training employer."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Membership of Institute (regs 3-8)",
+      "section": "3",
+      "title": "Application for registration as member of Institute",
+      "content": "3. Application for registration as member of Institute\nA person who wishes to be registered as a member of the Institute under section 28 of the Act, shall make an application in Form 1 set out in Schedule 1."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Membership of Institute (regs 3-8)",
+      "section": "4",
+      "title": "Classes of membership",
+      "content": "4. Classes of membership\n(1) The rules of the Institute have set out the following classes of membership—\n( a ) Accounting Technician;\n( b ) Associate Chartered Accountant;\n( c ) Associate Certified Professional Accountant or Chartered Accountant;\n( d ) Fellow Chartered Accountant;\n( e ) Fellow Certified Professional Accountant or Chartered Accountant;\n( f ) ...\n( g ) Member Firm.\n(2) The manner and form of application to the different classes of membership referred to under subregulation (1) shall be in Form 1 set out in Schedule 1 and accompanied by such fees as specified in Schedule 4."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Membership of Institute (regs 3-8)",
+      "section": "5",
+      "title": "Qualification for registration as member",
+      "content": "5. Qualification for registration as member\n(1) A person shall be qualified to be registered as a member of the Institute, where the person intends to register as an—\n( a ) Accounting Technician, that person—\n(i) has passed an examination of a qualification as determined by the Institute,\n(ii) has obtained relevant practical experience of at least two years, and\n(iii) is fit to be admitted as a member;\n( b ) Associate Chartered Accountant, that person—\n(i) has passed the Botswana Chartered Accountancy Qualification examinations,\n(ii) has obtained the necessary technical experience as per the training requirements of the Institute, and\n(iii) is fit to be admitted as a member;\n( c ) Associate Certified Professional Accountant or Chartered Accountant, that person—\n(i) is a member in good standing of another approved professional accountancy body recognised by the International Federation of Accountants, and\n(ii) is fit to be admitted as a member;\n( d ) Fellow Chartered Accountant, that person—\n(i) has been a member as an Associate Chartered Accountant for a continuous period of five years, and\n(ii) in the opinion of the Council, meets the Continuing Professional Development requirements; or"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "approved training",
+      "definition": "practical training and experience approved by the Council and obtained from an authorised training employer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised training employer",
+      "definition": "a firm or undertaking authorised by the Council to provide approved training",
+      "source_provision": "s2"
+    },
+    {
+      "term": "independent student",
+      "definition": "a person who is registered as an independent student under regulation 23",
+      "source_provision": "s2"
+    },
+    {
+      "term": "student",
+      "definition": "a person who is registered as a student for the Botswana Chartered Accountancy Qualification under regulation 18",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Training Agreement",
+      "definition": "an agreement of approved training registered with the Institute, and made between the student and the authorised training employer.",
+      "source_provision": "s2"
+    }
+  ]
+}

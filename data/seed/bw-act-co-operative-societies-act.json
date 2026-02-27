@@ -1,0 +1,117 @@
+{
+  "id": "bw-act-co-operative-societies-act",
+  "type": "statute",
+  "title": "Co-operative Societies Act",
+  "title_en": "Co-operative Societies Act",
+  "short_name": "Co-operative Societies Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/co-operative-societies-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "CHAPTER 18:01\"/> SOCIETIES",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Societies Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "CHAPTER 18:01\"/> SOCIETIES",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"authorised officer\" means an officer of the Registrar authorised by the Registrar to perform duties under this Act;\n\"ammunition\" has the same meaning assigned to it under the Arms and Ammunition Act (Cap. 24:01);\n\"arms\" has the same meaning assigned to it under the Arms and Ammunition Act;\n\"Council\" means the Advisory and Arbitration Council established under section 21;\n\"financial offence\" has the same meaning assigned to it under the Financial Intelligence Act (Cap. 08:07);\n\"illegal society\" means a society in terms of section 5(7) that operates without a certificate of registration of approval issued by the Registrar of societies;\n\"illicit dealing in arms or ammunition\" means a contravention of any of the provisions of Parts IV to VI of the Arms and Ammunition Act;\n\"money laundering\" has the same meaning assigned to it under the Proceeds and Instruments of Crime Act (Cap. 08:03);\n\"office-bearer\" of a society means any elected, appointed or co-opted person who is a member of the board, committee or governing body thereof;\n\"proliferation\" has the same meaning assigned to it under the Counter Terrorism Act (Cap. 08:08);\n\"register\" means a register of societies that is kept and maintained by the Registrar under section 8;\n\"Registrar\" means the Registrar of Societies appointed under section 3; and\n\"society\" means any association of 150 or more persons for a religious society and 20 or more persons for any other society, formed primarily for raising or disbursing funds for purposes such as charitable, religious, cultural, educational, social or fraternal purposes."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "CHAPTER 18:01\"/> SOCIETIES",
+      "section": "3",
+      "title": "Appointment of Registrar",
+      "content": "3. Appointment of Registrar\n(1) The Minister shall by Notice published in the Gazette appoint a public officer to be the Registrar.\n(2) The Registrar shall, subject to any directions given by the Minister, be charged with the general administration of this Act and shall not be liable to a suit or to prosecution in respect of anything done in good faith in execution of his or her duties."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "CHAPTER 18:01\"/> SOCIETIES",
+      "section": "4",
+      "title": "Establishment of society",
+      "content": "4. Establishment of society\n(1) A society shall be considered to be established in Botswana if—\n( a ) it has its headquarters or principal place of business in Botswana; and\n( b ) at least two-thirds of its office-bearers reside in Botswana.\n(2) When establishing a society, in accordance with the provisions of subsection (1), the Registrar shall verify the identity of a person who controls or directs the activities of the society including a senior office-bearer and board member."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "CHAPTER 18:01\"/> SOCIETIES",
+      "section": "5",
+      "title": "Application for registration",
+      "content": "5. Application for registration\n(1) A society shall within 28 days of formation, make an application in such form as may be prescribed to the Registrar for registration.\n(2) An application for registration of a society shall be accompanied by—\n( a ) such particulars as the Registrar may consider necessary;\n( b ) a prescribed application fee; and\n( c ) an inspection report on the premises of the society by an authorised officer.\n(3) The Registrar shall, upon receipt of an application for registration of a society approve and register a society.\n(4) The Registrar shall, after the registration of a society, issue a certificate of registration to a society in such form as may be prescribed, which certificate of registration shall be evidence of registration of the society.\n(5) A certificate of registration issued under subsection (4), shall be valid for a period stipulated on the certificate.\n(6) A society shall not operate, unless the society has been issued with a certificate of registration by the Registrar.\n(7) A society shall be considered an illegal society if it operates without a certificate of registration."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "CHAPTER 18:01\"/> SOCIETIES",
+      "section": "6",
+      "title": "Refusal of registration",
+      "content": "6. Refusal of registration\n(1) The Registrar may refuse to register a society where he or she is satisfied that—\n( a ) the objects of the society are unlawful and prejudicial to the peace, welfare or good order;\n( b ) the society, within 90 days immediately after being required under section 5(2) to provide information, fails to provide the information so required;\n( c ) the office-bearers of the society are unable to keep proper records of meetings of the society and of its members and the control and management of the financial affairs of the society and of its property, and to perform the duties imposed on them by this Act;\n( d ) the application of registration of a society does not comply with this Act;\n( e ) has not adopted its own constitution;\n( f ) the constitution of the society is repugnant to or inconsistent with any written law;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "an officer of the Registrar authorised by the Registrar to perform duties under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ammunition",
+      "definition": "assigned to it under the Arms and Ammunition Act (Cap. 24:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "arms",
+      "definition": "assigned to it under the Arms and Ammunition Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Advisory and Arbitration Council established under section 21",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial offence",
+      "definition": "assigned to it under the Financial Intelligence Act (Cap. 08:07)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "illegal society",
+      "definition": "a society in terms of section 5(7) that operates without a certificate of registration of approval issued by the Registrar of societies",
+      "source_provision": "s2"
+    },
+    {
+      "term": "illicit dealing in arms or ammunition",
+      "definition": "a contravention of any of the provisions of Parts IV to VI of the Arms and Ammunition Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "money laundering",
+      "definition": "assigned to it under the Proceeds and Instruments of Crime Act (Cap. 08:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "proliferation",
+      "definition": "assigned to it under the Counter Terrorism Act (Cap. 08:08)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "a register of societies that is kept and maintained by the Registrar under section 8",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of Societies appointed under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "society",
+      "definition": "any association of 150 or more persons for a religious society and 20 or more persons for any other society, formed primarily for raising or disbursing funds for purposes such as charitable, religious, cultural, educational, social or fraternal purposes.",
+      "source_provision": "s2"
+    }
+  ]
+}

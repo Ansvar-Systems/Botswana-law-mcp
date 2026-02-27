@@ -1,0 +1,80 @@
+{
+  "id": "bw-act-control-of-security-guard-services",
+  "type": "statute",
+  "title": "Control of Security Guard Services",
+  "title_en": "Control of Security Guard Services",
+  "short_name": "Control of Security Guard S...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/control-of-security-guard-services",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "CHAPTER 21:07 CONTROL OF SECURITY GUARD SERVICES",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Control of Security Guard Services Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "CHAPTER 21:07 CONTROL OF SECURITY GUARD SERVICES",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act-\n\"Commissioner of Police\" means the public officer for the time being holding, acting in or lawfully performing the functions of the public office of Commissioner of Police;\n\"Controller\" means the public officer for the time being designated in terms of section 3 as the Controller of Security Guard Services;\n\"licence\" means a security guard service licence issued in terms of this Act;\n\"prescribed\" means prescribed by regulations;\n\"regulations\" means regulations made by the Minister under section 20;\n\"security guard\" means a person who acts as a guard or watchman."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "CHAPTER 21:07 CONTROL OF SECURITY GUARD SERVICES",
+      "section": "3",
+      "title": "Appointment of Controller",
+      "content": "3. Appointment of Controller\nThe Minister shall designate a public officer as the Controller of Security Guard Services."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "CHAPTER 21:07 CONTROL OF SECURITY GUARD SERVICES",
+      "section": "4",
+      "title": "Licence to engage in security guard service",
+      "content": "4. Licence to engage in security guard service\n(1) No person shall, without holding a security guard service licence-\n( a ) engage in or carry on the business of providing security guards for any other person or persons; or\n( b ) advertise himself or hold himself out in any other manner whatsoever as a person engaged in or carrying on any such business.\n(2) Any person who contravenes this section shall be guilty of an offence and liable to a fine not exceeding P2000 or in default of payment to imprisonment for a term not exceeding one year and shall, in the case of a continuing offence, be liable to an additional fine not exceeding P500 for every day the offence continues after the first day."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "CHAPTER 21:07 CONTROL OF SECURITY GUARD SERVICES",
+      "section": "5",
+      "title": "Application for licence to be issued or renewed",
+      "content": "5. Application for licence to be issued or renewed\n(1) Every application for a licence to be issued or renewed shall be in writing, in such form as the Controller may from time to time require, and shall be lodged with the Controller together with-\n( a ) a statutory declaration made by the applicant or, where the applicant is a partnership or a company registered in accordance with the Companies Act (Cap. 42:01), by each partner or director thereof, as the case may be, disclosing whether he has or has not any convictions within or outside Botswana and whether criminal proceedings are or are not pending against him within or outside Botswana and, if he has such convictions or such proceedings are pending against him, the particulars thereof;\n( b ) any further written information required for the purposes of this subsection by regulations;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Commissioner of Police",
+      "definition": "the public officer for the time being holding, acting in or lawfully performing the functions of the public office of Commissioner of Police",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Controller",
+      "definition": "the public officer for the time being designated in terms of section 3 as the Controller of Security Guard Services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a security guard service licence issued in terms of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regulations",
+      "definition": "regulations made by the Minister under section 20",
+      "source_provision": "s2"
+    },
+    {
+      "term": "security guard",
+      "definition": "a person who acts as a guard or watchman.",
+      "source_provision": "s2"
+    }
+  ]
+}

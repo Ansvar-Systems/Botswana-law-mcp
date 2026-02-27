@@ -1,0 +1,56 @@
+{
+  "id": "bw-act-interpretation",
+  "type": "statute",
+  "title": "Interpretation",
+  "title_en": "Interpretation",
+  "short_name": "Interpretation",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/interpretation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Interpretation Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application",
+      "content": "2. Application\nEach provision of this Act applies to every enactment (whether enacted before, on or after the commencement of this Act) being—\n( a ) the Constitution;\n( b ) an Act (including this Act) of the Parliament of Botswana;\n( c ) an instrument made (directly or indirectly) under an enactment,\nexcept in so far as the contrary intention appears."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Proof of enactments",
+      "content": "3. Proof of enactments\n(1) Every Act is a public document and shall be judicially noticed.\n(2) Where the President assents to a Bill for an Act in accordance with the Constitution he shall sign four copies of the Bill and direct the Custodian of the Public Seal to affix the Public Seal to each of those copies.\n(3) Each of those copies shall be deemed to be an original copy of the Act and shall be conclusive evidence of the terms of the Act and of its number and the date of assent which shall be entered on the face of each copy.\n(4) One of the original copies of the Act shall be retained by the President, one shall be deposited with the Speaker of the National Assembly, one with the Chief Justice and one in the Government Archives.\n(5) A copy of the Gazette purporting to be printed by the Government Printer containing any enactment or any notice of any kind or a copy of any such enactment or notice purporting to be so printed or contained in any annual volume purporting to be so printed shall be accepted as evidence of the due making and terms of the enactment or notice and of the date of its commencement, if stated, without proof that any such copy was so printed, unless the contrary is proved."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Citation of enactments",
+      "content": "4. Citation of enactments\n(1) Every Act may be cited by its long title or short title or by the year in which it is enacted and its number among the Acts of that year or by the Chapter number given to it under the authority of an Act for the time being in force providing for the issue of a revised edition of the Laws of Botswana.\n(2) Every instrument made under an Act may be cited in such manner as the instrument provides or by the year in which it is made and the number assigned to it in the Statutory Instruments or Government Notices Series on its publication in the Gazette or, where the instrument is included in a revised edition of the Laws of Botswana referred to in subsection (1), by the Chapter number of the Act under which it was made and its first page number in that edition."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Commencement of enactments",
+      "content": "5. Commencement of enactments\n(1) A Bill shall become an Act on being assented to and signed by the President.\n(2) Subject to subsections (3) and (4) an Act shall come into operation at the beginning of the day on which it is published in the Gazette .\n(3) Where it is provided that an enactment or any provision thereof shall come or be deemed to have come into operation on some specified day (whether that day is named in the enactment or provision or is to be appointed in any particular manner) the enactment or provision shall come or be deemed to have come into operation at the beginning of that day.\n(4) Where it is enacted in an Act that the Act shall come into operation on such day as may be appointed, different dates may be appointed (by the same or different instruments) for different provisions of the Act and the Act or provisions shall come into operation at the beginning of the day appointed by instrument published in the Gazette .\n(5) The date appearing on the copy of an enactment printed by the Government Printer and purporting to be the date on which the enactment commenced or was deemed to have commenced shall be evidence that such date was the date of its commencement, unless the contrary is proved."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Construction of references to sections and other divisions",
+      "content": "6. Construction of references to sections and other divisions\n(1) A reference in an Act to a Part, section or Schedule is to the Part, section or Schedule of that Act, unless it is indicated that reference to some other Act is intended.\n(2) A reference in an Act to a subsection, paragraph, subparagraph or other subdivision is to the subdivision of the provision in which the reference occurs, unless it is indicated that reference to some other provisions is intended.\n(3) Subsections (1) and (2) shall apply with necessary modifications to instruments made under an Act.\n(4) A reference in an enactment to any other enactment includes a reference to any instrument made under that other enactment.\n(5) A reference in an instrument to an Act is to the Act under which the instrument was made, unless it is indicated that reference to some other Act is intended.\n(6) Subsection (5) shall apply with necessary modifications to instruments made under an enactment other than an Act."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Titles and preambles",
+      "content": "7. Titles and preambles\n(1) The long title and the preamble form part of an Act and are intended to assist in explaining the purport and object of the Act."
+    }
+  ],
+  "definitions": []
+}

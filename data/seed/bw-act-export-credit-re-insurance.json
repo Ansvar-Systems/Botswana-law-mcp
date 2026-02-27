@@ -1,0 +1,59 @@
+{
+  "id": "bw-act-export-credit-re-insurance",
+  "type": "statute",
+  "title": "Export Credit Re-insurance",
+  "title_en": "Export Credit Re-insurance",
+  "short_name": "Export Credit Re-insurance",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/export-credit-re-insurance",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "CHAPTER 42:06 EXPORT CREDIT RE-INSURANCE",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Export Credit Re-Insurance Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "CHAPTER 42:06 EXPORT CREDIT RE-INSURANCE",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires-\n\"contract of re-insurance\" means a contract of re-insurance entered into in terms of an agreement referred to in section 3;\n\"foreign country\" means any country, other than Botswana;\n\"Fund\" means the Export Credit Re-insurance Fund established under section 4;\n\"Minister\" means the Minister responsible for commerce and industry;\n\"person\" includes any Government agency or semi-Government agency;\n\"trade with foreign countries\" or \"trade with a foreign country\" includes any transaction (including a transaction for the rendering of a service) involving a consideration in money or money's worth accruing from a person in the course of carrying on business or other activities outside Botswana to a person carrying on business in Botswana and any consignment of goods to a person carrying on business or other activities outside Botswana with a view to such a transaction."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "contract of re-insurance",
+      "definition": "a contract of re-insurance entered into in terms of an agreement referred to in section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foreign country",
+      "definition": "any country, other than Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Fund",
+      "definition": "the Export Credit Re-insurance Fund established under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for commerce and industry",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person",
+      "definition": "any Government agency or semi-Government agency",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trade with a foreign country",
+      "definition": "any transaction (including a transaction for the rendering of a service) involving a consideration in money or money's worth accruing from a person in the course of carrying on business or other activities outside Botswana to a person carrying on business in Botswana and any consignment of goods to a person carrying on business or other activities outside Botswana with a view to such a transaction.",
+      "source_provision": "s2"
+    }
+  ]
+}

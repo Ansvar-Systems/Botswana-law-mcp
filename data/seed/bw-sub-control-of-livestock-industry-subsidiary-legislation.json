@@ -1,0 +1,61 @@
+{
+  "id": "bw-sub-control-of-livestock-industry-subsidiary-legislation",
+  "type": "statute",
+  "title": "Control of Livestock Industry: Subsidiary Legislation",
+  "title_en": "Control of Livestock Industry: Subsidiary Legislation",
+  "short_name": "Control of Livestock Indust...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/control-of-livestock-industry-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThe Order may be cited as the Cattle Export Levy (Designation of Market) Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Designation of market",
+      "content": "2. Designation of market\nThe Pretoria abattoirs shall be a market for the purposes of section 23 of the Act."
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Control of Livestock Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations—\n\"district\" means an administrative district prescribed under section 2 of the Administrative Districts Act (Cap. 03:02);\n\"licence\" means a licence under Part II of the Act."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Permits restricted to area of issue",
+      "content": "3. Permits restricted to area of issue\nEvery licence shall be issued subject to the condition that the licence shall be valid within the district in which it is issued only unless the officer authorised to issue licences in some other district endorses the licence for use in such other district."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "No person to have more than one licence",
+      "content": "4. No person to have more than one licence\nNot more than one licence shall be issued to any person in respect of any district and no person shall acquire more than one licence authorising the buying of livestock within any district."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "district",
+      "definition": "an administrative district prescribed under section 2 of the Administrative Districts Act (Cap. 03:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence under Part II of the Act.",
+      "source_provision": "s2"
+    }
+  ]
+}

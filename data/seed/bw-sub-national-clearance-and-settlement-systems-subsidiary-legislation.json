@@ -1,0 +1,106 @@
+{
+  "id": "bw-sub-national-clearance-and-settlement-systems-subsidiary-legislation",
+  "type": "statute",
+  "title": "National Clearance and Settlement Systems: Subsidiary Legislation",
+  "title_en": "National Clearance and Settlement Systems: Subsidiary Legislation",
+  "short_name": "National Clearance and Sett...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/national-clearance-and-settlement-systems-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the National Clearance and Settlement Systems Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"acceptable collateral\" means unencumbered assets including Bank of Botswana Certificates, Government bonds, treasury bills and such other liquid instruments as may be approved by the Central Bank, pledged by a clearing bank as collateral for advances made by the Central Bank;\n\"banking business\" has the meaning assigned to it in the Banking Act (Cap. 46:04);\n\"certificate\" means a certificate of recognition of a clearance and settlement;\n\"clearing bank\" means a licensed financial institution which participates in a clearing and settlement system; and\n\"clearance and settlement system operator\" means a person contracted to provide specialised services to a clearance and settlement system."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application for a certificate of recognition",
+      "content": "3. Application for a certificate of recognition\n(1) A person who makes an application for a certificate of recognition of a clearance and settlement system to the Central Bank shall do so in Form 1 set out in the Schedule.\n(2) An application under subregulation (1) shall be accompanied by an application fee of P10,000.\n(3) Companies that were providing payment intermediation services prior to the commencement of the Act may make an application under this regulation within three months of the date of commencement of the Act.\n(4) An application under subregulation (3) shall be accompanied by confirmation of membership by a minimum of three financial institutions registered under the Banking Act (Cap. 46:04) and conducting banking business."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Conditions of recognition",
+      "content": "4. Conditions of recognition\nNotwithstanding the provisions of section 3 of the Act, the Central Bank shall not issue a certificate unless it is satisfied that—\n( a ) the proposed clearance and settlement system concerns the processing of transfer instructions;\n( b ) the participants of the proposed clearing and settlement system are entitled to conduct the business of payment intermediation;\n( c ) the business plan proposed in the clearance and settlement system is adequate in terms of volume and values of expected market share; and\n( d ) adequate risk management safeguards have been put in place to prevent unsecured exposures amongst participants."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Applicant to be incorporated in Botswana",
+      "content": "5. Applicant to be incorporated in Botswana\nThe Central Bank shall issue a certificate of recognition under regulation 6 only to companies incorporated in Botswana."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Certificate of recognition",
+      "content": "6. Certificate of recognition\n(1) The Central Bank shall, where it is satisfied that an application meets the requirements of section 3(1) and (3) of the Act and regulations 3, 4 and 5 hereof, issue, to the applicant, a certificate of recognition of a clearance and settlement system in Form 2 set out in the Schedule.\n(2) A certificate issued under subregulation (1) shall, unless previously renewed or revoked, expire at the end of a period of 12 months from the date of issue.\n(3) Where the Central Bank is not satisfied that the applicant meets the requirements of section 3(1) and (3) of the Act and regulations 3, 4 and 5 hereof, it shall reject the application and notify the applicant, in writing, stating the reasons for the rejection."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Investigation of unrecognised system, etc.",
+      "content": "7. Investigation of unrecognised system, etc.\nThe Central Bank may investigate allegations of—\n( a ) operating or participating in an unrecognised clearance and settlement system; and\n( b ) any settlement intermediation in contravention of section 17 of the Act."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Renewal of certificate",
+      "content": "8. Renewal of certificate\n(1) A management body may make an application to the Central Bank for the renewal of a certificate that has not been revoked.\n(2) An application under subregulation (1) shall be made in Form 3 set out in the Schedule and shall be accompanied by a renewal fee of P10,000.\n(3) Where an application for renewal is made after a period not exceeding 12 months after the expiry of a certificate, the Central Bank may renew the certificate subject to the payment of a penalty by the management body.\n(4) The penalty payable in accordance with subregulation (3) shall be a sum equal to one quarter of the renewal fee multiplied by the number of periods of three months or less which has elapsed since the date on which the validity of the certificate expired, calculated to the nearest pula.\n(5) An application for the renewal of a certificate that expired 12 months or more prior to the application for renewal shall be treated as an application for a new certificate and the provisions of regulations 3, 4 and 5 shall apply."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Transfer of certificate",
+      "content": "9. Transfer of certificate\nA management body shall neither transfer nor cede a certificate without the prior written approval of the Central Bank."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Surrender of certificate",
+      "content": "10. Surrender of certificate\nA management body may surrender its certificate to the Central Bank by giving the Central Bank 90 days notice, in writing, of its intention to voluntarily cease operating a clearance and settlement system."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Display of certificate",
+      "content": "11. Display of certificate"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "acceptable collateral",
+      "definition": "unencumbered assets including Bank of Botswana Certificates, Government bonds, treasury bills and such other liquid instruments as may be approved by the Central Bank, pledged by a clearing bank as collateral for advances made by the Central Bank",
+      "source_provision": "s2"
+    },
+    {
+      "term": "banking business",
+      "definition": "assigned to it in the Banking Act (Cap. 46:04)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate",
+      "definition": "a certificate of recognition of a clearance and settlement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clearing bank",
+      "definition": "a licensed financial institution which participates in a clearing and settlement system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clearance and settlement system operator",
+      "definition": "a person contracted to provide specialised services to a clearance and settlement system.",
+      "source_provision": "s2"
+    }
+  ]
+}

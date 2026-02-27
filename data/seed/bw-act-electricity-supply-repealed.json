@@ -1,0 +1,128 @@
+{
+  "id": "bw-act-electricity-supply-repealed",
+  "type": "statute",
+  "title": "Electricity Supply",
+  "title_en": "Electricity Supply",
+  "short_name": "Electricity Supply",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/electricity-supply-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "CHAPTER 73:01 ELECTRICITY SUPPLY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Electricity Supply Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "CHAPTER 73:01 ELECTRICITY SUPPLY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"bulk supply\" means the wholesale supply of electricity to any one or more customers or consumers in or outside Botswana as provided in terms of a supply licence;\n[20 of 2007, s. 2(a).]\n\"consumer\" means the end-user of electricity;\n[20 of 2007, s. 2(a).]\n\"Corporation\" means the Botswana Power Corporation established under the Botswana Power Corporation Act (Cap. 74:01);\n\"customer\" means a person that buys and sells electricity for the purpose of resale;\n[20 of 2007, s. 2(a).]\n\"distribution\" means the conveyance and delivery of electricity through or over a distribution power system;\n[20 of 2007, s. 2(a).]\n\"distribution power system\" means the facilities, consisting wholly or mainly of electric lines used for the distribution of electricity from the grid supply points to the point of delivery to the final user, and includes any electrical plant and meters operated in connection with the distribution of electricity, but does not include any part of a transmission system and shall, without limiting the generality of the foregoing, include a power system operating below 66 kV;\n[20 of 2007, s. 2(a).]\n\"electricity undertaking\" means any undertaking which engages in the business of generation, transmission, distribution or supply of electricity;\n[20 of 2007, s. 2(a).]\n\"export\" means the sale of electricity to any one or more persons outside Botswana;\n[20 of 2007, s. 2(a).]\n\"generation\" means the production ofelectricity by any means;\n[20 of 2007, s. 2(a).]\n\"generating station\" means a station for generating electricity, including buildings, plant and machinery and all accessories used for that purpose and the site used for the station or any such building, plant, machinery or accessories;\n[20 of 2007, s. 2(a).]\n\"import\" means the purchase ofelectricity from outside of Botswana to any one or more persons inside Botswana;\n[20 of 2007, s. 2(a).]\n\"licence\" means a licence issued under section 4 of this Act;\n[20 of 2007, s. 2(a).]\n\"licensee\" means any person who holds a licence under this Act;\n[20 of 2007, s. 2(a).]\n\"retail supply\" means the retail supply of electricity to any one or more consumers as provided in terms of a supply licence;\n[20 of 2007, s. 2(a).]\n\"supply\" means the bulk or retail supply of electricity;\n[20 of 2007, s. 2(a).]\n\"transmission\" means the conveyance of electricity through or over a transmission power system;\n[20 of 2007, s. 2(a).]\n\"transmission line\" means any cable or overhead line for the transmission and reticulation of electricity from one undertaking to another or from an undertaking to a consumer, together with any transformers, switchgear and other works necessary to and used in connection with such cable or overhead line, and the buildings and such part thereof as may be required to accommodate such transformers, switchgear and other works.\n\"transmission power system\" means a system consisting wholly or mainly of high voltage electric lines for the conveyance of electricity within an electricity undertaking or from one electricity undertaking to another, including any transmission lines, transformers, switchgear and other works necessary for and used in connection with such electrical equipment, and such buildings as may accommodate the transformers, switchgear and other works and shall without limiting the generality ofthe foregoing include a power system operating at or above 132 kV.\n[20 of 2007, s. 2(a).]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "CHAPTER 73:01 ELECTRICITY SUPPLY",
+      "section": "3",
+      "title": "Licence required",
+      "content": "3. Licence required\n(1) Subject to subsection (2) no person shall—\n( a ) generate, supply, transmit, distribute, export, or import electricity;\n( b ) use, work or operate or permit to be used, worked or operated any plant, apparatus or works designed for the supply or use of electricity; or\n( c ) supply to or for the use of any other person electricity from any plant, apparatus or works designed for the supply or use of electricity,\nexcept in terms of a licence issued by the Minister under this Act and expressly authorising such generation, supply, transmission, distribution, export, import, use, work or operation, as the case may be.\n[20 of 2007, s. 3.]\n(2) No licence shall be required in respect of—\n( a ) any generation, supply, transmission or distribution of electrical energy provided by any plant, apparatus or works operated by a department of the Government; or\n( b ) any installation not exceeding 25 kilowatt capacity which is situated entirely on the owner's own property or property occupied by him and is used by the owner to operate plant used solely by him, and for lighting any house, office or other building, and where no public supply of electricity is available.\n[20 of 2007, s. 3.]\n(3) Notwithstanding subsection (2) all generators, suppliers, transmitters, distributors of electricity shall be subject to any regulations made by the Minister under section 15 relating to safety.\n[20 of 2007, s. 3.]"
+    },
+    {
+      "provision_ref": "s3A",
+      "chapter": "CHAPTER 73:01 ELECTRICITY SUPPLY",
+      "section": "3A",
+      "title": "Application for a licence",
+      "content": "3A. Application for a licence\nAn application for a licence to generate, supply, transmit, distribute, export or import electricity, shall be made to the Minister—\n( a ) accompanied by such fee as may be prescribed; and"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "bulk supply",
+      "definition": "the wholesale supply of electricity to any one or more customers or consumers in or outside Botswana as provided in terms of a supply licence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consumer",
+      "definition": "the end-user of electricity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Corporation",
+      "definition": "the Botswana Power Corporation established under the Botswana Power Corporation Act (Cap. 74:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "customer",
+      "definition": "a person that buys and sells electricity for the purpose of resale",
+      "source_provision": "s2"
+    },
+    {
+      "term": "distribution",
+      "definition": "the conveyance and delivery of electricity through or over a distribution power system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "distribution power system",
+      "definition": "the facilities, consisting wholly or mainly of electric lines used for the distribution of electricity from the grid supply points to the point of delivery to the final user, and includes any electrical plant and meters operated in connection with the distribution of electricity, but does not include any part of a transmission system and shall, without limiting the generality of the foregoing, include a power system operating below 66 kV",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electricity undertaking",
+      "definition": "any undertaking which engages in the business of generation, transmission, distribution or supply of electricity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "export",
+      "definition": "the sale of electricity to any one or more persons outside Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "generation",
+      "definition": "the production ofelectricity by any means",
+      "source_provision": "s2"
+    },
+    {
+      "term": "generating station",
+      "definition": "a station for generating electricity, including buildings, plant and machinery and all accessories used for that purpose and the site used for the station or any such building, plant, machinery or accessories",
+      "source_provision": "s2"
+    },
+    {
+      "term": "import",
+      "definition": "the purchase ofelectricity from outside of Botswana to any one or more persons inside Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued under section 4 of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "any person who holds a licence under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "retail supply",
+      "definition": "the retail supply of electricity to any one or more consumers as provided in terms of a supply licence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "supply",
+      "definition": "the bulk or retail supply of electricity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transmission",
+      "definition": "the conveyance of electricity through or over a transmission power system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transmission line",
+      "definition": "any cable or overhead line for the transmission and reticulation of electricity from one undertaking to another or from an undertaking to a consumer, together with any transformers, switchgear and other works necessary to and used in connection with such cable or overhead line, and the buildings and such part thereof as may be required to accommodate such transformers, switchgear and other works.\n\"transmission power system\" means a system consisting wholly or mainly of high voltage electric lines for the conveyance of electricity within an electricity undertaking or from one electricity undertaking to another, including any transmission lines, transformers, switchgear and other works necessary for and used in connection with such electrical equipment, and such buildings as may accommodate the transformers, switchgear and other works and shall without limiting the generality ofthe foregoing include a power system operating at or above 132 kV.\n[20 of 2007, s. 2(a).]",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "bw-act-stock-theft",
+  "type": "statute",
+  "title": "Stock Theft",
+  "title_en": "Stock Theft",
+  "short_name": "Stock Theft",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/stock-theft",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Stock Theft Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"offensive weapon\" means any article made or adapted for use for causing injury to the person, or intended by any person having it with him for such use by him, and includes, but is not limited to, a firearm, a spear, an axe, a hatchet, a club and a knife;\n\"police officer\" has the meaning assigned to it under the Police Act (Cap. 21:01);\n[ Act 7 of 2019, s. 2. ]\n\"produce\" means the whole or any part of any skins, hides, horns or carcass of stock, any wool, mohair, ostrich egg or ostrich feathers;\n\"public sale\" means a sale effected—\n( a ) in any public market;\n( b ) by any shopkeeper during the hours when his shop may by any law remain open for the transaction of business;\n( c ) by a duly licensed auctioneer at a public auction; or\n( d ) in pursuance of an order of a competent court;\n\"receive\" has the meaning assigned to it in section 317 of the Penal Code (Cap. 08:01);\n\"steal\" has the meaning assigned to it in section 264 of the Penal Code;\n\"stock\" means any horse, mare, gelding, ass, mule, bull, cow, ox, ram, ewe, wether, goat, pig or ostrich, or the young thereof;\n\"sufficient fence\" means any wire fence or any other fence, wall or hedge through which no stock could pass without breaking it, or any natural boundary through or across which no sheep would ordinarily pass."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Stealing of stock or produce",
+      "content": "3. Stealing of stock or produce\n(1) Any person who steals any stock or produce, shall be guilty of an offence and, notwithstanding the provisions of any other written law, shall be sentenced for a first offence to a term of imprisonment for not less than five years or more than 12 years without the option of a fine, and for a second or subsequent offence to a term of imprisonment for not less than seven years or more than 15 years without the option of a fine.\n[ Act 7 of 2019, s. 3. ]\n(2) Where, for the purpose of stealing any stock or produce, or in the course of stealing any stock or produce, violence or the threat of violence is used, the penalty shall be a term of imprisonment for not less than 10 years or more than 20 years without the option of a fine, and if the violence used or threatened involves the use of a firearm or other offensive weapon the penalty shall be a term of imprisonment for not less than 12 years or more than 25 years without the option of a fine.\n[ Act 7 of 2019, s. 3. ]\n(3) A person charged under subsection (1) may be convicted of the offence of stealing any stock or produce or of receiving any stock or produce notwithstanding that the person stated in the charge to be the owner of the stock or produce is wrongly named as the owner of the stock or produce.\n[ Act 7 of 2019, s. 3. ]\n(4) Any person who procures, incites, hires, directs, instigates, or colludes with, another person to contravene the provisions of subsection (1) shall be guilty of an offence and shall suffer the same penalties as the person who contravenes those provisions.\n[ Act 7 of 2019, s. 3. ]\n(5) Where a person convicted of an offence under this section is a holder of a fresh produce licence under the Trade Act (Cap. 43:02), the court convicting the person may order the cancellation of the licence, and accordingly the provisions of section 20 of the Trade Act (Cap. 43:02) shall have effect.\n[ Act 7 of 2019, s. 3. ]"
+    },
+    {
+      "provision_ref": "s3A",
+      "section": "3A",
+      "title": "Possession of stolen stock or produce",
+      "content": "3A. Possession of stolen stock or produce\n(1) Any person in possession of stock or produce knowing or having reason to believe to be stolen stock or produce, shall be guilty of an offence and notwithstanding the provisions of any other written law, shall be sentenced for a first offence to a term of imprisonment for not less than five years or more than 12 years without the option of a fine, and for a second or subsequent offence to a term of imprisonment for not less than seven years or more than 15 years without the option of a fine."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "offensive weapon",
+      "definition": "any article made or adapted for use for causing injury to the person, or intended by any person having it with him for such use by him, and includes, but is not limited to, a firearm, a spear, an axe, a hatchet, a club and a knife",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police officer",
+      "definition": "assigned to it under the Police Act (Cap. 21:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "produce",
+      "definition": "the whole or any part of any skins, hides, horns or carcass of stock, any wool, mohair, ostrich egg or ostrich feathers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public sale",
+      "definition": "a sale effected—\n( a ) in any public market",
+      "source_provision": "s2"
+    },
+    {
+      "term": "receive",
+      "definition": "assigned to it in section 317 of the Penal Code (Cap. 08:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "steal",
+      "definition": "assigned to it in section 264 of the Penal Code",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stock",
+      "definition": "any horse, mare, gelding, ass, mule, bull, cow, ox, ram, ewe, wether, goat, pig or ostrich, or the young thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sufficient fence",
+      "definition": "any wire fence or any other fence, wall or hedge through which no stock could pass without breaking it, or any natural boundary through or across which no sheep would ordinarily pass.",
+      "source_provision": "s2"
+    }
+  ]
+}

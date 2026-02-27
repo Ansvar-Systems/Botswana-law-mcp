@@ -1,0 +1,461 @@
+{
+  "id": "bw-act-public-health-repealed",
+  "type": "statute",
+  "title": "Public Health",
+  "title_en": "Public Health",
+  "short_name": "Public Health",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/public-health-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Public Health Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires-\n\"adult\" means a person of 16 years of age or over;\n\"approved\" means approved by the Minister;\n\"building\" includes any structure whatsoever for whatever purpose used;\n\"burial\" means the burial in earth, interment or any other form of sepulture or the cremation or any other approved mode of disposal of a dead body;\n\"child\" means a person who is under or appears to be under 16 years of age;\n\"cleansing\" means the removal from surfaces, by scrubbing and washing, as with hot water, soap or suitable detergent, of infectious agents and of organic matter on which and in which infectious agents may find favourable conditions for prolonging the life and virulence of such infectious agents, or of killing infectious agents outside the body by chemical or physical means directly applied;\n\"communicable disease\" means any disease which can be communicated directly or indirectly by any person suffering therefrom to any other person;\n\"dwelling\" means any house, room, shed, hut, cave, tent, vehicle, boat or any other structure or place whatsoever, any portion whereof is used by any human being for sleeping or in which any human being dwells;\n\"food\" means any animal product, fish, fruit, vegetables, condiments, confectionery, beverages and any other substance whatsoever (other than drugs or water) in any form, state or stage of preparation which is intended or ordinarily used for human consumption;\n\"health officer\" includes any medical practitioner registered under the Botswana Health Professions Act (Cap. 61:02), any health inspector, and any public health nurse employed by or so designated by the Minister;\n\"infected\" means suffering from, or in the incubation stage of, or contaminated with the infection of any communicable disease;\n\"isolated\" means the segregation, and the separation from, and interdiction of communication with others, other than by means approved in writing by the health officer, of persons who are suspected of being infected, and \"isolation\" has a corresponding meaning;\n\"medical surveillance\" means the keeping of a person under medical supervision: persons under such surveillance may be required to remain within a specified area or to attend for medical examination at specified places and times;\n\"Ministry\" means the Ministry for the time being responsible for the administration of this Act;\n\"occupier\" includes any person in actual occupation of land or premises without regard to the title under which he occupies, and in the case of premises subdivided and let to lodgers or various tenants the person receiving the rent payable by lodgers or tenants, whether on his own account or as an agent for any person entitled thereto or interested therein, and in the case of a school, the principal or other person in charge of the school;\n\"parent\" includes the father and mother of a child, whether adopted or whether legitimate or not, and any legal guardian;\n\"premises\" includes any building or tent together with the land on which the same is situated and adjoining land used in connection therewith, and includes any vehicle, conveyance or boat;\n\"public building\" means a building used or constructed or adapted to be used either ordinarily or occasionally as a place of public worship or as a hospital, college, school, hotel, boarding-house, lodging-house, theatre, public hall or as a place of assembly for persons admitted by ticket or otherwise, or used or adapted to be used for any other public purpose;\n\"regulation\" means any regulation made under this Act;\n\"school\" means any public or private establishment for nursery, primary or secondary or higher education and includes a hostel or boarding-house kept for housing the pupils at any such establishment;\n\"veterinary officer\" means any veterinary surgeon registered under the Veterinary Surgeons Act (Cap. 61:04), or livestock officer employed by the Government of Botswana."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Functions of the Ministry",
+      "content": "3. Functions of the Ministry\nThe functions of the Ministry under this Act shall be-\n( a ) to promote the personal health and environmental health within Botswana;\n( b ) to prevent and guard against the introduction of disease from outside;\n( c ) to prevent or control communicable disease;\n( d ) to advise and assist local authorities in regard to matters affecting public health;\n( e ) to promote or carry out researches and investigations in connection with the prevention and treatment of human diseases;\n( f ) to prepare and publish reports and statistics or other information relative to the public health;\n( g ) to provide for the appointment of advisers, advisory bodies or councils to assist the Minister in all matters concerning public health; and\n( h ) generally to administer this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary",
+      "section": "4",
+      "title": "Appointment of health officers and others",
+      "content": "4. Appointment of health officers and others\nSubject to the provisions of the law governing the public service, the Minister may appoint as many health officers or other officers as may from time to time be necessary to carry out the purposes of this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Notifiable Diseases",
+      "section": "5",
+      "title": "Notification of diseases",
+      "content": "5. Notification of diseases\n(1) The provisions of this Act, unless otherwise expressed, shall, so far as they concern notifiable diseases apply to the following diseases, namely, smallpox (including variola minor or alastrim), cholera, plague, yellow fever, diphtheria, typhoid (enteric) fever (including paratyphoid A, B), whooping-cough, tuberculosis and poliomyelitis.\n(2) The Minister may by order published in the Gazette —\n( a ) declare that any disease other than those specified in subsection (1) shall be a notifiable disease under this Act;\n( b ) declare that only such provisions of this Act as are mentioned in such order shall apply to any notifiable diseases; and\n( c ) restrict the provisions of this Act regarding the notification of any disease, to any district or area and for such period specified in such order, or until the order has been withdrawn.\n(3) Notice of any notifiable diseases shall be furnished by the health officer concerned as soon as practicable to the Minister, in the prescribed form."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Notifiable Diseases",
+      "section": "6",
+      "title": "Inspection of infected premises, etc.",
+      "content": "6. Inspection of infected premises, etc.\nA health officer or other duly authorised officer may at any reasonable time enter and inspect any premises in which he has reason to believe that any person suffering or who has recently suffered from any communicable disease is or has recently been present, or any inmate of which has recently been exposed to the infection of any communicable disease, and may medically examine or cause to be medically examined any person in such premises for the purpose of ascertaining whether such person is suffering or has recently suffered from any such disease."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Notifiable Diseases",
+      "section": "7",
+      "title": "Power to order cleansing of building",
+      "content": "7. Power to order cleansing of building\n(1) Where any health officer is of opinion that the cleansing of any building or part thereof, and of any articles therein likely to retain infection would tend to prevent or check communicable disease, he may give notice in writing to the owner or occupier of such building or part thereof specifying the steps to be taken to cleanse such building or part thereof and articles within such time as may be specified in the notice.\n(2) If a person to whom such notice is given fails to comply therewith he shall be guilty of an offence.\n(3) Where the owner or occupier of any such building or part thereof is, from poverty or otherwise, unable to comply with the provisions of this section a health officer or other duly authorised officer may, with or without his consent, enter and cleanse such building or part thereof and articles therein."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Notifiable Diseases",
+      "section": "8",
+      "title": "Destruction of bedding, clothing, etc.",
+      "content": "8. Destruction of bedding, clothing, etc.\nA health officer may direct the destruction of any bedding, clothing or other articles which have been exposed to infection from any communicable disease, or which in the opinion of a health officer are infected and any such direction shall be sufficient authority for any person authorised to destroy the same, and the Ministry may award compensation for any bedding, clothing or other articles destroyed in pursuance of this section."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Notifiable Diseases",
+      "section": "9",
+      "title": "Provision of cleansing centres",
+      "content": "9. Provision of cleansing centres\nThe Ministry may provide a proper place for the cleansing of bedding, clothing or other articles which have become infected, and may cause any such articles brought for cleansing to be cleansed free of charge."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II Notifiable Diseases",
+      "section": "10",
+      "title": "Isolation of persons who have been exposed to infection",
+      "content": "10. Isolation of persons who have been exposed to infection\n(1) Where, in the opinion of a health officer, any person certified to be suffering from a communicable disease is not accommodated or is not being treated or nursed in such manner as to adequately guard against the spread of the disease, such person may, on the order of a registered medical practitioner, be detained in or removed to a hospital or any temporary place which, in the opinion of the registered medical practitioner, is suitable for the reception of such person and there detained until the health officer or any medical practitioner duly authorised thereto by the Minister is satisfied that he is free from infection or can be discharged without danger to the public health.\n(2) Any person detained in accordance with an order of a health officer who escapes or attempts to escape shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II Notifiable Diseases",
+      "section": "11",
+      "title": "Penalty for exposure of infected persons and things",
+      "content": "11. Penalty for exposure of infected persons and things\n(1) Any person who-\n( a ) while suffering from any communicable disease wilfully exposes himself without proper precautions against spreading the said disease in any street, public place, shop or public conveyance;\n( b ) being in charge of any person so suffering so exposes or conveys such sufferer; or\n( c ) gives, lends, sells, transmits or exposes, without previous cleansing, any bedding, clothing, rags or other articles which have been exposed to infection from any such disease,\nshall be guilty of an offence:\nProvided that proceedings under this section shall not be taken against persons conveying with proper precautions any bedding, clothing, rags or other articles for the purpose of having the same cleansed.\n(2) For the purposes of this section, \"public conveyance\" includes any railway coach, omnibus, motor car or any vehicle whatsoever or any aircraft, if the conveyance plies for hire or is used by members of the public."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II Notifiable Diseases",
+      "section": "12",
+      "title": "Cleansing of conveyances",
+      "content": "12. Cleansing of conveyances\nEvery owner or driver of a conveyance shall immediately provide for the cleansing of such conveyance on the instruction in writing of a health officer."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II Notifiable Diseases",
+      "section": "13",
+      "title": "Penalty for letting infected premises",
+      "content": "13. Penalty for letting infected premises\nAny person who knowingly lets for hire any dwelling or premises or part thereof in which any person has been suffering from a communicable disease without having the same, and all articles therein likely to retain infection, efficiently cleansed to the satisfaction of a health officer as testified by certificate signed by him shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART II Notifiable Diseases",
+      "section": "14",
+      "title": "Death in premises due to communicable disease",
+      "content": "14. Death in premises due to communicable disease\nIn every case of a death from a communicable disease it shall be the duty of the occupier of the premises in which the death has occurred immediately to arrange for a health officer to be notified thereof, and to make the best arrangements practicable, pending the removal of the body and the carrying out of thorough cleansing, for preventing the spread of such disease."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART II Notifiable Diseases",
+      "section": "15",
+      "title": "Disposal of body of person dying from communicable disease",
+      "content": "15. Disposal of body of person dying from communicable disease\n(1) When-\n( a ) the body of a person who has died of a communicable disease is retained in a room in which any person lives, sleeps, works, or in which food is kept or prepared or eaten;\n( b ) any dead body is retained in any dwelling or place under circumstances which in the opinion of a health officer are likely to endanger health; or\n( c ) any dead body is found and is unclaimed or where no competent person undertakes to bury it,\nany magistrate or member of the Botswana Police Force of or above the rank of sergeant, may on a certificate signed by a health officer, direct that the body be removed to a mortuary for post-mortem examination, or if the body is that of a person certified to have died of a communicable disease, may order that the body be buried immediately without removal to a mortuary.\n(2) Any person who hinders or obstructs the execution of any order or direction given under this section shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART II Notifiable Diseases",
+      "section": "16",
+      "title": "Regulations regarding communicable diseases",
+      "content": "16. Regulations regarding communicable diseases\nRegulations may provide for the application to all communicable diseases or to such communicable diseases as may be specified therein regarding the following matters-\n( a ) the imposition and enforcement of isolation or of medical observation and surveillance in respect of persons suffering from communicable disease who are not removed to a hospital or place of isolation, the premises in which such persons are accommodated, those in charge of or in attendance on such persons and other persons living in or visiting such premises or who otherwise may have been exposed to the infection of any such disease;\n( b ) the duties, in respect of the prevention of communicable disease and in respect of persons suffering or suspected to be suffering therefrom, of occupiers of land on which persons reside and of employers of labour, and of chiefs, chief's representatives, headmen and others;\n( c ) the measures to be taken for preventing the spread of or eradicating smallpox, typhoid fever, cholera, yellow fever, plague, poliomyelitis, tuberculosis or any other communicable disease requiring to be dealt with in a special manner;\n( d ) the conveyance of persons suffering from or the bodies of persons who have died of a communicable disease;\n( e ) the prevention of the spread from any animal, or the carcass or produce of any animal to man, of anthrax, glanders, measles, tape worm, plague, rabies, tuberculosis or any other disease communicable by any animal, or the carcass or product of any animal, to man;\n( f ) the prevention of the spread of disease by flies and other insects and the destruction of and the removal or improvement of conditions permitting or favouring the prevalence or multiplication of such flies or insects;\n( g ) the destruction of rodents and other vermin, the removal or improvement of conditions permitting or favouring the harbourage or multiplication thereof;\n( h ) the prevention of any disease in man caused by any animal or vegetable parasite;\n( i ) the prevention of the spread of any communicable disease by the carrying on of any business, trade or occupation;\n( j ) the prevention of the spread of any communicable disease by persons who, though not at the time suffering from such disease are carriers of and likely to disseminate the infection thereof, and the keeping under medical surveillance and the restriction of the movement of such persons;\n( k ) the regulation and restriction of any trade or occupation entailing special danger to the health of those engaged therein, whether from communicable disease or otherwise, and the institution of measures for preventing or limiting such danger;\n( l ) cleansing centres and the cleansing of dirty or verminous persons, the cleansing or fumigation of premises, clothing or other articles which have been exposed to or are believed to have been contaminated with the infection of any communicable disease; or which are dirty or verminous, and prohibiting the carrying out of any fumigation which involves the use of poisonous gas except under licence;\n( m ) rag flock manufacture and the trade in rags, in bones and in second-hand clothing, bedding or any similar article, and requiring the cleansing of any such article before its importation, removal, sale or exposure for sale or use in any manufacturing process; and\n( n ) the disposal of any refuse, waste matters, or other matter or thing which has been contaminated with or exposed to the infection of any communicable disease,\nand generally for the better carrying out of the provisions and attaining the objects and purposes of this Part."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART III Special Provisions regarding Diseases subject to the International Health Regulations",
+      "section": "17",
+      "title": "Diseases subject to International Health Regulations",
+      "content": "17. Diseases subject to International Health Regulations\n(1) The International Health Regulations set out in the Fourth Schedule hereto, shall apply within Botswana.\n(2) The provisions of this Act, unless otherwise expressed, in so far as they concern diseases subject to the International Health Regulations shall be deemed to apply to smallpox (including alastrim or variola minor ), plague (all forms), cholera (including cholera due to the El Tor vibrio ) and yellow fever.\n(3) When any amendment has been made to the International Health Regulations, as soon as may be after the Government becomes a party to such amendment, the Minister shall by order in the Gazette publish such amendments and upon publication the International Health Regulations shall, in their application to Botswana, be so amended.\n(4) Regulations may be made—\n( a ) to make such provision as appears necessary or expedient for the carrying out of and giving effect to the International Health Regulations; and\n( b ) subject to the provisions of the International Health Regulations, impose fees and provide for the recovery of any expenditure incurred in giving effect to the International Health Regulations.\n(5) Any regulations made under this section may prescribe penalties for any contravention thereof, but no such penalty shall exceed P200 or imprisonment for a term exceeding six months, or to both."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART III Special Provisions regarding Diseases subject to the International Health Regulations",
+      "section": "18",
+      "title": "Regulations in respect of certain diseases",
+      "content": "18. Regulations in respect of certain diseases\nWhenever Botswana or part thereof appears to be threatened by any of the diseases mentioned in section 17, regulations may be made providing for any of the following matters, namely-\n( a ) for the speedy interment or cremation of the dead;\n( b ) for house to house visitation;\n( c ) for the provision of medical aid and accommodation, the promotion of ventilation and cleansing generally and guarding against the spread of disease;\n( d ) for preventing any person from leaving any infected area without undergoing all or any of the following, namely, medical examination and treatment, cleansing, inoculation, vaccination or revaccination or passing a specified period in an observation camp or centre;\n( e ) for the establishment of hospitals and observation camps or centres, and for accommodating therein persons suffering from or who have been in contact with persons suffering from communicable disease;\n( f ) for the destruction or cleansing of buildings, furniture, goods or other articles, which have been used by persons suffering from communicable disease, or which are likely to spread the infection;\n( g ) for the removal of persons who are suffering from a communicable disease and persons who have been in contact with such persons;\n( h ) for the removal of corpses;\n( i ) for the destruction of rats, and the better prevention of the danger of spreading infection by rats;\n( j ) for the regulation of hospitals used for the reception of persons suffering from a communicable disease and of observation camps and centres;\n( k ) for the removal and cleansing of articles which have been exposed to infection;\n( l ) for prohibiting any person living in any building or using any building for any purpose whatsoever if in the opinion of a health officer any such use is likely to cause the spread of any communicable disease, and any regulation made under this section may give a health officer power to prescribe the conditions on which such a building may be used; and\n( m ) for any other purpose whether of the same kind or nature as the foregoing or not, having for its object the prevention or control of communicable diseases,\nand may by order declare all or any of the regulations so made to be in force within the whole or any part of Botswana."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART III Special Provisions regarding Diseases subject to the International Health Regulations",
+      "section": "19",
+      "title": "Execution of regulations",
+      "content": "19. Execution of regulations\nA health officer or other authorised officer in any area within which or part of which regulations made are declared to be in force shall do and provide all such acts, matters and things as may be necessary for mitigating any such disease, or aiding in the execution of such regulations or for executing the same, as the case may require, and a health officer may, from time to time, cause to be instituted any prosecution or legal proceedings for or in respect of the wilful contravention of any such regulations."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART III Special Provisions regarding Diseases subject to the International Health Regulations",
+      "section": "20",
+      "title": "Power of entry",
+      "content": "20. Power of entry\nA health officer and other duly authorised officers shall have power of entry on any premises for the purpose of executing or superintending the execution of any regulations made under this Act."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART III Special Provisions regarding Diseases subject to the International Health Regulations",
+      "section": "21",
+      "title": "Notification of sickness or mortality in animals",
+      "content": "21. Notification of sickness or mortality in animals\n(1) Every person who becomes aware of any unusual sickness or mortality among rats, mice, cats, dogs or other animals susceptible to plague, rabies or other diseases subject to the International Health Regulations, not due to poison or other obvious cause, shall immediately report the fact to the nearest Police Station or to a health or veterinary officer.\n(2) Any person who fails so to report shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART III Special Provisions regarding Diseases subject to the International Health Regulations",
+      "section": "22",
+      "title": "Notification of diseases subject to the International Health Regulations",
+      "content": "22. Notification of diseases subject to the International Health Regulations\nEvery police officer, health or veterinary officer shall immediately report to the Ministry headquarters in Gaborone, by radio, telegraph or other expeditious means, particulars of every notification received of a case of any disease subject to the International Health Regulations, or of any unusual sickness or mortality in animals made under the last preceding section."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART III Special Provisions regarding Diseases subject to the International Health Regulations",
+      "section": "23",
+      "title": "Requisition of buildings, equipment, etc.",
+      "content": "23. Requisition of buildings, equipment, etc.\n(1) Where an outbreak of any disease subject to the International Health Regulations exists or is threatened it shall be lawful for the Minister, in the interests of public health, to require any person owning or having charge of any land or any buildings or dwellings not occupied or, any person owning or having charge of transport, bedding, hospital equipment, drugs, food or other appliances, materials or articles urgently required in connection with the outbreak, to hand over the use of any such land or building or to supply or make available any such article, subject to the prompt payment of adequate compensation as hire or purchase price.\n(2) Any person who, without reasonable cause, fails or refuses to comply with any such requirement shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART IV Prevention of the Spread of Smallpox",
+      "section": "24",
+      "title": "Interpretation",
+      "content": "24. Interpretation\nFor the purposes of this Part—\n\"public vaccinator\" includes a public vaccinator appointed by the Minister and any person appointed by the Minister to assist or act for a public vaccinator, and any health officer."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART IV Prevention of the Spread of Smallpox",
+      "section": "25",
+      "title": "Vaccination of persons entering Botswana",
+      "content": "25. Vaccination of persons entering Botswana\nEvery person entering Botswana for whatever purpose shall be in possession of a valid International Certificate of vaccination against smallpox."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART IV Prevention of the Spread of Smallpox",
+      "section": "26",
+      "title": "Emergency vaccination",
+      "content": "26. Emergency vaccination\n(1) In the event of the occurrence or threatened outbreak of smallpox in any area—\n( a ) a public vaccinator may require any person who has or is suspected to have been in any way recently exposed to smallpox infection to be vaccinated or revaccinated forthwith and may require the parent or guardian of any child who has or is suspected to have been so exposed to have such child vaccinated or revaccinated forthwith and any person failing to comply with such requirement shall be guilty of an offence;\n( b ) a health officer may, or a health officer or public vaccinator, when instructed by the Minister to do so, shall require all persons within a defined area to attend at specified centres to undergo examination, vaccination, or revaccination as circumstances may require; notices in this regard shall be published in the press, or posted up in public places, or otherwise as may be deemed sufficient by the health officer; and non-attendance shall be deemed to be an offence; and\n( c ) any public vaccinator or medical practitioner duly authorised by the Minister may require any person in such area to furnish satisfactory proof that he has been successfully vaccinated within three years immediately preceding the date of such requirement.\n(2) Any person who fails to furnish such proof in regard to himself or any child of which he is the parent or guardian, and refuses to allow himself or such child to be vaccinated, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART IV Prevention of the Spread of Smallpox",
+      "section": "27",
+      "title": "Persons unfit for vaccination",
+      "content": "27. Persons unfit for vaccination\nIf a public vaccinator or medical practitioner is of opinion that any adult or child is not in a fit state to be vaccinated he shall issue to the adult or to the parent or guardian of the child a certificate under his hand in the form set out in the First Schedule, or to the like effect, that the adult or child is in an unfit state for vaccination and such certificate shall remain in force for three months but shall be renewable for successive periods of three months until the public vaccinator or medical practitioner deems the adult or child to be fit for vaccination when the adult or child shall with all reasonable despatch be vaccinated."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART IV Prevention of the Spread of Smallpox",
+      "section": "28",
+      "title": "Certificate of insusceptibility to be given",
+      "content": "28. Certificate of insusceptibility to be given\n(1) If a public vaccinator or medical practitioner finds that any adult or child whom he has three times unsuccessfully vaccinated is insusceptible of successful vaccination or that the adult or child coming to him for vaccination has already been successfully inoculated or had smallpox, he shall deliver to the adult or to the parent or guardian of the child a certificate under his hand in the form set out in the Second Schedule.\n(2) A certificate of insusceptibility to vaccination shall be given by a public vaccinator or medical practitioner only after three unsuccessful attempts at vaccination at intervals of not less than one month have been made by him."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART IV Prevention of the Spread of Smallpox",
+      "section": "29",
+      "title": "Certificate of successful vaccination",
+      "content": "29. Certificate of successful vaccination\nA public vaccinator or medical practitioner who vaccinated any adult or child, and is satisfied that the vaccination has been successful, shall deliver to such adult or to the parent or guardian of such child a certificate in the form set out in the Third Schedule certifying that the said adult or child has been successfully vaccinated."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART IV Prevention of the Spread of Smallpox",
+      "section": "30",
+      "title": "No unauthorised fee to be charged",
+      "content": "30. No unauthorised fee to be charged\nNo fee other than a fee authorised by the Minister shall be charged by any public vaccinator or medical practitioner for any certificate granted under this Act, or for any vaccination done by him in pursuance of this Act."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART IV Prevention of the Spread of Smallpox",
+      "section": "31",
+      "title": "Description of person to be entered on certificate",
+      "content": "31. Description of person to be entered on certificate\nA public vaccinator or medical practitioner giving any certificate under this Act shall enter thereon a description of the person in respect of whom the certificate is granted sufficient for the purpose of identification."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART IV Prevention of the Spread of Smallpox",
+      "section": "32",
+      "title": "Inoculation from arm to arm, etc. forbidden",
+      "content": "32. Inoculation from arm to arm, etc. forbidden\nAny person who inoculates himself or any other person with material taken from a person suffering from smallpox or from a vaccine vesicle on another person or by any method not prescribed in regulations shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART IV Prevention of the Spread of Smallpox",
+      "section": "33",
+      "title": "Prescription of matters relating to vaccination",
+      "content": "33. Prescription of matters relating to vaccination\nRegulations may be made—\n( a ) prescribing forms of certificates, notices, returns and books of record to be used in connection with public vaccination, and defining the information to be furnished therein, and requiring the furnishing and prescribing the manner of use thereof by Registrars of Births, public vaccinators, medical practitioners, parents or guardians of children, employers of labour and others;\n( b ) conferring powers and imposing duties, in connection with the carrying out or enforcement of vaccination, on judicial officers, members of the Botswana Police Force, Government officers, persons in charge of schools, employers, Chiefs and others;\n( c ) prescribing the conditions under which vaccine lymph may be supplied free of charge to medical practitioners and others;\n( d ) providing for the vaccination or revaccination of persons and assigning, where deemed desirable, the responsibility for the carrying out of such vaccination or revaccination to specified bodies or employers of labour; and\n( e ) as to the application and enforcement of the provisions of this Part to persons entering Botswana and for requiring, where deemed necessary, the vaccination or revaccination of any person before so entering."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART V Prevention of Introduction of Diseases",
+      "section": "34",
+      "title": "Introduction of diseases",
+      "content": "34. Introduction of diseases\n(1) The Minister may by order published in the Gazette prohibit, restrict or regulate the immigration or importation into Botswana of any person, animal, article or thing likely in his opinion to introduce any communicable disease, or impose restrictions or conditions as regards the examination, detention, cleansing or otherwise of any such person, animal, article or thing.\n(2) Any person who contravenes or fails to comply with any such order shall be guilty of an offence and liable to a fine not exceeding P200 or to imprisonment for a term not exceeding six months, or to both."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART V Prevention of Introduction of Diseases",
+      "section": "35",
+      "title": "Removal of infected persons",
+      "content": "35. Removal of infected persons\n(1) Where any person arriving in Botswana by aircraft, by train or other conveyance, or on foot is found to be suffering from any communicable disease, and in the opinion of a health officer cannot be accommodated or cannot be nursed and treated so as to guard against the spread of the disease or to promote recovery, a health officer may order the removal of such person to a hospital or place of isolation for such period as may be necessary in the interests of the patient or to prevent spread of infection.\n(2) All expenses necessarily incurred in dealing with a patient under this section shall be a charge against the said patient and may be recovered from him in the manner prescribed by law."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART V Prevention of Introduction of Diseases",
+      "section": "36",
+      "title": "Surveillance or isolation",
+      "content": "36. Surveillance or isolation\n(1) Where any person arriving by aircraft, by train or other conveyance or on foot within Botswana is believed to have been recently exposed to infection, or may be in the incubation stage of any communicable disease, a health officer may require such person to be removed to some hospital or place of isolation until considered free from infection, or alternatively may allow such person to proceed to his place of destination and there report himself to a health officer for medical surveillance by such health officer until considered free from infection.\n(2) A health officer shall in each case notify the medical officer of the district where such person's destination is, of the fact that such person is believed to have been recently exposed to infection and has been allowed to proceed to his destination."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART V Prevention of Introduction of Diseases",
+      "section": "37",
+      "title": "Powers",
+      "content": "37. Powers\n(1) Any health officer may at any time board any aircraft, train or other conveyance arriving within Botswana and may inspect any portion thereof or anything therein and may medically examine or cause to be medically examined any person travelling by such train or other conveyance and require such person to answer any question for the purpose of ascertaining if such person is infected by or has recently been exposed to the infection of any communicable disease.\n(2) Any person who refuses to allow such officer to board any aircraft, train or other conveyance or to make any inspection or medical examination as aforesaid or otherwise obstructs or hinders any such officer in the execution of his duty, or who fails or refuses to give any information which he may lawfully be required to give, or who gives false or misleading information to any such officer, knowing it to be false or misleading, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART V Prevention of Introduction of Diseases",
+      "section": "38",
+      "title": "Health officers to inspect railway trains, etc.",
+      "content": "38. Health officers to inspect railway trains, etc.\nThe Minister may, when he considers it necessary for the prevention of the spread of any communicable disease, designate any health officer to inspect aircraft, trains or other conveyance and any article or thing therein, and to examine any persons travelling by aircraft, train or other conveyance, or on foot and whether entering, leaving or travelling within Botswana."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART V Prevention of Introduction of Diseases",
+      "section": "39",
+      "title": "Powers to enforce precautions",
+      "content": "39. Powers to enforce precautions\n(1) When it is considered necessary for the purpose of preventing the introduction of communicable disease into Botswana, the Minister may by order published in the Gazette —\n( a ) regulate, restrict or prohibit the entry into Botswana at its borders or any specified part thereof of any person;\n( b ) regulate, restrict or prohibit the introduction into Botswana at its borders or any specified part thereof of any animal, article or thing;\n( c ) impose requirements or conditions as regards the medical examination, detention, quarantine, cleansing, vaccination, isolation or medical surveillance or otherwise of persons entering Botswana, or the examination, detention or cleansing or otherwise of any article or thing introduced into Botswana at its borders or any part thereof; and\n( d ) apply, with or without notification, any provisions of this Part to persons, animals, articles or things entering or introduced into, departing or removed from Botswana by means of aircraft, train or other conveyance.\n(2) Any person who contravenes or fails to comply with any such order shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART V Prevention of Introduction of Diseases",
+      "section": "40",
+      "title": "Agreements with other governments",
+      "content": "40. Agreements with other governments\nThe Minister may enter into agreements with any foreign country, providing for the reciprocal notification of outbreaks of any disease subject to International Health Regulations or other disease or any other matter affecting the public health relations of Botswana with other countries."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART V Prevention of Introduction of Diseases",
+      "section": "41",
+      "title": "Government not liable",
+      "content": "41. Government not liable\nWherever under this Part powers are exercised by the Minister or other officer in accordance therewith and with the regulations and by reason of the exercise of such powers—\n( a ) any person, conveyance, article or thing is delayed or removed or detained;\n( b ) any article or thing is damaged or destroyed; or\n( c ) any person is deprived of the use of any article or thing,\nthe Government shall not be liable to pay compensation, provided due care and reasonable precautions have been taken to avoid unnecessary delay or damage or destruction."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART VI Venereal Diseases",
+      "section": "42",
+      "title": "Publication of advertisements",
+      "content": "42. Publication of advertisements\n(1) No person shall publish any advertisement or statement intended to promote the sale of any medicine, appliance or article for the alleviation or cure of any venereal disease or disease affecting the genital organs or functions or of sexual impotence, or of any complaint or infirmity arising from or relating to sexual intercourse.\n(2) Any person who publishes any such advertisement or statement by printing it in any newspaper or exhibiting it to public view in any place or delivering or offering or exhibiting it to any person in any street or public place or in any public conveyance or who sells, offers or shows it or sends it by post to any person, shall be guilty of an offence.\n(3) For the purposes of this section \"advertisement\" or \"statement\" includes any paper, document or book containing any such advertisement or statement.\n(4) This section shall not apply to any publication by the Government or other public body in the discharge of its lawful duties or by any society or person acting with the authority of the Minister, or to any books, documents or papers published in good faith for the advancement of medical science.\n(5) No prosecution under this section shall be instituted except on information laid by the Director of Public Prosecutions.\n[18 of 2006, s. 2.]"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "PART VII Sanitation and Housing",
+      "section": "43",
+      "title": "Nuisances prohibited",
+      "content": "43. Nuisances prohibited\nNo person shall cause or allow a nuisance to continue on any land or premises owned or occupied by him or of which he is in charge which is likely to be injurious or dangerous to health."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "PART VII Sanitation and Housing",
+      "section": "44",
+      "title": "Duties of health officers regarding nuisances",
+      "content": "44. Duties of health officers regarding nuisances\n(1) It shall be the duty of every health officer to take all lawful, necessary and reasonably practicable measures for maintaining his area at all times in a clean and sanitary condition, or requiring to be remedied, any nuisance or condition liable to be injurious or dangerous to health and to take proceedings at law against any person causing or responsible for the occurrence or continuance of any such nuisance or condition.\n(2) If it appears to a health officer that a nuisance exists on any premises occupied as offices of the public service of Botswana he shall report the circumstances to the head of the appropriate Government department and the latter shall forthwith cause such steps to be taken as may be necessary to abate the nuisance and to prevent a recurrence thereof."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART VII Sanitation and Housing",
+      "section": "45",
+      "title": "Unsuitable dwellings",
+      "content": "45. Unsuitable dwellings\nIt shall be the duty of every health officer to take all lawful, necessary and reasonably practicable measures for preventing or causing to be prevented or remedied all conditions likely to be injurious or dangerous to health arising from the erection or occupation of unhealthy dwellings or premises, the erection of dwellings or premises on unhealthy sites or on sites of insufficient extent, from overcrowding, or from the construction, condition or manner of use of any factory or trade premises, and to take proceedings under the law or regulation in force against any person causing or responsible for the continuance of any such condition."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "PART VII Sanitation and Housing",
+      "section": "46",
+      "title": "What constitutes a nuisance",
+      "content": "46. What constitutes a nuisance\n(1) The following shall be deemed to be nuisances liable to be dealt with in the manner provided in this Part—\n( a ) any railway carriage or other conveyance in such a state or condition as to be injurious or dangerous to health;\n( b ) any dwelling or premises or part thereof which is or are of such construction or in such a state or so situated or so dirty or so verminous as to be in the opinion of the health officer injurious or dangerous to health, or which is or are likely to promote the spread of any disease;\n( c ) any street, road or part thereof, any stream, pool, ditch, gutter, watercourse, sink, water-tank, cistern, water closet, privy, urinal, cesspool, soak-away pit, septic tank, cesspit, soilpipe, wastepipe, drain, sewer, garbage receptacle, dustbin, dung-pit, refuse-pit, slop-tank, ash-pit or manure heap so foul or in such state or so situated or constructed as in the opinion of a health officer to be offensive or to be injurious or dangerous to health;\n( d ) any well or other source of water supply or any cistern or other receptable for water, whether public or private, the water from which is used or is likely to be used by man for drinking or domestic purposes or in connection with any dairy or milkshop, or in connection with the manufacture or preparation of any article of food intended for human consumption, which is in the opinion of a health officer polluted or otherwise liable to render any such water injurious or dangerous to health;\n( e ) any noxious matter or waste water flowing or discharged from any premises wherever situated into any public street, or into the gutter or side channel of any street or into any watercourse, irrigation channel or bed thereof not approved for the reception of such discharge;\n( f ) any stable, cowshed or other building or structure used for keeping of animals or birds which is so constructed, situated, used or kept as to be offensive or which is injurious or dangerous to health;\n( g ) any animal so kept as to be a nuisance, or injurious to health;\n( h ) any accumulation or deposit of refuse, offal, manure or any other matter whatsoever which is offensive or which is injurious or dangerous to health;\n( i ) any accumulation of stones, timber or other building material if such is in the opinion of a health officer likely to harbour rats or other vermin;\n( j ) any premises in such a state or condition and any building so constructed as to be likely to harbour rats or other rodents;\n( k ) any dwelling or premises which is so overcrowded as to be injurious or dangerous to the health of the inmates or is dilapidated or defective in lighting or ventilation or is not provided with or is so situated that it cannot be provided with sanitary accommodation to the satisfaction of a health officer;\n( l ) any public or other building which is so situated, constructed, used or kept as to be unsafe, or injurious or dangerous to health;\n( m ) any occupied dwelling for which such a proper, sufficient and wholesome water supply is not available within a reasonable distance as under the circumstances it is possible to obtain;\n( n ) any factory or trade premises not kept in a clean state and free from offensive smell arising from any drain, privy, water closet, earth closet, or urinal or not ventilated so as to destroy or render harmless and inoffensive as far as practicable any gases, vapours, dust or other impurities generated or so overcrowded or so badly lighted or ventilated as to be injurious or dangerous to the health of those employed therein;\n( o ) any factory or trade premises causing or giving rise to smells or affluents which are offensive or which are injurious or dangerous to health;\n( p ) any area of land kept or permitted to remain in such a state as to be offensive, or liable to cause any communicable or preventable disease or injury or danger to health;\n( q ) any chimney sending forth smoke in such quantity or in such a manner as to be offensive or injurious or dangerous to health; and\n( r ) any act, omission or thing which is or may be offensive, dangerous to life or injurious to health.\n(2) The author of a nuisance means any person by whose act, default or sufferance nuisance is caused, exists or is continued, whether he is the owner or occupier or both owner and occupier or any other person."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "PART VII Sanitation and Housing",
+      "section": "47",
+      "title": "Notice to remove nuisance",
+      "content": "47. Notice to remove nuisance\nIf a health officer is satisfied of the existence of a nuisance he shall serve a notice on the author of the nuisance, or if he cannot be found, then on the occupier or owner of the dwelling or premises on which the nuisance exists or continues, requiring him to remove it within the time specified in the notice, and to execute such work and do such things as may be necessary for that purpose and, if the health officer deems it necessary, specifying any work to be executed to prevent a recurrence of the said nuisance:\nProvided that—\n(i) where the nuisance arises from any want or defect of a structure or character, or where the dwelling or premises are unoccupied the notice shall be served on the owner;\n(ii) where the author of the nuisance cannot be found and it is clear that the nuisance does not arise or continue by the act or default or sufferance of the occupier or owner of the dwelling or premises, the health officer shall have the same removed and may do what is necessary to prevent a recurrence thereof."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "PART VII Sanitation and Housing",
+      "section": "48",
+      "title": "Procedure where owner fails to comply with notice",
+      "content": "48. Procedure where owner fails to comply with notice\n(1) If the person on whom a notice to remove a nuisance has been served fails to comply with any of the requirements thereof within the time specified, the health officer shall cause a complaint relating to such nuisance to be made before a magistrate and such magistrate shall thereupon issue a summons requiring the person on whom the notice was served to appear before his court.\n(2) If the court is satisfied that the alleged nuisance exists, the court shall make an order on the author thereof, or the occupier or owner of the dwelling or premises, as the case may be, requiring him to comply with all or any of the requirements of the notice or otherwise to remove the nuisance within a time specified in the order and to do any works necessary for that purpose.\n(3) The court may by such order impose a fine not exceeding P25 on the person on whom the order is made and may also give directions as to the payment of all costs incurred up to the time of the hearing or making of the order for the removal of the nuisance.\n(4) If the nuisance although removed since the service of the notice in the opinion of the health officer is likely to recur on the same premises, the health officer shall cause a complaint relating to such nuisance to be made before a magistrate and the magistrate shall thereupon issue a summons requiring the person on whom the notice was served to appear before him."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "adult",
+      "definition": "a person of 16 years of age or over",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved",
+      "definition": "approved by the Minister",
+      "source_provision": "s2"
+    },
+    {
+      "term": "building",
+      "definition": "any structure whatsoever for whatever purpose used",
+      "source_provision": "s2"
+    },
+    {
+      "term": "burial",
+      "definition": "the burial in earth, interment or any other form of sepulture or the cremation or any other approved mode of disposal of a dead body",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child",
+      "definition": "a person who is under or appears to be under 16 years of age",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cleansing",
+      "definition": "the removal from surfaces, by scrubbing and washing, as with hot water, soap or suitable detergent, of infectious agents and of organic matter on which and in which infectious agents may find favourable conditions for prolonging the life and virulence of such infectious agents, or of killing infectious agents outside the body by chemical or physical means directly applied",
+      "source_provision": "s2"
+    },
+    {
+      "term": "communicable disease",
+      "definition": "any disease which can be communicated directly or indirectly by any person suffering therefrom to any other person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dwelling",
+      "definition": "any house, room, shed, hut, cave, tent, vehicle, boat or any other structure or place whatsoever, any portion whereof is used by any human being for sleeping or in which any human being dwells",
+      "source_provision": "s2"
+    },
+    {
+      "term": "food",
+      "definition": "any animal product, fish, fruit, vegetables, condiments, confectionery, beverages and any other substance whatsoever (other than drugs or water) in any form, state or stage of preparation which is intended or ordinarily used for human consumption",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health officer",
+      "definition": "any medical practitioner registered under the Botswana Health Professions Act (Cap. 61:02), any health inspector, and any public health nurse employed by or so designated by the Minister",
+      "source_provision": "s2"
+    },
+    {
+      "term": "infected",
+      "definition": "suffering from, or in the incubation stage of, or contaminated with the infection of any communicable disease",
+      "source_provision": "s2"
+    },
+    {
+      "term": "isolated",
+      "definition": "the segregation, and the separation from, and interdiction of communication with others, other than by means approved in writing by the health officer, of persons who are suspected of being infected, and \"isolation\" has a corresponding meaning",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical surveillance",
+      "definition": "the keeping of a person under medical supervision: persons under such surveillance may be required to remain within a specified area or to attend for medical examination at specified places and times",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Ministry",
+      "definition": "the Ministry for the time being responsible for the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "occupier",
+      "definition": "any person in actual occupation of land or premises without regard to the title under which he occupies, and in the case of premises subdivided and let to lodgers or various tenants the person receiving the rent payable by lodgers or tenants, whether on his own account or as an agent for any person entitled thereto or interested therein, and in the case of a school, the principal or other person in charge of the school",
+      "source_provision": "s2"
+    },
+    {
+      "term": "parent",
+      "definition": "the father and mother of a child, whether adopted or whether legitimate or not, and any legal guardian",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "any building or tent together with the land on which the same is situated and adjoining land used in connection therewith, and includes any vehicle, conveyance or boat",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public building",
+      "definition": "a building used or constructed or adapted to be used either ordinarily or occasionally as a place of public worship or as a hospital, college, school, hotel, boarding-house, lodging-house, theatre, public hall or as a place of assembly for persons admitted by ticket or otherwise, or used or adapted to be used for any other public purpose",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regulation",
+      "definition": "any regulation made under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "school",
+      "definition": "any public or private establishment for nursery, primary or secondary or higher education and includes a hostel or boarding-house kept for housing the pupils at any such establishment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "veterinary officer",
+      "definition": "any veterinary surgeon registered under the Veterinary Surgeons Act (Cap. 61:04), or livestock officer employed by the Government of Botswana.",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public vaccinator",
+      "definition": "a public vaccinator appointed by the Minister and any person appointed by the Minister to assist or act for a public vaccinator, and any health officer.",
+      "source_provision": "s24"
+    }
+  ]
+}

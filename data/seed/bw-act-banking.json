@@ -1,0 +1,64 @@
+{
+  "id": "bw-act-banking",
+  "type": "statute",
+  "title": "Banking",
+  "title_en": "Banking",
+  "short_name": "Banking",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/banking",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Banking Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"affiliate\" , in respect of any bank, means any entity, corporate or incorporate, where 20 percent or more of any class of its voting shares or other voting participation is directly or indirectly owned or controlled by such bank, or is held by it with power to vote;\n\"Agency\" has the meaning assigned to it under the Financial Intelligence Act (Cap. 08:07);\n[10 of 2018, s. 2.]\n\"bank\" means a company, incorporated in accordance with the provisions of the Companies Act, which is licensed under this Act to conduct banking business;\n\"banking business\" means—\n(i) the business of accepting deposits of money repayable on demand or after fixed periods or after notice, as the case may be, by cheque or otherwise; and/or\n(ii) the employment of deposits in the making or giving of loans, advances, overdrafts or other similar facilities, and in the making of investments or engagement in other operations authorised by law or under customary banking practice, for the account of, and at the risk of, the person or persons accepting such deposits, and includes the discounting of commercial paper, securities and other negotiable instruments, for the purpose of extending loans or other credit facilities;\n\"Central Bank\" means the Bank of Botswana established under the Bank of Botswana Act;\n\"demand liabilities\" , means the deposits held by a bank which must be repaid on demand;\n\"director\" in relation to a bank includes any person, by whatever name called, who performs or is empowered to perform, substantially the same functions, in respect of that bank, as those performed by the director of a company;\n\"foreign bank\" means an institution incorporated in a country other than Botswana, and subject to a foreign jurisdiction, which is licensed to do banking business according to the laws of that country;\n\"investigatory authority\" has the meaning assigned to it under the Financial Intelligence Act (Cap. 08:07);\n[10 of 2018, s. 2.]\n\"money laundering\" has the meaning assigned to it under the Proceeds and Instruments of Crime Act (Cap. 08:03);\n[10 of 2018, s. 2.]\n\"place of business\" means any branch, office or agency (including a mobile agency) of a bank in Botswana, open to the public for the transaction of banking business;\n\"principal officer\" in relation to a bank in Botswana, means the chief executive officer, or other person, by whatever title he may be referred to, who is, subject to the directions of the board of directors, responsible for the day-to-day management of the affairs of the bank;\n\"unsecured\" , in relation to loans, advances or credit facilities, means loans, advances or credit facilities granted without security; or, in relation to loans, advances or credit facilities granted against security, means any part of such loans advances or credit facilities which at any given time exceeds the market value of the assets comprising the security given, or which exceeds the valuation approved by the Central Bank whenever it deems that no market value exists for such assets."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Agency",
+      "definition": "assigned to it under the Financial Intelligence Act (Cap. 08:07)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bank",
+      "definition": "a company, incorporated in accordance with the provisions of the Companies Act, which is licensed under this Act to conduct banking business",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Central Bank",
+      "definition": "the Bank of Botswana established under the Bank of Botswana Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foreign bank",
+      "definition": "an institution incorporated in a country other than Botswana, and subject to a foreign jurisdiction, which is licensed to do banking business according to the laws of that country",
+      "source_provision": "s2"
+    },
+    {
+      "term": "investigatory authority",
+      "definition": "assigned to it under the Financial Intelligence Act (Cap. 08:07)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "money laundering",
+      "definition": "assigned to it under the Proceeds and Instruments of Crime Act (Cap. 08:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "place of business",
+      "definition": "any branch, office or agency (including a mobile agency) of a bank in Botswana, open to the public for the transaction of banking business",
+      "source_provision": "s2"
+    }
+  ]
+}

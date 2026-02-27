@@ -1,0 +1,26 @@
+{
+  "id": "bw-sub-sleeping-sickness-subsidiary-legislation",
+  "type": "statute",
+  "title": "Sleeping Sickness: Subsidiary Legislation",
+  "title_en": "Sleeping Sickness: Subsidiary Legislation",
+  "short_name": "Sleeping Sickness: Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/sleeping-sickness-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Tsetse Fly Control Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Directions",
+      "content": "2. Directions\nAll persons travelling on the following roads shall, if so required by an administrative officer, pass through the de-flying chambers specified below together with their vehicles, donkeys, horses or other draught animals:\nSankuyu to Maun Road"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-land-use-control-sir-seretse-khama-airport-order",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation, Land Use Control (sir Seretse Khama Airport) Order",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation, Land Use Control (sir Seretse Khama Airport) Order",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-land-use-control-sir-seretse-khama-airport-order",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Civil Aviation, Land Use Control (Sir Seretse Khama Airport) Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application of provisions of Order",
+      "content": "2. Application of provisions of Order\nThis Order shall apply to those areas of land and water situated on or near Sir Seretse Khama Airport and covered by the descriptions set out in the First Schedule hereto, which areas may herein be referred to as \"controlled areas\"."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Limitation on height of structures or trees",
+      "content": "3. Limitation on height of structures or trees\nExcept as otherwise provided in this Order, no person shall erect, alter or maintain any structure or grow any tree of a height in excess of the limits set out in respect of each controlled area as indicated in the Second Schedule hereto."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Restrictions on use of controlled areas",
+      "content": "4. Restrictions on use of controlled areas\nNotwithstanding any other provisions of this Order, no use may be made of land or water within any controlled area established by this Order in such a manner as to create any electrical interference with navigational signals or radio communication between the airport and aircraft, make it difficult for pilots to distinguish between airport lights and other illuminations, result in glare in the eyes of pilots using the airport, impair visibility in the vicinity of the airport, create bird strike hazards, or otherwise in any way endanger or interfere with the landing, takeoff, or manoeuvering of aircraft intending to use the airport."
+    }
+  ],
+  "definitions": []
+}

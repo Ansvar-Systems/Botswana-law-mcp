@@ -1,0 +1,82 @@
+{
+  "id": "bw-act-water-utilities-corporation",
+  "type": "statute",
+  "title": "Water Utilities Corporation",
+  "title_en": "Water Utilities Corporation",
+  "short_name": "Water Utilities Corporation",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/water-utilities-corporation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Water Utilities Corporation Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Corporation\" means the Water Utilities Corporation established under section 3;\n\"financial year\" means the year ending on the 31st March in each year;\n\"Government water undertakings\" means works established and arrangements concluded by the Government for the purpose of supplying water to communities and enterprises in Botswana;\n\"undertaking\" means any business for the supply of water to the public, whether operated by a water authority or not;\n\"water authority\" means a water authority within the meaning of the Waterworks Act (Cap. 34:03)."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment, Constitution and Membership of Corporation",
+      "section": "3",
+      "title": "Establishment of Corporation",
+      "content": "3. Establishment of Corporation\n(1) There is hereby established a Corporation to be known as the Water Utilities Corporation.\n(2) The Corporation shall be deemed to be a water authority for the purposes of the Waterworks Act, in respect of such waterworks areas as may from time to time be specified by the Minister by notice published in the Gazette .\n(3) The Corporation shall be a body corporate capable of suing and being sued in the name of the Water Utilities Corporation and, subject to the provisions of this Act, of performing such acts as bodies corporate may by law perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment, Constitution and Membership of Corporation",
+      "section": "4",
+      "title": "Constitution",
+      "content": "4. Constitution\n(1) The Corporation shall consist of a chairman and not less than six nor more than eight other members, who shall be appointed by the Minister.\n(2) A person shall be disqualified from being appointed or being a member of the Corporation—\n( a ) if he is a Member of the National Assembly or is an employee of the Corporation; or\n( b ) if he has been declared bankrupt or insolvent under any law in any country, and has not been discharged, or has made a composition with his creditors and has not paid his debts in full."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment, Constitution and Membership of Corporation",
+      "section": "5",
+      "title": "Resignation and removal from office",
+      "content": "5. Resignation and removal from office\nThe chairman and any other member of the Corporation appointed under section 4 may, if not a public servant, resign his office by notice in writing addressed to the Minister, and may be removed from office by the Minister if he—\n( a ) ceases to hold any office by virtue of which he was appointed;\n( b ) becomes of unsound mind;\n( c ) is declared insolvent or bankrupt under any law in force in any country;\n( d ) suspends payment of his debts or compounds with his creditors;\n( e ) is absent from three consecutive meetings of the Corporation without such reason as appears to the Minister to be sufficient;\n( f ) is sentenced to imprisonment without the option of a fine or is convicted of an offence involving dishonesty;\n( g ) is guilty of serious misconduct in relation to his duties as chairman or member of the Corporation; or\n( h ) in the case of a person possessed of professional qualifications, is disqualified or suspended, otherwise than at his own request, from practising his profession in Botswana or in any other country by order of any competent authority made in respect of him personally."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Establishment, Constitution and Membership of Corporation",
+      "section": "6",
+      "title": "Tenure of office",
+      "content": "6. Tenure of office\n(1) A member of the Corporation, other than the chairman, shall hold office for such period, not exceeding four years, as may be specified in the notice appointing him, and on the expiration of such period shall be eligible for re-appointment:"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Corporation",
+      "definition": "the Water Utilities Corporation established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial year",
+      "definition": "the year ending on the 31st March in each year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Government water undertakings",
+      "definition": "works established and arrangements concluded by the Government for the purpose of supplying water to communities and enterprises in Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "undertaking",
+      "definition": "any business for the supply of water to the public, whether operated by a water authority or not",
+      "source_provision": "s2"
+    },
+    {
+      "term": "water authority",
+      "definition": "a water authority within the meaning of the Waterworks Act (Cap. 34:03).",
+      "source_provision": "s2"
+    }
+  ]
+}

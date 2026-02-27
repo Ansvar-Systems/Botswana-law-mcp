@@ -1,0 +1,81 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-north-east-district-council-dogs-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : North East District Council (dogs) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : North East District Council (dogs) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-north-east-district-council-dogs-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the North East District Council (Dogs) Bye-laws*.\n*Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"authorised officer\" means the Council Secretary or any other officer of the Council authorised in writing by the Council Secretary to perform the duties under these Bye-laws;\n\"Council\" means the North East District Council;\n\"licence\" means a licence issued under bye-law 3;\n\"public place\" means any public way, and any building, place or conveyance to which the public are entitled without any conditions within the Council's area of jurisdiction and the enclosed space within its control;\n\"rabies certificate\" means a certificate signed by a veterinary officer stating that a dog has been vaccinated against rabies; and\n\"veterinary officer\" includes a livestock officer or stock inspector employed in the Government service and a veterinary surgeon defined under the Veterinary Surgeons Act (Cap. 61:04)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Licensing of dogs",
+      "content": "3. Licensing of dogs\n(1) A person shall not keep a dog which is over six months old without a licence to keep that dog, issued under these Bye-laws.\n(2) The owner of a dog shall, within four weeks of the dog attaining the age of six months, apply to an authorised officer for a licence to keep that dog in Form A set out in Schedule 1.\n(3) The authorised officer shall, on receipt of a written application, upon the payment of the fee set out in the Schedule 2 and after the production of a rabies certificate by the applicant, issue a dog licence in Form B1."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Duration of licence",
+      "content": "4. Duration of licence\nA licence issued under bye-law 3 shall be valid for 12 months."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Renewal of licence",
+      "content": "5. Renewal of licence\n(1) A holder of a dog licence may, upon its expiry, apply for a renewal of the licence to the authorised officer, in Form C set out in the Schedule 1.\n(2) An application for renewal in terms of sub-bye-law (1) shall be made not later than one month before the expiry of that licence.\n(3) Subject to the provisions of sub-bye-law (4), the authorised officer may, on receipt of an application, renew the licence by endorsing on the licence and upon payment of a fee set out in Schedule 2, and may attach such conditions to the renewal thereof as he or she may determine.\n(4) The authorised officer may refuse to renew a licence if he or she is satisfied that\n( a ) the conditions of the licence have not been complied with;\n( b ) the conditions of these Bye-laws have not been complied with; or\n( c ) it is in the public interest not to renew such licence."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Transfer of licence",
+      "content": "6. Transfer of licence\n(1) A person who acquires a dog for which a licence has been issued under these Bye-laws may apply to the authorised officer, in Form D set out in Schedule 1, for the licence to be transferred to him or her.\n(2) The authorised officer shall, if satisfied of the validity of the licence and upon payment of a fee set out in the Schedule 2, cause the transfer to be effected by endorsing the particulars of the applicant on the licence."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "the Council Secretary or any other officer of the Council authorised in writing by the Council Secretary to perform the duties under these Bye-laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the North East District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued under bye-law 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public place",
+      "definition": "any public way, and any building, place or conveyance to which the public are entitled without any conditions within the Council's area of jurisdiction and the enclosed space within its control",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rabies certificate",
+      "definition": "a certificate signed by a veterinary officer stating that a dog has been vaccinated against rabies",
+      "source_provision": "s2"
+    },
+    {
+      "term": "veterinary officer",
+      "definition": "a livestock officer or stock inspector employed in the Government service and a veterinary surgeon defined under the Veterinary Surgeons Act (Cap. 61:04).",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-aerodromes-design-and-operations-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (aerodromes Design and Operations) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (aerodromes Design and Operations) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-aerodromes-design-and-operations-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary Provisions (regs 1-4)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Aerodromes Design and Operations) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary Provisions (regs 1-4)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"accident\" means an occurrence associated with the operation of an aircraft which in the case of a manned aircraft, takes place between the time any person boards the aircraft with the intention of flight until such time the person has disembarked or in the case of an unmanned aircraft, takes place between the time the aircraft is ready to move with the purpose of flight until such time as it comes to rest at the end of the flight and the primary propulsion system is shut down, in which—\n( a ) a person is seriously injured as a result of—\n(i) being in the aircraft,\n(ii) direct contact with any part of the aircraft, including a part which has become detached from the aircraft, or\n(iii) direct exposure to jet blast,\nexcept when the injury is from a natural cause, self-inflicted or inflicted by another person, or when the injury is to a stowaway hiding outside an area normally available to passengers and crew;\n( b ) the aircraft sustains damage or structural failure which—\n(i) adversely affects the structural strength, performance or flight characteristics of the aircraft, and\n(ii) would normally require major repair or replacement of the affected component, except for engine failure or damage, which is limited to a single engine and its cowlings and accessories, propellers, wing tips, antennas, probes, vanes, tires, brakes, wheels, fairings, panels, landing gear doors, windscreen, small dents or puncture holes in the aircraft skin, minor damages to main rotor blades, tail rotor blades, landing gear, and those resulting from hail or bird strike including holes in the radome; or\n( c ) the aircraft is missing or is completely inaccessible;\n\"Advisory Circular (AC)\" means explanatory or advisory information concerning technical, legislative or administrative matters, as well as information on the long-term forecast of major changes in legislation, regulations, procedures or facilities liable to affect flight safety;\n\"aerodrome\" means a defined area on land or water (including any buildings, installations and equipment) intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft;\n\"aerodrome beacon\" means an aeronautical beacon used to indicate the location of an aerodrome from the air;\n\"aerodrome elevation\" means the elevation of the highest point of the landing area;\n\"aerodrome facilities and equipment\" means facilities and equipment, inside or outside the boundaries of an aerodrome that are constructed or installed and maintained for the arrival, departure and surface movement of aircraft;\n\"aerodrome identification sign\" means a sign placed on an aerodrome to aid in identifying the aerodrome from the air;\n\"aerodrome manual\" means the manual that forms part of the application for a licence or a certificate under these Regulations, including any amendments to the manual, approved by the Authority;\n\"aerodrome mapping data – (AMD)\" means data collected for the purpose of compiling aerodrome mapping information for aeronautical uses;\n\"aerodrome mapping database – (AMDB)\" means a collection of aerodrome mapping data organised and arranged as a structured data set;\n\"aerodrome operator\" means an operator of an aerodrome either licensed or certificated under these Regulations in Botswana;\n\"Aerodrome Operating Minima\" means the limits of usability of an aerodrome for—\n( a ) take-off, expressed in terms of Runway Visual Range or visibility and, if necessary, cloud conditions;\n( b ) landing in 2D instrument approach operations, expressed in terms of visibility or Runway Visual Range, minimum descent altitude or height (MDA/H) and, if necessary, cloud conditions; and\n( c ) landing in 3D instrument approach operations, expressed in terms of visibility or Runway Visual Range and decision altitude/height (DA/H) as appropriate to the type or category of the operation;\n\"aerodrome reference code\" means a code used for planning purposes to classify an aerodrome with respect to the critical aircraft characteristics for which the aerodrome is intended;\n\"aerodrome reference point\" means the designated geographical location of an aerodrome;\n\"aerodrome standards\" means standards prescribed by the Authority applicable to aerodromes;\n\"aerodrome traffic density\" means—\n( a ) Light: Where the number of movements in the mean busy hour is not greater than 15 per runway or typically less than 20 total aerodrome movements;\n( b ) Medium: Where the number of movements in the mean busy hour is of the order of 16 to 25 per runway or typically between 20 to 35 total aerodrome movements;\n( c ) Heavy: Where the number of movements in the mean busy hour is of the order of 26 or more per runway or typically more than 35 total aerodrome movements;\n\"aerodrome traffic zone\" means the airspace extending from aerodrome level to a height of two thousand feet over the area comprising the aerodrome and the surrounding land or water within a distance of two thousand yards of its boundaries;\n\"aeronautical beacon\" means an aeronautical ground light visible at all azimuths, either continuously or intermittently, to designate a particular point on the surface of the earth;\n\"Aeronautical data\" is classified as—\n( a ) routine data: there is a very low probability when using corrupted routine data that the continued safe flight and landing of an aircraft would be severely at risk with the potential for catastrophe;\n( b ) essential data: there is a low probability when using corrupted essential data that the continued safe flight and landing of an aircraft would be severely at risk with the potential for catastrophe; and\n( c ) critical data: there is a high probability when using corrupted critical data that the continued safe flight and landing of an aircraft would be severely at risk with the potential for catastrophe;\n\"aeronautical ground light\" means any light specially provided as an aid to air navigation, other than a light displayed on an aircraft;\n\"Aeronautical Information Circular (AIC)\" means a notice containing information that does not qualify for the origination of a NOTAM or for inclusion in the Aeronautical Information Publication, but which relates to flight safety, air navigation, technical, administrative or legislative matters;\n\"Aeronautical Information Publication (AIP)\" means an aeronautical information publication of a lasting character essential to air navigation, issued by the Authority;\n\"aeroplane reference field length\" means the minimum field length required for take-off at maximum certificated take-off mass, sea-level, standard atmospheric conditions, still air and zero runway slope, as shown in the appropriate aeroplane flight manual prescribed by the certificating authority or equivalent data from the aeroplane manufacturer;\n\"air traffic service\" means a flight information service, alerting service, air traffic advisory service, or air traffic control service;\n\"air traffic service unit\" is a generic term meaning variously, air traffic control unit, flight information centre or air traffic services reporting office;\n\"Aircraft Classification Rating (ACR)\" means a number expressing the relative effect of an aircraft on a pavement for a specified standard sub grade category;\n\"aircraft stand\" means a designated area on an apron intended to be used for parking an aircraft;\n\"appeals tribunal\" means the appeals tribunal established under section 79 of the Civil Aviation Act (Cap. 71:01);\n\"apron\" means a defined area, on an aerodrome, intended to accommodate aircraft for purposes of loading or unloading of passengers, mail or cargo, fuelling, parking or maintenance;\n\"apron management service\" means a service provided to regulate the activities and the movement of aircraft and vehicles on an apron;\n\"approach surface\" means an inclined plane or combination of planes preceding the threshold;\n\"arresting system\" means a system designed to decelerate an aeroplane overrunning the runway;\n\"authorised person\" means any person authorised by the Authority either generally or in relation to a particular case or class of cases and reference to an authorised person includes references to the holder for the time being of an office designated by the Authority;\n\"Autonomous Runway Incursion Warning System (ARIWS)\" means a system which provides autonomous detection of a potential incursion or of the occupancy of an active runway and a direct warning to a flight crew or a vehicle operator;\n\"balked landing\" means a landing manoeuvre that is unexpectedly discontinued at any point below the obstacle clearance altitude/height (OCA/H);\n\"balked landing surface\" means an inclined plane surface located at a specified distance after the threshold, extending between the inner transitional surface;\n\"barrette\" means three or more aeronautical ground lights closely spaced in a transverse line so that from a distance they appear as a short bar of light;\n\"calendar\" means discrete temporal reference system that provides the basis for defining temporal position to a resolution of one day;\n\"capacitor discharge lights\" means a lamp in which high-intensity flashes of extremely short duration are produced by the discharge of electricity at high voltage through a gas enclosed in a tube;\n\"clearway\" means a defined rectangular area under the control of the appropriate authority selected or prepared as a suitable area over which an aircraft may make a portion of its initial climb to a specified height;\n\"Commercial Air Transport Operation\" means an aircraft operation involving the transport of passengers, cargo or mail for remuneration or hire;\n\"conical surface\" means a surface sloping upwards and outwards from the periphery of the inner horizontal surface;\n\"controlled aerodrome\" means an aerodrome where air traffic services are provided;\n\"critical aircraft\" means the most demanding aircraft with regard to the aircraft performance and dimensions for a range of aircraft, for which the aerodrome facilities is intended;\n\"Cyclic Redundancy Check (CRC)\" means a mathematical algorithm applied to the digital expression of data that provides a level of assurance against loss or alteration of data;\n\"dangerous goods\" means articles or substances which are capable of posing a risk to health, safety, property or the environment;\n\"data accuracy\" means a degree of conformance between the estimated or measured value and the true value;\n\"data integrity (assurance level)\" means a degree of assurance that an aeronautical data and its value has not been lost nor altered since the data origination or authorised amendment;\n\"data integrity classification (aeronautical data)\" means classification based upon the potential risk resulting from the use of corrupted data;\n\"data quality\" means a degree or level of confidence that the data provided meets the requirements of the data user in terms of accuracy, resolution and integrity;\n\"datum\" means any quantity or set of quantities that may serve as a reference or basis for the calculation of other quantities;\n\"declared distance\" means—\n( a ) \"accelerate-stop distance available (ASDA)\" which is the length of the take-off run available plus the length of the stopway, if provided;\n( b ) \"landing distance available (LDA)\" which is the length of the runway which is declared available and suitable for the ground run of an aircraft landing;\n( c ) \"take-off distance available (TODA)\" which is the length of the take-off run available plus the length of the clearway, if provided;\n( d ) \"take-off run available (TORA)\" which is the length of runway declared available and suitable for the ground run of an aircraft taking-off;\n\"dependent parallel approaches\" means simultaneous approaches to parallel or near-parallel instrument runways where radar separation minima between aircraft on adjacent extended runway centrelines are prescribed;\n\"displaced threshold\" means a threshold not located at the extremity of a runway;\n\"effective i"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary Provisions (regs 1-4)",
+      "section": "3",
+      "title": "Use of common reference systems",
+      "content": "3. Use of common reference systems\n(1) The World Geodetic System-1984 (WGS-84) shall be used as the horizontal reference system to express aeronautical geographical co-ordinates for aerodromes.\n(2) The Mean Sea Level datum shall be used as the vertical reference system (elevation) at aerodromes.\n(3) The Gregorian calendar and Co-ordinated Universal Time shall be used as the temporal reference system except where notified in the Botswana aeronautical information publication or the aeronautical information circular.\n(4) The International System of Units developed and maintained by the General Conference of Weights and Measures shall be used as the standard system of units of measurements unless otherwise specified by the Authority."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary Provisions (regs 1-4)",
+      "section": "4",
+      "title": "Categories of aerodromes and requirements for operation of aerodromes",
+      "content": "4. Categories of aerodromes and requirements for operation of aerodromes\nA person shall not operate an aerodrome in Botswana unless such person is certified, licensed or registered in accordance with Civil Aviation (Certification and Licensing of Aerodromes) Regulations (Cap. 71:01 (Sub. Leg.))."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Construction of Aerodromes (regs 5-9)",
+      "section": "5",
+      "title": "Application for aerodrome establishment certificate",
+      "content": "5. Application for aerodrome establishment certificate\n(1) A person shall not construct an aerodrome without a valid aerodrome establishment certificate issued under regulation 6.\n(2) An applicant for an aerodrome establishment certificate shall submit to the Authority for approval an application in the prescribed form accompanied by—\n( a ) a detailed design of the proposed construction including related architectural requirements approved by the relevant authority;\n( b ) aerodrome data in accordance with the characteristics of the aircraft for which the aerodrome is intended;\n( c ) a topographical map of the proposed aerodrome site as specified by the Authority indicating contours at one metre intervals; and\n( d ) proof of payment for inspection fees as set out in Part 1 of Schedule 5, of the Civil Aviation (Certification and Licensing of Aerodromes) Regulations.\n(3) An application for an aerodrome establishment certificate shall be considered for approval where the Authority is satisfied that the—\n( a ) applicant holds proof of ownership or lease hold of the proposed site and a valid authorisation from a relevant authority for use of the place as an aerodrome;\n( b ) environment impact assessment report in line with the Environmental Impact Assessment Act (Cap. 65:07) is approved by authority responsible for national environment management; and\n( c ) applicant has obtained a letter of no objection from the Director of Wildlife, land board and tribal authority, where the site is on tribal land or Wildlife and National Park.\n(4) The Authority shall, before issuance of an establishment certificate, assess the suitability of the place proposed for construction taking into consideration—\n( a ) the proximity of the place to other aerodromes and landing areas, including military aerodromes;\n( b ) obstacles, terrain and existing airspace restrictions; and\n( c ) that it is not against public interest that the place where the aerodrome is to be constructed shall be used as such."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Construction of Aerodromes (regs 5-9)",
+      "section": "6",
+      "title": "Issuance and validity of aerodrome establishment certificate",
+      "content": "6. Issuance and validity of aerodrome establishment certificate\n(1) The Authority shall issue an establishment certificate in Form P as set out in Schedule 10 to an applicant where the applicant satisfies the requirements in regulation 5 and any other requirements as may be specified by any relevant authority.\n(2) An aerodrome establishment certificate shall be valid for a period of two years."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Construction of Aerodromes (regs 5-9)",
+      "section": "7",
+      "title": "Design and construction of aerodromes",
+      "content": "7. Design and construction of aerodromes\n(1) An applicant for an establishment certificate shall ensure that the design and construction of an aerodrome is undertaken by a person registered with the relevant professional body.\n(2) The Authority shall inspect the site of an aerodrome during construction to ascertain compliance with standards prescribed and the terms of the aerodrome establishment certificate.\n(3) An operator shall bear or pay any costs associated in inspection of an aerodrome, in connection with the issuing or renewal of an establishment certificate, licence or permit."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Construction of Aerodromes (regs 5-9)",
+      "section": "8",
+      "title": "Requirements for aerodrome design",
+      "content": "8. Requirements for aerodrome design\n(1) An aerodrome design shall—\n( a ) indicate the physical characteristics in accordance with these Regulations;\n( b ) indicate the obstacle limitation surfaces;\n( c ) integrate security measures in accordance with the Civil Aviation (Security) Regulations (Cap. 71:01 (Sub. Leg.)); and\n( d ) indicate the appropriate equipment and installations.\n(2) The physical characteristics, obstacle limitation surfaces, visual aids and equipment and installations, required under subregulation (1) shall—\n( a ) be appropriate to the critical aircraft characteristics for which the aerodrome intends to serve;\n( b ) be at the lowest meteorological minima for each runway;\n( c ) provide ambient light conditions during the operations of aircraft; and\n( d ) comply with the aerodrome design regulations as set out in Part VII of these Regulations."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Construction of Aerodromes (regs 5-9)",
+      "section": "9",
+      "title": "Aerodrome reference code",
+      "content": "9. Aerodrome reference code\n(1) An aerodrome reference code comprising of a code number and a code letter shall be used for aerodrome planning.\n(2) The Authority shall determine the aerodrome reference code in accordance with the critical aircraft characteristics for which the aerodrome is intended.\n(3) The aerodrome reference code numbers and code letters provided for under subregulation (1) shall be determined in accordance with Table S1-1 as set out in Schedule 1."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "10",
+      "title": "Compliance with conditions",
+      "content": "10. Compliance with conditions\nAn operator shall comply with conditions, endorsed on a licence, certificate or registration approval granted under these Regulations."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "11",
+      "title": "Competence of operational and maintenance personnel",
+      "content": "11. Competence of operational and maintenance personnel\n(1) An operator shall develop and submit for approval by the Authority, a Task Resource Analysis to ensure that there is an adequate number of operational, qualified and skilled personnel to perform activities for aerodrome operation and maintenance.\n(2) An operator shall only employ persons with the required certification as contained in the guidance material provided by the Authority, where the Authority or any other relevant authority requires competence certification for the personnel of an aerodrome.\n(3) The provisions of this regulation shall not apply to category 1, 2 and registered aerodromes."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "12",
+      "title": "Aerodrome operations and maintenance",
+      "content": "12. Aerodrome operations and maintenance\n(1) An operator shall maintain an aerodrome in accordance with the maintenance procedures set out in the aerodrome manual.\n(2) The Authority may give written directives to an operator to alter the procedures set out in an aerodrome manual.\n(3) An operator shall ensure proper and efficient maintenance of the aerodrome.\n(4) An operator of an aerodrome where air traffic services are provided, shall co-ordinate with the air traffic services to ensure the safety of aircraft operating in the airspace, associated with the aerodrome."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "13",
+      "title": "Safety Management System",
+      "content": "13. Safety Management System\n(1) An operator shall have a Safety Management System that complies with the requirements specified in the Civil Aviation (Safety Management) Regulations (Cap. 71:01 (Sub. Leg.)).\n(2) The provisions of this regulation shall not apply to aerodromes in categories 1, 2 and registered aerodromes.\n(3) The Authority may apply the provisions of this regulation to aerodromes in category 2 where it deems it necessary."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "14",
+      "title": "Storage of inflammable and other dangerous goods",
+      "content": "14. Storage of inflammable and other dangerous goods\nA person shall not store fuel, pyrotechnic materials and other highly flammable or dangerous goods at an aerodrome except with the permission of the Authority and in accordance with these Regulations."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "15",
+      "title": "Safety measures against fire",
+      "content": "15. Safety measures against fire\n(1) A person shall not—\n( a ) smoke within any place, or bring an open flame into any place, where that act is prohibited by a displayed notice;\n( b ) smoke within a place where there is no notice prohibiting smoking, or bring an open flame into that place, within a distance of an aircraft or, of any vehicle used for the supply of fuel to an aircraft, or a store, dump, liquid fuel or explosives, as may be determined by the Authority;\n( c ) wilfully give a false fire alarm;\n( d ) tamper or interfere with any fire hose reel, hydrant or any other item provided for firefighting purposes;\n( e ) keep, store, discard or discharge any flammable liquid, gas, signal flares or other like material in an aircraft, except in the receptable appropriate for the purpose or in a place on the aerodrome specifically approved by the aerodrome operator for that purpose; or\n( f ) store, stack or use any material or equipment in a manner which constitutes or is likely to constitute a fire hazard.\n(2) An operator shall display in a conspicuous place appropriate signage in respect to the acts prohibited under subregulation (1)."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "16",
+      "title": "Access to and operations within restricted areas",
+      "content": "16. Access to and operations within restricted areas\n(1) A person shall not access a restricted area of an aerodrome unless authorised by the operator and subject to such conditions as the operator may impose.\n(2) A person authorised to access a restricted area under subregulation (1) shall not—\n( a ) move an aircraft or a vehicle in the restricted area—\n(i) except with the permission and directions issued by the air traffic services personnel, or\n(ii) in a manner that endangers the safety of persons and property; or\n( b ) use a portion of the aerodrome for landing or taking-off, other than the area designated for that purpose."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "17",
+      "title": "Entry into or exit from restricted areas of aerodrome",
+      "content": "17. Entry into or exit from restricted areas of aerodrome\n(1) A person, aircraft or vehicle shall not enter or exit the restricted area of an aerodrome except through points established by the aerodrome operator for the purpose of the aerodrome.\n(2) A person—\n( a ) other than a person carried in an aircraft or in a vehicle, shall not enter or leave a restricted area of an aerodrome; or\n( b ) shall not move an aircraft on the surface of an aerodrome or a vehicle into or from the restricted area,\nexcept in an emergency or at a point of entry or exit established by an operator for that purpose."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "18",
+      "title": "Test-running of aircraft engine",
+      "content": "18. Test-running of aircraft engine\nA person may test-run an aircraft engine at an aerodrome, at an approved aircraft maintenance facility of the aerodrome or a place designated for test running by an operator."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "19",
+      "title": "Prohibited acts on aerodrome",
+      "content": "19. Prohibited acts on aerodrome\n(1) A person shall not, on an aerodrome—\n( a ) obstruct or interfere with the use of the aerodrome;\n( b ) obstruct any person executing his or her duties at the aerodrome;\n( c ) remove or deface any notice, writing, document or marking erected or displayed by the aerodrome operator;\n( d ) throw, leave or drop anything capable of causing injury to any person or damage to property;\n( e ) dump any waste matter in an undesignated place; or\n( f ) dump or spill any substance capable of causing water pollution, whether solid, liquid, vapour, gas or a combination of these in an undesignated place.\n(2) A person shall not, unless with the permission of the operator—\n( a ) interfere or tamper with any part of the aerodrome or any equipment associated with the operation of the aerodrome;\n( b ) climb any wall, fence, barrier, ceiling, gate or post on an aerodrome;\n( c ) handle any baggage or carry baggage for a passenger at an aerodrome;\n( d ) bring a vehicle into or drive into an aerodrome; or\n( e ) obstruct an entrance to or a passage at an aerodrome in a manner that inconveniences other users of the entrance or passage."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "20",
+      "title": "Removal of obstructions from aerodrome movement surfaces",
+      "content": "20. Removal of obstructions from aerodrome movement surfaces\nAn operator shall remove from the aerodrome surface any vehicle or other obstruction that is likely to be hazardous to aircraft operations."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "21",
+      "title": "Maintenance of environmental management programme",
+      "content": "21. Maintenance of environmental management programme\nAn operator shall—\n( a ) establish and maintain an aerodrome environmental management programme for the area within the authority of the operator's management and for the area where wildlife presents or is likely to present a hazard to aircraft operations; and\n( b ) ensure that the environmental management programme established under subregulation ( a ) minimises the effects of any hazards or potential hazards taking into account the provisions of the laws on environmental management."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "22",
+      "title": "Protection of navigation aids",
+      "content": "22. Protection of navigation aids\nAn operator shall in consultation with the Authority prevent the—\n( a ) construction of any facility on the aerodrome, which may adversely affect the operation of any electronic or visual navigation or air traffic service facility on the aerodrome; and\n( b ) the interruption of visual or electronic signal of navigational aids, as far as it is within the authority of the operator."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "23",
+      "title": "Responsibilities of operator",
+      "content": "23. Responsibilities of operator\n(1) An operator shall—\n( a ) maintain the aerodrome in a serviceable condition, keep the aerodrome free of unauthorised person, vehicles and animals which are not under control or any other obstructions;\n( b ) mark all obstructions in accordance with any guidelines issued by the Authority;\n( c ) inform the Authority of any alterations to obstructions or works on the aerodrome;\n( d ) install approved wind direction indicators to show the surface direction of the wind and ensure that they function satisfactorily;\n( e ) maintain the prescribed markings in a conspicuous condition and ensure that they are readily visible to aircraft in the air or manoeuvring on the ground;\n( f ) avail facilities and ensure that they are in serviceable condition and that all apparatus installed function efficiently;\n( g ) appropriately mark the unserviceable areas on the landing terrain;\n( h ) inform the Authority where the aerodrome becomes unserviceable through any cause or where any portion of the surface of the landing area deteriorates to such an extent that the safe operation of aircraft may be endangered;\n( i ) submit to the Authority reports on the condition of the aerodrome as may be required by the Authority;\n( j ) ensure that organisations performing activities at the aerodrome comply with safety requirements specified by the operator;\n( k ) report all incidents and accidents at the aerodrome to the Authority; and\n( l ) require organisations performing activities at the aerodrome to comply with the aerodrome safety management requirements.\n(2) An operator shall perform collaboratively between affected stakeholders including the aeroplane operator, ground handling agencies and the air navigation service providers.\n(3) An operator and aeroplane operator shall document the introduction of an aeroplane type or subtype, new to the aerodrome and shall follow the following process—\n( a ) the aeroplane operator submits a request to the aerodrome operator to operate an aeroplane type or subtype to the aerodrome;\n( b ) the operator identifies possible means of accommodating the aeroplane type or subtype including access to movement areas and, where necessary, considers the feasibility and economic viability of upgrading the aerodrome infrastructure and makes an assessment; and\n( c ) the operator and aeroplane operator discuss the assessment by the operator and whether operations of the aeroplane type or subtype can be accommodated and, where permitted, under what conditions.\n(4) The aerodrome compatibility study shall include the following procedures—\n( a ) identify the aeroplane's physical and operational characteristics;\n( b ) identify the applicable regulatory requirements;\n( c ) establish the adequacy of the aerodrome infrastructure and facilities vis-a-vis the requirements of the new aeroplane;\n( d ) identify the changes required to the aerodrome; and\n( e ) perform the required safety assessments identified during the compatibility study.\n(5) The result of the compatibility study should enable decisions to be made and provide—\n( a ) the operator with the information in order to make a decision on—\n(i) allowing the operation of the specific aeroplane at the given aerodrome, and\n(ii) the changes required to the aerodrome infrastructure and facilities to ensure safe operations at the aerodrome with due consideration to the harmonious future development of the aerodrome;\n( b ) the State with information necessary for its safety oversight and the continued monitoring of the conditions specified in the aerodrome certification;\n( c ) the impact of aeroplane characteristics on the infrastructure;\n( d ) the aeroplane's physical characteristics; and\n( e ) aeroplane operational characteristics."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "24",
+      "title": "Inspection of aerodromes and unhindered access by inspectors of Authority",
+      "content": "24. Inspection of aerodromes and unhindered access by inspectors of Authority\n(1) The Authority shall inspect and carry out tests on the aerodrome facilities, services and equipment, inspect documents and records of the aerodrome, verify the Safety Management System of the aerodrome, before an aerodrome licence or certificate is issued or renewed, and subsequently, at any other time, for the purpose of ensuring that safety at the aerodrome is maintained.\n(2) The Authority or an inspector shall, for purposes of subregulation (1) have unhindered access to any part of the aerodrome or any aerodrome facility, including personnel."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "25",
+      "title": "Notifying and reporting",
+      "content": "25. Notifying and reporting\n(1) An operator shall notify and report to the Authority, the air traffic control unit and pilots, information on—\n( a ) any inaccuracies in the aeronautical information publication;\n( b ) any changes to the aerodrome facilities, equipment and level of service planned in advance; or\n( c ) issues that may require immediate notification including obstacles, obstructions and hazards, levels of service, movement areas, and any other condition that affects aviation safety at the aerodrome and against which precautions are warranted.\n(2) An operator shall give immediate notice, directly to the pilots where it is not feasible for the operator to arrange for the air traffic control and the flight operations unit to receive notice of the circumstances referred to in subregulation (1)( c )."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "26",
+      "title": "Aerodrome movement area inspections",
+      "content": "26. Aerodrome movement area inspections\nAn operator shall carry out an inspection of the movement area at least—\n( a ) once a day for aerodromes in categories 1, 2 and 3 and at least twice a day for aerodromes in categories 4, 5, 6, 7, 8, 9 and 10; and\n( b ) once a week for registered aerodromes."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "27",
+      "title": "Special inspections",
+      "content": "27. Special inspections\n(1) An operator shall inspect an aerodrome—\n( a ) as soon as practicable after any accident or incident;\n( b ) during any period of construction or repair of the aerodrome facilities or equipment that is critical to the safety of aircraft operation; and\n( c ) where there are conditions at the aerodrome that may affect aviation safety.\n(2) An operator shall notify the Authority, within a time determined by the Authority by way of an Advisory Circular, information on any special inspection carried out."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART III Obligations of Aerodrome Operator (regs 10-28)",
+      "section": "28",
+      "title": "Warning notices",
+      "content": "28. Warning notices\nAn operator shall, where a low flying aircraft at or near an aerodrome or a taxiing aircraft is likely to be hazardous to people or vehicles—\n( a ) post hazard warning notices to that effect, on any public way that is adjacent to the manoeuvring area; or\n( b ) inform the relevant authority where the public way is not controlled by the operator."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART IV Aerodrome Data (regs 29-42)",
+      "section": "29",
+      "title": "Aeronautical data",
+      "content": "29. Aeronautical data\n(1) An operator shall—\n( a ) determine and report aerodrome related aeronautical data in accordance with the accuracy and integrity classification required to meet the needs of the end-user of aeronautical data; and\n( b ) make available to the aeronautical information services aerodrome mapping data for aerodromes where safety or performance based operations suggest possible benefits.\n(2) The selection of the aerodrome mapping features to be collected, where made available in accordance with subregulation (1)( b ), be made with consideration of the intended applications.\n(3) Any digital data error detection technique shall be used during the transmission and storage of aeronautical data and digital data sets.\n(4) The aerodrome mapping data shall be made available to the aeronautical information services for aerodromes deemed relevant by the state where safety and performance base operations suggest possible benefits."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART IV Aerodrome Data (regs 29-42)",
+      "section": "30",
+      "title": "Aerodrome reference point",
+      "content": "30. Aerodrome reference point\n(1) An aerodrome reference point shall be—\n( a ) established for an aerodrome; and\n( b ) located near the initial or planned geometric centre of the aerodrome and shall normally remain where first established.\n(2) The position of the aerodrome reference point shall be measured and reported to the aeronautical information services authority in degrees, minutes and seconds."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART IV Aerodrome Data (regs 29-42)",
+      "section": "31",
+      "title": "Aerodrome and runway elevation",
+      "content": "31. Aerodrome and runway elevation\n(1) An aerodrome elevation and geoid undulation at the runway aerodrome elevation position shall be measured to the accuracy of one-half elevation metre and reported to the aeronautical information service authority.\n(2) An aerodrome used by international civil aviation for non-precision approaches, the elevation and geoid undulation of each threshold, the elevation of the runway end and any significant high or low intermediate points along the runway shall be measured to the accuracy of one-half metre and reported to the aeronautical information services authority.\n(3) The elevation and geoid undulation of the threshold, the elevation of the runway end and the highest elevation of the touchdown zone for precision approach runway, shall be measured to the accuracy of one-quarter metre and reported to the aeronautical information services authority.\n(4) The geoid undulation must be measured in accordance with the appropriate system of co-ordinates."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART IV Aerodrome Data (regs 29-42)",
+      "section": "32",
+      "title": "Aerodrome reference temperature",
+      "content": "32. Aerodrome reference temperature\nThe aerodrome reference temperature shall be—\n( a ) determined for an aerodrome in degrees celsius; and\n( b ) the monthly mean of the daily maximum temperatures for the hottest month of the year, being the month with the highest monthly mean temperature, and the temperature shall be, where possible averaged over a period of years."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART IV Aerodrome Data (regs 29-42)",
+      "section": "33",
+      "title": "Aerodrome dimensions and related information",
+      "content": "33. Aerodrome dimensions and related information\n(1) The following data shall be measured or described, as appropriate, for each facility provided on an aerodrome—\n( a ) runway – true bearing to one-hundredth of a degree, designation number, length, width, displaced threshold location to the nearest metre, slope, surface type, type of runway and, for precision approach runway category 1, the existence of an obstacle free zone when provided;\n( b ) width to the nearest metre, surface type of the—\n(i) strip,\n(ii) runway end safety area length, and\n(iii) stopway;\n( c ) arresting system-location, which runway end, and description;\n( d ) taxiway-designation, width, surface type;\n( e ) apron-surface type, aircraft stands;\n( f ) the boundaries of the air traffic control service;\n( g ) clearway-length to the nearest metre, ground profile;\n( h ) visual aids for approach procedures, marking and lighting of runways, taxiways and aprons, other visual guidance and control aids on taxiways and aprons, including taxi-holding positions and stop bars, and location and type of visual docking guidance systems;\n( i ) location and radio frequency of any VOR aerodrome checkpoint;\n( j ) location and designation of standard taxi-routes; and\n( k ) distance to the nearest metre of localiser and glide path elements comprising an instrument landing system or azimuth and elevation antenna of a microwave landing system in relation to the associated runway extremities.\n(2) The geographical co-ordinates of—\n( a ) each threshold shall be measured and reported to the aeronautical information service authority in degrees, minutes, seconds and hundredths of seconds;\n( b ) appropriate taxiway centreline points shall be measured and reported to the aeronautical information service in degrees, minutes, seconds and hundredths of seconds;\n( c ) each aircraft stand shall be measured and reported to the aeronautical information service in degrees, minutes, seconds and hundredths of seconds; and\n( d ) obstacles in Area 2, the part within the aerodrome boundary and in Area 3 shall be measured and reported to the aeronautical information service authority in degrees, minutes, seconds and tenths of seconds and in addition, the top elevation, type, marking and lighting, if any of obstacles shall be reported to the aeronautical information services authority."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART IV Aerodrome Data (regs 29-42)",
+      "section": "34",
+      "title": "Strength of pavements",
+      "content": "34. Strength of pavements\n(1) The bearing strength of a pavement shall be determined by the aircraft for which the pavement is intended for use.\n(2) The bearing strength of a pavement intended for aircraft of apron mass greater than 5 700 kg shall be made available using the aircraft classification number, PCR method by reporting the following information—\n( a ) the PCR;\n( b ) pavement type for PCR determination;\n( c ) subgrade strength category;\n( d ) maximum allowable tyre pressure category or maximum allowable tyre pressure value; and\n( e ) evaluation method and if necessary, PCRs may be published to an accuracy of one-tenth of a whole number.\n(3) The PCR reported shall indicate that an aircraft with an Aircraft Classification Rating (ACR) equal to or less than the reported PCR can operate on the pavement subject to any limitation on the tyre pressure, or aircraft all-up mass for specified aircraft type.\n(4) The different PCRs may be reported if the strength of the pavement is subject to significant seasonal variation.\n(5) The ACR of an aircraft shall be determined in accordance with the standard procedures associated with the ACR-PCR method.\n(6) The behaviour of a pavement shall be classified as equivalent to a rigid or flexible construction, for purposes of determining the ACR.\n(7) The information under subregulation (2) shall be reported using the following codes—\n( a ) pavement type for ACR-PCR determination—\nPavement type\nCode\n(i) rigid pavement,\nR\n(ii) flexible pavement;\nF\n( b ) subgrade strength category—\nCategory\nCode\n(i) high strength – characterised by 150 MN/m 3 and representing all K values above 120 MN/m 3 for rigid pavements and by CBR= 15 and representing all CBR values above 13 for flexible pavements,\nA\n(ii) medium strength – characterised by K= 80 MN/m 3 and representing a range in K of 60 to 120 MN/m 3 for rigid pavements, and by CBR= 10 and representing a range in CBR of 8 to 13 for flexible pavements,\nB\n(iii) low strength – characterised by K= 40 MN/m 3 and representing a range in K of 25 to 60 MN/m 3 for rigid pavements, and by CBR= 6 and representing a range in CBR of 4 to 8 for flexible pavements, and\nC\n(iv) ultra low strength – characterised by K= 20 MN/m 3 and representing all K values below 25 MN/m 3 for rigid pavements, and by CBR= 3 and representing all CBR values below 4 for flexible pavements;\nD\n( c ) maximum allowable tire pressure category —\nTyre pressure category\nCode\n(i) unlimited – no pressure limit,\nW\n(ii) high-pressure limit to 1.75 MPa,\nX\n(iii) Medium-pressure limited to 1.25 MPa,\nY\n(iv) low-pressure limited to 0.50 MPa;\nZ\n( d ) evaluation method —\nMethod\nCode\n(i) technical evaluation – representing a specific study of the pavement characterised and application of pavement behaviour technology, and\nT\n(ii) using aircraft experience – representing a knowledge of the specific type and mass of aircraft satisfactorily being supported under regular use.\nU\n(8) The following examples shall be used to illustrate how pavement strength data are reported under the ACR-PCR method—\n( a ) if the bearing strength of a rigid pavement, resting on a medium strength subgrade, has been assessed by technical evaluation to be PCR 80 and there is no tire pressure limitation, then the reported information would be PCR 80/R/B/W/T;\n( b ) if the bearing strength of a composite pavement, behaving like a flexible pavement and resting on a high strength subgrade, has been assessed by using aircraft experience to be PCR 50 and the maximum tire pressure allowable is 1.25 MPa, then the reported information would be PCR 50/F/A/Y/U;\n( c ) if the bearing strength of a flexible pavement, resting on a medium strength subgrade, has been assessed by technical evaluation to be PCR 40 and the maximum allowable tire pressure is 0.80 MPa, then the reported information would be PCR 40/F/B 0.80 MPa/T; and\n( d ) if a pavement is subject to a B747-400 all-up mass limitation of 390 000kg, then the reported information would include a note to the effect that the reported PCR is subject to a B747-400 all-up mass limitation of 390 000 kg.\n(9) A criteria shall be used established to regulate the use of a pavement by aircraft with an ACR higher than the PCR reported for that pavement in accordance with subregulations (2) and (3).\n(10) The bearing strength of a pavement intended for aircraft of apron mass equal to or less than 5 700kg shall be made available by reporting the following information—\n( d ) maximum allowable aircraft mass; and\n( b ) maximum allowable tyre pressure."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART IV Aerodrome Data (regs 29-42)",
+      "section": "35",
+      "title": "Pre-flight altimeter check location",
+      "content": "35. Pre-flight altimeter check location\n(1) One or more pre-flight altimeter check locations shall be the altimeter check established for an aerodrome.\n(2) A pre-flight check location shall be located on an apron to enable an altimeter check to be made prior to obtaining taxi clearance and to eliminate the need for stopping for that purpose after leaving the apron, in which case, an entire apron can serve as a satisfactory altimeter check location.\n(3) The elevation of a pre-flight altimeter check location shall be given as the average elevation, rounded to the nearest metre, of the area on which it is located.\n(4) The elevation of any portion of a pre-flight altimeter check location shall be within 3 m of the average elevation for that location."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART IV Aerodrome Data (regs 29-42)",
+      "section": "36",
+      "title": "Declared distances",
+      "content": "36. Declared distances\n(1) The following distances shall be calculated to the nearest metre for a runway intended for use by international commercial air transport—\n( a ) take-off run available;\n( b ) take-off distance available;\n( c ) accelerate-stop distance available; and\n( d ) landing distance available.\n(2) The declared distances shall be calculated in accordance with Schedule 2 and guidelines determined by the Authority."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART IV Aerodrome Data (regs 29-42)",
+      "section": "37",
+      "title": "Condition of movement area and related facilities",
+      "content": "37. Condition of movement area and related facilities\n(1) Any information on the condition of the movement area and the operational status of related facilities shall be provided to the appropriate aeronautical information services units, and similar information of operational significance to the air traffic service units, to enable those units to provide the necessary information to arriving and departing aircraft and the information shall be kept up-to-date and changes in conditions reported without delay.\n(2) The condition of the movement area and the operational status of related facilities shall be monitored, and reports on matters of operational significance affecting aircraft and aerodrome operations shall be provided in order to take appropriate action, particularly in respect of—\n( a ) construction or maintenance work;\n( b ) rough or broken surfaces on a runway, a taxiway or an apron;\n( c ) water on a runway, a taxiway or an apron;\n( d ) other contaminants on a runway, taxiway or apron such as mud, dust, sand, volcanic ash, oil and rubber;\n( e ) other temporary hazards, including parked aircraft;\n( f ) failure or irregular operation of part or all of the aerodrome visual aids; and\n( g ) failure of the normal or secondary power supply.\n(3) The movement area shall, in compliance with subregulation (2), be inspected at least once each day where the code number is 1 or 2 and at least twice each day where the code is number 3 or 4.\n(4) Any person assessing and reporting runway surface conditions required in compliance with subregulation (2) shall be trained and competent to meet criteria set by the Authority."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART IV Aerodrome Data (regs 29-42)",
+      "section": "38",
+      "title": "Water on runway",
+      "content": "38. Water on runway\n(1) A description of the runway surface conditions shall be made available where water is present on a runway using the following terms—\n( a ) damp – the surface shows a change of colour due to moisture;\n( b ) wet – the surface is soaked but there is no standing water;\n( c ) standing water – for aeroplane performance purposes, a runway where more than 25 per cent of the runway surface area, whether in isolated areas or not, within the required length and width being used is covered by water more than 3 mm deep.\n(2) Information that a runway or portion thereof may be slippery when wet shall be made available.\n(3) An operator shall notify aerodrome users when the friction level of a paved runway or portion thereof is less than that specified in accordance with these Regulations.\n(4) The conducting of a runway surface friction characteristics evaluation programme including determining and expressing the minimum friction level shall be as set out in Schedule 2.\n(5) Where an operational runway is contaminated, an assessment of the contaminant depth and coverage over each third of the runway shall be made and reported.\n(6) The runway surface condition shall be assessed and reported through a runway condition code (RWYCC) and a description using the following terms—\nCOMPACTED SNOW\nDRY\nDRY SNOW\nDRY SNOW ON TOP OF COMPACTED SNOW\nDRY SNOW ON TOP OF ICE\nFROST\nICE\nSLUSH\nSTANDING WATER\nWATER ON TOP OF COMPACTED SNOW\nWET\nWET ICE\nWET SNOW\nWET SNOW ON TOP OF COMPACTED SNOW\nWET SNOW ON TOP OF ICE\nCHEMICALLY TREATED\nLOOSE SAND"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART IV Aerodrome Data (regs 29-42)",
+      "section": "39",
+      "title": "Removal of disabled aircraft",
+      "content": "39. Removal of disabled aircraft\n(1) An operator shall, on request from aircraft operators, provide the telephone number and email address of the office of the aerodrome co-ordinator responsible for the removal of an aircraft disabled on or adjacent to the movement area.\n(2) An operator shall provide information on the capability to remove an aircraft disabled on or adjacent to the movement area and such capability to remove a disabled aircraft may be expressed in terms of the largest type of aircraft which the aerodrome is equipped to remove."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART IV Aerodrome Data (regs 29-42)",
+      "section": "40",
+      "title": "Level of protection of rescue and firefighting",
+      "content": "40. Level of protection of rescue and firefighting\n(1) An operator shall provide information on the level of protection provided at an aerodrome for aircraft rescue and firefighting purposes.\n(2) The level of protection available at an aerodrome shall be expressed in terms of the category of the rescue and firefighting services in accordance with the types and amounts of extinguishing agents available at the aerodrome.\n(3) An operator shall, where changes in the level of protection normally available at an aerodrome for rescue and firefighting services occurs, notify the appropriate air traffic service units and aeronautical information services unit to enable those units to provide the necessary information to arriving and departing aircraft.\n(4) An operator shall, where the changes in subregulation (3) are collected, notify the appropriate air traffic services units and aeronautical information services.\n(5) A change shall be expressed in terms of the new category of the rescue and firefighting services available at the aerodrome."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART IV Aerodrome Data (regs 29-42)",
+      "section": "41",
+      "title": "Visual approach slope indicator system",
+      "content": "41. Visual approach slope indicator system\n(1) The following information on the visual and slope approach, and slope indicator system installation shall be made available—\n( a ) the associated runway designation number;\n( b ) the type of system for an AT-VASIS, PAPI OR APAPI installation, the side of the runway on which the lights are installed;\n( c ) where the axis of the system is not parallel to the runway centreline, the angle of displacement and the direction of displacement;\n( d ) the nominal approach slope angle for a T-VASIS or an AT-VASIS this shall be an angle according to the formula in Figure S1-23 in Schedule 1 and a PAPI and an APAPI this shall be an angle (B+C) Ã· 2 and (A+B) Ã· 2, respectively as in Figure S1-25; and\n( e ) the minimum eye height over the threshold of the on-slope signal—\n(i) for a T-VASIS or an AT-VASIS this shall be the lower height at which only the wing bar is visible, however, the additional heights at which the wing bar plus one, two or three fly-down light units come into view may also be reported if such information would be beneficial to aircraft using the approach,\n(ii) for a PAPI this shall be the setting angle of the third unit from the runway minus 2 minutes and for an APAPI this shall be the setting angle of the unit farther from the runway minus 2 minutes."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART IV Aerodrome Data (regs 29-42)",
+      "section": "42",
+      "title": "Co-ordination between aeronautical information services and aerodrome authorities",
+      "content": "42. Co-ordination between aeronautical information services and aerodrome authorities\n(1) An arrangement shall be made between aeronautical information services and aerodrome authorities responsible for aerodrome services to ensure that aeronautical information services units obtain information to enable them to provide up-to-date pre-flight information and to meet the need for in-flight information with minimum delay and—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accident",
+      "definition": "an occurrence associated with the operation of an aircraft which in the case of a manned aircraft, takes place between the time any person boards the aircraft with the intention of flight until such time the person has disembarked or in the case of an unmanned aircraft, takes place between the time the aircraft is ready to move with the purpose of flight until such time as it comes to rest at the end of the flight and the primary propulsion system is shut down, in which—\n( a ) a person is seriously injured as a result of—\n(i) being in the aircraft,\n(ii) direct contact with any part of the aircraft, including a part which has become detached from the aircraft, or\n(iii) direct exposure to jet blast,\nexcept when the injury is from a natural cause, self-inflicted or inflicted by another person, or when the injury is to a stowaway hiding outside an area normally available to passengers and crew",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Advisory Circular (AC)",
+      "definition": "explanatory or advisory information concerning technical, legislative or administrative matters, as well as information on the long-term forecast of major changes in legislation, regulations, procedures or facilities liable to affect flight safety",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome",
+      "definition": "a defined area on land or water (including any buildings, installations and equipment) intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome beacon",
+      "definition": "an aeronautical beacon used to indicate the location of an aerodrome from the air",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome elevation",
+      "definition": "the elevation of the highest point of the landing area",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome facilities and equipment",
+      "definition": "facilities and equipment, inside or outside the boundaries of an aerodrome that are constructed or installed and maintained for the arrival, departure and surface movement of aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome identification sign",
+      "definition": "a sign placed on an aerodrome to aid in identifying the aerodrome from the air",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome manual",
+      "definition": "the manual that forms part of the application for a licence or a certificate under these Regulations, including any amendments to the manual, approved by the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome mapping data – (AMD)",
+      "definition": "data collected for the purpose of compiling aerodrome mapping information for aeronautical uses",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome mapping database – (AMDB)",
+      "definition": "a collection of aerodrome mapping data organised and arranged as a structured data set",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome operator",
+      "definition": "an operator of an aerodrome either licensed or certificated under these Regulations in Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aerodrome Operating Minima",
+      "definition": "the limits of usability of an aerodrome for—\n( a ) take-off, expressed in terms of Runway Visual Range or visibility and, if necessary, cloud conditions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome reference code",
+      "definition": "a code used for planning purposes to classify an aerodrome with respect to the critical aircraft characteristics for which the aerodrome is intended",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome reference point",
+      "definition": "the designated geographical location of an aerodrome",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome standards",
+      "definition": "standards prescribed by the Authority applicable to aerodromes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome traffic zone",
+      "definition": "the airspace extending from aerodrome level to a height of two thousand feet over the area comprising the aerodrome and the surrounding land or water within a distance of two thousand yards of its boundaries",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical beacon",
+      "definition": "an aeronautical ground light visible at all azimuths, either continuously or intermittently, to designate a particular point on the surface of the earth",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical ground light",
+      "definition": "any light specially provided as an aid to air navigation, other than a light displayed on an aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Information Circular (AIC)",
+      "definition": "a notice containing information that does not qualify for the origination of a NOTAM or for inclusion in the Aeronautical Information Publication, but which relates to flight safety, air navigation, technical, administrative or legislative matters",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Information Publication (AIP)",
+      "definition": "an aeronautical information publication of a lasting character essential to air navigation, issued by the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeroplane reference field length",
+      "definition": "the minimum field length required for take-off at maximum certificated take-off mass, sea-level, standard atmospheric conditions, still air and zero runway slope, as shown in the appropriate aeroplane flight manual prescribed by the certificating authority or equivalent data from the aeroplane manufacturer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic service",
+      "definition": "a flight information service, alerting service, air traffic advisory service, or air traffic control service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aircraft Classification Rating (ACR)",
+      "definition": "a number expressing the relative effect of an aircraft on a pavement for a specified standard sub grade category",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft stand",
+      "definition": "a designated area on an apron intended to be used for parking an aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appeals tribunal",
+      "definition": "the appeals tribunal established under section 79 of the Civil Aviation Act (Cap. 71:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "apron",
+      "definition": "a defined area, on an aerodrome, intended to accommodate aircraft for purposes of loading or unloading of passengers, mail or cargo, fuelling, parking or maintenance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "apron management service",
+      "definition": "a service provided to regulate the activities and the movement of aircraft and vehicles on an apron",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approach surface",
+      "definition": "an inclined plane or combination of planes preceding the threshold",
+      "source_provision": "s2"
+    },
+    {
+      "term": "arresting system",
+      "definition": "a system designed to decelerate an aeroplane overrunning the runway",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised person",
+      "definition": "any person authorised by the Authority either generally or in relation to a particular case or class of cases and reference to an authorised person includes references to the holder for the time being of an office designated by the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Autonomous Runway Incursion Warning System (ARIWS)",
+      "definition": "a system which provides autonomous detection of a potential incursion or of the occupancy of an active runway and a direct warning to a flight crew or a vehicle operator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "balked landing",
+      "definition": "a landing manoeuvre that is unexpectedly discontinued at any point below the obstacle clearance altitude/height (OCA/H)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "balked landing surface",
+      "definition": "an inclined plane surface located at a specified distance after the threshold, extending between the inner transitional surface",
+      "source_provision": "s2"
+    },
+    {
+      "term": "barrette",
+      "definition": "three or more aeronautical ground lights closely spaced in a transverse line so that from a distance they appear as a short bar of light",
+      "source_provision": "s2"
+    },
+    {
+      "term": "calendar",
+      "definition": "discrete temporal reference system that provides the basis for defining temporal position to a resolution of one day",
+      "source_provision": "s2"
+    },
+    {
+      "term": "capacitor discharge lights",
+      "definition": "a lamp in which high-intensity flashes of extremely short duration are produced by the discharge of electricity at high voltage through a gas enclosed in a tube",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clearway",
+      "definition": "a defined rectangular area under the control of the appropriate authority selected or prepared as a suitable area over which an aircraft may make a portion of its initial climb to a specified height",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commercial Air Transport Operation",
+      "definition": "an aircraft operation involving the transport of passengers, cargo or mail for remuneration or hire",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conical surface",
+      "definition": "a surface sloping upwards and outwards from the periphery of the inner horizontal surface",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled aerodrome",
+      "definition": "an aerodrome where air traffic services are provided",
+      "source_provision": "s2"
+    },
+    {
+      "term": "critical aircraft",
+      "definition": "the most demanding aircraft with regard to the aircraft performance and dimensions for a range of aircraft, for which the aerodrome facilities is intended",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Cyclic Redundancy Check (CRC)",
+      "definition": "a mathematical algorithm applied to the digital expression of data that provides a level of assurance against loss or alteration of data",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dangerous goods",
+      "definition": "articles or substances which are capable of posing a risk to health, safety, property or the environment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data accuracy",
+      "definition": "a degree of conformance between the estimated or measured value and the true value",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data integrity (assurance level)",
+      "definition": "a degree of assurance that an aeronautical data and its value has not been lost nor altered since the data origination or authorised amendment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data integrity classification (aeronautical data)",
+      "definition": "classification based upon the potential risk resulting from the use of corrupted data",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data quality",
+      "definition": "a degree or level of confidence that the data provided meets the requirements of the data user in terms of accuracy, resolution and integrity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "datum",
+      "definition": "any quantity or set of quantities that may serve as a reference or basis for the calculation of other quantities",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dependent parallel approaches",
+      "definition": "simultaneous approaches to parallel or near-parallel instrument runways where radar separation minima between aircraft on adjacent extended runway centrelines are prescribed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "displaced threshold",
+      "definition": "a threshold not located at the extremity of a runway",
+      "source_provision": "s2"
+    }
+  ]
+}

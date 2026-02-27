@@ -1,0 +1,97 @@
+{
+  "id": "bw-act-botswana-railways",
+  "type": "statute",
+  "title": "Botswana Railways",
+  "title_en": "Botswana Railways",
+  "short_name": "Botswana Railways",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-railways",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Railways Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"contiguous railways\" means any railway outside Botswana to which traffic can travel, to and from Botswana, in the same rail vehicle;\n\"financial year\" means the year ending on 31st March in each year;\n\"former owners\" means the National Railways of Zimbabwe or the Railways Unitary System Board of Management so far as they relate to assets within the borders of Botswana;\n\"Organisation\" has the meaning assigned to it under section 3;\n\"private siding\" means any line of railway which is connected to, or is contiguous with, Botswana Railways, other than such connections at the national borders, which has been constructed on land not owned or leased by Botswana Railways, for the specific purpose of facilitating rail transport access to premises or works situated on that land;\n\"railway jurisdiction\" means any property of the Organisation and includes any of the following which belong to the Organisation, namely, buildings, offices, premises, warehouses, trains, locomotives, carriages, wagons, railway yards, railway tracks and the adjoining land;\n[ 22 of 2004, s. 2. ]\n\"railways services\" means the conveyance of passengers, parcels and goods traffic by rail or road in accordance with the provisions of this Act;\n\"senior officer\" means any employee of the Organisation who holds a position which is designated as such by the Board."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment, Constitution and Membership of Organisation",
+      "section": "3",
+      "title": "Establishment of Organisation and legal personality",
+      "content": "3. Establishment of Organisation and legal personality\n(1) There is hereby established a commercial enterprise of the Government of Botswana to be known as the Botswana Railways Organisation (in this Act referred to as \"the Organisation\").\n(2) Notwithstanding any other law to the contrary, all legal proceedings by or against the Organisation shall be instituted by or against the Botswana Railways in its own name, and the necessary service of process shall be effected on the general manager of the Organisation.\n[ 22 of 2004, s. 3. ]\n(3) Sections 3 and 6 of the State Proceedings (Civil Actions by or against Government or Public Officers) Act shall not apply to actions by or against Botswana Railways."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment, Constitution and Membership of Organisation",
+      "section": "4",
+      "title": "Composition of Organisation",
+      "content": "4. Composition of Organisation\n(1) There is hereby established a Board of Management (hereinafter referred to as \"the Board\") which shall consist of the following members appointed by the Minister—\n( a ) the chairman;\n( b ) the general manager of the Organisation appointed under section 10, ex-officio ; and\n( c ) not less than five or more than nine other persons who in the opinion of the Minister have knowledge and experience likely to contribute to the successful management of the Organisation.\n(2) A person shall not be competent to be appointed or to act as a member of the Board if—\n( a ) he is a Member of the National Assembly;\n( b ) he is an employee of the Organisation;\n( c ) he has been declared insolvent or bankrupt under any law in any country and has not been discharged, or has made a composition with his creditors and has not paid his debts in full; or\n( d ) he or she has been convicted of an offence involving dishonesty, or commits an act of misconduct which, in the opinion of the Minister, renders him or her unfit to hold office as a member of the Board.\n[ 22 of 2004, s. 4. ]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment, Constitution and Membership of Organisation",
+      "section": "5",
+      "title": "Resignation and removal from office",
+      "content": "5. Resignation and removal from office\n(1) Any member of the Board, other than the general manager, may resign from the Board by notice in writing addressed to the Minister.\n(2) A member of the Board may be removed from the Board if—\n( a ) ceases to hold the office by virtue of which he was appointed;\n( b ) becomes of unsound mind;\n( c ) is declared insolvent or bankrupt under any law in force in any country;\n( d ) suspends payment of his debts or compounds with his creditors;\n( e ) is absent from three consecutive meetings of the Board without such reason as appears to the Minister to be sufficient;\n( f ) is sentenced to imprisonment without the option of a fine or is convicted of an offence involving dishonesty;\n( g ) in the case of a person possessed of professional qualifications, is disqualified or suspended, otherwise than at his own request, from practising his profession in Botswana or in any other country by order of any competent authority made in respect of him personally."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Establishment, Constitution and Membership of Organisation",
+      "section": "6",
+      "title": "Tenure of office",
+      "content": "6. Tenure of office\n(1) A member of the Board, other than the chairman and the general manager, shall hold office for such period, not exceeding four years, as may be specified in the notice appointing him, and on the expiration of such period shall be eligible for re-appointment:\nProvided that in appointing members of the Board, the Minister shall specify such periods of appointment so that the periods of appointment of not more than one-third of the members shall expire in any one year."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "contiguous railways",
+      "definition": "any railway outside Botswana to which traffic can travel, to and from Botswana, in the same rail vehicle",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial year",
+      "definition": "the year ending on 31st March in each year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "former owners",
+      "definition": "the National Railways of Zimbabwe or the Railways Unitary System Board of Management so far as they relate to assets within the borders of Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Organisation",
+      "definition": "assigned to it under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "private siding",
+      "definition": "any line of railway which is connected to, or is contiguous with, Botswana Railways, other than such connections at the national borders, which has been constructed on land not owned or leased by Botswana Railways, for the specific purpose of facilitating rail transport access to premises or works situated on that land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "railway jurisdiction",
+      "definition": "any property of the Organisation and includes any of the following which belong to the Organisation, namely, buildings, offices, premises, warehouses, trains, locomotives, carriages, wagons, railway yards, railway tracks and the adjoining land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "railways services",
+      "definition": "the conveyance of passengers, parcels and goods traffic by rail or road in accordance with the provisions of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "senior officer",
+      "definition": "any employee of the Organisation who holds a position which is designated as such by the Board.",
+      "source_provision": "s2"
+    }
+  ]
+}

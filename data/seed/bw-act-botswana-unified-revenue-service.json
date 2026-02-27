@@ -1,0 +1,107 @@
+{
+  "id": "bw-act-botswana-unified-revenue-service",
+  "type": "statute",
+  "title": "Botswana Unified Revenue Service",
+  "title_en": "Botswana Unified Revenue Service",
+  "short_name": "Botswana Unified Revenue Se...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-unified-revenue-service",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Unified Revenue Service Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Board\" means the Board of Directors established under section 6;\n[ 6 of 2020, s. 3. ]\n\"Chairperson\" means the Chairperson of the Board;\n[ 6 of 2020, s. 2(a). ]\n\"Commissioner General\" means the Commissioner General of the Revenue Service, appointed under section 22(1);\n\"contractor\" includes a sub-contractor;\n\"member\" means a member of the Board or committee of the Board;\n[ 6 of 2020, s. 3. ]\n\"revenue departments\" means the Department of Customs and Excise and the Department of Taxes which, prior to the commencement of this Act, were departments of the Ministry of Finance and Development Planning;\n\"revenue laws\" means the—\n( a ) Customs and Excise Duty Act, Cap. 50:01;\n( b ) Income Tax Act Cap. 52:01;\n( c ) Capital Transfer Act Cap. 53:02;\n( d ) Value Added Tax Act Cap.50:03, and\nsuch legislation concerning revenue as the Minister may, by Order, prescribe;\n\"Revenue Service\" means the Botswana Unified Revenue Service established under section 3;\n\"tax\" includes the duties, fees or other charges payable in terms of the revenue laws; and\n\"Vice-Chairperson\" means the Vice-Chairperson of the Board.\n[ 6 of 2020, s. 2(b). ]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Botswana Unified Revenue",
+      "section": "3",
+      "title": "Establishment of the Revenue Service",
+      "content": "3. Establishment of the Revenue Service\nThere is hereby established a body, to be known as the Botswana Unified Revenue Service, which shall be a body corporate with a common seal, capable of suing and being sued, and subject to the provisions of this Act, of performing such acts as bodies corporate may, by law, perform."
+    },
+    {
+      "provision_ref": "s3A",
+      "chapter": "PART II Botswana Unified Revenue",
+      "section": "3A",
+      "title": "Seal of Revenue Service",
+      "content": "3A. Seal of Revenue Service\n(1) The seal of the Revenue Service shall be such device as may be determined by the Board and shall be kept by the Commissioner General.\n[ 6 of 2020, s. 4. ]\n(2) The affixing of the seal shall be authenticated by the Chairperson, Vice-Chairperson, the Commissioner General or any other person authorised on that behalf by a resolution of the Board.\n[ 6 of 2020, s. 4. ]\n(3) Notwithstanding subsection (2), the Chairperson or Vice-Chairperson may, in writing, delegate to another officer of the Revenue Service, the power to authenticate the seal.\n[ 6 of 2020, s. 4. ]\n(4) A document issued by the Revenue Service and sealed with the seal of the Revenue Service, which seal is authenticated in accordance with this section, shall be received and taken to be a true instrument without further proof unless the contrary is shown.\n[ 6 of 2020, s. 4. ]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Botswana Unified Revenue",
+      "section": "4",
+      "title": "Functions of the Revenue Service",
+      "content": "4. Functions of the Revenue Service\n(1) The Revenue Service shall be responsible for the assessment and collection of tax on behalf of the Government.\n(2) Without prejudice to the generality of subsection (1), the functions of the Revenue Service shall be to—\n( a ) administer and enforce the revenue laws;\n( b ) promote compliance with the revenue laws;\n( c ) take such measures as may be required to improve service given to taxpayers with a view to improving efficiency and maximising revenue collection;\n( d ) take such measures as may be required to counteract tax fraud and other forms of tax evasion;\n( e ) advise the Minister on matters relating to the administration and collection of tax; and\n( f ) perform such other functions in relation to tax as the Minister may direct."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Botswana Unified Revenue",
+      "section": "5",
+      "title": "Powers of the Revenue Service",
+      "content": "5. Powers of the Revenue Service\nThe Revenue Service shall, in the discharge of its functions under this Act, have power to—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Board of Directors established under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the Chairperson of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner General",
+      "definition": "the Commissioner General of the Revenue Service, appointed under section 22(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contractor",
+      "definition": "a sub-contractor",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board or committee of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "revenue departments",
+      "definition": "the Department of Customs and Excise and the Department of Taxes which, prior to the commencement of this Act, were departments of the Ministry of Finance and Development Planning",
+      "source_provision": "s2"
+    },
+    {
+      "term": "revenue laws",
+      "definition": "the—\n( a ) Customs and Excise Duty Act, Cap. 50:01",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Revenue Service",
+      "definition": "the Botswana Unified Revenue Service established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tax",
+      "definition": "the duties, fees or other charges payable in terms of the revenue laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Vice-Chairperson",
+      "definition": "the Vice-Chairperson of the Board.\n[ 6 of 2020, s. 2(b). ]",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "bw-act-water",
+  "type": "statute",
+  "title": "Water",
+  "title_en": "Water",
+  "short_name": "Water",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/water",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Water Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act unless the context otherwise requires—\n\"Board\" means the Water Apportionment Board;\n\"borehole\" does not include any borehole constructed in prospecting for minerals;\n\"domestic purposes\" includes the watering, spraying and dipping of stock;\n\"effluent\" does not include water discharged under the provisions of section 7(3) or 17(1)( a ) or which has been used for irrigation;\n\"existing right\" means any right to public water—\n( a ) which at the commencement of this Act has been lawfully acquired, is possessed by, and is being beneficially exercised by, any person; or\n( b ) lawfully acquired by any person before the commencement of this Act for the purpose of supplying water to the public;\n\"public stream\" means a watercourse of natural origin wherein water flows, whether or not such watercourse or any portion thereof is dry for any period or whether or not its conformation has been changed by artificial means;\n\"public water\" means all water flowing over the surface of the ground or contained in or flowing from any river, spring or stream or natural lake or pan or swamp or in or beneath a watercourse and all underground water made available by means of works, but does not include any water which is used solely for the purposes of extracting mineral substances therefrom or water which has been lawfully appropriated for use;\n\"servitude\" means a right to enter on the land of another for the purpose of constructing or maintaining works thereon, or storing the water thereon, or carrying water under, through or over such land, or for all or any of such purposes;\n\"underground water\" means water naturally stored or flowing below the surface of the ground and not apparent on the surface of the ground;\n\"Water Registrar\" means the person appointed by the Minister as the Water Registrar for the purposes of this Act;\n\"water right\" means a water right granted or deemed to have been granted under this Act and, subject to the provisions of section 10, includes an existing right;\n\"well\" does not include a borehole;\n\"works\" includes canals, channels, reservoirs, embankments, weirs, dams, wells, boreholes, pumping installations, pipe-lines, sluice gates, filters, sedimentation tanks or other work constructed for or in connection with the impounding, storage, passage, drainage control or abstraction of public water, or the development of water power, or the filtration or purification of water, or the protection of rivers and streams, against erosion or siltation or flood control, or the protection of any works, or the use of public water for any purpose, or the conservation of rain water."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Establishment of Water Apportionment Board",
+      "content": "3. Establishment of Water Apportionment Board\n(1) The Minister shall appoint a Board, to be styled the Water Apportionment Board, which shall consist of such number of persons as the Minister may determine, being not less than three nor more than 15 persons.\n(2) The Board shall have the functions conferred upon it by this Act, and may perform such functions notwithstanding any vacancy in its membership.\n(3) The Minister shall appoint a Water Registrar who shall be ex-officio Secretary of the Board.\n(4) Neither members of the Water Apportionment Board, nor the Water Registrar shall be personally liable for, or in respect of, any act done or omitted to be done in good faith in the performance or supposed performance of their functions under this Act.\n(5) In the performance of its functions under this Act the Board shall have regard to any relevant international agreement regulating the use of water to which Botswana is a party."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Ownership of and Inherent Right to the Use of Public Water",
+      "section": "4",
+      "title": "Use of public water and construction of works",
+      "content": "4. Use of public water and construction of works\nNotwithstanding anything to the contrary in any other written law there shall be no right of property in public water, and the control and use thereof shall be regulated as provided in this Act or in accordance with the provisions of the Waterworks Act (Cap. 34:03)."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Ownership of and Inherent Right to the Use of Public Water",
+      "section": "5",
+      "title": "Casual use of water in a public stream, etc",
+      "content": "5. Casual use of water in a public stream, etc\nAny person may, without a water right, while he is at any place where he has lawful access to a public stream or to a natural lake, pan or swamp, take and use public water therein for the immediate purpose of—\n( a ) watering stock;\n( b ) drinking, washing and cooking; or\n( c ) use in a vehicle,\nbut nothing in this section shall be construed as authorising the construction of any works."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Ownership of and Inherent Right to the Use of Public Water",
+      "section": "6",
+      "title": "Use, etc., of water by owners and occupiers of land",
+      "content": "6. Use, etc., of water by owners and occupiers of land\n(1) Subject to the provisions of this Act and of any other written law, the owner or occupier of any land may, without a water right—\n( a ) sink or deepen any well or borehole thereon and abstract and use water therefrom for domestic purposes, not exceeding such amount per day as may be prescribed in relation to the area where such well or borehole is situated by the Minister after consultation with an advisory board established in pursuance of section 35 in respect of that area:\nProvided that this paragraph shall not authorise the sinking of any borehole within 236 metres of any other borehole (other than a dry borehole) or authorise the deepening of any borehole which is within this distance of any other borehole;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Water Apportionment Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "domestic purposes",
+      "definition": "the watering, spraying and dipping of stock",
+      "source_provision": "s2"
+    },
+    {
+      "term": "existing right",
+      "definition": "any right to public water—\n( a ) which at the commencement of this Act has been lawfully acquired, is possessed by, and is being beneficially exercised by, any person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public stream",
+      "definition": "a watercourse of natural origin wherein water flows, whether or not such watercourse or any portion thereof is dry for any period or whether or not its conformation has been changed by artificial means",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public water",
+      "definition": "all water flowing over the surface of the ground or contained in or flowing from any river, spring or stream or natural lake or pan or swamp or in or beneath a watercourse and all underground water made available by means of works, but does not include any water which is used solely for the purposes of extracting mineral substances therefrom or water which has been lawfully appropriated for use",
+      "source_provision": "s2"
+    },
+    {
+      "term": "servitude",
+      "definition": "a right to enter on the land of another for the purpose of constructing or maintaining works thereon, or storing the water thereon, or carrying water under, through or over such land, or for all or any of such purposes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "underground water",
+      "definition": "water naturally stored or flowing below the surface of the ground and not apparent on the surface of the ground",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Water Registrar",
+      "definition": "the person appointed by the Minister as the Water Registrar for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "water right",
+      "definition": "a water right granted or deemed to have been granted under this Act and, subject to the provisions of section 10, includes an existing right",
+      "source_provision": "s2"
+    },
+    {
+      "term": "works",
+      "definition": "canals, channels, reservoirs, embankments, weirs, dams, wells, boreholes, pumping installations, pipe-lines, sluice gates, filters, sedimentation tanks or other work constructed for or in connection with the impounding, storage, passage, drainage control or abstraction of public water, or the development of water power, or the filtration or purification of water, or the protection of rivers and streams, against erosion or siltation or flood control, or the protection of any works, or the use of public water for any purpose, or the conservation of rain water.",
+      "source_provision": "s2"
+    }
+  ]
+}

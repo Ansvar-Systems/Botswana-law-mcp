@@ -1,0 +1,89 @@
+{
+  "id": "bw-act-national-meteorological-services",
+  "type": "statute",
+  "title": "National Meteorological Services",
+  "title_en": "National Meteorological Services",
+  "short_name": "National Meteorological Ser...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/national-meteorological-services",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the National Meteorological Service Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"commercial services\" means any of the following—\n( a ) the provision of specialised weather forecasting and climate information services;\n( b ) the provision of aviation meteorological services;\n( c ) weather and climate related publications;\n( d ) meteorological services including advice to the legal and to the insurance industry;\n( e ) contracted weather and climate-related research;\n( f ) research to improve commercial services;\n( g ) the dissemination of weather and climate information;\n( h ) the manufacturing and selling of meteorological equipment to Government departments and users from the private sector, as well as the calibration, servicing, repairing and standardisation of equipment falling within the competence of the National Meteorological Service;\n( i ) the provision of specialised services to the media; or\n( j ) commercial services provided on an ad hoc basis to Government departments;\n\"Committee\" means the Meteorological Licensing Committee established under section 5;\n\"Director\" means the Director of the National Meteorological Service;\n\"forecast\" means a statement of probable future weather or climate condition within a particular area over a certain time period;\n\"hydrological phenomena\" means those limnological and oceanographical phenomena which are in close relation to the meteorological phenomena;\n\"member\" means a member of the Committee and includes the Chairperson of the Committee;\n\"meteorological data\" means any information that determines the state or conditions of the atmosphere as recorded by any meteorological instrument on earth;\n\"meteorological instruments\" means instruments, machines or devices which are used for the observation of meteorological, terrestrial and hydrological phenomena;\n\"meteorological observation\" means systematic observation and measurement of the atmospheric physical processes, phenomena and chemical properties in the atmosphere and surface layer by scientific properties in the atmosphere and surface layer by scientific and technological means;\n\"meteorological phenomena\" means phenomena in the atmosphere except the ionosphere;\n\"meteorological service\" means service rendered to economic and social activities relating to weather and climate;\n\"public good service\" means any of the following—\n( a ) the gathering of meteorological observation data;\n( b ) the carrying out of those international obligations agreed under the World Meteorological Organisation (WMO) agreements, including the international distribution of data and acting as Regional Instruments Centre;\n( c ) the provision of other meteorological services and the representation of Government in the fulfilment of international obligations, where appropriate;\n( d ) the provision of weather and climate forecasting and warning services intended for the general benefit of the population and the safety of life and property;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "commercial services",
+      "definition": "any of the following—\n( a ) the provision of specialised weather forecasting and climate information services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Committee",
+      "definition": "the Meteorological Licensing Committee established under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the Director of the National Meteorological Service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "forecast",
+      "definition": "a statement of probable future weather or climate condition within a particular area over a certain time period",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hydrological phenomena",
+      "definition": "those limnological and oceanographical phenomena which are in close relation to the meteorological phenomena",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Committee and includes the Chairperson of the Committee",
+      "source_provision": "s2"
+    },
+    {
+      "term": "meteorological data",
+      "definition": "any information that determines the state or conditions of the atmosphere as recorded by any meteorological instrument on earth",
+      "source_provision": "s2"
+    },
+    {
+      "term": "meteorological instruments",
+      "definition": "instruments, machines or devices which are used for the observation of meteorological, terrestrial and hydrological phenomena",
+      "source_provision": "s2"
+    },
+    {
+      "term": "meteorological observation",
+      "definition": "systematic observation and measurement of the atmospheric physical processes, phenomena and chemical properties in the atmosphere and surface layer by scientific properties in the atmosphere and surface layer by scientific and technological means",
+      "source_provision": "s2"
+    },
+    {
+      "term": "meteorological phenomena",
+      "definition": "phenomena in the atmosphere except the ionosphere",
+      "source_provision": "s2"
+    },
+    {
+      "term": "meteorological service",
+      "definition": "service rendered to economic and social activities relating to weather and climate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public good service",
+      "definition": "any of the following—\n( a ) the gathering of meteorological observation data",
+      "source_provision": "s2"
+    }
+  ]
+}

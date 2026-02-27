@@ -1,0 +1,93 @@
+{
+  "id": "bw-act-agrochemicals",
+  "type": "statute",
+  "title": "Agrochemicals",
+  "title_en": "Agrochemicals",
+  "short_name": "Agrochemicals",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/agrochemicals",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Agrochemicals Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"agrochemical\" means any organic, inorganic or live biological material intended or offered for sale for purposes of—\n( a ) destruction, control, repulsion, attraction or prevention of any undesirable life forms injurious to plant and animal growth; or\n( b ) promotion or inhibition of plant growth such as fertilisers, growth regulators, hormones, defoliants or legume inoculants;\n\"certificate\" means an agrochemical registration certificate issued under section 12(5);\n\"Committee\" means the National Agrochemicals Committee appointed by the Minister under section 6(1);\n\"distribute\" means to supply commercially and includes to transport, store and sell;\n\"inspector\" means a person appointed as an inspector of agrochemicals under section 9(1);\n\"label\" includes any writing, printing or illustration made on, or attached to an agrochemical or its container;\n\"licence\" means an agrochemical licence issued under section 18(2);\n\"manufacture\" means, in relation to an agrochemical, to activate, combine or add ingredients or to package or re-package the ingredients separately in the final form;\n\"Registrar\" means the Registrar of Agrochemicals appointed under section 3;\n\"residues\" in relation to an agrochemical, includes any specified substances and any derivatives of an agrochemical such as impurities considered to be of toxicological significance found in food, agricultural remedies or animal feed resulting from the use of the agrochemical;\n\"restricted agrochemical\" means an agrochemical classified as such under section 12(5); and\n\"sell\" includes offer for sale and provision of goods as part of a service for agricultural use, whether or not the goods are described as free or included in the service."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Regulatory Authority",
+      "section": "3",
+      "title": "Appointment of Registrar",
+      "content": "3. Appointment of Registrar\nThe Minister may, by notice published in the Gazette , appoint, subject to the laws governing the public service, any officer to be the Registrar of Agrochemicals, for purposes of this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Regulatory Authority",
+      "section": "4",
+      "title": "Functions of Registrar",
+      "content": "4. Functions of Registrar\n(1) The Registrar, shall subject to the control of the Minister, be responsible for the administration of this Act.\n(2) Without derogating from the generality of subsection (1) the functions of the Registrar shall be to—\n( a ) establish the appropriate facility of registration of agrochemicals, quality control and the analysis of their residues;\n( b ) register agrochemicals in accordance with this Act;\n( c ) monitor the sale, use and test residues of agrochemicals;\n( d ) collect and maintain statistical and other information concerning the importation, manufacture, distribution, sale, and use of agrochemicals and their residues;\n( e ) issue licences to persons for the importation, manufacture, distribution, sale or disposal of agrochemicals;\n( f ) produce a code of practice for the management of and dealings in agrochemicals;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "agrochemical",
+      "definition": "any organic, inorganic or live biological material intended or offered for sale for purposes of—\n( a ) destruction, control, repulsion, attraction or prevention of any undesirable life forms injurious to plant and animal growth",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate",
+      "definition": "an agrochemical registration certificate issued under section 12(5)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Committee",
+      "definition": "the National Agrochemicals Committee appointed by the Minister under section 6(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "distribute",
+      "definition": "to supply commercially and includes to transport, store and sell",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "a person appointed as an inspector of agrochemicals under section 9(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "label",
+      "definition": "any writing, printing or illustration made on, or attached to an agrochemical or its container",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "an agrochemical licence issued under section 18(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of Agrochemicals appointed under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "restricted agrochemical",
+      "definition": "an agrochemical classified as such under section 12(5)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sell",
+      "definition": "offer for sale and provision of goods as part of a service for agricultural use, whether or not the goods are described as free or included in the service.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "bw-act-botswana-national-sports-commission",
+  "type": "statute",
+  "title": "Botswana National Sports Commission",
+  "title_en": "Botswana National Sports Commission",
+  "short_name": "Botswana National Sports Co...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-national-sports-commission",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (ss1-2)",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana National Sport Commission Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (ss1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Appeals Committee\" means the Committee appointed under section 31;\n&ldquo; Board\" means the Board of the Commission appointed under section 5;\n\"Botswana National Olympic Committee\" means a body registered under the Societies Act (Cap. 18:01), and duly recognised by the International Olympic Committee as the national level structure for dealing with Olympic matters;\n\"Chairperson\" means the Chairperson of the Board appointed under section 5(2)(a);\n\"Chief Executive Officer\" means the Chief Executive Officer of the Commission appointed under section 20(1);\n\"Commission\" means the Botswana National Sport and Commission established under section 3;\n\"Disciplinary Committee\" means the Disciplinary Committee appointed under section 27;\n\"doping&rdquo; , in relation to sports, means one of the following—\n( a ) the presence of a prohibited substance or its metabolites or markers in an athlete&rsquo;s bodily specimen;\n( b ) the use or attempted use of a prohibited substance or a prohibited method;\n( c ) refusing, or failing without compelling justification, to submit to sample collection after notification as authorised in applicable anti-doping rules or otherwise evading sample collection;\n( d ) violation of applicable requirements regarding athlete availability for out-of-competition testing, including failure to provide required whereabouts information;\n( e ) tampering, or attempting to tamper, with any part of doping control;\n( f ) possession of prohibited substances or methods;\n( g ) trafficking in any prohibited substance or prohibited method; or\n( h ) administration or attempted administration of a prohibited substance or prohibited method to any athlete, or assisting, encouraging, aiding, abetting, covering up or any other type of complicity involving an anti-doping rule violation or any attempted violation;\n\"member\" means a member of the Board;\n\"national team\" means a team officially representing the country;\n\"Paralympic Association of Botswana\" means a body registered under the Societies Act, and duly recognised by the International Paralympic Committee as the national level structure for dealing with Paralympic matters;\n\"sport association\" means a body registered under the Societies Act, which has as its principal objective the promotion or organisation of any sport or recreation activity at national level;\n\"repealed Act\" means the Botswana National Sports Council Act (Cap. 60:01) repealed under section 44; and\n\"Women and Sport Botswana\" means a body registered under the Societies Act, and duly recognised by the International Working Group on Women and Sport as the national level structure for dealing with women in sport."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment and Functions of the Commission (ss3-4)",
+      "section": "3",
+      "title": "Continuation of establishment of Commission",
+      "content": "3. Continuation of establishment of Commission\n(1) The Council known as the Botswana National Sports Council, established under the repealed Act, is hereby continued under the new name of the Botswana National Sport Commission.\n(2) The Commission shall be a body corporate with perpetual succession and a common seal, capable of suing and being sued in its own name and, subject to the provisions of this Act, of performing such acts as bodies corporate may by law perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment and Functions of the Commission (ss3-4)",
+      "section": "4",
+      "title": "Functions of the Commission",
+      "content": "4. Functions of the Commission\nThe functions of the Commission shall be—\n( a ) to determine policies for giving effect to the objects and purposes of the Act;\n( b ) to advise the Minister to change, review or formulate sport related policies and strategies where necessary;\n( c ) to provide leadership and guidance on sport development and promotion;\n( d ) to assist the sport associations ensure that their policies and procedures meet the required standards;\n( e ) to provide knowledge through sport education programmes;\n( f ) to ensure private sector participation in sport development;\n( g ) to mainstream the benefits of sport and physical activity and recreation in the lives of Botswana;\n( h ) to facilitate the preparation of the national team in regional and international competitions;\n( i ) to provide leadership and guidance in prioritising funding for sports associations and recreation clubs;\n( j ) to take responsibility and leadership in the process for hosting regional and international competitions;\n( k ) to promote the national brand and symbols through sport;\n( l ) to promote sport tourism;\n( m ) to facilitate elite sport development and participation in international Competitions in collaboration with Botswana National Olympic Committee;\n( n ) to ensure structured talent identification and nurturing of athletes;\n( o ) to ensure compliance with set ethics and standards, conventions and protocols;\n( p ) to regulate sport at all levels;\n( q ) to promote the development of professional sport;\n( r ) to conduct research on sport and sport related issues;\n( s ) to authorise participation of national teams in international sport competitions;\n( t ) to set performance targets and design programmes aimed at facilitating the continued growth and development of sport; and\n( u ) to promote the inclusion of girls, women and people with disabilities in sport."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART III Administration of the Commission",
+      "section": "5",
+      "title": "Establishment of Board",
+      "content": "5. Establishment of Board\n(1) There shall be a Board, which shall be the governing body of the Commission.\n(2) The Board established under subsection (1) shall consist of the following eleven members appointed by the Minister—\n( a ) the Chairperson;\n( b ) the President and Secretary of the Botswana National Olympic Committee;\n( c ) two representatives of sport associations, elected by sport associations registered with the Commission;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Appeals Committee",
+      "definition": "the Committee appointed under section 31",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Botswana National Olympic Committee",
+      "definition": "a body registered under the Societies Act (Cap. 18:01), and duly recognised by the International Olympic Committee as the national level structure for dealing with Olympic matters",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the Chairperson of the Board appointed under section 5(2)(a)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Executive Officer",
+      "definition": "the Chief Executive Officer of the Commission appointed under section 20(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commission",
+      "definition": "the Botswana National Sport and Commission established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Disciplinary Committee",
+      "definition": "the Disciplinary Committee appointed under section 27",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "national team",
+      "definition": "a team officially representing the country",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Paralympic Association of Botswana",
+      "definition": "a body registered under the Societies Act, and duly recognised by the International Paralympic Committee as the national level structure for dealing with Paralympic matters",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sport association",
+      "definition": "a body registered under the Societies Act, which has as its principal objective the promotion or organisation of any sport or recreation activity at national level",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "the Botswana National Sports Council Act (Cap. 60:01) repealed under section 44",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Women and Sport Botswana",
+      "definition": "a body registered under the Societies Act, and duly recognised by the International Working Group on Women and Sport as the national level structure for dealing with women in sport.",
+      "source_provision": "s2"
+    }
+  ]
+}

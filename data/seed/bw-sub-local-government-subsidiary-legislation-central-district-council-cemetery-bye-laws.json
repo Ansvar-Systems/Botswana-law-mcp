@@ -1,0 +1,91 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-central-district-council-cemetery-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Central District Council (cemetery) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Central District Council (cemetery) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-central-district-council-cemetery-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-Laws may be cited as the Central District Council (Cemetery) Bye-Laws*.\n*Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-Laws, unless the context otherwise requires\n\"authorised official\" means the Council Secretary or any employee of the Council duly authorised;\n\"caretaker\" means the person designated as such by the Council and employed under the Unified Local Government Service Act (Cap. 40:06);\n\"cemetery\" means any designated area established as a cemetery under bye-law 3;\n\"child\" means a person below the age of 10 years;\n\"Council\" means the Central District Council;\n\"council area\" means the area of jurisdiction of the Central District Council;\n\"memorial work\" means any gravestone, monument epitaph, tablet or monumental inscription and any work ancillary thereto; and\n\"village areas\" means any village area under the Central District Council."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment",
+      "content": "3. Establishment\nThe Council shall establish, designate and identify areas within the jurisdiction of the Council as cemeteries."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application",
+      "content": "4. Application\nThese Bye-Laws are applicable to all village areas under the jurisdiction of the Council."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Burials in cemetery",
+      "content": "5. Burials in cemetery\nNo person shall bury or cause to be buried, a body in a place other than in a cemetery."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Permits for burials",
+      "content": "6. Permits for burials"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised official",
+      "definition": "the Council Secretary or any employee of the Council duly authorised",
+      "source_provision": "s2"
+    },
+    {
+      "term": "caretaker",
+      "definition": "the person designated as such by the Council and employed under the Unified Local Government Service Act (Cap. 40:06)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cemetery",
+      "definition": "any designated area established as a cemetery under bye-law 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child",
+      "definition": "a person below the age of 10 years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Central District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council area",
+      "definition": "the area of jurisdiction of the Central District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "memorial work",
+      "definition": "any gravestone, monument epitaph, tablet or monumental inscription and any work ancillary thereto",
+      "source_provision": "s2"
+    },
+    {
+      "term": "village areas",
+      "definition": "any village area under the Central District Council.",
+      "source_provision": "s2"
+    }
+  ]
+}

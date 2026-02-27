@@ -1,0 +1,64 @@
+{
+  "id": "bw-act-inquests",
+  "type": "statute",
+  "title": "Inquests",
+  "title_en": "Inquests",
+  "short_name": "Inquests",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/inquests",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Inquests Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"magistrate\" means any person appointed as Magistrate Grade I or over in accordance with the Magistrates' Courts Act (Cap. 04:04);\n\"medical practitioner\" means any person registered or entitled to be registered or to practise as a medical practitioner in Botswana in terms of the Botswana Health Professions Act (Cap. 61:02);\n\"presiding officer\" means any magistrate holding or about to hold an inquest in terms of this Act;\n\"Registrar\" means the Registrar of the High Court;\n\"State Counsel\" means any professional assistant appointed to assist the Director of Public Prosecutions.\n[ 18 of 2006, s. 2. ]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Duty to notify death",
+      "content": "3. Duty to notify death\n(1) It shall be the duty of every person—\n( a ) who finds the dead body of a person who appears to have come by his death otherwise than from natural causes,\n( b ) to whom the knowledge of any such death may come; or\n( c ) to whom any such death is reported,\nto notify as soon as possible the finding, knowledge or report, together with any other facts in connection therewith which are known to him, to an administrative officer, or to the person in charge of the nearest police station or police post, or to the nearest Chief or Sub-Chief.\n(2) Any person who fails to comply with or contravenes any provision of this section shall be guilty of an offence and shall be liable to a fine not exceeding P100 or to imprisonment for a term not exceeding six months, or to both."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Duty of Chief or Sub-Chief to report",
+      "content": "4. Duty of Chief or Sub-Chief to report\n(1) It shall be the duty of every Chief or Sub-Chief who receives a report under section 3(1) to transmit such report forthwith to an administrative officer, or to the person in charge of the nearest police station or police post, together with any other facts in connection therewith which are known to him."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "magistrate",
+      "definition": "any person appointed as Magistrate Grade I or over in accordance with the Magistrates' Courts Act (Cap. 04:04)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical practitioner",
+      "definition": "any person registered or entitled to be registered or to practise as a medical practitioner in Botswana in terms of the Botswana Health Professions Act (Cap. 61:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "presiding officer",
+      "definition": "any magistrate holding or about to hold an inquest in terms of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of the High Court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "State Counsel",
+      "definition": "any professional assistant appointed to assist the Director of Public Prosecutions.\n[ 18 of 2006, s. 2. ]",
+      "source_provision": "s2"
+    }
+  ]
+}

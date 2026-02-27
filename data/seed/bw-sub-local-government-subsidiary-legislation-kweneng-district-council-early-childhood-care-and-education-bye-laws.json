@@ -1,0 +1,71 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-kweneng-district-council-early-childhood-care-and-education-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Kweneng District Council (early Childhood Care and Education) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Kweneng District Council (early Childhood Care and Education) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-kweneng-district-council-early-childhood-care-and-education-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Kweneng District Council (Early Childhood Care and Education) Bye-laws."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye laws, unless the context otherwise requires\n\" Authorised person \" means an officer from the Departments of Social and Community Development, Bye Law, Physical Planning and Health;\n\" centre \" means a place for the supervision during the day for young children below school age licensed under regulation 3(3);\n\" Council \" means the Kweneng District Council; and\n\" communicable disease \" includes diphtheria, cerebral spinal meningitis, whooping cough, measles, mumps, German measles (rubella) chicken pox, scabies, ringworm on scalp or body and typhoid fever."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Registration of centre",
+      "content": "3. Registration of centre\n(1) A person shall not operate a centre without prior approval and registration by the Council.\n(2) A person who wishes to operate a centre shall make an application for a licence to the Council, in Form 1 set out in the Schedule, giving details of\n( a ) the premises intended to be used;\n( b ) the names and qualifications of all the teachers and other assistants to be employed at the centre; and\n( c ) any other information with regard to the proposed centre as the Council may require.\n(3) The application under paragraph (2) shall be accompanied by a non refundable fee of P100.00.\n(4) If the Council is satisfied that the proposed centre meets all the requirements of these Bye-laws and any other relevant legislation, it may issue to the applicant a licence in accordance with Form 2 set out in the Schedule."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Validity of licence",
+      "content": "4. Validity of licence\n(1) A licence issued in terms of sub-bye-law (3) shall be valid for 12 months from the date of issue, but thereafter renewable from year to year, on payment of fee provided under sub-bye-law (2).\n(2) A person wishing to renew a registration licence shall make an application 21 days before the expiry date, in Form 3 set out in the Schedule and, upon payment of a fee of P100.00 the Council may renew the licence and make an endorsement of conditions it considers necessary."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Display of licence",
+      "content": "5. Display of licence\nA licence holder shall conspicuously display the licence on the wall of the principal's office of the centre."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Suspension and revocation of licence",
+      "content": "6. Suspension and revocation of licence\n(1) A council may\n( a ) suspend a licence issued under bye-law 3 where\n(i) any of the conditions of the licence are not being adhered to,\n(ii) a centre has failed to comply with the Bye-laws, or\n(iii) an authorised officer, after conducting an inspection, has recommended a suspension of the licence due to a failure of the centre to comply with the relevant health standards; or"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Authorised person",
+      "definition": "an officer from the Departments of Social and Community Development, Bye Law, Physical Planning and Health",
+      "source_provision": "s2"
+    },
+    {
+      "term": "centre",
+      "definition": "a place for the supervision during the day for young children below school age licensed under regulation 3(3)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Kweneng District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "communicable disease",
+      "definition": "diphtheria, cerebral spinal meningitis, whooping cough, measles, mumps, German measles (rubella) chicken pox, scabies, ringworm on scalp or body and typhoid fever.",
+      "source_provision": "s2"
+    }
+  ]
+}

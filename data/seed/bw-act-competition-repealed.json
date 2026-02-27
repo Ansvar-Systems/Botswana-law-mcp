@@ -1,0 +1,446 @@
+{
+  "id": "bw-act-competition-repealed",
+  "type": "statute",
+  "title": "Competition",
+  "title_en": "Competition",
+  "short_name": "Competition",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/competition-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\n(1) This Act may be cited as the Competition Act.\n(2) Different commencement dates may be determined under subsection (1) in respect of different provisions of the Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"agreement\" means—\n( a ) any form of agreement, whether or not legally enforceable, entered into between enterprises and is implemented or intended to be implemented in Botswana;\n( b ) a decision by an association of enterprises; or\n( c ) a concerted practice;\n\"Authority\" means the Competition Authority established under section 4;\n\"bid rigging\" means a horizontal agreement between enterprises whereby, in response to a request for bids—\n( a ) one of the parties to the agreement agrees not to submit a bid; or\n( b ) the parties to the agreement agree upon the price, terms and conditions of a bid to be submitted,\nbut an agreement does not amount to bid rigging where the person requesting the bids is informed of the terms of the agreement before the time when the bid is made;\n\"concerted practice\" means co-operative or co-ordinated conduct between enterprises achieved through direct or indirect contact, that replaces their independent action but does not amount to an agreement;\n\"Court\" means the High Court of Botswana;\n\"dominant position\" means a situation in which one or more enterprises possess such economic strength in a market as to allow the enterprise or enterprises to adjust prices or output without effective constraint from competitors or potential competitors;\n\"enterprise\" means a person or group of persons whether or not incorporated, that carries on a business for gain or reward in the production, supply or distribution of goods or the provision of any service;\n\"horizontal agreement\" means an agreement between enterprises each of which operates, for the purpose of the agreement, in the same market and would therefore normally be actual or potential competitors in that market;\n\"member\" means a member of the Competition Commission;\n\"premises\" includes any vehicle, vessel, aircraft or container;\n\"relevant market\" means the geographical or product market to be used for the purpose of assessing the effects of a practice, conduct or agreement on competition;\n\"resale price maintenance\" means an agreement between a supplier and a dealer with the object or effect of directly or indirectly establishing a fixed or minimum price or price level to be observed by the dealer when reselling a product or service to the dealer's customers;\n\"services \" includes the carrying out and performance of any engagement, whether professional or not, for gain or reward, other than the supply of goods;"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "PART I Preliminary",
+      "section": "53",
+      "title": "Exemptions from merger control",
+      "content": "53. Exemptions from merger control\n(1) The Minister may, by regulation, specify categories of merger to which merger control in the terms of section 55 will not apply, by reference to the commercial or industrial sector involved, the nature of the activities in which the enterprise are engaged, or some aspect of the general public interest.\n(2) In the case of the categories of merger specifiedpursuant to subsection (1), the Minister may prescribe such alternative system of merger review as the Minister considers appropriate."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "PART I Preliminary",
+      "section": "54",
+      "title": "Threshold for merger control",
+      "content": "54. Threshold for merger control\nA proposed merger is subject to control in terms of this Act if—\n( a ) the turnover in Botswana of the enterprise or enterprises being taken over exceeds an amount prescribed by the Minister in consultation with the Commission;\n( b ) the assets in Botswana of the enterprise or enterprises being taken over have a value prescribed by the Minister in consultation with Commission; or\n( c ) the enterprises concerned would, following implementation of the merger, supply or acquire a percentage determined by the Commission, of a particular description of goods or services in Botswana."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "PART I Preliminary",
+      "section": "55",
+      "title": "Mergers above permitted threshold",
+      "content": "55. Mergers above permitted threshold\nNo merger falling within the provisions of section 54 may be implemented by any enterprise or enterprises unless—\n( a ) the merger is approved by the Authority in accordance with the provisions of this Act;\n( b ) the merger is implemented in accordance with any conditions attached to the approval granted by the Authority; or\n( c ) the period within which the determination of a notification for a proposed merger has elapsed without the Authority having made a determination in relation to the merger."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "PART I Preliminary",
+      "section": "56",
+      "title": "Pre-notification of mergers",
+      "content": "56. Pre-notification of mergers\n(1) Where a merger is proposed, each of the enterprises involved shall notify the Authority of the proposed merger, in the prescribed manner.\n(2) Subject to the protection of confidential information, the Authority shall publish details of the notification.\n(3) If, after receipt of a notification in terms of subsection (1), the Authority is of the opinion that, in order to consider the proposed merger, it requires further information, it may, within 30 days of the date of receipt of the notification, request such further information in writing from anyone or more of the enterprises concerned and delay publication of the notification until further information is received.\n(4) Subject to subsection (5), the Authority shall consider and make a determination in relation to a notified merger—\n( a ) within 30 days after the date on which the Authority receives that notification;\n( b ) where the Authority requests further information under subsection (3), within 30 days after the date of receipt by the Authority of the information; or\n( c ) if a hearing is convened in accordance with section 58, within 30 days after the date of conclusion of the hearing.\n(5) Where the Authority is of the opinion that the period referred to in paragraph ( a ) , () or( c ) of subsection (4) should be extended due to the complexity of the issues involved, it may, before the expiry of that period, by notice in writing to the enterprises involved extend the relevant period for a further period, not exceeding 60 days, specified in the notice."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "PART I Preliminary",
+      "section": "57",
+      "title": "Consideration of notification",
+      "content": "57. Consideration of notification\n(1) For the purpose of considering a notified merger, the Authority may refer the notification of the proposed merger to an inspector for an investigation and report in relation to the criteria specified in section 59.\n(2) As soon as practicable after a referral in terms of subsection (1), the inspector concerned shall—\n( a ) investigate the proposal so referred; and\n( b ) before a date specified by the Authority, furnish the Authority with a report on the investigation.\n(3) Any person, including a third party not a party to the proposed merger, may voluntarily submit to the inspector or the Authority any document, affidavit, statement or other relevant information in respect of a proposed merger."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "PART I Preliminary",
+      "section": "58",
+      "title": "Hearing in relation to merger",
+      "content": "58. Hearing in relation to merger\n(1) If the Authority considers it appropriate, it may determine that one or more hearings should be held in relation to a proposed merger.\n(2) If the Authority determines that such a hearing or hearings are to be held, it must, before the expiry of the period referred to in section 56 (4) or section 56 (5), as the case may be, give reasonable notice to the enterprises concerned in writing and to other interested third parties—\n( a ) convening the hearing;\n( b ) specifying the date, time and place for the hearing; and\n( c ) stipulating the matters to be considered at the hearing.\n(3) The Authority shall decide—\n( a ) whether to hold individual hearings with each of the enterprises and other interested parties, separately or to hold a single hearing attended by all the enterprises involved and by interested third parties; and\n( b ) whether to hold such hearings—\n(i) in public, or\n(ii) in camera, where it is necessary to protect commercially confidential information.\n(4) The provisions of section 40 (3) and 40 (8) apply to a hearing in relation to a merger on the same basis as they apply to a hearing in terms of section 40."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "PART I Preliminary",
+      "section": "59",
+      "title": "Assessment of merger",
+      "content": "59. Assessment of merger\n(1) In assessing a proposed merger, the Authority shall first determine whether the merger—\n( a ) would be likely to prevent or substantially lessen competition or to restrict trade or the provision of any service or to endanger the continuity of supplies or services; or\n( b ) would be likely to result in any enterprise, including an enterprise which is not involved as a party in the proposed merger, acquiring a dominant position in a market.\n(2) TheAuthority may in addition, consider any factor which, theAuthority considers bears upon the broader public interest in the proposed merger, including the extent to which—\n( a ) the proposed merger would be likely to result in a benefit to the public which would outweigh any detriment attributable to a substantial lessening of competition or to the acquisition or strengthening of a dominant position in a market;\n( b ) the merger may improve, or prevent a decline in the production or distribution of goods or the provision of services;\n( c ) the merger may promote technical or economic progress, having regard to Botswana's development needs;\n( d ) the proposed merger would be likely to affect a particular industrial sector or region;\n( e ) the proposed merger would maintain or promote exports or employment;\n( f ) the merger may advance citizen empowerment initiatives or enhance the competitiveness of citizen-owned small and medium sized enterprises; or\n( g ) the merger may affect the ability of national industries to compete in international markets."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "PART I Preliminary",
+      "section": "60",
+      "title": "Determination on proposed merger",
+      "content": "60. Determination on proposed merger\n(1) In making a determination in relation to a proposed merger, the Authority may—\n( a ) give approval for the implementation of the merger without conditions or subject to such conditions as it considers appropriate; or\n( b ) decline to give approval to the implementation of the merger to the extent that it relates to a market in Botswana.\n(2) Where conditional approval is given, the Authority's determination may contain such directions as the Authority considers necessary, reasonable and practicable to remedy, mitigate or prevent any adverse effects of the merger.\n(3) Directions issued in terms of subsection (2), may Inter alia , require an enterprise or enterprises to—\n( a ) divest such assets as are specified in the direction within a period also so specified; or\n( b ) to adopt, or desist from, such conduct in relation to prices, as is specified in the direction, before the merger can be completed or implemented.\n(4) The Authority shall—\n( a ) give notice of the determination made by the Authority, and of any directions in relation to a merger;\n(i) to the parties involved in the merger, in writing, and\n(ii) by notice in the Gazette , and\n( b ) issue written reasons for its determination—\n(i) if it prohibits or conditionally approves a merger, or\n(ii) if it is requested to do so by any person."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "PART I Preliminary",
+      "section": "61",
+      "title": "Acceptance of undertaking",
+      "content": "61. Acceptance of undertaking\n(1) One or more enterprises may offer an undertaking to the Authority to address any concern that has arisen, or may be expected to arise, during the Authority's consideration of a notified merger.\n(2) The Authority may make determinations in relation to the merger on the basis of such an undertaking if it is satisfied that the undertaking covers all the concerns that need to be addressed as part of the assessment under section 59.\n(3) An undertaking accepted by the Authority shall be published in the form of a decision by the Authority.\n(4) An undertaking accepted by the Authority shall have effect as if it were a direction."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "PART I Preliminary",
+      "section": "62",
+      "title": "Revocation of approval of merger",
+      "content": "62. Revocation of approval of merger\n(1) The Authority may at any time, after consideration of any representations made to it in terms of subsection (2), revoke a decision approving the implementation of a merger if—\n( a ) the decision was based on materially incorrect or misleading information for which a party to the merger is responsible; or\n( b ) any condition attached to the approval of the merger that is material to the implementation is not complied with.\n(2) Where the Authority proposes to revoke its decision under subsection (1), it shall—\n( a ) give notice in writing of the proposed action to every enterprise involved in the merger, and to any other person who in the opinion of the Authority is likely to have an interest in the matter; and\n( b ) call upon such persons to submit to the Authority, within 30 days of the receipt of the notice, any representations which they may wish to make in regard to the proposed action."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "PART I Preliminary",
+      "section": "63",
+      "title": "Merger implemented in contravention of Act",
+      "content": "63. Merger implemented in contravention of Act\n(1) Where the Authority has a reasonable suspicion that a merger is being, or has been, implemented in contravention of the provisions of this Part, the Authority may give a direction in writing to the enterprise or enterprises involved—\n( a ) requiring them to submit such information regarding the suspected merger as may be specified by the Authority; or\n( b ) restraining the parties from implementing the merger or taking steps such as the integration of activities or the disposal of assets that would pre-empt the taking of remedial action designed to restore the conditions of competition existing prior to the merger.\n(2) Where the Authority determines, on investigation, that a merger is being, or has been, implemented in contravention of the provisions of this Part, it may give a direction to the enterprise or enterprises involved—\n( a ) not to complete or implement the merger;\n( b ) to sell or dispose of in any other specified manner, any shares, interest or other assets it has acquired pursuant to the merger;\n( c ) to terminate any agreements, or provisions of an agreement, to which the merger was subject; or\n( d ) to take such further measures as may be necessary to restore the conditions of competition existing prior to the merger."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "PART I Preliminary",
+      "section": "64",
+      "title": "Enforcement of directions",
+      "content": "64. Enforcement of directions\n(1) Where the Authority has reasonable grounds to believe that an enterprise has, without reasonable excuse, failed to comply with a direction issued by the Authority under this Part, the Authority may exercise in respect of this matter the powers of investigation provided for in Part VII in respect of matters falling within Part V.\n(2) Where the Authority proposes to determine that a failure of compliance in the terms of subsection (1) has occurred, it must give notice of its intention to the enterprise concerned and consider any representations the enterprise wishes to make.\n(3) The Authority may then apply to the Court for an order requiring the enterprise to make good the default within a time specified in the order.\n(4) The order may provide for all of the costs of, or incidental to, the application for the order, to be borne by the enterprise in default."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "PART I Preliminary",
+      "section": "65",
+      "title": "Exclusion of certain agreements and conduct",
+      "content": "65. Exclusion of certain agreements and conduct\n(1) An agreement giving effect to a merger as defined in section 52 or any provision directly related and necessary to the implementation of a merger, is excluded from the scope of sections 25, 26 (1) and 27 (1) of this Act.\n(2) Conduct which results in a merger or is directly related and necessary to the implementation of a merger is excluded from the scope of section 30 (1) of this Act."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "PART I Preliminary",
+      "section": "66",
+      "title": "Compliance with other laws",
+      "content": "66. Compliance with other laws\nApproval of a merger granted by the Authority does not relieve an enterprise from obtaining such other approvals as may be required from other bodies in the exercise of their statutory responsibilities."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "PART XI Appeals",
+      "section": "67",
+      "title": "Matters subject to appeal",
+      "content": "67. Matters subject to appeal\nExcept as otherwise provided for in this Part, a decision or determination made by the Commission or direction given by the Commission is binding unless appealed to the High Court."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "PART XI Appeals",
+      "section": "68",
+      "title": "Appeal against horizontal and vertical agreements",
+      "content": "68. Appeal against horizontal and vertical agreements\n(1) A person aggrieved by a determination of the Commission to the effect that an enterprise has or has not breached the prohibitions laid down in section 25or 26 (1), may appeal to the High Court against the determination, and, where the Commission has determined that a breach has occurred—\n( a ) against all or part of any direction given by the Commission pursuant to section 43 (1); or\n( b ) against the imposition of a financial penalty by the Commission pursuant to section 43 (2) or against the level of any such penalty.\n(2) In considering an appeal under subsection (1), the Court may fully review the facts and evidence on which the Commission relied—\n( a ) in reaching its determination;\n( b ) in formulating any directions; or\n( c ) in determining the amount and proportionality of any financial penalty."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "PART XI Appeals",
+      "section": "69",
+      "title": "Appeal against abuse of dominance",
+      "content": "69. Appeal against abuse of dominance\nAn enterprise or person aggrieved by a determination of the Authority to issue or not to issue a direction, or by the terms of a direction—\n( a ) following investigation of a restrictive agreement falling within the terms of section 27 (1);\n( b ) following investigation of abuse of dominant position; or\n( c ) in relation to a merger pursuant to Part X,\nmay appeal to the High Court against that determination."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "PART XI Appeals",
+      "section": "70",
+      "title": "Other appeals",
+      "content": "70. Other appeals\n(1) An enterprise or person aggrieved by any decision of the Commission may appeal to the High Court against that decision.\n(2) In deciding an appeal under this Act, the court shall apply the same principles as would be applied by a Court on an application for judicial review."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "PART XI Appeals",
+      "section": "71",
+      "title": "Outcome of appeals",
+      "content": "71. Outcome of appeals\n(1) Following consideration of an appeal under section 68, and if the appeal is not dismissed, the High Court may confirm or set aside the determination that is the subject of the appeal, or any part of it, and may—\n( a ) remit the matter to the Commission for re-consideration;\n( b ) revoke, increase or reduce a financial penalty;\n( c ) give a direction of its own in substitution for that of the Commission; or\n( d ) make any other decision that the Commission could have made.\n(2) Following consideration of an appeal under section 69, the Court may—\n( a ) dismiss the appeal or quash the whole or part of the determination to which the appeal relates; and\n( b ) where it quashes the whole or part of that determination, remit the matter to the Commission for re-consideration.\n(3) An appeal against the Court's judgment may be made to the Court of Appeal, but only—\n( a ) on a point of law arising from the judgment of the Court, or\n( b ) from any decision of the Court as to the amount of a penalty."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "PART XII General provisions",
+      "section": "72",
+      "title": "Determination of relevant market",
+      "content": "72. Determination of relevant market\n(1) This section applies in relation to any case arising under Parts V to X of this Act.\n(2) The criteria for determining—\n( a ) when goods or services are to be treated as goods or services of a separate description; and\n( b ) whether the share of supply or acquisition specified in sections 28, 31 or 54, where applicable, is fulfilled, shall be such as in any particular case appear to the Authority to be the most appropriate in the circumstances.\n(3) For the purpose of establishing whether the share of supply criteria are satisfied, the share of the group as a whole is to be used where an enterprise—\n( a ) is a subsidiary of a group; or\n( b ) is otherwise party to arrangements by which enterprises are inter-connected within a group.\n(4) When the Authority has opened an investigation because it is satisfied that the applicable criteria for share of supply or acquisition have been fulfilled, the Authority shall decide whether the goods or services used in calculating such share of supply or acquisition also constitute the relevant market for the purpose of assessing the effects on competition or whether some alternative definition of the market should be substituted for this purpose."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "PART XII General provisions",
+      "section": "73",
+      "title": "Relationship with sector regulators",
+      "content": "73. Relationship with sector regulators\n(1) In this section, \"regulator\" means any regulatory body listed under Schedule II , or any Government Department that exercises functions of prudential or economic regulation.\n(2) The Minister may, by order, amend Schedule II.\n(3) The Authority and the regulators shall establish a mechanism through which they can maintain regular contact regarding the exercise of their respective responsibilities.\n(4) Where the Authority proposes to investigate a matter which does not fall within the scope of section 3 (3) but involves an enterprise which is in other respects subject to the jurisdiction of a regulator, the Authority shall notify the relevant regulator of the proposed investigation.\n(5) A regulator is entitled to make written representations to the Authority on a matter under investigation, which involves an enterprise which is subject to the jurisdiction of the regulator.\n(6) The Authority and the regulator shall hold consultations to determine—\n( a ) whether the regulator can place sector-specific expertise, including inspectors, at the disposal of theAuthority and assist with theAuthority's investigation; or\n( b ) whether the regulator should give oral evidence at any hearing convened by the Authority to consider the case.\n(7) An inspector provided by a regulator pursuant to subsection (6) ( a ) shall not be inhibited by any requirement imposed under the statutes cited under Schedule II from conducting an investigation on the same basis as that on which the Authority could itself conduct the investigation in terms of the provisions of this Act.\n(8) The Authority shall consider any written representations submitted by a regulator on any merger considered by the Authority where the merger involves one or more enterprises that are subject to prudential or economic regulation by the regulator.\n(9) The determination of the Authority on any matter falling within the scope of this section shall be final, except where consultations in terms of subsection (6) have not been held."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "PART XII General provisions",
+      "section": "74",
+      "title": "Confidentiality",
+      "content": "74. Confidentiality\n(1) A member of the Commission, an employee of the Authority, or an inspector appointed in terms of this Act, shall not disclose confidential information with respect to any enterprise or individual, that has been obtained in terms of the provisions of this Act while the business continues to be carried on or during the lifetime of the individual.\n(2) Subsection (1) does not apply to a disclosure of information—\n( a ) made with the consent of the person carrying on the business or with the consent of the individual concerned;\n( b ) made in circumstances where the information is in the form of a summary or collection of information so framed as not to enable information relating to a particular enterprise or to a particular person to be ascertained from it;\n( c ) that is already in the public domain;\n( d ) made to facilitate the performance of a function of the Authority, such as giving reasons for its decisions;\n( e ) made in proceedings under this Act;\n( f ) made in connection with the investigation of a criminal offence; or\n( g ) made to the competition authority of another country in connection with a request by that country for assistance in terms of section 77 (1).\n(3) A person who contravenes the provisions of this section commits an offence and is liable to a fine not exceeding P30 000 or to imprisonment for a term not exceeding two years, or to both."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "PART XII General provisions",
+      "section": "75",
+      "title": "Claims for damages or other money",
+      "content": "75. Claims for damages or other money\n(1) An action for damages or other sum of money by any person or enterprise may be made—\n( a ) only in respect of a breach of the prohibition under section 25 or 26 (1); and\n( b ) only if the breach is established by a determination of the Authority, or following an appeal against the determination, by a judgment of the Court.\n(2) The Authority shall provide the Court before which the action is brought with such information within its possession or control as the plaintiff reasonably requests relating to the Authority's determination."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "PART XII General provisions",
+      "section": "76",
+      "title": "Offences and penalties",
+      "content": "76. Offences and penalties\n(1) A person commits an offence and is liable to a fine not exceeding P30 000 or to imprisonment for a term not exceeding two years, or to both if—\n( a ) the person hinders, opposes, obstructs or unduly influences any person who is exercising power in terms of this Act or performing a duty conferred or imposed on that person by this Act;\n( b ) having been required in the terms of section 35 (4) or 36 (2) to produce information to the Authority, the person fails, without reasonable cause, to provide that information;\n( c ) having been duly summoned to attend a hearing, the person fails, without reasonable cause, to attend;\n( d ) being in attendance as required, the person—\n(i) refuses to take the oath or affirmation required by the Commission;\n(ii) refuses, after having taken the oath or an affirmation, to answer any question to which the Authority may lawfully require an answer or gives evidence which that person knows is false, or\n(iii) fails to produce any document or thing in that person's possession or under that person's control lawfully required by the Commission to be produced;\n( e ) the person does anything calculated to improperly influence the Commission, any member or employee of the Authority concerning any matter connected with the exercise of any power or the performance of any function of the Authority;\n( f ) the person anticipates any decision of the Commission concerning an investigation in a way that is calculated to influence the proceedings;\n( g ) the person does anything in connection with an investigation that would constitute contempt of Court had the proceedings occurred in a court of law;\n( h ) knowingly provides false information to the Authority; or\n( i ) defames a member of the Commission in the member's official capacity.\n(3) Where a person fails to comply with an order of the Commission, the person commits an offence and is liable to a fine not exceeding P500 000 or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "PART XII General provisions",
+      "section": "77",
+      "title": "Enforcement at request of another State",
+      "content": "77. Enforcement at request of another State\n(1) Subject to subsection (2), the Authority may investigate any matter falling within the scope of this Act and make an appropriate determination of the case where a competition authority duly constituted in another State so requests and where that authority proves to the Authority that there are reasonable grounds to believe that anticompetitive practices in Botswana are damaging competition in the other state.\n(2) Subsection (1) applies where Botswana has entered into an agreement with that state to the effect that, on a basis of reciprocity, each party to the agreement will exercise the principle of comity on the basis described in subsection (1) in investigating and determining cases falling within its jurisdiction at the request of the other party."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "PART XII General provisions",
+      "section": "78",
+      "title": "Fees",
+      "content": "78. Fees\nThe Authority may charge fees for—\n( a ) orders regarding the investigation of restrictions on competition;\n( b ) reviews of mergers of enterprises; and\n( c ) opinions and other services."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "PART XII General provisions",
+      "section": "79",
+      "title": "Guidelines and rules",
+      "content": "79. Guidelines and rules\n(1) The Authority shall publish—\n( a ) guidelines on the economic and legal analysis to be used determining cases under this Act;\n( b ) guidelines on the principles to be used in determining any penalty or remedy imposed in terms of section 25 and section 26; and\n( c ) procedural rules specifying the procedures it shall follow in carrying out its functions under this Act.\n(2) The Minister shall, publish a list of all professional rules prescribed under Schedule I.\n(3) The Minister shall provide the Authority with a list of the professional rules referred to under Schedule I and copies of those rules.\n(4) A list of all the professional rules prescribed under Schedule I and copies of those professional rules, shall be open for public inspection at the offices of the Authority."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "PART XII General provisions",
+      "section": "80",
+      "title": "Regulations",
+      "content": "80. Regulations\nThe Minister may make regulations for any matter required to be prescribed under this Act and to give effect to the provisions of this Act."
+    },
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Scope of Exclusion (items 1-6)",
+      "section": "1",
+      "title": "General Provisions",
+      "content": "1. General Provisions\n(1) To the extent to which an agreement (either on its own or when taken together with another agreement)—\n( a ) constitutes a designated professional rule;\n( b ) imposes obligations arising from a designated professional rule; or\n( c ) constitutes an agreement to act in accordance with such rules, section 27 (3) of the Act does not apply to the agreement.\n(2) In this Schedule—\n\"designated\" means designated by the Minister under paragraph 2 of the Schedule;\n\"professional rules\" means rules regulating a professional service or the persons providing, or wishing to provide, that service;\n\"professional service\" means any of the services described in Part II of this Schedule; and\n\"rules \" includes regulations, codes of practice and statements of principle."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Scope of Exclusion (items 1-6)",
+      "section": "2",
+      "title": "Designated rules",
+      "content": "2. Designated rules\n(1) The Minister must establish and maintain a list designating for the purposes of this Schedule, rules—\n( a ) which are notified to him under paragraph 3 of the Schedule; and\n( b ) which, in his opinion, are professional rules.\n(2) The list is to be established by an order made by the Minister and the designation of any rule is to have effect from the date of the order."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Scope of Exclusion (items 1-6)",
+      "section": "3",
+      "title": "Application for designation",
+      "content": "3. Application for designation\nAny body regulating a professional service or the persons who provide, or wish to provide, that service may apply to the Minister for rules of that body to be designated and must provide a copy of such rules to the Minister."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Scope of Exclusion (items 1-6)",
+      "section": "4",
+      "title": "Reviewing the list",
+      "content": "4. Reviewing the list\n(1) The Minister must send the Commission the list of rules established under paragraph 2 of the Schedule, as amended from time to time, together with a copy of the rules themselves.\n(2) The Commission must keep the list under review and if it considers that some or all of the rules of a particular body should no longer be designated or that rules which are not designated should be so designated, the Commission must advise the Minister accordingly.\n(3) Nothing in this Schedule prevents the Commission—\n( a ) from taking action against designated professional rules if it is satisfied that the rules constitute an infringement of the prohibitions in section 26 (1) or 27 (1) of the Act; or\n( b ) from opening an investigation to establish whether an abuse of dominant position in the terms of section 31 of the Act is occurring or has occurred."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART I Scope of Exclusion (items 1-6)",
+      "section": "5",
+      "title": "Removal from the list",
+      "content": "5. Removal from the list\n(1) If the Minister receives advice from the Commission to the effect that a designation should be revoked in whole or in part, he must consult any other Minister who has functions in relation to the professional services concerned.\n(2) Having considered the advice of the Commission and any advice resulting from consultation under subparagraph (1), he may by regulation revoke the designation."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART I Scope of Exclusion (items 1-6)",
+      "section": "6",
+      "title": "Inspection",
+      "content": "6. Inspection\nThe Commission is to make the list of designated professional rules, and a copy of the rules themselves, available for public inspection."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "7",
+      "title": "Legal",
+      "content": "7. Legal\nThe services of advocates and attorneys as governed by the Legal Practitioners Act (Cap. 61:01)."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "8",
+      "title": "Medical and dental",
+      "content": "8. Medical and dental\nThe performance of surgical and dental operations, and the provision of medical, dental or surgical advice or attendance, as governed by the Botswana Health Professions Act (Cap. 61:02)."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "9",
+      "title": "Ophthalmic",
+      "content": "9. Ophthalmic\nThe testing of sight."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "10",
+      "title": "Veterinary",
+      "content": "10. Veterinary\nAny services which constitute veterinary surgery within the terms of the Veterinary Surgeons Act (Cap. 61:04)."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "11",
+      "title": "Nursing and Midwifery",
+      "content": "11. Nursing and Midwifery\nThe services of nurses and midwives, as governed by the Nurses and Midwives Act (Cap. 61:03)."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "12",
+      "title": "Physiotherapy",
+      "content": "12. Physiotherapy\nThe services of physiotherapists."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "13",
+      "title": "Chiropody",
+      "content": "13. Chiropody\nThe services of chiropodists."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "14",
+      "title": "Architectural",
+      "content": "14. Architectural\nThe services of architects."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "15",
+      "title": "Accounting and auditing",
+      "content": "15. Accounting and auditing\nThe making or preparation of accounts or accounting records and the examination, verification and auditing of financial statements, as governed by the Accountants Act (Cap. 61:05)."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "16",
+      "title": "Insolvency",
+      "content": "16. Insolvency\nInsolvency services within the meaning of Insolvency Act (Cap. 42:02)."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "17",
+      "title": "Patent Agency",
+      "content": "17. Patent Agency\nThe services of registered patent agents."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "18",
+      "title": "Parliamentary agency",
+      "content": "18. Parliamentary agency\nThe services of parliamentary agents."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "19",
+      "title": "Surveyng",
+      "content": "19. Surveyng\nThe services of surveyors of land, of quantity surveyors, of surveyors of buildings or other structures and of surveyors of ships, as governed ( Inter alia ) by the Land Survey Act (Cap. 33:01) Part II of which deals with surveyors."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "20",
+      "title": "Engineering and Technology etc",
+      "content": "20. Engineering and Technology etc\nThe services of persons practising or employed as consultants in the field of—\n( a ) civil engineering;\n( b ) mechanical, aeronautical, marine, electrical or electronic engineering;\n( c ) mining, quarrying, soil analysis or other forms of mineralogy;\n( d ) agronomy, forestry, livestock rearing or ecology;\n( e ) metallurgy, chemistry, biochemistry or physics; or\n( f ) any other form of engineering or technology analogous to those mentioned in sub-paragraphs ( a ) to ( e ) as governed ( Inter alia ) by the Engineers Registration Act (Cap. 61:06)."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "21",
+      "title": "Other",
+      "content": "21. Other\nThe provision of education or training."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "22",
+      "title": "Educational",
+      "content": "22. Educational\nThe services of Ministers of religion."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART II Professional Services (items 7-23)",
+      "section": "23",
+      "title": "Religious",
+      "content": "23. Religious\nAny other professional services to which the provisions of this Schedule have been declared applicable by order of the Minister."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Authority",
+      "definition": "the Competition Authority established under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bid rigging",
+      "definition": "a horizontal agreement between enterprises whereby, in response to a request for bids—\n( a ) one of the parties to the agreement agrees not to submit a bid",
+      "source_provision": "s2"
+    },
+    {
+      "term": "concerted practice",
+      "definition": "co-operative or co-ordinated conduct between enterprises achieved through direct or indirect contact, that replaces their independent action but does not amount to an agreement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Court",
+      "definition": "the High Court of Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dominant position",
+      "definition": "a situation in which one or more enterprises possess such economic strength in a market as to allow the enterprise or enterprises to adjust prices or output without effective constraint from competitors or potential competitors",
+      "source_provision": "s2"
+    },
+    {
+      "term": "enterprise",
+      "definition": "a person or group of persons whether or not incorporated, that carries on a business for gain or reward in the production, supply or distribution of goods or the provision of any service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "horizontal agreement",
+      "definition": "an agreement between enterprises each of which operates, for the purpose of the agreement, in the same market and would therefore normally be actual or potential competitors in that market",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Competition Commission",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "any vehicle, vessel, aircraft or container",
+      "source_provision": "s2"
+    },
+    {
+      "term": "relevant market",
+      "definition": "the geographical or product market to be used for the purpose of assessing the effects of a practice, conduct or agreement on competition",
+      "source_provision": "s2"
+    },
+    {
+      "term": "resale price maintenance",
+      "definition": "an agreement between a supplier and a dealer with the object or effect of directly or indirectly establishing a fixed or minimum price or price level to be observed by the dealer when reselling a product or service to the dealer's customers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "services",
+      "definition": "the carrying out and performance of any engagement, whether professional or not, for gain or reward, other than the supply of goods",
+      "source_provision": "s2"
+    }
+  ]
+}

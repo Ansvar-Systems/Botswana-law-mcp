@@ -24,8 +24,8 @@ const DB_PATH = resolve(__dirname, '../data/database.db');
 const CENSUS_PATH = resolve(__dirname, '../data/census.json');
 
 const MAX_DB_AGE_DAYS = Number(process.env['MAX_DB_AGE_DAYS'] ?? '90');
-const PORTAL_URL = 'http://elaws.gov.bw';
-const PORTAL_NAME = 'Botswana Law';
+const PORTAL_URL = 'https://botswanalaws.com';
+const PORTAL_NAME = 'Botswana Laws';
 
 interface CensusSummary {
   total_laws?: number;

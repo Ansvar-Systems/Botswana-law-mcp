@@ -1,0 +1,85 @@
+{
+  "id": "bw-act-matimela-repealed",
+  "type": "statute",
+  "title": "Matimela",
+  "title_en": "Matimela",
+  "short_name": "Matimela",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/matimela-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and application",
+      "content": "1. Short title and application\nThis Act may be cited as the Matimela Act, and shall not apply within the area of a city or township."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"AC brand\" means an AC brand as defined in the<CS:\"Hidden - Grey - 8_2\"> Branding of Cattle Act (Cap. 36:02);\n\"animals\" means horses, donkeys, mules, cattle, sheep, goats and pigs;\n\"assistant matimela officer\" means a person appointed under section 4 as an assistant matimela officer;\n\"branded animal\" means any animal upon which any AC brand is imprinted and includes unweaned young of any animal upon which any such brand is imprinted;\n\"Chief\" means Chief of a tribal area and includes any person performing the functions of Chief;\n\"council\" , in relation to any tribal area, means the District Council within the area in which the tribal area is situated;\n\"matimela\" means any stray animals and any animals which having been stray animals continue to be matimela by virtue of section 13;\n\"matimela fund\" means a fund established under section 12;\n\"matimela kraal\" means a kraal established or deemed to have been established under section 3;\n\"matimela officer\" , in relation to any matimela kraal, means the person appointed under section 4 as matimela officer of that kraal, and in the absence or incapacity of such person means the council secretary."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment of matimela kraals",
+      "content": "3. Establishment of matimela kraals\n(1) A council may by resolution establish any kraal or enclosure as a matimela kraal for the purposes of this Act.\n(2) Any kraal or enclosure in the vicinity of any kgotla in which matimela has, prior to the coming into operation of this Act, been customarily placed shall be deemed to have been established as a matimela kraal under this section."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Matimela officers",
+      "content": "4. Matimela officers\n(1) A council shall appoint a matimela officer for every matimela kraal established or deemed under section 3 to have been established in its area.\n(2) A council may appoint as many assistant matimela officers as may be necessary for the purposes of this Act.\n(3) In the exercise of their functions under this Act matimela officers and assistant officers shall act in accordance with such instructions as may be given them by the council."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Councils may make arrangements for collection of matimela",
+      "content": "5. Councils may make arrangements for collection of matimela\n(1) A council may at any time, and shall at least thrice in every year, in consultation with the Chief, make arrangements for the collection of matimela and may, for that purpose, employ persons whose remuneration shall be paid out of moneys available in the matimela fund or the general revenue of the council."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "AC brand",
+      "definition": "an AC brand as defined in the<CS:\"Hidden - Grey - 8_2\"> Branding of Cattle Act (Cap. 36:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "animals",
+      "definition": "horses, donkeys, mules, cattle, sheep, goats and pigs",
+      "source_provision": "s2"
+    },
+    {
+      "term": "assistant matimela officer",
+      "definition": "a person appointed under section 4 as an assistant matimela officer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "branded animal",
+      "definition": "any animal upon which any AC brand is imprinted and includes unweaned young of any animal upon which any such brand is imprinted",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief",
+      "definition": "Chief of a tribal area and includes any person performing the functions of Chief",
+      "source_provision": "s2"
+    },
+    {
+      "term": "matimela",
+      "definition": "any stray animals and any animals which having been stray animals continue to be matimela by virtue of section 13",
+      "source_provision": "s2"
+    },
+    {
+      "term": "matimela fund",
+      "definition": "a fund established under section 12",
+      "source_provision": "s2"
+    },
+    {
+      "term": "matimela kraal",
+      "definition": "a kraal established or deemed to have been established under section 3",
+      "source_provision": "s2"
+    }
+  ]
+}

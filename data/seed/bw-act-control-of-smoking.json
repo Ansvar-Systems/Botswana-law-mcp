@@ -1,0 +1,69 @@
+{
+  "id": "bw-act-control-of-smoking",
+  "type": "statute",
+  "title": "Control of Smoking",
+  "title_en": "Control of Smoking",
+  "short_name": "Control of Smoking",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/control-of-smoking",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Control of Smoking Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"internal flight\" ...;\n[ 28 of 2004, s. 2(a). ]\n\"licensed premises\" ...;\n[ 28 of 2004, s. 2(a). ]\n\"public place\" means any place to which members of the public or segments thereof have access by express or implied invitation;\n[ 28 of 2004, s. 2(c). ]\n\"public service vehicle\" has the same meaning as in the Road Traffic Act (Cap. 69:01), and shall, for the purposes of this Act, include a private hire vehicle as defined in that Act;\n[ 28 of 2004, s. 2(b). ]\n\"restaurant\" means any premises or part of any premises where the principal business is the selling of meals or refreshments to the general public for consumption on the premises, whether or not liquor may also be sold on such premises or part thereof, and shall include any area on a train where food or refreshments are provided for consumption by passengers;\n\"second-hand smoke\" means—\n(i) the smoke exhaled from a person smoking a tobacco product, or\n(ii) any side-stream smoke;\n[ 28 of 2004, s. 2(c). ]\n\"separate ventilation\" means the extraction of air from a smoking area without re-circulating it into the non-smoking area;\n[ 28 of 2004, s. 2(c). ]\n\"side-stream smoke\" means the smoke emitted from a tobacco product while the tobacco product smoulders between puffs;\n[ 28 of 2004, s. 2(c). ]\n\"tobacco product\" means any product manufactured from tobacco, and intended for use by smoking, inhalation or used as an oral or nasal snuff, but shall not include any medicine sold or supplied wholly or principally for use as an aid in giving up smoking;\n\"tobacco advertisement\" means any words written, printed or spoken, or film, video recording or other medium broadcast or telecast, or pictorial representation, design or device used to encourage the use of or notify the availability of, or promote the sale of any tobacco or tobacco product, or to promote smoking behaviour;\n\"workplace\" means any place, including any public service vehicle or other means of transport in which employees, contractors, or other persons perform duties of employment or work, and includes private offices, common areas, and any other area, which they generally use during the course of their employment or work."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "public place",
+      "definition": "any place to which members of the public or segments thereof have access by express or implied invitation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public service vehicle",
+      "definition": "as in the Road Traffic Act (Cap. 69:01), and shall, for the purposes of this Act, include a private hire vehicle as defined in that Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "restaurant",
+      "definition": "any premises or part of any premises where the principal business is the selling of meals or refreshments to the general public for consumption on the premises, whether or not liquor may also be sold on such premises or part thereof, and shall include any area on a train where food or refreshments are provided for consumption by passengers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "separate ventilation",
+      "definition": "the extraction of air from a smoking area without re-circulating it into the non-smoking area",
+      "source_provision": "s2"
+    },
+    {
+      "term": "side-stream smoke",
+      "definition": "the smoke emitted from a tobacco product while the tobacco product smoulders between puffs",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tobacco product",
+      "definition": "any product manufactured from tobacco, and intended for use by smoking, inhalation or used as an oral or nasal snuff, but shall not include any medicine sold or supplied wholly or principally for use as an aid in giving up smoking",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tobacco advertisement",
+      "definition": "any words written, printed or spoken, or film, video recording or other medium broadcast or telecast, or pictorial representation, design or device used to encourage the use of or notify the availability of, or promote the sale of any tobacco or tobacco product, or to promote smoking behaviour",
+      "source_provision": "s2"
+    },
+    {
+      "term": "workplace",
+      "definition": "any place, including any public service vehicle or other means of transport in which employees, contractors, or other persons perform duties of employment or work, and includes private offices, common areas, and any other area, which they generally use during the course of their employment or work.",
+      "source_provision": "s2"
+    }
+  ]
+}

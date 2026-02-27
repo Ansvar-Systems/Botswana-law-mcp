@@ -1,0 +1,124 @@
+{
+  "id": "bw-act-trust-property-control-act",
+  "type": "statute",
+  "title": "Trust Property Control Act",
+  "title_en": "Trust Property Control Act",
+  "short_name": "Trust Property Control Act",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/trust-property-control-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "CHAPTER 31:05 TRUST PROPERTY CONTROL ACT",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Trust Property Control Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "CHAPTER 31:05 TRUST PROPERTY CONTROL ACT",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise indicates—\n\"bank\" means a Bank licensed in terms of the Banking Act (Cap. 46:04);\n\"beneficial owner\" has the same meaning assigned to it under the Financial Intelligence Act (Cap. 08:07);\n\"beneficiary\" means a person entitled to any benefit from the trust and may include the settlor or trustee in the concerned trust;\n\"building society\" means a building society registered in terms of the Building Societies Act (Cap. 42:03);\n\"foreign trust\" means a trust created or governed by foreign law which seeks to administer and/or dispose trust property located in Botswana;\n\"foreign trustee\" means a person who is a non-resident, appointed as a trustee by or in accordance with the trust instrument of a foreign trust where such person administers or disposes trust property located in Botswana;\n\"financial institution\" includes a bank, building society or a non-bank financial institution;\n\"funds\" has the same meaning assigned to it under the Proceeds and Instruments of Crime Act (Cap. 08:03);\n\"Master\" in relation to this Act means the Master of the High Court and includes the Deputy Master, Senior Assistant Master and Assistant Master appointed under Part II of the Administration of Estates Act (Cap. 31:01);\n\"non-bank financial institution\" means a non-bank financial institution licensed in terms of the Non-Bank Financial Institutions Regulatory Authority Act (Cap. 46:08);\n\"non-profit trust\" means a trust that primarily engages in raising or disbursing funds for purposes such as charitable, religious, cultural, educational, social or fraternal, or for the carrying out of other types of work including, but not limited to—\n( a ) the prevention or relief of poverty;\n( b ) the advancement of education;\n( c ) the advancement of religion;\n( d ) the advancement of health or the saving of lives;\n( e ) the advancement of citizenship or community development;\n( f ) the advancement of arts, culture, heritage or science;\n( g ) the advancement of sport;\n( h ) the advancement of human rights, conflict resolution or reconciliation or the promotion of religious or racial harmony or equality and diversity;\n( i ) the advancement of environmental protection or improvement;\n( j ) the relief of those in need because of youth, age, ill-health, disability, financial hardship or other disadvantage;\n( k ) the advancement of animal welfare;\n( l ) the promotion of the efficiency of the armed forces of the Republic or of the efficiency of the police, fire and rescue services or ambulance services; or\n( m ) any other purpose that may reasonably be regarded as similar to, or within the spirit of the above mentioned purposes;\n\"notarial deed\" means a deed registered in terms of the Deeds Registry Act (Cap. 33:02);\n\"protector\" means any person to whom powers or interests ordinarily exercised by trustees have been vested in him or her, whether it be the settlor or any other person, including the power to—\n( a ) direct a trustee to dispose of, advance, lend, invest, pay or apply trust property;\n( b ) vary or terminate a trust;\n( c ) add or remove a person as a beneficiary;\n( d ) appoint or remove trustees or give another individual control over a trust; or\n( e ) direct, withhold consent to or veto the exercise of powers—\n(i) mentioned in paragraphs ( a ) to ( d ), or\n(ii) by a trustee;\n\"register\" means the register of trusts, trustees, and trust service providers established and maintained under section 4;\n\"settlor\" means a person who makes or arranges for the making of a trust instrument under which the person&rsquo;s ownership in property is made over or bequeathed to other specified persons and \"founder\" shall have the same meaning;\n\"trust\" includes a trust, non-profit trust, a foundation or any other arrangement through which the ownership in property of one person is by virtue of a trust instrument made over or bequeathed—\n( a ) to another person, the trustee, in whole or in part, to be administered or disposed of according to the provisions of the trust instrument for the benefit of the person or class of persons designated in the trust instrument or for the achievement of the object stated in the trust instrument; or\n( b ) to the beneficiaries designated in the trust instrument, which property is placed under the control of another person, the trustee, to be administered or disposed of according to the provisions of the trust instrument for the benefit of the person or class of persons designated in the trust instrument or for the achievement of the object stated in the trust instrument, but does not include the case where the property of another is to be administered by any person as a trustee, executor, tutor or curator in terms of the provisions of any other written law;\n\"trustee\" means any person, including the founder or settlor of a trust who acts as trustee by virtue of an authorisation under section 7 and includes any person whose appointment as trustee is already in force at the commencement of the Act;\n\"trust instrument\" means a written agreement, testamentary writing, court order or a notarial deed according to which a trust is created;\n\"trust property\" has the same meaning assigned to \"property\" under the Proceeds and Instruments of Crime Act; and\n\"trust service provider\" means a person, other than a person or business listed under Schedule I of the Financial Intelligence Act, that as part of his or her business, provide any of the following services to a third party—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "bank",
+      "definition": "a Bank licensed in terms of the Banking Act (Cap. 46:04)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "beneficial owner",
+      "definition": "assigned to it under the Financial Intelligence Act (Cap. 08:07)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "beneficiary",
+      "definition": "a person entitled to any benefit from the trust and may include the settlor or trustee in the concerned trust",
+      "source_provision": "s2"
+    },
+    {
+      "term": "building society",
+      "definition": "a building society registered in terms of the Building Societies Act (Cap. 42:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foreign trust",
+      "definition": "a trust created or governed by foreign law which seeks to administer and/or dispose trust property located in Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foreign trustee",
+      "definition": "a person who is a non-resident, appointed as a trustee by or in accordance with the trust instrument of a foreign trust where such person administers or disposes trust property located in Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial institution",
+      "definition": "a bank, building society or a non-bank financial institution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "funds",
+      "definition": "assigned to it under the Proceeds and Instruments of Crime Act (Cap. 08:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "non-bank financial institution",
+      "definition": "a non-bank financial institution licensed in terms of the Non-Bank Financial Institutions Regulatory Authority Act (Cap. 46:08)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "non-profit trust",
+      "definition": "a trust that primarily engages in raising or disbursing funds for purposes such as charitable, religious, cultural, educational, social or fraternal, or for the carrying out of other types of work including, but not limited to—\n( a ) the prevention or relief of poverty",
+      "source_provision": "s2"
+    },
+    {
+      "term": "notarial deed",
+      "definition": "a deed registered in terms of the Deeds Registry Act (Cap. 33:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "protector",
+      "definition": "any person to whom powers or interests ordinarily exercised by trustees have been vested in him or her, whether it be the settlor or any other person, including the power to—\n( a ) direct a trustee to dispose of, advance, lend, invest, pay or apply trust property",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "the register of trusts, trustees, and trust service providers established and maintained under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "settlor",
+      "definition": "a person who makes or arranges for the making of a trust instrument under which the person&rsquo",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trust",
+      "definition": "a trust, non-profit trust, a foundation or any other arrangement through which the ownership in property of one person is by virtue of a trust instrument made over or bequeathed—\n( a ) to another person, the trustee, in whole or in part, to be administered or disposed of according to the provisions of the trust instrument for the benefit of the person or class of persons designated in the trust instrument or for the achievement of the object stated in the trust instrument",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trustee",
+      "definition": "any person, including the founder or settlor of a trust who acts as trustee by virtue of an authorisation under section 7 and includes any person whose appointment as trustee is already in force at the commencement of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trust instrument",
+      "definition": "a written agreement, testamentary writing, court order or a notarial deed according to which a trust is created",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trust property",
+      "definition": "assigned to \"property\" under the Proceeds and Instruments of Crime Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trust service provider",
+      "definition": "a person, other than a person or business listed under Schedule I of the Financial Intelligence Act, that as part of his or her business, provide any of the following services to a third party—",
+      "source_provision": "s2"
+    }
+  ]
+}

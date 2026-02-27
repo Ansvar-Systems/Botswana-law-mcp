@@ -1,0 +1,109 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-kgalagadi-district-council-food-vending-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Kgalagadi District Council (food-vending) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Kgalagadi District Council (food-vending) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-kgalagadi-district-council-food-vending-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-Laws may be cited as the Kgalagadi District Council (Food-Vending) Bye-Laws*.\n*Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-Laws, unless the context otherwise requires\n\"appliances\" means any utensil, machinery, instrument, apparatus, crockery, article or part thereof, used or intended for use in processing, preparation, handling and serving of food;\n\"authorised official\" means any person authorised by the Council Secretary in writing for purposes of giving effect to these Bye-Laws;\n\"Council\" means the Kgalagadi District Council;\n\"Council area\" means the area within the jurisdiction of the Council;\n\"crockery\" means glasses, plates, dishes, cups, saucers, spoons, forks, ladles, chopsticks, and shall include any disposable articles used or intended for use in or for the making, preparing, keeping, selling, supplying or the serving of food;\n\"disposable articles\" means any appliances, containers, gargets, implements, crockery, utensils or wrappers intended for a single use in the storage, preparation, display, sale or serving of food;\n\"food-vendor\" means a person who prepares, packs, stores, displays and sells ready-to-eat-food or beverages either from a stall, business premises or from place to place;\n\"food-handler\" means a person who assists in the preparation, cooking, handling and the serving of food;\n\"medical practitioner\" means any Government medical doctor;\n\"micro-organism\" shall include any macroscopic living organisms that can cause disease or food spoilage;\n\"mobile food-vendor\" means a food-vendor who moves from place to place for the purpose of processing, preparing, delivering, displaying and serving of ready to eat food;\n\"perishable food\" means food that consists wholly or partly of milk, milk products, eggs, meat, poultry, fish or other ingredients capable of supporting progressive growth of micro-organisms that cause food spoilage, food-poisoning and food borne diseases;\n\"pests\" means any animal or insect, domestic or otherwise, capable of directly or indirectly contaminating food, and shall include rodents, roaches, flies or other insects or vermin infestation;\n\"ready-to-eat-food\" means any food (including beverages other than alcoholic beverages) which is normally consumed in its raw state, or any food handled, processed, mixed, cooked or otherwise prepared into a form in which it is normally consumed without further processing;\n\"stall\" shall include a cart, caravan or motor-vehicle with or without wheels, or any fixed place equipped with chairs, tables, benches, baskets, or any other structure approved by the Council for food-vending business;\n\"utensils\" shall include appliances, containers, gargets and equipment, including traditional ones, used in the processing, preparation, handling and serving of food;\n\"waste water\" means sullage water arising as a result of the activities of food-vending business."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application for licence",
+      "content": "3. Application for licence\n(1) No person shall carry on the business of a food-vendor within the Council area, unless such a person\n( a ) has attained the age of 16 years;\n( b ) is the holder of a food-vending licence; and\n( c ) is free from any communicable or infectious disease."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Licence required to carry on food-vending business",
+      "content": "4. Licence required to carry on food-vending business\n(1) Any person wishing to carry on the business of a food-vendor shall make an application on the form set out in the First Schedule to the Council, supplying such information in relation thereto as the Council may require, in particular, specifying the following"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "appliances",
+      "definition": "any utensil, machinery, instrument, apparatus, crockery, article or part thereof, used or intended for use in processing, preparation, handling and serving of food",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised official",
+      "definition": "any person authorised by the Council Secretary in writing for purposes of giving effect to these Bye-Laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Kgalagadi District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council area",
+      "definition": "the area within the jurisdiction of the Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "crockery",
+      "definition": "glasses, plates, dishes, cups, saucers, spoons, forks, ladles, chopsticks, and shall include any disposable articles used or intended for use in or for the making, preparing, keeping, selling, supplying or the serving of food",
+      "source_provision": "s2"
+    },
+    {
+      "term": "disposable articles",
+      "definition": "any appliances, containers, gargets, implements, crockery, utensils or wrappers intended for a single use in the storage, preparation, display, sale or serving of food",
+      "source_provision": "s2"
+    },
+    {
+      "term": "food-vendor",
+      "definition": "a person who prepares, packs, stores, displays and sells ready-to-eat-food or beverages either from a stall, business premises or from place to place",
+      "source_provision": "s2"
+    },
+    {
+      "term": "food-handler",
+      "definition": "a person who assists in the preparation, cooking, handling and the serving of food",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical practitioner",
+      "definition": "any Government medical doctor",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mobile food-vendor",
+      "definition": "a food-vendor who moves from place to place for the purpose of processing, preparing, delivering, displaying and serving of ready to eat food",
+      "source_provision": "s2"
+    },
+    {
+      "term": "perishable food",
+      "definition": "food that consists wholly or partly of milk, milk products, eggs, meat, poultry, fish or other ingredients capable of supporting progressive growth of micro-organisms that cause food spoilage, food-poisoning and food borne diseases",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pests",
+      "definition": "any animal or insect, domestic or otherwise, capable of directly or indirectly contaminating food, and shall include rodents, roaches, flies or other insects or vermin infestation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ready-to-eat-food",
+      "definition": "any food (including beverages other than alcoholic beverages) which is normally consumed in its raw state, or any food handled, processed, mixed, cooked or otherwise prepared into a form in which it is normally consumed without further processing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste water",
+      "definition": "sullage water arising as a result of the activities of food-vending business.",
+      "source_provision": "s2"
+    }
+  ]
+}

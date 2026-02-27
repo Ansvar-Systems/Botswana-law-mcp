@@ -1,0 +1,96 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-jwaneng-town-council-hawking-and-street-vending-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Jwaneng Town Council (hawking and Street-vending) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Jwaneng Town Council (hawking and Street-vending) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-jwaneng-town-council-hawking-and-street-vending-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Jwaneng Town Council (Hawking and Street-Vending) Bye-laws."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"authorised official\" means the Council Law Enforcement Officer or any employee of the Council duly authorised as such, in writing, by the Town Clerk;\n\"certificate\" means a hawkers certificate or a street-vendors certificate issued under bye-law 4;\n\"Council\" means the Jwaneng Town Council;\n\"council area\" means the area under the jurisdiction of the council;\n\"hawker\" means a person who carries on the business of selling his or her goods moving from one place to another within the Jwaneng council area;\n\"Police Service\" means the Botswana Police Service;\n\"register\" means any register which the Council is required to keep under bye-law 7;\n\"Registrar\" means the Town Clerk or any employee of the Council duly authorised as such, in writing, by the Council; and\n\"street-vendor\" means a person who carries on the business of selling goods from a pitch at which he or she stations himself or herself, either in a convenient public place or upon land which he or she has no right of control."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Prohibition of hawking or street-vending without certificate",
+      "content": "3. Prohibition of hawking or street-vending without certificate\n(1) A person shall not carry on the business of a hawker or street-vendor within the council area unless such person\n( a ) is a citizen of Botswana;\n( b ) has attained the age of 16 years; and\n( c ) is the holder of a valid certificate issued in terms of these Bye-laws.\n(2) Notwithstanding the provisions of subbye-law (1), any person who is not required to obtain a license to carry on any business in terms of section 32(3) of the Trade Act (Cap. 43:02) may carry on the business of a hawker or street-vendor and shall not be required to obtain a certificate.\n(3) Any person who contravenes this bye-law commits an offence under these Bye-laws."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application for certificate",
+      "content": "4. Application for certificate\n(1) Any person wishing to carry on the business of a hawker or street-vendor shall make an application to the Registrar in accordance with Form A as set out in the Schedule, supplying such information as the Registrar may require and, in particular, specifying the\n( a ) class of goods to be traded; and\n( b ) area in which he or she wishes to trade.\n(2) The application shall be accompanied by\n( a ) two photographs, approximately five by four centimetres in size, clearly depicting the face and shoulders of the applicant;\n( b ) a non-refundable P50 application fee; and\n( c ) a certified copy of the applicants identity card issued in accordance with the provisions of the National Registration Act (Cap. 01:02).\n(3) The Registrar may, if he or she is satisfied that the applicant meets the requirements of subbye-law (1) and (2), issue a hawkers or street-vendors certificate in accordance with Forms B or C set out in the Schedule respectively, subject to such conditions as he or she considers necessary or expedient, having regard to the provisions of these Bye-laws.\n(4) The Registrar may refuse to issue a certificate to any person\n( a ) if he or she is satisfied that the issue of such certificate would be contrary to the public interest;\n( b ) in respect of a particular class of goods, if he or she is satisfied that the carrying on of the business in respect of that class of goods would be contrary to the public interest; or\n( c ) in respect of a particular area, if he or she is satisfied that the carrying on of a business in such area would be contrary to the public interest."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Validity of certificate",
+      "content": "5. Validity of certificate\nA certificate issued under bye-law 4(3) shall, subject to the provisions of these Bye-laws, be valid for a period of two years and, unless renewed under bye-law 6, shall expire immediately after a period of two years from the date of issue has elapsed."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Renewal of certificate",
+      "content": "6. Renewal of certificate\n(1) A holder of a certificate issued under these Bye-laws may, upon expiry of the certificate, apply to the Registrar for a renewal of the certificate in accordance with Form D set out in the Schedule, for a further period of two years.\n(2) An application for renewal in terms of subbye-law (1), shall be made\n( a ) not later than one month before the expiry of the certificate; or\n( b ) not later than one month before the expiry of any of the subsequent periods for which the certificate has been renewed in terms of subbye-law (1).\n(3) An applicant shall pay P20 as renewal fee."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised official",
+      "definition": "the Council Law Enforcement Officer or any employee of the Council duly authorised as such, in writing, by the Town Clerk",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate",
+      "definition": "a hawkers certificate or a street-vendors certificate issued under bye-law 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Jwaneng Town Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council area",
+      "definition": "the area under the jurisdiction of the council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hawker",
+      "definition": "a person who carries on the business of selling his or her goods moving from one place to another within the Jwaneng council area",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Police Service",
+      "definition": "the Botswana Police Service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "any register which the Council is required to keep under bye-law 7",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Town Clerk or any employee of the Council duly authorised as such, in writing, by the Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "street-vendor",
+      "definition": "a person who carries on the business of selling goods from a pitch at which he or she stations himself or herself, either in a convenient public place or upon land which he or she has no right of control.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "bw-act-mental-disorders",
+  "type": "statute",
+  "title": "Mental Disorders",
+  "title_en": "Mental Disorders",
+  "short_name": "Mental Disorders",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/mental-disorders",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Mental Disorders Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"child\" means any person under the apparent age of 16 years;\n\"class\" means a class specified in section 3;\n\"detention order\" means an order issued under section 21;\n\"Director\" means Director or Deputy Director of Medical Services;\n\"District Commissioner\" includes an administrative officer acting, by the authority of the District Commissioner, on his behalf;\n\"institution\" means a mental hospital or other place which is prescribed as an institution or place for the reception, medical treatment and detention of persons suffering from mental disorder or defect:\nProvided that no prison may be prescribed as a place for the medical treatment of persons suffering from a mental disorder or defect;\n\"Master\" means the Master of the High Court of Botswana;\n\"medical practitioner\" means a medical practitioner duly registered as such in Botswana;\n\"mentally disordered or defective person\" means any person who in consequence of a mental disorder or disease or permanent defect of reason or mind, congenital or acquired, is incapable of managing himself or his affairs, or is in consequence of such disorder or disease or defect a danger to himself or others, or is unable to conform with the ordinary usages of the society in which he moves, or who in consequence of such disorder, disease or defect requires supervision of treatment or control, or who, if a child, appears by reason of such defect to be permanently incapable of receiving proper benefit from instruction in ordinary schools;\n\"Mental Health Board\" or \"Board\" means the Mental Health Board as established under Part X;\n\"patient\" means a mentally disordered or defective person or person concerning whom proceedings are considered necessary to determine whether or not he is suffering from a mental disorder or defect;\n\"place of detention\" means a place prescribed for the reception and detention of persons suffering from mental disorder or defect:\nProvided that no police lock-up shall be so prescribed without the concurrence of the Commissioner of Police;\n\"reception order\" means an order issued under section 9;\n\"superintendent\" means an officer or person in charge of an institution, prison or other place of detention and includes a medical superintendent."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Classification of mentally disordered and defective persons",
+      "content": "3. Classification of mentally disordered and defective persons\nFor the purposes of this Act and all proceedings thereunder, mentally disordered or defective persons are divided into the following classes—\n( a ) Class I: a person who is—\n(i) of suicidal or homicidal tendency or is in any way dangerous to himself or others; or\n(ii) has committed or attempted to commit any offence of a serious character;\n( b ) Class II: a person who, although not falling within Class I, is unable to guard himself against common physical dangers or to look after his person and who requires skilled medical attention;\n( c ) Class III: a person who, although not falling within Class I, is unable to guard himself against common physical dangers or to look after his person but who does not require skilled medical attention."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary",
+      "section": "4",
+      "title": "Authority for detention and application of the Act",
+      "content": "4. Authority for detention and application of the Act\n(1) No person shall be detained in an institution or elsewhere on the grounds of being a mentally disordered or defective person except—\n( a ) by virtue of the provisions of this Act; or\n( b ) in accordance with the provisions of Part XI of the Criminal Procedure and Evidence Act (Cap. 08:02).\n(2) The provisions of this Act other than section 40(3) and section 50 shall not apply in the case of a person detained in accordance with the provisions of Part XI of the Criminal Procedure and Evidence Act."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Reception Orders",
+      "section": "5",
+      "title": "Application for reception order",
+      "content": "5. Application for reception order\n(1) To obtain a reception order for a patient, the husband or wife or other near relative of the patient, or any other person who has attained the age of 21 years, may make application to the District Commissioner.\n(2) In every such application the applicant shall state—\n( a ) that he believes that the person in respect of whom the application is made (hereinafter called \"the patient\") is mentally disordered or defective;\n( b ) the grounds on which he believes that the patient is mentally disordered or defective;\n( c ) the degree of consanguinity or affinity in which the applicant is related to the patient, and, if he is not the husband or wife or other near relative, the reason why the application is made by the applicant instead of by the husband or wife or near relative; and\n( d ) that the applicant has, within the 14 days immediately preceding the day on which the application was signed, personally seen the patient.\n(3) No such application shall be submitted or transmitted to a District Commissioner more than 14 days after the day on which it is signed."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Reception Orders",
+      "section": "6",
+      "title": "Procedure on receipt of application by District Commissioner",
+      "content": "6. Procedure on receipt of application by District Commissioner\nUpon receipt of an application for a reception order the District Commissioner may, in his discretion, himself visit the patient at the patient's place of abode or elsewhere and shall, whether or not he does so, obtain from a medical practitioner within a period which should not be more than 14 days a certificate upon the prescribed form as to the mental state of the patient."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Reception Orders",
+      "section": "7",
+      "title": "District Commissioner may order apprehension in certain cases",
+      "content": "7. District Commissioner may order apprehension in certain cases\nEvery District Commissioner to whom an application for a reception order is made in respect of any patient may, if he thinks fit, and if the patient will not appear voluntarily, at any time before the reception order has been made, authorise any police officer to apprehend that person and bring him before—\n( a ) a medical practitioner for the purpose of obtaining a certificate under section 6; and\n( b ) the District Commissioner to be examined and further dealt with in accordance with law."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Reception Orders",
+      "section": "8",
+      "title": "Proceedings may be held in private",
+      "content": "8. Proceedings may be held in private\nAll proceedings in relation to a reception order may be held in public or private at the discretion of the District Commissioner."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Reception Orders",
+      "section": "9",
+      "title": "Issue of reception order",
+      "content": "9. Issue of reception order\n(1) If, upon consideration of the application and the certificates of the medical practitioner and after such further or other inquiry as the District Commissioner thinks necessary, he is satisfied that the patient is mentally disordered or defective and—\n( a ) is not under proper care, treatment or control;\n( b ) is cruelly treated or neglected by any relative or other person having the care or charge of him;\n( c ) is of suicidal or homicidal tendency or is in any way dangerous to himself or others;\n( d ) has committed or attempted to commit any crime or offence or has acted in a manner offensive to public decency; or\n( e ) if the person having the care, treatment or control of the patient consents,\nthe District Commissioner may issue a reception order in the prescribed form authorising the patient to be removed to, and to be received and detained in, an institution or place of detention to be named in the order."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "child",
+      "definition": "any person under the apparent age of 16 years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "class",
+      "definition": "a class specified in section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "detention order",
+      "definition": "an order issued under section 21",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "Director or Deputy Director of Medical Services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "District Commissioner",
+      "definition": "an administrative officer acting, by the authority of the District Commissioner, on his behalf",
+      "source_provision": "s2"
+    },
+    {
+      "term": "institution",
+      "definition": "a mental hospital or other place which is prescribed as an institution or place for the reception, medical treatment and detention of persons suffering from mental disorder or defect:\nProvided that no prison may be prescribed as a place for the medical treatment of persons suffering from a mental disorder or defect",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Master",
+      "definition": "the Master of the High Court of Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical practitioner",
+      "definition": "a medical practitioner duly registered as such in Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mentally disordered or defective person",
+      "definition": "any person who in consequence of a mental disorder or disease or permanent defect of reason or mind, congenital or acquired, is incapable of managing himself or his affairs, or is in consequence of such disorder or disease or defect a danger to himself or others, or is unable to conform with the ordinary usages of the society in which he moves, or who in consequence of such disorder, disease or defect requires supervision of treatment or control, or who, if a child, appears by reason of such defect to be permanently incapable of receiving proper benefit from instruction in ordinary schools",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Mental Health Board as established under Part X",
+      "source_provision": "s2"
+    },
+    {
+      "term": "patient",
+      "definition": "a mentally disordered or defective person or person concerning whom proceedings are considered necessary to determine whether or not he is suffering from a mental disorder or defect",
+      "source_provision": "s2"
+    },
+    {
+      "term": "place of detention",
+      "definition": "a place prescribed for the reception and detention of persons suffering from mental disorder or defect:\nProvided that no police lock-up shall be so prescribed without the concurrence of the Commissioner of Police",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reception order",
+      "definition": "an order issued under section 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "superintendent",
+      "definition": "an officer or person in charge of an institution, prison or other place of detention and includes a medical superintendent.",
+      "source_provision": "s2"
+    }
+  ]
+}

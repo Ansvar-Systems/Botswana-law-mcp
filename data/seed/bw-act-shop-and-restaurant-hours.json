@@ -1,0 +1,37 @@
+{
+  "id": "bw-act-shop-and-restaurant-hours",
+  "type": "statute",
+  "title": "Shop and Restaurant Hours",
+  "title_en": "Shop and Restaurant Hours",
+  "short_name": "Shop and Restaurant Hours",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/shop-and-restaurant-hours",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Shop and Restaurants Hours Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"assistant\" means any person employed in or about a shop or restaurant but does not include any person solely employed as a caretaker, cleaner, domestic servant or for the purposes of delivery to customers of goods and merchandise purchased in such shop or restaurant;\n\"employer\" means any person carrying on business in a shop or restaurant or conducting an office, who employs or provides work for any person in or in connection with such shop, restaurant or in such office and remunerates or expressly or tacitly undertakes to remunerate him, or who permits any person to assist him in any manner in the carrying on of his business in such shop, restaurant or the doing of the work performed in such office; and \"employ\" and \"employment\" have corresponding meanings;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "assistant",
+      "definition": "any person employed in or about a shop or restaurant but does not include any person solely employed as a caretaker, cleaner, domestic servant or for the purposes of delivery to customers of goods and merchandise purchased in such shop or restaurant",
+      "source_provision": "s2"
+    },
+    {
+      "term": "employer",
+      "definition": "any person carrying on business in a shop or restaurant or conducting an office, who employs or provides work for any person in or in connection with such shop, restaurant or in such office and remunerates or expressly or tacitly undertakes to remunerate him, or who permits any person to assist him in any manner in the carrying on of his business in such shop, restaurant or the doing of the work performed in such office",
+      "source_provision": "s2"
+    }
+  ]
+}

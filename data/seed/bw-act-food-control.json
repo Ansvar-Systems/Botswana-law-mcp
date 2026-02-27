@@ -1,0 +1,113 @@
+{
+  "id": "bw-act-food-control",
+  "type": "statute",
+  "title": "Food Control",
+  "title_en": "Food Control",
+  "short_name": "Food Control",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/food-control",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Food Control Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"adulterate\" means to make impure, usually in order to give a false value or to hide defects, by the addition of a foreign, inferior or inert substance, or by the removal or extraction of a valuable or necessary ingredient;\n\"advertisement\" includes any representation by any means for the purpose of promoting directly or indirectly the sale or disposal of any food;\n\"article\" includes—\n( a ) any food, and any labelling or advertising materials used in connection with food;\n( b ) anything used in the preparation, preservation, packaging or storing of any food;\n\"authorised officer\" means any health officer, or any suitably qualified person authorised in writing by the Permanent Secretary, or by a council with the approval of the Permanent Secretary, a police officer of or above the rank of sergeant, or a customs and excise officer, for the purposes of this Act, and for the purpose of taking samples under section 6 and sending them to a public analyst;\n\"Board\" means the National Food Control Board established under section 3 of this Act;\n\"council\" means:—\n( a ) a city council;\n( b ) a town council;\n( c ) a township authority; or\n( d ) a district council;\n\"health officer\" includes any health officer so appointed under the Public Health Act (Cap. 63:01), any medical practitioner registered under the Botswana Health Professions Act (Cap. 61:02), any health inspector, and any public health nurse employed by or so designated by the Minister;\n[ 6 of 2014, s. 2. ]\n\"food\" means any animal product, fish, fruit, vegetable, condiment, beverage and any other substance whatever, in any form, state or stage of preparation which is intended or ordinarily used for human consumption, and includes any article produced, manufactured, sold or presented for use as food or drink for human consumption, including chewing gum, and any ingredient of such food, drink or chewing gum;\n\"ingredient\" means any substance, including a food additive used in the manufacture or preparation of a food, and present in the final product;\n\"label\" includes any tag, brand, mark, pictorial or other descriptive matter, written, printed, stencilled, marked, embossed or impressed on, or attached to, or included in, belonging to, or accompanying any food, or any package containing food;\n\"nutrition officer\" means a health officer who applies the science of nutrition to the promotion of health and the control of disease;\n\"package\" includes anything in which food is wholly or partly placed or packed and includes any basket, pail, tray, or receptacle of any kind, whether open or enclosed;\n\"premises\" includes any building or tent or other structure, permanent or otherwise, together with the land on which the same is situated and any adjoining land used in connection therewith, and for the purposes of sections 6 and 11, shall be deemed to include any street, open space, or place of public resort, and any vessel, bicycle or other vehicle, used for the sale, packaging, preparation, preservation, transport or storage of any article;\n\"preparation\" includes manufacture and any form of treatment of food, and \"prepare\" shall be construed accordingly;\n\"public analyst\" means any suitably qualified person appointed by the Minister to be a public analyst for the purposes of this Act;\n\"sell\" includes offer, advertise, keep, expose, display, transmit, convey, deliver, or prepare for sale or exchange, dispose of for any consideration whatsoever, or transmit, convey or deliver in pursuance of such sale, exchange, or disposal;\n\"ship\" includes boat or craft;\n\"substance\" includes any solid, liquid or gas;\n\"wholesome\" in relation to food means to be natural, clean, safe, good for health, and without any harmful or harmless adulterants, and not misrepresented in any respect."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment of National Food Control Board",
+      "content": "3. Establishment of National Food Control Board\n(1) There is hereby established a Board, to be known as the National Food Control Board, which shall advise the Minister on all matters arising out of the administration of the provisions of this Act, and perform such other functions as may be assigned to it by or under this Act.\n(2) The Board shall consist of the following members—\n( a ) the Director of Health Services, Ministry of Health, who shall be Chairman of the Board;\n( b ) the Chief Nutritionist, Ministry of Health;\n( c ) the Chief Health Inspector, Ministry of Health;\n( d ) the Director of Crop Production, Ministry of Agriculture;\n( e ) the Director of Animal Health Production, Ministry of Agriculture;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "adulterate",
+      "definition": "to make impure, usually in order to give a false value or to hide defects, by the addition of a foreign, inferior or inert substance, or by the removal or extraction of a valuable or necessary ingredient",
+      "source_provision": "s2"
+    },
+    {
+      "term": "advertisement",
+      "definition": "any representation by any means for the purpose of promoting directly or indirectly the sale or disposal of any food",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised officer",
+      "definition": "any health officer, or any suitably qualified person authorised in writing by the Permanent Secretary, or by a council with the approval of the Permanent Secretary, a police officer of or above the rank of sergeant, or a customs and excise officer, for the purposes of this Act, and for the purpose of taking samples under section 6 and sending them to a public analyst",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the National Food Control Board established under section 3 of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health officer",
+      "definition": "any health officer so appointed under the Public Health Act (Cap. 63:01), any medical practitioner registered under the Botswana Health Professions Act (Cap. 61:02), any health inspector, and any public health nurse employed by or so designated by the Minister",
+      "source_provision": "s2"
+    },
+    {
+      "term": "food",
+      "definition": "any animal product, fish, fruit, vegetable, condiment, beverage and any other substance whatever, in any form, state or stage of preparation which is intended or ordinarily used for human consumption, and includes any article produced, manufactured, sold or presented for use as food or drink for human consumption, including chewing gum, and any ingredient of such food, drink or chewing gum",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ingredient",
+      "definition": "any substance, including a food additive used in the manufacture or preparation of a food, and present in the final product",
+      "source_provision": "s2"
+    },
+    {
+      "term": "label",
+      "definition": "any tag, brand, mark, pictorial or other descriptive matter, written, printed, stencilled, marked, embossed or impressed on, or attached to, or included in, belonging to, or accompanying any food, or any package containing food",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nutrition officer",
+      "definition": "a health officer who applies the science of nutrition to the promotion of health and the control of disease",
+      "source_provision": "s2"
+    },
+    {
+      "term": "package",
+      "definition": "anything in which food is wholly or partly placed or packed and includes any basket, pail, tray, or receptacle of any kind, whether open or enclosed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "any building or tent or other structure, permanent or otherwise, together with the land on which the same is situated and any adjoining land used in connection therewith, and for the purposes of sections 6 and 11, shall be deemed to include any street, open space, or place of public resort, and any vessel, bicycle or other vehicle, used for the sale, packaging, preparation, preservation, transport or storage of any article",
+      "source_provision": "s2"
+    },
+    {
+      "term": "preparation",
+      "definition": "manufacture and any form of treatment of food, and \"prepare\" shall be construed accordingly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public analyst",
+      "definition": "any suitably qualified person appointed by the Minister to be a public analyst for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sell",
+      "definition": "offer, advertise, keep, expose, display, transmit, convey, deliver, or prepare for sale or exchange, dispose of for any consideration whatsoever, or transmit, convey or deliver in pursuance of such sale, exchange, or disposal",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ship",
+      "definition": "boat or craft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "substance",
+      "definition": "any solid, liquid or gas",
+      "source_provision": "s2"
+    }
+  ]
+}

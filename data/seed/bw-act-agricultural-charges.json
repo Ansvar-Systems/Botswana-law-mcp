@@ -1,0 +1,78 @@
+{
+  "id": "bw-act-agricultural-charges",
+  "type": "statute",
+  "title": "Agricultural Charges",
+  "title_en": "Agricultural Charges",
+  "short_name": "Agricultural Charges",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/agricultural-charges",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Agricultural Charges Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"agricultural produce\" means crops or horticultural produce whether future, growing, or severed from the land, and after severance whether subjected to any treatment or manufacture or not; livestock and the produce and progeny thereof; and other agricultural or horticultural produce whether subjected to any treatment or process of manufacture or not;\n\"agriculture\" has the meaning assigned to it in section 2(1) of the National Development Bank Act (Cap. 74:05);\n\"bank\" means the National Development Bank as established by the National Development Bank Act;\n\"buyer\" means a person to whom or through whom agricultural produce is required to be sold in accordance with the provisions of section 7;\n\"certificate of indebtedness\" means the certificate referred to in section 4;\n\"farmer\" means a person who is engaged in agriculture;\n\"livestock\" includes—\n( a ) any bovine animal, horse, ass, mule, sheep, goat, or pig;\n( b ) any fowl, goose, duck, or turkey kept for commercial purposes;\n\"loan\" includes the contracts known in Setswana as \" go fisa \", and any similar contract;\n\"movable assets\" shall—\n( a ) include all agricultural produce;\n( b ) exclude property not liable to attachment in satisfaction of a judgment debt in the High Court."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Agreements",
+      "section": "3",
+      "title": "Application of the Act to an agreement",
+      "content": "3. Application of the Act to an agreement\nAny written agreement between a farmer and the bank under which moneys are payable, or may become payable, to the bank, whether on its own account or as agent for the Government, may provide that this Act shall apply to the agreement; and if it does so provide, then this Act shall apply."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Agreements",
+      "section": "4",
+      "title": "Certificate of indebtedness",
+      "content": "4. Certificate of indebtedness\n(1) Whenever an agreement is concluded, the farmer and an agent or servant of the bank authorised thereto shall certify as correct a certificate of indebtedness which shall contain the following—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "agricultural produce",
+      "definition": "crops or horticultural produce whether future, growing, or severed from the land, and after severance whether subjected to any treatment or manufacture or not",
+      "source_provision": "s2"
+    },
+    {
+      "term": "agriculture",
+      "definition": "assigned to it in section 2(1) of the National Development Bank Act (Cap. 74:05)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bank",
+      "definition": "the National Development Bank as established by the National Development Bank Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "buyer",
+      "definition": "a person to whom or through whom agricultural produce is required to be sold in accordance with the provisions of section 7",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate of indebtedness",
+      "definition": "the certificate referred to in section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "farmer",
+      "definition": "a person who is engaged in agriculture",
+      "source_provision": "s2"
+    },
+    {
+      "term": "loan",
+      "definition": "the contracts known in Setswana as \" go fisa \", and any similar contract",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bw-sub-value-added-tax-subsidiary-legislation",
+  "type": "statute",
+  "title": "Value Added Tax: Subsidiary Legislation",
+  "title_en": "Value Added Tax: Subsidiary Legislation",
+  "short_name": "Value Added Tax: Subsidiary...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/value-added-tax-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Value Added Tax (Tax Period) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Alternative tax periods",
+      "content": "2. Alternative tax periods\n(1) For the purposes of these Regulations—\n\"Category A\" means the category of registered persons whose tax periods are periods of two months ending on the last day of January, March, May, July, September and November, of each year;\n\"Category B\" means the category of registered persons whose tax periods are periods of two months ending on the last day of February, April, June, August, October and December, of each year; and\n\"Category C\" means the category of registered persons whose tax periods are periods of one month ending on the last day of each month.\n(2) The Commissioner General shall determine whether a registered person falls within Category A or Category B, so as to ensure that approximately equal numbers of registered persons fall within each category, and shall, in writing, notify the registered person of the determination.\n(3) The Commissioner General may from time to time, by notice in writing, direct that a registered person change from Category A to Category B, or vice versa, starting from the beginning of such future tax period as he may specify in the notice.\n(4) A registered person shall fall within Category C if—\n( a ) the total value of his taxable supplies—\n(i) at the end of any period of 12 months exceeds P12,000,000, or\n(ii) at the beginning of any period of 12 months is reasonably expected to exceed P12,000,000,\nunless the Commissioner General is satisfied that the value of the person's taxable supplies exceeds P12,000,000 solely as a consequence of a reason specified in section 16(3) of the Act;\n( b ) the Commissioner General, upon the written application to him by a registered person, authorises the person to report on a monthly basis; or\n( c ) the Commissioner General requires that person to report on a monthly basis on the ground that the person has regularly defaulted in performing any obligations under the Act.\n(5) Notwithstanding subregulation (2), and for the purposes of subregulation (4), the Commissioner General—\n( a ) may authorise a monthly tax period for a registered person on such terms and conditions as he may impose and shall give the registered person notice in writing of that authorisation;\n( b ) shall determine the date when monthly reporting begins in respect of a registered person; and\n( c ) may, by notice in writing, direct that a person in Category C shall fall within Category A or B, starting from the beginning of such future tax period as he may specify in the notice, if—\n(i) the person applies, in writing, for such a change and the Commissioner General approves the change, and\n(ii) the Commissioner General is satisfied that because of a change in circumstances the person satisfies the requirements of Category A or B.\n(6) The Commissioner General may, upon the written application to him by a registered person, grant a registered person within Category A, B or C permission to end a tax period within 10 days before or after the last day of a calendar month:\nProvided that:\n( a ) the change is consistent with that person's accounting procedures; and\n( b ) the application complies with the conditions imposed by the Commissioner General.\n(7) A registered person who is not satisfied with the Category which the Commissioner General has determined in respect of him under subsection (2) may, within 28 days of his being notified of the determination, appeal to the Minister."
+    }
+  ],
+  "definitions": []
+}

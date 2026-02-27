@@ -1,0 +1,96 @@
+{
+  "id": "bw-act-atmospheric-pollution-prevention",
+  "type": "statute",
+  "title": "Atmospheric Pollution (prevention)",
+  "title_en": "Atmospheric Pollution (prevention)",
+  "short_name": "Atmospheric Pollution (prev...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/atmospheric-pollution-prevention",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Atmospheric Pollution (Prevention) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Air Pollution Control Officer\" means the person appointed as Air Pollution Control Officer in terms of section 3;\n\"best practicable means\" , when used with reference to the prevention of the escape into the atmosphere of objectionable matter, includes within its reference the provision and efficient maintenance of the appliances necessary to that end, the effective care and operation of such appliances, the manner in which such appliances are used and the proper supervision, by the owner, of any operation in which noxious and offensive gases are evolved and the adoption of any other methods which, having regard to local conditions and circumstances, the prevailing extent of technical knowledge and the cost likely to be involved, may be reasonably practicable and necessary for the protection of any section of the public against the emission of objectionable matter;\n\"Board\" means the Atmospheric Pollution Appeals Board established by section 12;\n\"controlled area\" means any area which has under section 7 been declared to be a controlled area;\n\"dust\" means any solid matter in a fine or disintegrated form which is capable of being dispersed or suspended in the atmosphere;\n\"industrial process\" means any process prescribed by the Minister which is involved in any trade, occupation or manufacture devoted to production by physical, mechanical, electrical, chemical or thermal means, including any process involved in metallurgical operations, operations for the generation of power, and ancillary operations;\n\"inspector\" means a person appointed as inspector in terms of section 3;\n\"noxious or offensive gases\" means any of the following groups of compounds when in the form of gas, namely, hydrocarbons; alcohols; aldehydes; ketones; ethers; esters; phenols; organic acids and their derivatives; halogens, organic nitrogen, organic sulphur, sulphur and halogen compounds; cyanides; cyanogens; ammonia and its compounds; inorganic acids; fumes containing antimony, arsenic, beryllium, chromium, cobalt, copper, lead, manganese, mercury, vanadium or zinc or their derivatives; fumes from tar-works; cement-works fumes and odours from purification plants, glue factories, cement-works and meat or fish processing factories; and any other gas, fumes or particular matter prescribed as noxious or offensive gas for the purposes of this Act; and includes dust from asbestos treatment or mining;\n\"objectionable matter\" means smoke, gases including noxious or offensive gases, vapours, fumes, grit, dust or other matter capable of being dispersed or suspended in the atmosphere which is produced or is likely to be produced by any industrial process;\n\"owner\" includes any owner, lessee or occupier of property on which an industrial process is being carried on or any other person responsible for carrying on any industrial process on any property;\n\"premises\" means any building or other structure together with the land on which it is situated and any adjoining land occupied or used in connection with any activities carried on in such building or structure, and includes any land without any buildings or other structures;\n\"regulation\" means a regulation made under the provisions of section 15;\n\"smoke\" includes soot, ash, grit and gritty particles emitted in smoke."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Administration",
+      "section": "3",
+      "title": "Appointment of officers",
+      "content": "3. Appointment of officers\n(1) The Minister shall, for the purposes of this Act, appoint—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Air Pollution Control Officer",
+      "definition": "the person appointed as Air Pollution Control Officer in terms of section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Atmospheric Pollution Appeals Board established by section 12",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled area",
+      "definition": "any area which has under section 7 been declared to be a controlled area",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dust",
+      "definition": "any solid matter in a fine or disintegrated form which is capable of being dispersed or suspended in the atmosphere",
+      "source_provision": "s2"
+    },
+    {
+      "term": "industrial process",
+      "definition": "any process prescribed by the Minister which is involved in any trade, occupation or manufacture devoted to production by physical, mechanical, electrical, chemical or thermal means, including any process involved in metallurgical operations, operations for the generation of power, and ancillary operations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "a person appointed as inspector in terms of section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "noxious or offensive gases",
+      "definition": "any of the following groups of compounds when in the form of gas, namely, hydrocarbons",
+      "source_provision": "s2"
+    },
+    {
+      "term": "objectionable matter",
+      "definition": "smoke, gases including noxious or offensive gases, vapours, fumes, grit, dust or other matter capable of being dispersed or suspended in the atmosphere which is produced or is likely to be produced by any industrial process",
+      "source_provision": "s2"
+    },
+    {
+      "term": "owner",
+      "definition": "any owner, lessee or occupier of property on which an industrial process is being carried on or any other person responsible for carrying on any industrial process on any property",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "any building or other structure together with the land on which it is situated and any adjoining land occupied or used in connection with any activities carried on in such building or structure, and includes any land without any buildings or other structures",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regulation",
+      "definition": "a regulation made under the provisions of section 15",
+      "source_provision": "s2"
+    },
+    {
+      "term": "smoke",
+      "definition": "soot, ash, grit and gritty particles emitted in smoke.",
+      "source_provision": "s2"
+    }
+  ]
+}

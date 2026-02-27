@@ -1,0 +1,51 @@
+{
+  "id": "bw-act-bail-act",
+  "type": "statute",
+  "title": "Bail Act",
+  "title_en": "Bail Act",
+  "short_name": "Bail Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/bail-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Bail Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"judicial officer\" means a judge or magistrate;\n\"peace officer\" has the same meaning assigned to it in the Criminal Procedure and Evidence Act;\n\"public prosecutor\" has the same meaning assigned to it in the Criminal Procedure and Evidence Act; and\n\"victim\" in relation to an offence against the person or against property, means a person who directly or indirectly suffered harm, including physical or mental injury, emotional suffering, damage or loss of property, as a result of the commission of the offence, regardless of any familial relationship between that person and the person who committed the offence, and includes, any person who suffered any such harm as a result of that person intervening to assist the person in respect of whom the offence was committed, and, where the victim is deceased, also a dependant of the victim."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Effect of bail",
+      "section": "3",
+      "title": "Effect of bail",
+      "content": "3. Effect of bail\nBail granted in terms of this Act shall have the following effect—\n( a ) an accused who is in custody shall be released from custody on payment of, or on the furnishing of a guarantee to pay, the sum of money determined for his or her bail:\nProvided that, the accused shall appear at the place and on the date and at the time appointed for his or her trial or to which the proceedings relating to the offence in respect of which the accused is released on bail are adjourned; and\n( b ) the release of the accused shall, unless sooner terminated—\n(i) endure until a verdict is given by a court in respect of the charge to which the offence in question relates, or\n(ii) where the sentence is not imposed immediately after verdict and the court in question extends bail, until sentence is imposed:\nProvided that, where a court convicts an accused of an offence contemplated in Schedule 1 or 2, the court shall, in considering the question whether the accused’s bail should be extended, apply section 6(2)( a ) or ( b ) and take into account—\n( aa ) the fact that the accused has been convicted of that offence; and\n( bb ) the likely sentence that the court might impose."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "judicial officer",
+      "definition": "a judge or magistrate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "peace officer",
+      "definition": "assigned to it in the Criminal Procedure and Evidence Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public prosecutor",
+      "definition": "assigned to it in the Criminal Procedure and Evidence Act",
+      "source_provision": "s2"
+    }
+  ]
+}

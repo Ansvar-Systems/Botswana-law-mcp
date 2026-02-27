@@ -1,0 +1,47 @@
+{
+  "id": "bw-act-interstate-transfer-of-prisoners-act",
+  "type": "statute",
+  "title": "Interstate Transfer of Prisoners Act",
+  "title_en": "Interstate Transfer of Prisoners Act",
+  "short_name": "Interstate Transfer of Pris...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/interstate-transfer-of-prisoners-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Interstate Transfer of Prisoners Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"appropriate authority\" means an officer responsible under an enactment of a transfer country for administering the transfer of prisoners to and from that transfer country, and includes any officer delegated in that capacity;\n\"Commissioner\" means a person appointed as Commissioner of Prisons and Rehabilitation under the Prisons Act (Cap. 21:03);\n\"health officer\" means a medical practitioner registered in terms of the Botswana Health Professions Act (Cap. 63:01), and includes a health inspector and a public health nurse;\n\"prisoner\" means a person serving a sentence of imprisonment or confined under an order made by a court in exercise of its criminal jurisdiction; and"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "appropriate authority",
+      "definition": "an officer responsible under an enactment of a transfer country for administering the transfer of prisoners to and from that transfer country, and includes any officer delegated in that capacity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "a person appointed as Commissioner of Prisons and Rehabilitation under the Prisons Act (Cap. 21:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health officer",
+      "definition": "a medical practitioner registered in terms of the Botswana Health Professions Act (Cap. 63:01), and includes a health inspector and a public health nurse",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prisoner",
+      "definition": "a person serving a sentence of imprisonment or confined under an order made by a court in exercise of its criminal jurisdiction",
+      "source_provision": "s2"
+    }
+  ]
+}

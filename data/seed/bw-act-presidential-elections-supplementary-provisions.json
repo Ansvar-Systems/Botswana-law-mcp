@@ -1,0 +1,72 @@
+{
+  "id": "bw-act-presidential-elections-supplementary-provisions",
+  "type": "statute",
+  "title": "Presidential Elections (supplementary Provisions)",
+  "title_en": "Presidential Elections (supplementary Provisions)",
+  "short_name": "Presidential Elections (sup...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/presidential-elections-supplementary-provisions",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "CHAPTER 02:01 PRESIDENTIAL ELECTIONS (SUPPLEMENTARY PROVISIONS)",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Presidential Elections (Supplementary Provisions) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "CHAPTER 02:01 PRESIDENTIAL ELECTIONS (SUPPLEMENTARY PROVISIONS)",
+      "section": "2",
+      "title": "Application of Act",
+      "content": "2. Application of Act\nThis Act shall apply in respect of the holding of an election to the office of President in accordance with the provisions of section 32 of the Constitution."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "CHAPTER 02:01 PRESIDENTIAL ELECTIONS (SUPPLEMENTARY PROVISIONS)",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "3. Interpretation\nIn this Act unless the context otherwise requires-\n\"candidate\" means a candidate for office of President;\n\"days\" include Saturdays, Sundays and public holidays;\n\"returning officer\" means the Chief Justice of Botswana;\n\"Supervisor of Elections\" means the person designated as Supervisor of Elections in accordance with the provisions of section 66 of the Constitution."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "CHAPTER 02:01 PRESIDENTIAL ELECTIONS (SUPPLEMENTARY PROVISIONS)",
+      "section": "4",
+      "title": "Time and place of nomination",
+      "content": "4. Time and place of nomination\n(1) Nomination day of candidates shall be the first Saturday following the expiry of 20 days after each dissolution of the National Assembly.\n(2) Every nomination of a candidate shall be handed to the returning officer at the High Court at Gaborone, between the hours of 10 o'clock in the forenoon and 1 o'clock in the afternoon or between the hours of 2 o'clock and 5 o'clock in the afternoon of nomination day.\n[20 of 2014, s. 2.]\n(3) For the purposes of subsection (2) the expression \"nomination\" means a nomination paper and the support papers in respect of the candidate who is named in such nomination paper."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "CHAPTER 02:01 PRESIDENTIAL ELECTIONS (SUPPLEMENTARY PROVISIONS)",
+      "section": "5",
+      "title": "Form of nomination",
+      "content": "5. Form of nomination\n(1) Every candidate shall be nominated by a proposer and a seconder (who shall be regarded as supporters for the purposes of section 32 of the Constitution) being persons who are registered as voters for the purposes of elections to the National Assembly and the nomination shall be made on a nomination paper in the form prescribed in the First Schedule.\n(2) A nomination paper shall not be valid unless it is signed by the candidate, his proposer and seconder or marked by them with their marks and contains in accordance with the requirements noted on the form the following particulars-\n( a ) the full name and address of the candidate, his constituency, the polling station at which he is registered and his number on the election roll;\n( b ) the name, address and constituency of both the proposer and the seconder, and the polling station at which they are registered and their number on the Election Roll;\n( c ) a statement by the candidate that he is willing and qualified to stand for election."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "CHAPTER 02:01 PRESIDENTIAL ELECTIONS (SUPPLEMENTARY PROVISIONS)",
+      "section": "6",
+      "title": "Form of support",
+      "content": "6. Form of support\n(1) In addition to his proposer and seconder every candidate shall be supported by not less than 998 supporters being persons who are registered as voters for the purpose of elections to the National Assembly.\n(2) Every supporter shall complete a support paper in the form set out in the Second Schedule.\n(3) No person shall sign a support paper in favour of more than one candidate or more than one paper in favour of the same candidate."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "candidate",
+      "definition": "a candidate for office of President",
+      "source_provision": "s3"
+    },
+    {
+      "term": "returning officer",
+      "definition": "the Chief Justice of Botswana",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Supervisor of Elections",
+      "definition": "the person designated as Supervisor of Elections in accordance with the provisions of section 66 of the Constitution.",
+      "source_provision": "s3"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "bw-act-botswana-university-of-agriculture-and-natural-resources",
+  "type": "statute",
+  "title": "Botswana University of Agriculture and Natural Resources",
+  "title_en": "Botswana University of Agriculture and Natural Resources",
+  "short_name": "Botswana University of Agri...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-university-of-agriculture-and-natural-resources",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana University of Agriculture and Natural Resources Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Council\" means the University Council established under section 11;\n\"member\" means a member of the Council;\n\"repealed Act\" means the Botswana College of Agriculture Act (Cap. 57:02);\n\"Statutes\" means the Statutes of the University enacted under section 26; and\n\"University\" means the Botswana University of Agriculture and Natural Resources."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment and Functions of Botswana University of Agriculture and Natural Resources",
+      "section": "3",
+      "title": "Establishment of University",
+      "content": "3. Establishment of University\n(1) The Botswana College of Agriculture established under section 2 of the repealed Act, is hereby continued under the new name of the Botswana University of Agriculture and Natural Resources and shall continue to exist as if established under this Act.\n(2) The University shall be a body corporate with perpetual succession and a common seal, capable of suing and being sued under its own name, and subject to the provisions of this Act, performing such acts as bodies corporate, may by law perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment and Functions of Botswana University of Agriculture and Natural Resources",
+      "section": "4",
+      "title": "Objectives of University",
+      "content": "4. Objectives of University\n(1) The objectives of the University shall be to provide higher education and training in the field of agriculture and natural resources or related sciences and such other allied and related subjects as the Council may, from time to time determine.\n(2) Without derogating from the generality of subsection (1), the University shall—\n( a ) undertake, promote and facilitate research and scholarly investigations in the field of agriculture and natural resources or related sciences;\n( b ) advance and disseminate knowledge and skills through teaching, learning and practical skills training in the field of agriculture and natural resources or related sciences;\n( c ) contribute to national and international scientific and technological development in the field of agriculture and natural resources or related sciences;\n( d ) support and contribute to the realisations of national economic and social development in the field of agriculture and natural resources or related sciences;\n( e ) contribute to the cultural and social life of the community in the field of agriculture and natural resources or related sciences; and\n( f ) advance the intellectual and human resource capacity of the nation of Botswana and the international community in the field of agriculture and natural resources or related sciences."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment and Functions of Botswana University of Agriculture and Natural Resources",
+      "section": "5",
+      "title": "Powers and functions of University",
+      "content": "5. Powers and functions of University\n(1) Subject to this Act and the Statutes, the University shall have the power to do all things necessary and expedient for the exercise and discharge of its functions.\n(2) Without derogating from the generality of subsection (1), the University shall have the power to—\n( a ) establish faculties, institutions, schools, departments or other academic units, whether in Botswana or elsewhere, as the Council may from time to time consider necessary;\n( b ) establish professorships, lectureships and other posts whether academic or administrative, and fellowships, bursaries, exhibitions, scholarships, prizes and certificates as the Council may from time to time consider necessary;\n( c ) conduct research on its own or in collaboration with other national or international organisations in the field of agriculture and natural resources or related sciences;\n( d ) arrange and conduct symposia, workshops, seminars, conferences or similar activities in the field of agriculture and natural resources or related sciences and take whatever steps the Council considers appropriate to stimulate and promote interest in agricultural and economic development;\n( e ) provide advisory consultancy and other services for the benefit of the Government, organisations, and individuals in the field of agriculture and natural resources or related sciences;\n( f ) provide programmes and courses of study, conduct examinations and other methods of assessment and award degrees and other qualifications;\n( g ) establish or participate in the establishment of such commercial, trading, research or other co-operations as may be deemed necessary in the discharge of its functions;\n( h ) collaborate with such business, professional, cultural, social or other interests within and outside Botswana, as may be deemed necessary in the discharge of its functions;\n( i ) collaborate with alumni and associations of alumni and graduates of the University;\n( j ) procure contributions to the funds of the University and raise funds in such manner as the University may deem fit;\n( k ) receive and accept donations of money or property, on such terms and conditions as shall not be inconsistent with this Act and the functions of the University; and"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Council",
+      "definition": "the University Council established under section 11",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "the Botswana College of Agriculture Act (Cap. 57:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Statutes",
+      "definition": "the Statutes of the University enacted under section 26",
+      "source_provision": "s2"
+    },
+    {
+      "term": "University",
+      "definition": "the Botswana University of Agriculture and Natural Resources.",
+      "source_provision": "s2"
+    }
+  ]
+}

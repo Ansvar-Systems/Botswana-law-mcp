@@ -1,0 +1,44 @@
+{
+  "id": "bw-act-recognition-and-enforcement-of-foreign-arbitral-awards",
+  "type": "statute",
+  "title": "Recognition and Enforcement of Foreign Arbitral Awards",
+  "title_en": "Recognition and Enforcement of Foreign Arbitral Awards",
+  "short_name": "Recognition and Enforcement...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/recognition-and-enforcement-of-foreign-arbitral-awards",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Recognition and Enforcement of Foreign Arbitral Awards Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act—\n\"Convention\" means the Convention on the Recognition and Enforcement of Foreign Arbitral Awards set out in the Schedule."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Certain arbitral awards to be enforceable in Botswana",
+      "content": "3. Certain arbitral awards to be enforceable in Botswana\n(1) Subject to the provisions of subsections (2) and (3) any arbitral award made after the coming into force of this Act in any country which is a party to the Convention shall be binding and may be enforced in Botswana in accordance with and subject to the provisions of the Convention in such manner as an award may be enforced under the provisions of the Arbitration Act (Cap. 06:01) and the laws of Botswana.\n(2) The provisions of this section shall only apply to awards arising out of legal relationships, whether contractual or not, considered as commercial under the laws of Botswana.\n(3) No arbitral award made in any country which is a party to the Convention shall be enforceable in Botswana unless a similar award made in Botswana would be enforceable in such country."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Certain provisions of Convention to have force of law in Botswana",
+      "content": "4. Certain provisions of Convention to have force of law in Botswana\nThe provisions of—\n( a ) sections 2 and 3 of Article II;\n( b ) Article III;\n( c ) Article IV;\n( d ) Article V; and\n( e ) Article VI,\nof the Convention shall have the force of law in Botswana."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Convention",
+      "definition": "the Convention on the Recognition and Enforcement of Foreign Arbitral Awards set out in the Schedule.",
+      "source_provision": "s2"
+    }
+  ]
+}

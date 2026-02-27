@@ -1,0 +1,379 @@
+{
+  "id": "bw-sub-radiation-protection-subsidiary-legislation",
+  "type": "statute",
+  "title": "Radiation Protection: Subsidiary Legislation",
+  "title_en": "Radiation Protection: Subsidiary Legislation",
+  "short_name": "Radiation Protection: Subsi...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/radiation-protection-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-10)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Radiation Protection Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-10)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"approved medical practitioner\" means a medical practitioner responsible for the medical surveillance of workers who are liable to receive a dose greater than three-tenths of the annual maximum permissible dose, whose capacity to act in this respect is recognised by authority;\n\"authorisation\" means a permission granted in a document by the inspectorate to a legal person who has submitted an application to carry out a practice or any other action described in these Regulations;\n\"conditioning\" means those operations that produce a waste package suitable for handling, transportation, storage or disposal and includes the conversion of the waste to a solid waste form, enclosure of the waste in containers and providing an overpack;\n\"consumer product\" means a device that contains a small amount of radioactive substances;\n\"contamination\" means the presence of a radioactive substance on a surface in quantities in excess of 0.4Bq/cm 2 for beta and gamma emitters and low toxicity alpha emitters, or 0.04Bq/cm 2 for all other alpha emitters;\n\"controlled area\" means any area in which specific protection measures and safety provisions are or may be required for—\n( a ) controlling normal exposures or preventing the spread of contamination during normal working conditions, and\n( b ) preventing or limiting the extent of potential exposures;\n\"critical group\" means a group of members of the public which is reasonably homogeneous with respect to its exposure for a given radiation source and given exposure pathway and is typical of individuals receiving the highest effective dose or equivalent dose, as the case may be, by the given exposure pathway from the given source;\n\"defence in depth\" means the application of more than a single protective measure for a given safety objective such that the objective is achieved even if one of the protective measures fails;\n\"disposal\" means—\n( a ) the emplacement of waste in an approved, specified facility without the intervention of retrieval; or\n( b ) the approved direct discharge of airborne or liquid effluents into the environment with subsequent dispersion;\n\"dose limit\" means the value of the effective dose or the equivalent dose to individuals from controlled practices that shall not be exceeded;\n\"employer\" means a legal person with recognised responsibility, commitment and duties towards a worker in his or her employment by virtue of a mutually agreed relationship;\n\"effective dose\" means the radiation dose that the total body can receive uniformly and that can give the same cancer risk when exposing individual organs to different doses, expressed as quantity E, which is the summation ( S ) of the tissue equivalent doses, each multiplied by the appropriate tissue weighting factor—\nwhere H T is the equivalent dose in tissue T and W T is the tissue weighting factor for tissue T .\n\"equivalent dose\" means the quantity H T,R , defined as:\nwhere D T , R is the absorbed dose delivered by radiation type R averaged over a tissue or organ T and W R is the radiation weighting factor for radiation type R .\nWhen the radiation field is composed of different radiation types with different values of W R , the equivalent dose is—\nThe unit of equivalent dose is J.kg-1 termed the Sievert (Sv).\n\"fixed contamination\" means contamination other than non-fixed contamination;\n\"guidance level\" means a level of a specified quantity above which appropriate actions should be considered;\n\"health professional\" means a medical practitioner, a dentist or a pharmacist or an allied health professional registered under the Botswana Health Professions Act (Cap. 61:02);\n\"health surveillance\" means medical supervision intended to ensure the initial and continuous fitness of workers in their intended task;\n\"intervening organisation\" means an organisation designated or otherwise recognised by the Government of Botswana as being responsible for managing or implementing any aspect of an intervention;\n\"intervention\" means any action intended to reduce or avert exposure or the likelihood of exposure to sources which are not part of a controlled practice or which are out of control as a consequence of an accident;\n\"Inspectorate\" means the Radiation Protection Inspectorate established under section 18 of the Radiation Protection Act (Cap. 24:03);\n\"legal person\" means any organisation, corporation, partnership, firm, association, trust, estate, public or private institution, group, political or administrative entity or other persons designated in accordance with any law, who or which has responsibility and authority for actions taken under these Regulations;\n\"licence\" means an authorisation granted by the Board on the basis of a safety assessment and accompanied by specific requirements and conditions to be complied with by the licensee;\n\"licensee\" means the holder of a current licence granted for a practice or source;\n\"limit\" means the value of a quantity used in certain specified activities or circumstances that must not be exceeded;\n\"medical exposure\" means exposure incurred—\n( a ) by patients as part of their own medical or dental diagnosis or treatment;\n( b ) by persons other than those occupationally exposed, knowingly while voluntarily helping in the support and comfort of patients; and\n( c ) by volunteers in a programme of biomedical research involving their exposure;\n\"medical practitioner\" means a person—\n( a ) registered as a medical practitioner under the Botswana Health Professions Act (Cap. 61:02);\n( b ) who fulfils the national requirements on training and experience for prescribing procedures involving medical exposure; and\n( c ) is a licensee, or a worker who has been designated by a licensed employer for the purpose of prescribing procedures involving medical exposure;\n\"member of the public\" means—\n( a ) any individual in the population except, for the purposes of these Regulations, when subject to occupational or medical exposure; and\n( b ) for the purpose of verifying compliance with the annual dose limit for public exposure, the representative individual in the relevant critical group;\n\"monitoring\" means the measurement of dose or contamination for reasons related to the assessment or control of exposure to radiation or radioactive substances, and the interpretation of the results;\n\"non-fixed contamination\" means contamination that can be removed from a surface during routine conditions of transport;\n\"normal exposure\" means exposure which is expected to be received under normal operating conditions of an installation or a source, including possible minor mishaps that can be kept under control;\n\"notification\" means a document submitted to the Inspectorate by a legal person to notify an intention to carry out a practice or any other action described in the general obligations for practices;\n\"occupational exposure\" means exposure of workers incurred in the course of their work, with the exception of exposures excluded from these Regulations and exposures from practices or sources exempted by these Regulations;\n\"potential exposure\" means exposure that is not expected to be delivered with certainty, but that may result from an accident at a source or owing to an event or sequence of events of a probabilistic nature, including equipment failures and operating errors;\n\"practice\" means any human activity that introduces additional sources of exposure or exposure pathways, or extends exposure to additional people or modifies the network of exposure pathways from existing sources, so as to increase the exposure or the likelihood of exposure of people or the number of people exposed;\n\"protective action\" means an intervention intended to avoid or reduce doses to members of the public in chronic or emergency exposure situations;\n\"public exposure\" means exposure incurred by members of the public from radiation sources, excluding any occupational or medical exposure and the normal local natural background radiation but including exposure from authorised sources and practices and from intervention situations;\n\"qualified expert\" means an individual who, by virtue of certification by appropriate boards or societies, professional licence or academic qualifications and experience, is duly recognised as having expertise in a relevant field of specialisation;\n\"quality assurance\" means all those planned and systematic actions necessary to provide adequate confidence that an item, process or service will satisfy given requirements for quality;\n\"Radiation Safety Officer\" means an individual technically competent in radiation protection matters relevant for a given type of practice who is designated by the licensee to oversee the application of the requirements of these Regulations;\n\"radioactive discharges\" means radioactive substances arising from a source within a practice which are discharged as gases, aerosols, liquids or solids to the environment, generally with the purpose of dilution and dispersion;\n\"radioactive waste\" means material, whatever its physical form, remaining from practices or interventions and for which no further use is foreseen, that contains or is contaminated with radioactive substances and has an activity or activity concentration higher than the level for exemption or clearance from regulatory requirements, and exposure to which is not excluded from these Regulations;\n\"reference level\" means action level, intervention level, investigation level or recording level which may be established for any of the quantities determined in the practice of radiation protection;\n\"registration\" means a form of authorisation for practices of low or moderate risks whereby the legal person responsible for the practice has, as appropriate, prepared and submitted a safety assessment of the facilities and equipment to the Inspectorate;\n\"safety assessment\" means a review of the aspects of design and operation of a source which are relevant to the protection of persons or the safety of the source, including the analysis of the provision for safety and protection established in the design and operation of the source and the analysis of risks associated with normal conditions and accident situations;\n\"safety culture\" means the assembly of characteristics and attitudes in organisations and individuals which establishes that, as an overriding priority, protection and safety issues receive the attention warranted by their significance;\n\"sealed source\" means a radiation source consisting of a radioactive substance enclosed in enclosures or arranged in such a way that there is no risk of the substance being liberated or becoming accessible to direct contact during normal use;\n\"source\" means anything that may cause radiation or releasing radioactive substances or materials;\n\"storage\" means the placement of radioactive waste in a suitable facility where isolation, environmental protection and human control are provided with the intent that the waste will be retrieved for clearance or treatment and conditioning, or disposal at a later time;\n\"supervised area\" means any area not designated as a controlled area but for which occupational exposure conditions are kept under review even though specific protective measures and safety provisions are not normally needed;\n\"supplier\" means any legal person to whom a licensee delegates duties, totally or partially, in relation to the design, manufacture, production or construction of a source;\n\"treatment\" means operations intended to benefit safety or the economy by changing the characteristics of the waste;\n\"unsealed source\" means radioactive material that is—\n( a ) not permanently sealed in a capsule;\n( b ) not closely bounded and is not in a solid form;\n\"waste inventory\" means a detailed, itemised record maintained by the operator or inspectorate in accordance with these Regulations, which may contain data on the physical quantity, the activity of the waste, the radionuclide content, and ot"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary (regs 1-10)",
+      "section": "3",
+      "title": "Exemption of legal persons",
+      "content": "3. Exemption of legal persons\nThese Regulations shall not apply to intervention by legal persons authorised to possess sources in the event of radiological emergencies involving such sources."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary (regs 1-10)",
+      "section": "4",
+      "title": "Exposures",
+      "content": "4. Exposures\nThe exposures to which the requirements of these Regulations apply are any occupational exposure, medical exposure or public exposure due to any practice or source within the practice, including both normal exposures and potential exposures."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART I Preliminary (regs 1-10)",
+      "section": "5",
+      "title": "Exclusions",
+      "content": "5. Exclusions\nThe following exposures are excluded from the requirements of these regulations—\n( a ) exposures from natural radioactivity in the body;\n( b ) exposures from cosmic radiation and from unmodified concentrations of natural radionuclides in raw materials; or\n( c ) any other source that is essentially unamenable to control as may be determined by the Board."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART I Preliminary (regs 1-10)",
+      "section": "6",
+      "title": "Responsible parties",
+      "content": "6. Responsible parties\n(1) The Inspectorate shall be responsible for the enforcement of these Regulations.\n(2) The principal parties having the main responsibilities for the enforcement of these Regulations shall be—\n( a ) those authorised by registration or licence; and\n( b ) employers.\n(3) The following parties shall have subsidiary responsibilities for the enforcement of these Regulations—\n( a ) suppliers;\n( b ) workers;\n( c ) Radiation Safety Officers;\n( d ) medical practitioners;\n( e ) health professionals;\n( f ) qualified experts; or\n( g ) any other party to whom the principal party has delegated specific tasks.\n(4) The general responsibilities of the principal parties include the following—\n( a ) to establish radiation safety objectives in conformity with the relevant requirements of these Regulations; and\n( b ) to develop, implement and document a radiation safety programme commensurate with the nature and extent of the risks associated with the practices and interventions under their responsibility and sufficient to ensure compliance with the requirements of these Regulations, in particular, this programme shall include the following actions—\n(i) to determine and keep continually under review the measures needed to achieve the radiation safety objectives, to ensure that the resources needed for their implementation are provided and regularly to verify that the radiation safety objectives are being achieved,\n(ii) to identify and prevent, or promptly correct, any failures or shortcomings in the radiation safety measures,\n(iii) to facilitate consultation and co-operation between all relevant parties with respect to radiation safety, and\n(iv) to keep appropriate records regarding the discharge of their responsibilities."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART I Preliminary (regs 1-10)",
+      "section": "7",
+      "title": "Access to premises and information",
+      "content": "7. Access to premises and information\n(1) Every legal person responsible for authorised practices or sources within practices shall permit a representative of the Inspectorate access to premises and facilities in which such practices are conducted or sources located in order to obtain information about the status of radiation safety and verify compliance with regulatory requirements.\n(2) Every legal person authorised to engage in a practice covered by these regulations shall make available to the Inspectorate, upon reasonable notice, information and records regarding radiation safety."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART I Preliminary (regs 1-10)",
+      "section": "8",
+      "title": "Non-compliance",
+      "content": "8. Non-compliance\n(1) In the event of a breach of any applicable requirement of these Regulations, the principal parties shall—\n( a ) investigate the breach and its causes, circumstances and consequences of the breach;\n( b ) take appropriate action to remedy the circumstances and to prevent a recurrence of similar situations;\n( c ) communicate to the Inspectorate on the causes of the breach, its circumstances and consequences, and on the corrective or preventive actions taken or to be taken; and\n( d ) take whatever other actions that are necessary as required by these Regulations.\n(2) The principal parties shall communicate the breach referred to in subsection (1) to the Inspectorate as soon as practicable after it has occurred and shall, whenever an emergency exposure situation has developed or is developing, immediately communicate it.\n(3) Where the principal parties fail to take corrective or preventive actions within a reasonable time in accordance with these Regulations, the Inspectorate shall modify, suspend or withdraw any authorisation that it has granted."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART I Preliminary (regs 1-10)",
+      "section": "9",
+      "title": "Enforcement",
+      "content": "9. Enforcement\nThe Board may—\n( a ) revoke, suspend or modify an authorisation to use a radiation source, or prohibit the possession of a radiation source, upon finding an undue threat to health and safety or non-compliance with applicable regulatory requirements;\n( b ) levy fines for non-compliance with applicable regulations and regulatory requirements commensurate with the nature of the breach; and\n( e ) upon finding wilful violations or attempted violations of the regulations or requirements, make recommendations for prosecution."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART I Preliminary (regs 1-10)",
+      "section": "10",
+      "title": "Applicability of other regulations and requirements and resolution of conflicts",
+      "content": "10. Applicability of other regulations and requirements and resolution of conflicts\n(1) The requirements of these Regulations are in addition to the requirements in other applicable laws.\n(2) Nothing in these Regulations shall be construed as exempting employers from complying with applicable laws governing workplace hazards, including radiation hazards from natural sources which are unconnected with the work.\n(3) Nothing in these Regulations shall be construed as restricting any actions that may otherwise be necessary for protection and safety."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II Administrative Requirements (regs 11-16)",
+      "section": "11",
+      "title": "General obligations",
+      "content": "11. General obligations\nNo person shall engage in activities which involve practices or sources within practices unless the requirements of these Regulations, including the requirements for notification and authorisation, are met."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II Administrative Requirements (regs 11-16)",
+      "section": "12",
+      "title": "Requirements for notification",
+      "content": "12. Requirements for notification\n(1) Except as provided for in regulation 14, any legal person who, on the date of commencement of these Regulations, is responsible for a practice or in possession of a radiation source, shall submit a notification to the Inspectorate in accordance with section 37 of the Act.\n(2) Except as provided for in regulation 14, any legal person intending to initiate a practice or to possess a radiation source referred to in regulation 3, shall submit a prior notification to the Inspectorate of such an intention.\n(3) A list of sources and practices requiring notification only shall be compiled by the Inspectorate and reviewed from time to time by the Board.\n(4) After notification as specified in subregulation (1) or (2), and for any practices or sources not included in the list given in subregulation (3), every legal person who applies to the Board for an authorisation according to regulation 15 is permitted to continue existing activities specified in the notification, in compliance with the requirements of these regulations, until such time as the Board revokes such permission or grants an authorisation."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II Administrative Requirements (regs 11-16)",
+      "section": "13",
+      "title": "Exemption of practices and sources",
+      "content": "13. Exemption of practices and sources\n(1) Practices and sources within a practice may be exempted from the requirements of these Regulations provided that they comply with—\n( a ) the exemption levels specified in the First Schedule; or\n( b ) any exemption levels defined by the Board on the basis of the exemption levels specified in the First Schedule.\n(2) Exemptions shall not be granted for practices deemed not to be justified as specified in regulation 18(2).\n(3) The following practices and sources within a practice are automatically exempted from the requirements of these Regulations, including the requirement for notification, registration or licensing—\n( a ) radioactive substances for which the total activity of a given nuclide present on the premises at any one time or its activity concentration contained in a mass of 1000 kg or less of material does not exceed the exemption levels specified in the First Schedule;\n( b ) apparatus containing radioactive substances exceeding the quantities or concentrations specified in paragraph ( a ):\nProvided that:\n(i) it is of a type approved by the Board,\n(ii) it is constructed in the form of a sealed source, and\n(iii) it does not cause, in normal operating conditions, a dose rate exceeding 1 µSv/h at a distance of 0.1 m from any accessible surface of the apparatus nor a dose to any member of the public exceeding 10 µSv in a year;\n( c ) the operation of any electrical apparatus to which these Regulations apply, other than that referred to in paragraph ( d ):\nProvided that:\n(i) it is of a type approved by the Board, and\n(ii) it does not cause in normal operating conditions a dose rate exceeding 1 µSv/h at a distance of 0.1 m from any accessible surface of the apparatus; and\n( d ) the operation of any cathode ray tube intended for the display of visual images or other electrical apparatus operating at a potential difference not exceeding 30 kV, provided that it does not cause in normal operating conditions a dose rate exceeding 1 µSv/h at a distance of 0.1 m from any accessible surface of the apparatus."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART II Administrative Requirements (regs 11-16)",
+      "section": "14",
+      "title": "Requirements for authorisation by registration or licence",
+      "content": "14. Requirements for authorisation by registration or licence\n(1) Except as provided in regulation 12(4) and regulation 13 any legal person intending to engage in a practice or possess a radiation source shall apply to the Board for an authorisation which shall take the form of either a registration or a licence.\n(2) If the application referred to in subregulation (1) refers to an industrial irradiation installation, an installation processing radioactive substances, a medical or industrial radiography facility, or for any use of a source which the Board has not designated as suitable for registration, the authorisation shall take the form of a licence.\n(3) Any legal person applying for an authorisation shall—\n( a ) submit to the Inspectorate relevant information necessary to support the application, including—\n(i) an evaluation of the nature, magnitude and likelihood of the exposures attributed to the practice and sources within the practice,\n(ii) a safety assessment in cases where this is prescribed by the inspectorate, to be submitted as part of the application, and\n(iii) a determination of the characteristics and activity of any radioactive material to be discharged to the environment with an assessment of the resulting doses to the critical group;\n( b ) take all necessary steps for the protection and safety of workers, of members of the public and, when applicable, of patients.\n(4) Any legal person responsible for a source to be used for medical exposure shall include in the application for a licence the qualifications in radiation protection of the medical practitioners who are to be so designated by name or by qualification credentials in the licence as the only individuals permitted to prescribe medical exposure by means of the authorised source."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART II Administrative Requirements (regs 11-16)",
+      "section": "15",
+      "title": "Responsibilities of licensees",
+      "content": "15. Responsibilities of licensees\nLicensees shall—\n( a ) bear the responsibility for establishing and implementing the technical and organisational measures that are needed for ensuring protection and safety for the practices and sources for which they are authorised and for compliance with all applicable requirements of these Regulations;\n( b ) notify the Inspectorate of their intentions to introduce modifications to any practice or source for which they are licensed whenever the modifications could have significant implications for protection or safety, and shall not carry out any such modification unless specifically authorised by the inspectorate; and\n( c ) ensure that only workers who are designated in the application by name or qualification credentials and authorised by reference in the licence, as having key assignments related to protection and safety, and other workers assigned tasks involving operation or handling of radiation sources which could substantially affect protection and safety are permitted to fulfill such required assignments and tasks."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART II Administrative Requirements (regs 11-16)",
+      "section": "16",
+      "title": "Clearance",
+      "content": "16. Clearance\nSources, including substances, materials and objects within authorised practices can be cleared from further compliance with the requirements of these regulations provided that they comply with exemption levels specified in the First Schedule or approved by the Board."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART III Radiation Protection Performance Requirements (regs 17-21)",
+      "section": "17",
+      "title": "Justification of practices",
+      "content": "17. Justification of practices\n(1) No practice shall be authorised unless it—\n( a ) produces sufficient benefit to the exposed individuals or to society to offset the radiation harm that it might cause, taking into account social, economic and other relevant factors; and\n( b ) the applicant for an authorisation has provided to the Board sufficient information and evidence on the benefits and the harm to support the justification of the practice.\n(2) The following practices are deemed to be not justified whenever they would result in an increase, by deliberate addition of radioactive substances or by activation, in the activity of the associated commodities or products—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "approved medical practitioner",
+      "definition": "a medical practitioner responsible for the medical surveillance of workers who are liable to receive a dose greater than three-tenths of the annual maximum permissible dose, whose capacity to act in this respect is recognised by authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorisation",
+      "definition": "a permission granted in a document by the inspectorate to a legal person who has submitted an application to carry out a practice or any other action described in these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conditioning",
+      "definition": "those operations that produce a waste package suitable for handling, transportation, storage or disposal and includes the conversion of the waste to a solid waste form, enclosure of the waste in containers and providing an overpack",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consumer product",
+      "definition": "a device that contains a small amount of radioactive substances",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contamination",
+      "definition": "the presence of a radioactive substance on a surface in quantities in excess of 0.4Bq/cm 2 for beta and gamma emitters and low toxicity alpha emitters, or 0.04Bq/cm 2 for all other alpha emitters",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled area",
+      "definition": "any area in which specific protection measures and safety provisions are or may be required for—\n( a ) controlling normal exposures or preventing the spread of contamination during normal working conditions, and\n( b ) preventing or limiting the extent of potential exposures",
+      "source_provision": "s2"
+    },
+    {
+      "term": "critical group",
+      "definition": "a group of members of the public which is reasonably homogeneous with respect to its exposure for a given radiation source and given exposure pathway and is typical of individuals receiving the highest effective dose or equivalent dose, as the case may be, by the given exposure pathway from the given source",
+      "source_provision": "s2"
+    },
+    {
+      "term": "defence in depth",
+      "definition": "the application of more than a single protective measure for a given safety objective such that the objective is achieved even if one of the protective measures fails",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dose limit",
+      "definition": "the value of the effective dose or the equivalent dose to individuals from controlled practices that shall not be exceeded",
+      "source_provision": "s2"
+    },
+    {
+      "term": "employer",
+      "definition": "a legal person with recognised responsibility, commitment and duties towards a worker in his or her employment by virtue of a mutually agreed relationship",
+      "source_provision": "s2"
+    },
+    {
+      "term": "effective dose",
+      "definition": "the radiation dose that the total body can receive uniformly and that can give the same cancer risk when exposing individual organs to different doses, expressed as quantity E, which is the summation ( S ) of the tissue equivalent doses, each multiplied by the appropriate tissue weighting factor—\nwhere H T is the equivalent dose in tissue T and W T is the tissue weighting factor for tissue T .\n\"equivalent dose\" means the quantity H T,R , defined as:\nwhere D T , R is the absorbed dose delivered by radiation type R averaged over a tissue or organ T and W R is the radiation weighting factor for radiation type R .\nWhen the radiation field is composed of different radiation types with different values of W R , the equivalent dose is—\nThe unit of equivalent dose is J.kg-1 termed the Sievert (Sv).\n\"fixed contamination\" means contamination other than non-fixed contamination",
+      "source_provision": "s2"
+    },
+    {
+      "term": "guidance level",
+      "definition": "a level of a specified quantity above which appropriate actions should be considered",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health professional",
+      "definition": "a medical practitioner, a dentist or a pharmacist or an allied health professional registered under the Botswana Health Professions Act (Cap. 61:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health surveillance",
+      "definition": "medical supervision intended to ensure the initial and continuous fitness of workers in their intended task",
+      "source_provision": "s2"
+    },
+    {
+      "term": "intervening organisation",
+      "definition": "an organisation designated or otherwise recognised by the Government of Botswana as being responsible for managing or implementing any aspect of an intervention",
+      "source_provision": "s2"
+    },
+    {
+      "term": "intervention",
+      "definition": "any action intended to reduce or avert exposure or the likelihood of exposure to sources which are not part of a controlled practice or which are out of control as a consequence of an accident",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Inspectorate",
+      "definition": "the Radiation Protection Inspectorate established under section 18 of the Radiation Protection Act (Cap. 24:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal person",
+      "definition": "any organisation, corporation, partnership, firm, association, trust, estate, public or private institution, group, political or administrative entity or other persons designated in accordance with any law, who or which has responsibility and authority for actions taken under these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "an authorisation granted by the Board on the basis of a safety assessment and accompanied by specific requirements and conditions to be complied with by the licensee",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "the holder of a current licence granted for a practice or source",
+      "source_provision": "s2"
+    },
+    {
+      "term": "limit",
+      "definition": "the value of a quantity used in certain specified activities or circumstances that must not be exceeded",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical exposure",
+      "definition": "exposure incurred—\n( a ) by patients as part of their own medical or dental diagnosis or treatment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical practitioner",
+      "definition": "a person—\n( a ) registered as a medical practitioner under the Botswana Health Professions Act (Cap. 61:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "monitoring",
+      "definition": "the measurement of dose or contamination for reasons related to the assessment or control of exposure to radiation or radioactive substances, and the interpretation of the results",
+      "source_provision": "s2"
+    },
+    {
+      "term": "non-fixed contamination",
+      "definition": "contamination that can be removed from a surface during routine conditions of transport",
+      "source_provision": "s2"
+    },
+    {
+      "term": "normal exposure",
+      "definition": "exposure which is expected to be received under normal operating conditions of an installation or a source, including possible minor mishaps that can be kept under control",
+      "source_provision": "s2"
+    },
+    {
+      "term": "notification",
+      "definition": "a document submitted to the Inspectorate by a legal person to notify an intention to carry out a practice or any other action described in the general obligations for practices",
+      "source_provision": "s2"
+    },
+    {
+      "term": "occupational exposure",
+      "definition": "exposure of workers incurred in the course of their work, with the exception of exposures excluded from these Regulations and exposures from practices or sources exempted by these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "potential exposure",
+      "definition": "exposure that is not expected to be delivered with certainty, but that may result from an accident at a source or owing to an event or sequence of events of a probabilistic nature, including equipment failures and operating errors",
+      "source_provision": "s2"
+    },
+    {
+      "term": "practice",
+      "definition": "any human activity that introduces additional sources of exposure or exposure pathways, or extends exposure to additional people or modifies the network of exposure pathways from existing sources, so as to increase the exposure or the likelihood of exposure of people or the number of people exposed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "protective action",
+      "definition": "an intervention intended to avoid or reduce doses to members of the public in chronic or emergency exposure situations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public exposure",
+      "definition": "exposure incurred by members of the public from radiation sources, excluding any occupational or medical exposure and the normal local natural background radiation but including exposure from authorised sources and practices and from intervention situations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "qualified expert",
+      "definition": "an individual who, by virtue of certification by appropriate boards or societies, professional licence or academic qualifications and experience, is duly recognised as having expertise in a relevant field of specialisation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quality assurance",
+      "definition": "all those planned and systematic actions necessary to provide adequate confidence that an item, process or service will satisfy given requirements for quality",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Radiation Safety Officer",
+      "definition": "an individual technically competent in radiation protection matters relevant for a given type of practice who is designated by the licensee to oversee the application of the requirements of these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radioactive discharges",
+      "definition": "radioactive substances arising from a source within a practice which are discharged as gases, aerosols, liquids or solids to the environment, generally with the purpose of dilution and dispersion",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radioactive waste",
+      "definition": "material, whatever its physical form, remaining from practices or interventions and for which no further use is foreseen, that contains or is contaminated with radioactive substances and has an activity or activity concentration higher than the level for exemption or clearance from regulatory requirements, and exposure to which is not excluded from these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reference level",
+      "definition": "action level, intervention level, investigation level or recording level which may be established for any of the quantities determined in the practice of radiation protection",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registration",
+      "definition": "a form of authorisation for practices of low or moderate risks whereby the legal person responsible for the practice has, as appropriate, prepared and submitted a safety assessment of the facilities and equipment to the Inspectorate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "safety assessment",
+      "definition": "a review of the aspects of design and operation of a source which are relevant to the protection of persons or the safety of the source, including the analysis of the provision for safety and protection established in the design and operation of the source and the analysis of risks associated with normal conditions and accident situations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "safety culture",
+      "definition": "the assembly of characteristics and attitudes in organisations and individuals which establishes that, as an overriding priority, protection and safety issues receive the attention warranted by their significance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sealed source",
+      "definition": "a radiation source consisting of a radioactive substance enclosed in enclosures or arranged in such a way that there is no risk of the substance being liberated or becoming accessible to direct contact during normal use",
+      "source_provision": "s2"
+    },
+    {
+      "term": "source",
+      "definition": "anything that may cause radiation or releasing radioactive substances or materials",
+      "source_provision": "s2"
+    },
+    {
+      "term": "storage",
+      "definition": "the placement of radioactive waste in a suitable facility where isolation, environmental protection and human control are provided with the intent that the waste will be retrieved for clearance or treatment and conditioning, or disposal at a later time",
+      "source_provision": "s2"
+    },
+    {
+      "term": "supervised area",
+      "definition": "any area not designated as a controlled area but for which occupational exposure conditions are kept under review even though specific protective measures and safety provisions are not normally needed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "supplier",
+      "definition": "any legal person to whom a licensee delegates duties, totally or partially, in relation to the design, manufacture, production or construction of a source",
+      "source_provision": "s2"
+    },
+    {
+      "term": "treatment",
+      "definition": "operations intended to benefit safety or the economy by changing the characteristics of the waste",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unsealed source",
+      "definition": "radioactive material that is—\n( a ) not permanently sealed in a capsule",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste inventory",
+      "definition": "a detailed, itemised record maintained by the operator or inspectorate in accordance with these Regulations, which may contain data on the physical quantity, the activity of the waste, the radionuclide content, and ot",
+      "source_provision": "s2"
+    }
+  ]
+}

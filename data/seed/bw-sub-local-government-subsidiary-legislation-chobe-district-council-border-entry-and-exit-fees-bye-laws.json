@@ -1,0 +1,59 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-chobe-district-council-border-entry-and-exit-fees-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Chobe District Council (border Entry and Exit Fees) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Chobe District Council (border Entry and Exit Fees) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-chobe-district-council-border-entry-and-exit-fees-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Chobe District Council (Border Entry and Exit Fees) Bye-laws*.\n*Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"authorised officer\" means the Council Secretary or any public officer authorised by him in writing;\n\"border\" means the Kazungula Ferry Border, Kazungula Road Border, Ngoma Border post and Pandamatenga Border post;\n\"council area\" means the Chobe District Council; and\n\"vehicle\" means motor cycles, motor tricycles, motor quadrucycle, caravans and light trailers, bakkies, kombis, microbuses, minibuses, light goods vehicles, delivery vehicles, buses, trucks, trailers, tyre dozer, grader motor, front-end loader, excavators, self-propelled vibratory rollers and any other vehicle."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Bye-laws shall apply to the whole of Chobe District Council area as prescribed under the Administrative Districts Act."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Persons in charge of foreign registered vehicle to complete and deliver vehicle entry and exit form",
+      "content": "4. Persons in charge of foreign registered vehicle to complete and deliver vehicle entry and exit form\n(1) Every foreign registered vehicle that enters or exit any border in the council area shall pay an entry and exit fee specified in Part A of the Schedule.\n(2) A person in charge of a foreign registered vehicle shall\n( a ) upon entry into the border, or\n( b ) upon exit from the border,"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "the Council Secretary or any public officer authorised by him in writing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "border",
+      "definition": "the Kazungula Ferry Border, Kazungula Road Border, Ngoma Border post and Pandamatenga Border post",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council area",
+      "definition": "the Chobe District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "vehicle",
+      "definition": "motor cycles, motor tricycles, motor quadrucycle, caravans and light trailers, bakkies, kombis, microbuses, minibuses, light goods vehicles, delivery vehicles, buses, trucks, trailers, tyre dozer, grader motor, front-end loader, excavators, self-propelled vibratory rollers and any other vehicle.",
+      "source_provision": "s2"
+    }
+  ]
+}

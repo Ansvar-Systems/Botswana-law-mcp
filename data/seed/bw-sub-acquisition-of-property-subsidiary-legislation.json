@@ -1,0 +1,26 @@
+{
+  "id": "bw-sub-acquisition-of-property-subsidiary-legislation",
+  "type": "statute",
+  "title": "Acquisition of Property: Subsidiary Legislation",
+  "title_en": "Acquisition of Property: Subsidiary Legislation",
+  "short_name": "Acquisition of Property: Su...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/acquisition-of-property-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Rules may be cited as the Acquisition of Property (Board of Assessment) Rules."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Form of notice",
+      "content": "2. Form of notice\nThe form of notice requiring either the attendance of any person as a witness before a Board of Assessment or to produce any document before the said Board, or to do both shall be in the form set out in the Schedule hereto."
+    }
+  ],
+  "definitions": []
+}

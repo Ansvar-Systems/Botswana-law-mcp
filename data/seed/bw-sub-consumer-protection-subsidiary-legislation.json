@@ -1,0 +1,117 @@
+{
+  "id": "bw-sub-consumer-protection-subsidiary-legislation",
+  "type": "statute",
+  "title": "Consumer Protection: Subsidiary Legislation",
+  "title_en": "Consumer Protection: Subsidiary Legislation",
+  "short_name": "Consumer Protection: Subsid...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/consumer-protection-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Consumer Protection (Year 2000 Compliance) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations unless the context otherwise requires—\n\"computer equipment\" includes any computer hardware, computer software, magnetic media devices and any system for the electronic storage, processing, transmission and sequencing of any type or form of data;\n\"embedded chip technology or embedded chip systems\" means any equipment which contains, whether in the form of micro-chips or any other electronic circuit the capacity to electronically store, process, transmit or sequence data of any form including date related data;\n\"swing date\" means the procedure or method used in computer equipment for determining the year of date related information by reference to the decade and year or the last two digits in date related information in order to determine the century applicable to such date related information;\n\"year 2000 compliant\" means a computer or computer equipment containing embedded chip systems that shall recognise, and operate correctly and be fault free after the date change from 31st December, 1999 to 1st January, 2000 and shall also recognise that the year 2000 is a leap year;\n\"year 2000 return\" means a written inventory and statement of computer equipment or equipment containing embedded chip technology specifying the information stipulated under regulation 3."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Compliance (regs 3-4)",
+      "section": "3",
+      "title": "Organisation etc., to conduct inventory and furnish returns",
+      "content": "3. Organisation etc., to conduct inventory and furnish returns\n(1) Every organisation, business or company providing goods or services to consumers shall, if so required by the Consumer Protection Office—\n( a ) conduct an inventory of all its computer equipment and any other equipment containing embedded chip systems;\n( b ) ascertain whether such computer equipment or equipment containing embedded chip system—\n(i) correctly and fault free recognises the date change from 31st December, 1999 to 1st January, 2000; and\n(ii) would operate fault free after the said date change;\n( c ) furnish returns which returns shall specify—\n(i) the quantity, type and model of each computer or computer equipment used;\n(ii) the make, type and year of release of all software used;\n(iii) the make, type and model of all equipment containing embedded chip systems used; and\n(iv) whether or not each computer or computer equipment is year 2000 compliant.\n(2) An inventory and returns conducted in accordance with subregulation (1) shall be furnished to the Consumer Protection Office.\n(3) Any person who fails to comply with the provisions of subregulation (1) commits an offence and shall be liable on conviction to a fine not exceeding P500 or in default of payment to imprisonment for a term not exceeding six months or to both."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Compliance (regs 3-4)",
+      "section": "4",
+      "title": "Organisation to disclose information on request",
+      "content": "4. Organisation to disclose information on request\n(1) Every such organisation, business or company shall disclose to the Consumer Protection Office, upon written request being received by the organisation from the Office, any information held exclusively by it, the effect of which information would be to assist the Office to render their computer equipment year 2000 compliant.\n(2) No seller or manufacturer of computer equipment may be compelled to release information to any other person, the effect of which would be to render the computer equipment of the person requesting it year 2000 compliant without charge, and which information would ordinarily in the course of business, be for sale to the general public by such seller or manufacturer."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART III Conditions of Future Sales of Computers (regs 5-8)",
+      "section": "5",
+      "title": "Selling or use of non-compliant computers",
+      "content": "5. Selling or use of non-compliant computers\n(1) No manufacturer or seller of computer equipment or equipment containing embedded chip system or embedded chip technology shall sell to any other person, whether for the person's private use or otherwise, any computer equipment or equipment containing embedded chip system or embedded chip technology which is not year 2000 compliant unless the non-compliance is clearly stated and the purchaser understands the implications of such non-compliance.\n(2) If in the view of the Consumer Protection Office the continued use of non-compliant computer equipment or equipment containing embedded chip system or embedded chip technology is likely to cause prejudice to consumers, the Consumer Protection Office may instruct the user to desist from such use.\n(3) Any person who contravenes subregulation (1) or fails to comply with an instruction under subregulation (2) commits an offence and shall be liable on conviction for a first offence, to a fine not exceeding P500 and for a second or subsequent offence to a fine not exceeding P500 for every day upon which the offence is or continues to be committed."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART III Conditions of Future Sales of Computers (regs 5-8)",
+      "section": "6",
+      "title": "Year 2000 compliant warranty",
+      "content": "6. Year 2000 compliant warranty\n(1) No manufacturer or seller, shall warrant a non-year 2000 compliant computer equipment or equipment containing embedded chip system or embedded chip technology manufactured or sold by him to be year 2000 compliant.\n(2) A manufacturer or seller of computer equipment or equipment containing embedded chip systems or embedded chip technology which is manufactured or sold as being year 2000 compliant shall on demand by a person that purchases such equipment provide to such person a written warranty or like statement that the equipment is year 2000 compliant.\n(3) A manufacturer or seller shall on demand provide a person that has purchased warranted equipment in accordance with subregulation (1) with test results or a certificate confirming that—\n( a ) the computer equipment is year 2000 compliant; and\n( b ) in the event of the computer equipment utilising a swing date, the date up to which the relevant computer equipment will be able to effectively operate and process data including date related data is on a fault free basis.\n(4) Any person who contravenes the provisions of this regulation commits an offence and shall be liable on conviction for a first offence to a fine not exceeding P500 and for a second or subsequent offence to a fine not exceeding P500 for every day upon which the offence is or continues to be committed."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART III Conditions of Future Sales of Computers (regs 5-8)",
+      "section": "7",
+      "title": "Body corporate liability",
+      "content": "7. Body corporate liability\nWhere an offence under these Regulations which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of a director, manager, secretary or other similar officer of the body corporate, or any other person who was purporting to act in such capacity, he, as well as the body corporate, shall be guilty of an offence and be liable in terms of these Regulations."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART III Conditions of Future Sales of Computers (regs 5-8)",
+      "section": "8",
+      "title": "Failure to comply with Regulations",
+      "content": "8. Failure to comply with Regulations\nThe Consumer Protection Office may conduct an investigation against any person who fails to comply with the provisions of these Regulations, in accordance with Part III of the Act, and may cause civil proceedings to be instituted against such person in accordance with Part IV of the Act."
+    },
+    {
+      "provision_ref": "s1",
+      "chapter": "PART III Conditions of Future Sales of Computers (regs 5-8) - CONSUMER PROTECTION REGULATIONS",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Consumer Protection Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART III Conditions of Future Sales of Computers (regs 5-8) - CONSUMER PROTECTION REGULATIONS",
+      "section": "2",
+      "title": "Lodging of complaint",
+      "content": "2. Lodging of complaint\n(1) A complaint against violations of the Act to be lodged in accordance with section 29 of the Act shall be made to the Authority in Form A set out in the Schedule.\n(2) The Authority shall, within 30 days of receiving a complaint made in accordance with subregulation (1) make available to the complainant a report containing recommendations as to whether or not there are sufficient grounds to warrant the investigations of an unfair business practice."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART III Conditions of Future Sales of Computers (regs 5-8) - CONSUMER PROTECTION REGULATIONS",
+      "section": "3",
+      "title": "Service of summons",
+      "content": "3. Service of summons\n(1) A person summoned, in terms of section 31 of the Act to furnish any information on the subject of an investigation, shall be summoned in Form B set out in the Schedule.\n(2) Service of the summons on the person to be served, shall be effected in one or other of the following manner—\n( a ) by delivering a copy thereof to the said person personally;\n( b ) by leaving a copy thereof at the place of residence, employment or business of the said person with the person apparently in charge of the premises at the time of delivery, being apparently not less than 16 years;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "computer equipment",
+      "definition": "any computer hardware, computer software, magnetic media devices and any system for the electronic storage, processing, transmission and sequencing of any type or form of data",
+      "source_provision": "s2"
+    },
+    {
+      "term": "embedded chip technology or embedded chip systems",
+      "definition": "any equipment which contains, whether in the form of micro-chips or any other electronic circuit the capacity to electronically store, process, transmit or sequence data of any form including date related data",
+      "source_provision": "s2"
+    },
+    {
+      "term": "swing date",
+      "definition": "the procedure or method used in computer equipment for determining the year of date related information by reference to the decade and year or the last two digits in date related information in order to determine the century applicable to such date related information",
+      "source_provision": "s2"
+    },
+    {
+      "term": "year 2000 compliant",
+      "definition": "a computer or computer equipment containing embedded chip systems that shall recognise, and operate correctly and be fault free after the date change from 31st December, 1999 to 1st January, 2000 and shall also recognise that the year 2000 is a leap year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "year 2000 return",
+      "definition": "a written inventory and statement of computer equipment or equipment containing embedded chip technology specifying the information stipulated under regulation 3.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "bw-sub-private-hospitals-and-nursing-homes-subsidiary-legislation",
+  "type": "statute",
+  "title": "Private Hospitals and Nursing Homes: Subsidiary Legislation",
+  "title_en": "Private Hospitals and Nursing Homes: Subsidiary Legislation",
+  "short_name": "Private Hospitals and Nursi...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/private-hospitals-and-nursing-homes-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Private Hospitals and Nursing Homes Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, \"Director\" means the Director of Medical Services."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Qualifications of superintendent",
+      "content": "3. Qualifications of superintendent\nThe superintendent of a private hospital shall possess such professional and other qualifications as are, in the opinion of the Director, necessary having regard to the nature and operation of the hospital, and shall, without limiting the generality of the foregoing—\n( a ) in the case of a private hospital that is registered as a medical or surgical hospital, or as a medical, surgical and maternity hospital, be not less than those of a medical practitioner;\n( b ) in the case of a maternity hospital or home, be not less than those of a registered midwife;\n( c ) in the case of a convalescent or nursing home, be not less than those of a registered nurse."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Hospital staff",
+      "content": "4. Hospital staff\nThe staff of a private hospital shall consist of such number of nurses and other employees as are, in the opinion of the Director, necessary, competent and qualified to give adequate care to the number and type of patients provided with treatment at that hospital."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Adequacy of supplies",
+      "content": "5. Adequacy of supplies\nEvery private hospital shall have and maintain supplies of drugs and equipment sufficient, in the opinion of the Director, to provide adequate treatment for the number and type of patients for which the hospital is licensed."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Admission of patients",
+      "content": "6. Admission of patients\nNo person shall be admitted as a patient to a private hospital who is likely to constitute a danger to other patients, whether by reason of contagion or any other cause, unless adequate precautions are taken and adequate facilities are provided for the protection of the other patients."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Treatment of patients",
+      "content": "7. Treatment of patients\n(1) No patient may be treated at a private hospital without being under the care of a medical practitioner:\nProvided that in the case of a maternity patient it shall be sufficient if such patient is under the care of a registered midwife, unless there are complications requiring that the patient be under the care of a medical practitioner.\n(2) Every order for the treatment of a patient shall be in writing, either on a treatment sheet or in the Order Book provided for the purpose, and shall be signed by a medical practitioner; in an emergency such treatment may be ordered by a medical practitioner by telephone, but this must be confirmed in writing by a medical practitioner in the Order Book within twenty-four hours thereafter."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Case records and returns",
+      "content": "8. Case records and returns\n(1) As soon as possible after the admission of a patient to a private hospital, the person under whose care he is so admitted shall prepare or cause to be prepared a medical record of the patient, including the results of any examinations or tests, reports of any consultations or special reports, any provisional diagnoses, nursing notes and any other particulars required by the Director and shall maintain such records for the period during which the patient remains in the hospital.\n(2) The superintendent shall retain and preserve in a place of safe keeping, all records relating to every patient of the hospital for a period of not less than ten years, and shall furnish the Director with such reports, records or returns as the Director may require."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Director",
+      "definition": "the Director of Medical Services.",
+      "source_provision": "s2"
+    }
+  ]
+}

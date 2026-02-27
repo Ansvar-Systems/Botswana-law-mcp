@@ -1,0 +1,837 @@
+{
+  "id": "bw-act-companies",
+  "type": "statute",
+  "title": "Companies",
+  "title_en": "Companies",
+  "short_name": "Companies",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/companies",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Companies Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act, unless the context otherwise requires—\n\"accounting records\" means the accounting records referred to in section 189;\n\"accounting period\" means, in relation to a company or another body corporate, the period in respect of which the financial statements of the company or other body corporate are made up, whether that period is a year or not;\n\"annual meeting\" means the meeting of a company required to be held by section 105;\n\"annual report\" means the report required to be made by section 212;\n\"annual return\" means the return required to be made by section 217 and includes any document attached to or intended to be read with the return;\n\"arrangement\" includes a re-organisation of the share capital of a company by the consolidation of shares of different classes or by the division of shares into shares of different classes or by both these methods;\n\"articles\" —\n( a ) means the articles of association of an existing company; and\n( b ) includes, so far as they apply to the company, the provisions contained in Table A or Table C of the First Schedule to the repealed Act;\n\"balance sheet date\" has the meaning assigned to it in section 210;\n\"banking company\" means a bank licensed under the Banking Act (Cap. 46:04);\n\"beneficial owner\" has the meaning assigned to it under the Financial Intelligence Act;\n[ 7 of 2022, s. 2(a) w.e.f. 25 February 2022. ]\n\"benefits\" in relation to a director—\n( a ) includes a fee, percentage or other payment, and the money value of any consideration, allowance or perquisite, given directly or indirectly, to him in relation to the management or direction of the affairs of the company or of a related company, whether as a director or otherwise; but\n( b ) does not include an amount given in payment or reimbursement of out-of-pocket expenses incurred for the benefit of the company;\n\"Board\" and \"board of directors\" have the meanings assigned to them in section 126;\n\"book\" includes any account, deed, writing or document, and any other record of information however compiled, recorded or stored;\n\"borrowing company\" means a company that is or will be under a liability to repay any money received or to be received by it in response to an invitation to the public to subscribe for or purchase debentures;\n\"branch register\" means—\n( a ) in relation to a company, a branch register of members referred to in section 84; and\n( b ) in relation to an external company, a branch register of shareholders required to be kept under Part XXIV;\n\"carrying on business\" for the purposes of Part XXIV has the meaning given in section 344;\n\"certified\" means—\n( a ) in relation to a copy or extract of a document, certified in the prescribed manner to be a true copy or extract of the document; and\n( b ) in relation to a translation of a document, certified in the prescribed manner to be a correct translation of the document into the English language;\n\"charge\" means—\n( a ) a mortgage or a mortgage bond;\n( b ) a deed of hypothecation;\n( c ) a notarial bond;\n( d ) a deposit of a share or debenture certificate made by way of charge;\n( e ) a pledge of shares or debentures;\n( f ) a pledge or cession over motor vehicles or plant and equipment;\n( g ) a cession of book debts;\n( h ) a charge on a ship or aircraft; and\n( i ) an agreement to give a charge;\n\"class\" in relation to a class of shares for the purposes of section 104 means a class of shares having attached to them the same rights, privileges, limitations and conditions;\n\"close company\" means a company which is registered as a close company in accordance with Part XIX;\n\"Collateral Registry\" means the Collateral Registry established under the Movable Property (Security Interests) Act;\n[ 7 of 2022, s. 2(c) w.e.f. On Notice. ]\n\"company\" means a company formed and registered under Part II or registered under Part XXIV or an existing company;\n\"company limited by guarantee\" means a company formed on the principle of having the liability of its members limited by the constitution to such amount as the members may respectively undertake to contribute to the assets of the company in the event of its being wound-up;\n\"company limited by shares\" means a company formed on the principle of having the liability of its shareholders limited, by the constitution, to any amount unpaid on the shares respectively held by the shareholders;\n\"competent authority\" has the meaning assigned to it under the Financial Intelligence Act and includes a foreign comparable body;\n[ 7 of 2022, s. 2(c) w.e.f. 25 February 2022. ]\n\"constitution\" means a document referred to in section 40;\n\"contributory\" means a person liable to contribute to the assets of a company in the event of its being wound-up, and for the purposes of all proceedings for determining, and all proceedings prior to the final determination of, the persons who are deemed to be contributories, includes any person alleged to be a contributory under section 366;\n\"corporation\" —\n( a ) means a body corporate, including an external company or a foreign company or a partnership formed or existing in Botswana or elsewhere, but\n( b ) does not include—\n(i) a statutory corporation,\n(ii) a corporation sole,\n(iii) a registered co-operative society,\n(iv) a trade union, or\n(v) a registered association;\n\"court\" means the High Court of Botswana and in relation to any offence against this Act, includes a Magistrate's Court having jurisdiction in respect of that offence;\n\"creditors' voluntary winding-up\" has the meaning assigned to it by section 409(3);\n\"date of incorporation\" means the date of registration of a company;\n\"debenture\" means—\n( a ) a written acknowledgment of indebtedness issued by a company in respect of a loan made or to be made to it or to any other person or money deposited or to be deposited with the company or any other person or the existing indebtedness of the company or any other person whether constituting a charge on any of the assets of the company or not;\n( b ) includes—\n(i) debenture stock,\n(ii) convertible debenture,\n(iii) a bond or an obligation,\n(iv) loan stock,\n(v) an unsecured note, or\n(vi) any other instrument executed, authenticated, issued or created in consideration of such a loan or existing indebtedness; and\n( c ) does not include—\n(i) a bill of exchange,\n(ii) a promissory note,\n(iii) a letter of credit,\n(iv) an acknowledgment of indebtedness issued in the ordinary course of business for goods or services supplied,\n(v) a policy of insurance, or\n(vi) a deposit certificate, pass book or other similar document issued in connection with a deposit or current account at a banking company;\n\"debenture trust deed\" —\n( a ) means a deed executed by a company and a trustee for debenture holders in relation to the issue of debentures; and\n( b ) includes a supplemental document, resolution or scheme of arrangement modifying the terms of the deed and a deed substituted therefor;\n\"debenture stock\" means—\n( a ) a debenture by which a company or a trustee for debenture holders' acknowledges that the holder of the stock is entitled to participate in the debt owing by the company under a debenture trust deed; and\n( b ) includes loan stock;\n\"declared company\" has the meaning assigned to it in section 282;\n\"director\" has the meaning set out in section 126;\n\"distribution\" in relation to a distribution by a company to a shareholder, means—\n( a ) the direct or indirect transfer of money or property, other than the company's own shares, to or for the benefit of the shareholder; or\n( b ) the incurring of a debt to or for the benefit of the shareholder, in relation to shares held by that shareholder, and whether by means of a purchase of property, the redemption or other acquisition of shares, a distribution of indebtedness, or by some other means, but shall not include a distribution of assets to shareholders upon a winding-up;\n\"dividend\" has the meaning set out in section 60;\n\"document\" means a document in any form, and includes—\n( a ) any writing on any material;\n( b ) information recorded or stored by means of a tape-recorder, computer, or other device, and material subsequently derived from information so recorded or stored;\n( c ) a book, graph, or drawing;\n( d ) a photograph, film, negative, tape, or other device in which one or more visual images are embodied so as to be capable (with or without the aid of equipment) of being reproduced;\n\"dormant company\" ...;\n[ 22 of 2018, s. 2(b) w.e.f. 3 June 2019. ]\n\"entitled person\" , in relation to a company, means a—\n( a ) shareholder;\n( b ) person upon whom the constitution confers any of the rights and powers of a shareholder; and\n( c ) beneficial owner;\n[ 7 of 2022, s. 2(b) w.e.f. 25 February 2022. ]\n\"employee\" means a person who has entered into a contract of employment for the hire of his labour;\n\"executive director\" means a director who is involved in the day-to-day management of the company;\n\"executor\" means a person who is appointed by the Master of the High Court to administer the estate of a deceased person;\n\"exempt private company\" has the meaning assigned to it in subsection (3) of this section;\n\"existing company\" means a body corporate registered or deemed to be registered under Part II of this Act or under the repealed Act;\n\"expert\" means a person holding himself out to be such whose professional or technical training gives authority to a statement made by him;\n\"external company\" means a body corporate, other than a corporation sole, which is registered or incorporated outside Botswana and that is required to be registered under Part XXIV;\n\"external country\" means any state, dominion, country, colony or territory other than Botswana;\n\"external register\" means the register of bodies corporate that are incorporated outside Botswana kept pursuant to Part XXIV;\n\"financial statements\" has the meaning assigned to it in section 211(1);\n\"financial year\" means, in relation to any body corporate, the period in respect of which any profit and loss account of the body corporate laid before it in general meeting is made up, whether that period is a year or not;\n\"firm\" means the association formed by persons who enter into a partnership not registered under this Act or the repealed Act;\n\"foreign company\" means a body of persons formed outside Botswana which—\n( a ) is a body corporate in its place of incorporation; or\n( b ) under the law of its place of formation may sue and be sued, or hold property in the name of an officer of the body duly appointed for that purpose;\n\"functional currency\" with reference to a company means the currency of the country in which the company operates;\n\"group financial statements\" has the meaning set out in section 211(3);\n\"group of companies\" or \"group\" has the meaning set out in section 207;\n\"holding company\" has the meaning assigned to it section 6(2);\n\"inspector\" means a qualified person in terms of section 281 who is appointed to carry out an investigation under Part XXI;\n\"insurance company\" means a company registered as an insurer under the Insurance Industry Act (Cap. 46:01);\n\"interested\" , in relation to a director, has the meaning set out in section 134;\n\"interests register\" means the register kept under sections 135 and 186(1)( c );\n\"International Financial Reporting Standards\" —\n( a ) means the International Financial Reporting Standards issued by the International Accounting Standards Board; and\n( b ) includes—\n(i) the interpretations of the International Reporting Standards issued by the International Financial Reporting Interpretation Committee;\n(ii) International Accounting Standards still in force according to the International Accounting Standards Board; and\n(iii) any other entity to which the responsibility for setting accounting standards has been assigned by the International Accounting Standards Board;\n\"International Standards on Auditing\" means the International Standards on Auditing issued by the International Federation of Accountants;\n\"investment company with variable capital\" means a"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Public notice",
+      "content": "3. Public notice\nWhere, pursuant to this Act, a public notice is required to be given of any matter affecting a company, that notice shall be given by publishing notice of the matter in—\n( a ) the Gazette ;\n( b ) a newspaper with wide circulation in Botswana; or\n( c ) any other medium in Botswana, as the Registrar may consider necessary.\n[ 22 of 2018, s. 3 w.e.f. 3 June 2019. ]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary",
+      "section": "4",
+      "title": "Meaning of \"solvency test\"",
+      "content": "4. Meaning of \"solvency test\"\n(1) For the purposes of this Act, a company satisfies the solvency test if—\n( a ) the company is able to pay its debts as they become due in the normal course of business; and\n( b ) the value of the company's assets is greater than the sum of—\n(i) the value of its liabilities, and\n(ii) the company's stated capital.\n(2) In determining for the purposes of this Act (other than sections 224 and 225 which relate to amalgamations) whether the value of a company's assets is greater than the value of its liabilities, the Board may take into account—\n( a ) in the case of a public company or a non-exempt private company, the most recent financial statements of the company prepared in accordance with International Accounting Standards;\n( b ) in the case of an exempt private company, the most recent financial statements prepared on the basis of generally accepted accounting principles that are applicable to private or close companies; and\n( c ) a valuation of assets or estimates of liabilities that are reasonable in the circumstances.\n(3) Without limiting sections 224 and 225, in determining, for the purposes of those sections whether the value of the amalgamated company's assets will be greater than the sum of the value of its liabilities and its stated capital, the directors of each amalgamating company—\n( a ) shall have regard to—\n(i) financial statements that are prepared in accordance with International Accounting Standards or generally accepted accounting principles that are prepared as if the amalgamation had become effective, and\n(ii) all other circumstances that the directors know or ought to know would affect, or may affect, the value of the amalgamated company's assets and the value of its liabilities;\n( b ) may rely on valuations of assets or estimates of liabilities that are reasonable in the circumstances."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART I Preliminary",
+      "section": "5",
+      "title": "Stated capital",
+      "content": "5. Stated capital\n(1) Subject to section 59, stated capital in relation to a company means the total of all amounts received by the company or due and payable to the company—\n( a ) in respect of the issue of the shares; and\n( b ) in respect of calls on the shares.\n(2) Where a share is issued for consideration other than cash, the Board shall, in accordance with section 53, determine the cash value of that consideration for the purposes of subsection (1).\n(3) Where a share has attached to it an obligation other than an obligation to pay calls, and that obligation is performed by the shareholder—\n( a ) the Board shall determine the cash value, if any, of that performance; and\n( b ) the cash value of that performance shall be deemed to be a call which has been paid on the share for the purposes of subsection (1).\n(4) A company shall not reduce its stated capital except in the manner provided by this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART I Preliminary",
+      "section": "6",
+      "title": "Meaning of \"holding company\" and \"subsidiary\"",
+      "content": "6. Meaning of \"holding company\" and \"subsidiary\"\n(1) In this section and in sections 7 and 8, the expression \"company\" includes a corporation.\n(2) For the purposes of this Act, a company is a subsidiary of another company if—\n( a ) that other company—\n(i) controls the composition of the Board of the company,\n(ii) is in a position to exercise, or control the exercise of, more than one-half the maximum number of votes that can be exercised at a meeting of the company,\n(iii) holds more than one-half of the issued shares of the company, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, or\n(iv) is entitled to receive more than one-half of every dividend paid on shares issued by the company, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital; or\n( b ) the company is a subsidiary of a company that is a subsidiary of another company.\n(3) For the purposes of this Act, a company is another company's holding company if that other company is its subsidiary.\n(4) For the purposes of this Act—\n( a ) a company is the \"ultimate holding company\" of another company if—\n(i) the other company is a subsidiary of the first mentioned company, and\n(ii) the first mentioned company is not itself a subsidiary of any company;\n( b ) \"the ultimate holding company in Botswana\", in relation to a company incorporated in Botswana, means a holding company which is not a subsidiary of a company incorporated in Botswana.\n(5) A company shall be deemed to be the wholly owned subsidiary of another corporation if the members of the company do not include any person apart from—\n( a ) that other corporation;\n( b ) a nominee of that other corporation;\n( c ) a subsidiary of that other corporation being a subsidiary the members of which do not include any person apart from that other corporation or a nominee of that other corporation; or\n( d ) a nominee of such a subsidiary.\n(6) A company shall be deemed to be the virtually wholly owned subsidiary of another corporation (known as \"the parent\") if the parent owns 90 per cent or more of the voting power in that company.\n(7) Where a body corporate is—\n( a ) a holding company of another body corporate;\n( b ) a subsidiary of another body corporate; or\n( c ) a subsidiary of a holding company of another body corporate, the first mentioned body and the other body are related to each other and are \"related corporations\", and \"related company\" has a corresponding meaning where the body in question is a company.\n(8) For the purposes of subsection (7), a company within the meaning of section 2 of the repealed Act is related to another company if, were it a company within the meaning of subsection (1), it would be related to that other company."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART I Preliminary",
+      "section": "7",
+      "title": "Definition of \"control\"",
+      "content": "7. Definition of \"control\"\nFor the purposes of section 6, without limiting the circumstances in which the composition of a company's Board is to be taken to be controlled by another company, the composition of the Board is to be taken to be so controlled if the other company, by exercising a power exercisable (whether with or without the consent or concurrence of any other person) by it, can appoint or remove all the directors of the company, or such number of directors as together hold a majority of the voting rights at meetings of the Board of the company, and for this purpose, the other company is to be taken as having power to make such an appointment if—\n( a ) a person cannot be appointed as a director of the company without the exercise by the other company of such a power in the person's favour; or\n( b ) a person's appointment as a director of the company follows necessarily from the person being a director or other officer of the other company."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART I Preliminary",
+      "section": "8",
+      "title": "Certain matters to be disregarded",
+      "content": "8. Certain matters to be disregarded\nIn determining whether a company is a subsidiary of another company—\n( a ) shares held or a power exercisable by that other company only as a trustee are not to be treated as held or exercisable by it;\n( b ) subject to paragraphs ( c ) and ( d ) of this section, shares held or a power exercisable—\n(i) by a person as a nominee for that other company, except where that other company is concerned only as a trustee, or\n(ii) by, or by a nominee for, a subsidiary of that other company, not being a subsidiary which is concerned only as a trustee-are to be treated as held or exercisable by that other company;\n( c ) shares held or a power exercisable by a person under the provisions of debentures of the company or of a debenture trust deed shall be disregarded; and\n( d ) shares held or a power exercisable by, or by a nominee for, that other company or its subsidiary (not being held or exercisable in the manner described in paragraph ( c ) of this section) are not to be treated as held or exercisable by that other company if—\n(i) the ordinary business of that other company or its subsidiary, as the case may be, includes the lending of money, and\n(ii) the shares are held or the power is exercisable by way of security only for the purposes of a transaction entered into in the ordinary course of that business."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART I Preliminary",
+      "section": "9",
+      "title": "Act binds the State",
+      "content": "9. Act binds the State\nThis Act binds the State."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART I Preliminary",
+      "section": "10",
+      "title": "...",
+      "content": "10. ...\n[ 12 of 2012, s. 4. ]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART I Preliminary",
+      "section": "11",
+      "title": "Registers",
+      "content": "11. Registers\n(1) The Registrar shall ensure the maintenance of a register of—\n( a ) companies registered or deemed to be registered under this Act;\n( b ) external companies registered or deemed to be registered under Part XXIV; and\n( c ) ...\n[ 22 of 2018, s. 4(a) w.e.f. 3 June 2019. ]\n( d ) beneficial owner information of companies registered or deemed to be registered under this Act for a period of seven years.\n[ 7 of 2022, s. 3(a) w.e.f. 25 February 2022. ]\n(1A) The Registrar may request in writing, from any person, any information as the Registrar considers necessary to enable him to carry out the maintenance of the register.\n[ 22 of 2018, s. 4(b) w.e.f. 3 June 2019. ]\n(1B) A request for information under subsection (1A) shall—\n( a ) specify the nature and type of information sought by the Registrar in sufficient detail as shall enable the person to identify and provide the information; and\n( b ) specify the format and period within which the required information is to be submitted.\n[ 22 of 2018, s. 4(b) w.e.f. 3 June 2019. ]\n(1C) Upon receipt of a request for information, the person to whom the request is made shall, at the Registrar's option as set out in the request and within the time specified in the request, give the Registrar the information so requested or provide a copy of such information.\n[ 22 of 2018, s. 4(b) w.e.f. 3 June 2019. ]\n(2) The register of companies and the register of external companies may be kept in such manner as the Registrar considers appropriate including, either wholly or partly, by means of a device or facility—\n( a ) that records or stores information electronically or by other means; and\n( b ) that permits the information so recorded or stored to be publicly available and readily inspected or reproduced in usable form.\n[ 7 of 2022, s. 3(b) w.e.f. 25 February 2022. ]\n(3) The Minister may make regulations for the purposes of this section—\n( a ) authorising the destruction of any documents which have been recorded or stored electronically or by other means;\n( b ) providing that any document stored and reproduced electronically or by other means by the Registrar shall for all purposes be treated as if it were the original document, notwithstanding any law to the contrary;\n( c ) otherwise giving full effect to, and ensuring the efficient operation of, any device or facility of the kind referred to in subsection (2)."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART I Preliminary",
+      "section": "12",
+      "title": "Registration of documents",
+      "content": "12. Registration of documents\n(1) On receipt of a document for registration under this Act, the Registrar shall—\n( a ) subject to subsection (2), register the document in the register of companies or the register of external companies, as the case may be; and\n( b ) give written advice of the registration to the person from whom the document was received.\n(2) If a document received by the Registrar for registration under this Act—\n( a ) is not in the prescribed form, if any;\n( b ) does not comply with this Act or regulations made under this Act;\n( c ) is not printed or typewritten;\n( d ) where the register of companies or the register of external companies is kept wholly or partly by means of a device or facility referred to in section 11(2), the document is not received by the Registrar in a form that enables particulars to be entered directly by electronic or other means in the device or facility;\n( e ) has not been properly completed;\n( f ) contains matter contrary to law;\n( g ) contains any error, alteration or erasure; or\n( h ) contains material that is not clearly legible, the Registrar may refuse to register the document.\n(3) Where the Registrar refuses to register the document under subsection (2) he shall request either—\n( a ) that the document be appropriately amended or completed and submitted for registration again; or\n( b ) that a fresh document be submitted in its place.\n(4) For the purposes of this Act, a document is registered when—\n( a ) the document itself is constituted part of the register of companies or the register of external companies; or\n( b ) particulars of the document are entered in any device or facility referred to in section 11(2).\n(5) Neither registration nor refusal of registration of a document, by the Registrar, affects or creates a presumption as to, the validity or invalidity of the document or the correctness or otherwise of the information contained in it."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART I Preliminary",
+      "section": "13",
+      "title": "Inspection and evidence of registers",
+      "content": "13. Inspection and evidence of registers\n(1) A person may inspect—\n( a ) any document that constitutes part of the register of companies or the register of external companies;\n( b ) particulars of any registered document that have been entered on any device or facility referred to in section 11(2); or\n( c ) any registered document particulars of which have been entered on any device or facility referred to in section 11(2).\n[ 22 of 2018, s. 5(a) w.e.f. 3 June 2019. ]\n(2) A person may require the Registrar to give or certify—\n[ 22 of 2018, s. 5(b) w.e.f. 3 June 2019. ]\n( a ) a certificate of incorporation of a company;\n( b ) a copy of, or extract from, a document that constitutes part of the register of companies or the register of external companies;\n( c ) particulars of any registered document that have been entered in any device or facility referred to in section 11(2); or\n( d ) a copy of, or extract from, a registered document particulars of which have been entered in any such device or facility.\n(3) Nothing in subsections (1) and (2) shall apply to—\n( a ) any report by an inspector appointed under Part XXI, unless the Registrar directs otherwise;\n( b ) a report filed by a liquidator or judicial manager of a company unless the person applying to inspect the document or requiring a copy or extract of it is a shareholder or creditor of that company;\n(4) A process to compel the production of—\n( a ) a registered document kept by the Registrar; or\n( b ) evidence of the entry of particulars of a registered document in any device or facility referred to in section 11(2), shall not issue from the court without the leave of the court and, a statement shall be attached stating that it is issued with the leave of the court.\n(5) A copy of, or extract from, a registered document—\n( a ) that constitutes part of the register of companies or the register of external companies; or\n( b ) particulars of which have been entered in any device or facility referred to in section 11(2),\ncertified to be a true copy or extract by the Registrar is admissible in evidence in legal proceedings to the same extent as the original document.\n(6) An extract certified by the Registrar as containing particulars of a registered document that have been entered in any device or facility referred to in section 11(2) is, in the absence of proof to the contrary, conclusive evidence of the entry of those particulars."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART I Preliminary",
+      "section": "14",
+      "title": "Registrar's powers of inspection",
+      "content": "14. Registrar's powers of inspection\n(1) For the purpose of ascertaining whether a company or an officer is complying with this Act or any subsidiary enactment made under this Act, the Registrar may, on giving 72 hours written notice to the company, call for the production of or inspect any book required to be kept by the company.\n(2) A person shall not obstruct or hinder the Registrar or a person authorised by the Registrar while exercising a power conferred by subsection (1).\n(3) Any person who fails to comply with subsection (1) shall be guilty of an offence and liable to the penalty set out in section 492(2).\n(4) In this section \"Company\" includes an external company."
+    },
+    {
+      "provision_ref": "s14A",
+      "chapter": "PART I Preliminary",
+      "section": "14A",
+      "title": "Registrar?s powers to exchange information",
+      "content": "14A. Registrar?s powers to exchange information\nThe Registrar shall exchange the following information held by the corporate registry with other foreign corporate registries or foreign competent authorities—\n( a ) basic information;\n( b ) beneficial owner information;\n( c ) nominator and nominee information; and\n( d ) any other information.\n[ 3 of 2025, s. 3 w.e.f. 24 January 2025. ]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART I Preliminary",
+      "section": "15",
+      "title": "Appeals from Registrar's decisions",
+      "content": "15. Appeals from Registrar's decisions\n(1) A person who is aggrieved by an act or decision of the Registrar under this Act may appeal to the court within 15 working days after the date of notification of the act or decision, or within such further time as the court may allow.\n(2) On hearing the appeal, the court may approve the Registrar's act or decision or may give such directions or make such determination in the matter as the court considers appropriate."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART I Preliminary",
+      "section": "16",
+      "title": "Enforcement of duty on companies to make return to Registrar",
+      "content": "16. Enforcement of duty on companies to make return to Registrar\n(1) Where a person makes default in complying with a requirement of this Act relating to the filing of a document or the giving of a notice and still fails to make good the default within 14 days from the service on the person of a notice requiring it to be done, the court may, on the application of the Registrar or the Master or, if the person making default is a company on the application of a member or creditor, make an order directing the person, or if the person making default is a corporation, the corporation or any officer, to make good the default within such time as may be specified in the order.\n(2) Any order under subsection (1) may provide that all costs of, and incidental to, the application and the order thereon shall be borne by the company or by any officers of the company responsible for the default.\n(3) Nothing in this section shall be taken to prejudice the operation of any enactment imposing penalties on a company or its officers in respect of any such default."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART I Preliminary",
+      "section": "17",
+      "title": "Lost documents",
+      "content": "17. Lost documents\n(1) Where a constitution or any other document relating to a company required to be filed has been lost or destroyed, the company may apply to the Registrar for leave to file a copy of the document.\n(2) On receipt of an application under subsection (1), the Registrar may direct that a notice in that behalf shall be given to such person and in such manner as the Registrar considers appropriate.\n(3) The Registrar may, on being satisfied—\n( a ) that the original document has been lost or destroyed,\n( b ) of the date of the filing of the original document, and\n( c ) that the copy of the document produced to him is a correct copy, certify on that copy that the Registrar is so satisfied and direct that the copy be filed in the same manner as the original document.\n(4) The copy shall, on being filed, from such date as is mentioned in the certificate as the date of the filing of the original, have the same force and effect as the original."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART I Preliminary",
+      "section": "18",
+      "title": "Extension of time",
+      "content": "18. Extension of time\nWhere a person is required by this Act to do any act within a specified time, he may be granted an extension of time within which the act is required to be done by the—\n( a ) Registrar, for a period not exceeding 60 days; and\n( b ) court, upon expiry of the 60 days extension under paragraph ( a ), in accordance with section 518(4) on good cause being shown."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART II Incorporation - Essential Requirements",
+      "section": "19",
+      "title": "Essential requirements and types of company",
+      "content": "19. Essential requirements and types of company\n(1) A company shall have—\n( a ) a name;\n( b ) one or more shares in the case of a company limited by shares;\n( c ) one or more members in the case of a close company or a company limited by guarantee;\n( d ) one or more directors in the case of a private company and two or more directors in the case of a public company; and\n( e ) a secretary in the case of all companies other than a close company and an accounting officer in the case of a close company.\n(2) A company shall be—\n( a ) a company limited by shares;\n( b ) a close company; or\n( c ) a company limited by guarantee.\n(3) Every company limited by shares or by guarantee shall be either a private company or a public company.\n(4) Every company limited by shares or by guarantee shall be a public company unless it is stated in its application for incorporation or its constitution that it is a private company."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART II Incorporation - Essential Requirements",
+      "section": "20",
+      "title": "Right to apply for registration",
+      "content": "20. Right to apply for registration\nAny person may, either alone or together with another person, apply for the registration of a company under this Act."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART II Incorporation - Essential Requirements",
+      "section": "21",
+      "title": "Application for registration",
+      "content": "21. Application for registration\n(1) An application for the registration of a company under this Act shall be made to the Registrar, and shall be—\n( a ) in the prescribed form;\n( b ) signed by each applicant;\n( c ) accompanied, in the case of a company other than a close company, by a document in the prescribed form signed by every person named as a director or secretary, containing his consent to be a director or secretary and a certificate that he is not disqualified from being appointed or holding office as a director or secretary of a company and providing the identity number of the director; and\n( d ) accompanied by—\n(i) in the case of a company having a share capital, a document in the prescribed form, signed by every person named as a shareholder or by an agent of the shareholder authorised, in writing, containing the person's consent to be a shareholder and to taking the number of shares specified in the document,\n[ 22 of 2018, s. 6(a)(i) w.e.f. 1 February 2019. ]\n(ii) in the case of a close company, a document in the prescribed form signed by every person named as a member, containing that person's consent to being a member and stating the particulars required by section 248(4),\n(iii) in the case of a company limited by guarantee, a document signed by each person named as a member or by an agent of the member authorised in writing, containing that person's consent to be a member, or\n[ 22 of 2018, s. 6(a)(ii) w.e.f. 1 February 2019. ]\n(iv) if the document has been signed by an agent, the instrument authorising the agent to sign it; and\n( e ) ...\n[ 22 of 2018, s. 6(b) w.e.f. 1 February 2019. ]\n( f ) accompanied by a document certified by at least one applicant as the company's constitution, if the proposed company is to have a constitution apart from the Act.\n(2) Without limiting the provisions of subsection (1), the application shall state—\n( a ) the full name and address of each applicant;\n( b ) the full name and residential address of every director and of the secretary of the proposed company;\n( c ) the full name and residential address of every shareholder or member of the proposed company, and in the case of a company limited by shares, the number of shares to be issued to every shareholder and the amount to be paid or other consideration to be provided by that shareholder for the issue of those same shares, including—\n(i) the full name and residential address of every beneficial owner of the proposed company, including the amount to be paid or other consideration to be provided by the beneficial owner,\n(ii) where a company is identified as the beneficial owner, information of the natural persons who own, hold shares and control that company, their full names, residential addresses and categories and the number of shares they hold or their interests in that company expressed as a percentage,\n(iii) where a natural person identified as the beneficial owner, the position to be held by the person if the person is in a managerial position, and\n(iv) where some of the shares are to be held by a foreign company, the identification of natural persons who own, hold shares and control the foreign company, their full names, residential addresses and categories and the number of shares they hold or their interests in the foreign company expressed as a percentage;\n[ 7 of 2022, s. 4 w.e.f. 25 February 2022. ]\n( d ) whether the company is a private company;\n( e ) whether a company is a close company;\n( f ) the registered office of the proposed company; and\n( g ) the physical address of the principal place of business or other activity of the proposed company.\n(2A) ...\n[ 16 of 2019, s. 3. ]\n(3) ...\n[ 22 of 2018, s. 6(b) w.e.f. 1 February 2019. ]\n(4) ...\n[ 22 of 2018, s. 6(b) w.e.f. 1 February 2019. ]\n(5) ...\n[ 22 of 2018, s. 6(b) w.e.f. 1 February 2019. ]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART II Incorporation - Essential Requirements",
+      "section": "22",
+      "title": "Registration",
+      "content": "22. Registration\n(1) On receipt of a properly completed application for registration of a company, the Registrar shall—\n( a ) enter the particulars of the company in the register;\n( b ) assign a unique number to the company as its company number; and\n( c ) issue a certificate of incorporation in the prescribed form.\n[ 22 of 2014, s. 2. ]\n(2) Notwithstanding the provisions of subsection (1), the Registrar may refuse to register a company if, in his opinion, it is in the public interest to do so.\n[ 22 of 2014, s. 2. ]\n(3) The Registrar shall, after entering the particulars of the company in the register under subsection (1), verify the beneficial owner information submitted in terms of section 21 using—\n( a ) information held by financial institutions and other competent authorities;\n( b ) where disclosure requirements ensure transparency of beneficial owners, information on listed companies; or\n( c ) any other documents as the Registrar may determine.\n[ 7 of 2022, s. 5 w.e.f. 25 February 2022. ]"
+    },
+    {
+      "provision_ref": "s22A",
+      "chapter": "PART II Incorporation - Essential Requirements",
+      "section": "22A",
+      "title": "Delegation of powers by the Registrar",
+      "content": "22A. Delegation of powers by the Registrar\nRegistrar may, in writing, delegate to any officer at or above the level of Principal Commercial Officer in the office of the Registrar of Companies and Business Names, the power to sign and issue certificates of incorporation.\n[ 26 of 2008, s. 2; 12 of 2012 s. 2(b). ]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART II Incorporation - Essential Requirements",
+      "section": "23",
+      "title": "Certificate of incorporation",
+      "content": "23. Certificate of incorporation\nA certificate of incorporation of a company issued under section 22 is conclusive evidence that—\n( a ) all the requirements of this Act as to registration have been complied with; and\n( b ) on and from the date of incorporation stated in the certificate, the company is incorporated under this Act."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART II Incorporation - Essential Requirements",
+      "section": "24",
+      "title": "Separate legal personality",
+      "content": "24. Separate legal personality\nA company incorporated under this Act shall be a body corporate with the name by which it is registered from time to time and shall continue in existence until it is removed from the register of companies."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART III Capacity, Powers, and Validity of Actions",
+      "section": "25",
+      "title": "Capacity and powers",
+      "content": "25. Capacity and powers\n(1) Subject to this Act, any other enactment, and the general law, a company has, both within and outside Botswana—\n( a ) full capacity to carry on or undertake any business or activity, do any act which it may by law do, or enter into any transaction; and\n( b ) for the purposes of paragraph ( a ), full rights, powers and privileges.\n(2) The constitution of a company may contain a provision relating to the capacity, rights, powers, or privileges of the company if the provision restricts the capacity of the company or those rights, powers and privileges."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART III Capacity, Powers, and Validity of Actions",
+      "section": "26",
+      "title": "Validity of actions",
+      "content": "26. Validity of actions\n(1) If the constitution of a company sets out the objects of a company, there is deemed to be a restriction in the constitution on carrying on any business or activity that is not within those objects, unless the constitution expressly provides otherwise.\n(2) If the constitution of a company provides for any restriction on the business or activities in which the company may engage—\n( a ) the capacity and powers of the company shall not be affected by that restriction; and\n( b ) no act of the company and no contract or other obligation entered into by the company and no transfer of property to or by the company is invalid by reason only that it was done in contravention of that restriction.\n(3) Subsection (2) does not limit—\n( a ) section 165, relating to interdicts to restrain conduct by a company that would contravene its constitution;\n( b ) section 166 relating to derivative actions by directors and shareholders;\n( c ) section 170 relating to actions by shareholders of a company against the directors; or\n( d ) section 172 relating to actions by shareholders to require the directors of a company to take action under the constitution or this Act."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART III Capacity, Powers, and Validity of Actions",
+      "section": "27",
+      "title": "Dealings between company and other persons",
+      "content": "27. Dealings between company and other persons\n(1) A company or a guarantor of an obligation of a company may not assert against a person dealing with the company or with a person who has acquired property, rights, or interests from the company that—\n( a ) this Act (in so far as it provides for matters of company meetings and internal procedure) or the constitution of the company has not been complied with; or\n( b ) a person named as a director or secretary of the company in the most recent notice received by the Registrar under section 155—\n(i) is not a director or secretary of a company,\n(ii) has not been duly appointed, or\n(iii) does not have authority to exercise a power which a director or secretary of a company carrying on business of the kind carried on by the company customarily has authority to exercise;\n( c ) a person held out by the company as a director, secretary, employee, or agent of the company—\n(i) has not been duly appointed, or\n(ii) does not have authority to exercise a power which a director, secretary, employee, or agent of a company carrying on business of the kind carried on by the company customarily has authority to exercise;\n( d ) a person held out by the company as a director, secretary, employee, or agent of the company with authority to exercise a power which a director, secretary, employee, or agent of a company carrying on business of the kind carried on by the company does not customarily have authority to exercise, does not have authority to exercise that power; or\n( e ) a document issued on behalf of a company by a director, secretary, employee, or agent of the company with actual or usual authority to issue the document is not valid or not genuine, unless the person has, or ought to have, by virtue of his position with or relationship to the company, knowledge of the matters referred to in any of paragraphs ( a ), ( b ), ( c ), ( d ), or ( e ), as the case may be, of this subsection and in that case subsection (3) applies.\n(2) Subsection (1) of this section applies even though a person of the kind referred to in paragraphs ( b ) to ( e ) of that subsection acts fraudulently or forges a document that appears to have been signed on behalf of the company, unless the person dealing with the company or with a person who has acquired property, rights, or interests from the company has actual knowledge of the fraud or forgery.\n(3) Where the person dealing with the company has, by virtue of his position with or relationship with the company, knowledge of any of the matters referred to in paragraphs ( a ), ( b ), ( c ), ( d ), or ( e ) of subsection (1), the company shall not be precluded from asserting against that person that the state of the particular matter of which that person has knowledge in fact accords with the knowledge of that person.\n(4) A person is a person who is \"dealing with the company\" for the purposes of this section if that person is a party to any transaction or other act to which the company is a party.\n(5) Notwithstanding the provisions of this section, a director who is resident in Botswana, the secretary of the company and, in the case of a close company, an accounting officer shall—\n( a ) be accountable to any competent authority for providing all basic information and beneficial owner information of the company, including facilitating access to such information;\n( b ) provide, on request from a competent authority, the information in paragraph ( a ) within three days of such request being made; and\n( c ) cooperate with the competent authority and effectively provide all assistance that the competent authority may reasonably require.\n[ 7 of 2022, s. 6 w.e.f. 25 February 2022. ]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART III Capacity, Powers, and Validity of Actions",
+      "section": "28",
+      "title": "No constructive notice",
+      "content": "28. No constructive notice\nNo person shall be deemed to have notice or knowledge of the contents of the constitution of, or any other document relating to, a company by reason only of the fact that the constitution or document has been registered by the Registrar; or it is available for inspection at an office of the company."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART IV Company Names",
+      "section": "29",
+      "title": "Name to be reserved",
+      "content": "29. Name to be reserved\nThe Registrar shall not register a company under a name or register a change of the name of a company unless the name has been reserved."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART IV Company Names",
+      "section": "30",
+      "title": "Name of company if liability of shareholders limited and if a private company",
+      "content": "30. Name of company if liability of shareholders limited and if a private company\n(1) Unless a licence has been granted under section 31, the registered name of a company other than a close company, shall end with the word \"Limited\".\n(2) If the company is a private company, the word \"Proprietary\" shall be added before the word \"Limited\".\n(3) If the company is a close company the designation CC in capital letters shall be added to the name of the close company."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART IV Company Names",
+      "section": "31",
+      "title": "Power to dispense with \"Limited\"",
+      "content": "31. Power to dispense with \"Limited\"\n(1) Where it is proved to the satisfaction of the Minister that an association about to be formed as a company is to be formed as a limited company for promoting commerce, art, science, religion, charity or any other useful object, and intends to apply its profits or other income in promoting its objects, and to prohibit the payment of any dividend to its members, the Minister may direct that the association be registered as a company, without the addition of the word \"Limited\" to its name, and the association may be registered accordingly.\n(2) A direction under this section may be granted on such conditions (including the maximum area of land the company may hold) as the Minister considers appropriate, and those conditions shall be binding on the association, and shall, if the Minister so directs, be inserted in the constitution.\n(3) The association shall, on registration, enjoy all the privileges of limited companies, and be subject to all their obligations, except those of using the word \"Limited\" as any part of its name, and of publishing its name, and of sending lists of members and directors and managers to the Registrar.\n(4) A direction under this section may at any time be revoked by the Minister, and upon revocation the Registrar shall enter the word \"Limited\" at the end of the name of the association in the register, and the association shall cease to enjoy the exemptions and privileges granted by this section.\n(5) No direction under this section may be revoked unless the Minister has given to the association notice in writing of his intention and has afforded the association an opportunity of being heard in opposition to the revocation.\n(6) Where, as a result of a direction given under subsection (1), the constitution includes a provision that the constitution shall not be altered except with the consent of the Minister, the company may not, by special resolution alter any provision of the constitution.\n(7) Where a direction under this section is revoked, the constitution may be altered by special resolution so as to remove any provision in, or to the effect that, the constitution may be altered only with the consent of the Minister.\n(8) A private company which has been the subject of a direction under this section need not include the word \"Proprietary\" in its name."
+    },
+    {
+      "provision_ref": "s31A",
+      "chapter": "PART IV Company Names",
+      "section": "31A",
+      "title": "Delegation of power to dispense with \"Limited\"",
+      "content": "31A. Delegation of power to dispense with \"Limited\"\n(1) The Minister may, in writing, delegate any of his powers under section 31 to the Registrar.\n[ 22 of 2018, s. 7 w.e.f. 3 June 2019. ]\n(2) Notwithstanding any delegation under subsection (1), the Minister may—\n( a ) exercise any powers delegated by him and may from time to time cancel or vary such delegation; and\n( b ) vary or set aside any decision made by Registrar in the exercise of such delegated powers.\n[ 22 of 2018, s. 7 w.e.f. 3 June 2019. ]\n(3) A power delegated under this section may, where the instrument of delegation so provides, be further delegated.\n[ 22 of 2018, s. 7 w.e.f. 3 June 2019. ]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART IV Company Names",
+      "section": "32",
+      "title": "Application for reservation of name",
+      "content": "32. Application for reservation of name\n(1) The Registrar shall, on written application by the applicant, reserve a name pending registration of a company or a change of name of an existing company; and such reservation shall be for a period of 30 days or such longer period not exceeding 60 days as the Registrar may, for special reasons, allow.\n(2) An application for the reservation of the name of a company shall be made to the Registrar in the prescribed form.\n(3) The Registrar may not reserve a name and no company may be registered by a name—\n( a ) the use of which would contravene the Banking Act (Cap. 46:01) or any other enactment;\n( b ) that is identical or almost identical to, the name of a registered company or a registered external company or a statutory corporation, or to a name registered under the Registration of Business Names Act (Cap. 42:04), unless the registered company, the registered external company or the business is in liquidation or insolvency and signifies its consent to the registration in such manner as the Registrar may require;\n( c ) that is identical or almost identical to a name that the Registrar has already reserved under this Act or the repealed Act and that is still available for registration; or\n( d ) that, in the opinion of the Registrar, is calculated to mislead the public or cause offence to a person or any class of persons or is suggestive of blasphemy or indecency.\n(4) The Registrar shall, within 10 working days of the date the application was received, advise the applicant by notice in writing—\n( a ) whether or not he has reserved the name; and\n( b ) If the name has been reserved, that unless the reservation is sooner revoked by the Registrar, the name is available for registration of a company with that name or on a change of name, for the period of time stated in the notice."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART IV Company Names",
+      "section": "33",
+      "title": "Name of company",
+      "content": "33. Name of company\nExcept with the Minister's written consent, no company, including an external company, shall be registered under a name which includes—\n( a ) the word \"Authority\", \"Commonwealth\", \"co-operative\", \"Government\", \"National\", \"President\", \"Presidential\", \"Regional\" or \"State\",\n( b ) the combined words \"United Nations\"; or\n( c ) any other word which, in the Registrar's opinion suggests, or is likely to suggest, that it enjoys the patronage of the Government or of a statutory corporation, or of the Government of any other State or of a department of any such Government or of the General Assembly of the United Nations."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART IV Company Names",
+      "section": "34",
+      "title": "Change of name",
+      "content": "34. Change of name\n(1) An application to change the name of a company shall—\n( a ) be in the prescribed form;\n( b ) ...\n[ 22 of 2018, s. 8(a)(i) w.e.f. 3 June 2019. ]\n( c ) subject to the constitution of the company, be made by a director of the company or any other person authorised by the board of the company.\n[ 22 of 2018, s. 8(a)(ii) w.e.f. 3 June 2019. ]\n(2) Subject to its constitution, an application to change the name of a company is not an amendment of the constitution of the company for the purposes of this Act.\n(3) The Registrar shall not enter a change of name in the register until 14 days after the Registrar has issued a public notice of the application to change the name of the company.\n[ 22 of 2018, s. 8(b) w.e.f. 3 June 2019. ]\n(4) At the expiry of the 14 days after publication of the Gazette under subsection (3), the Registrar shall—\n( a ) enter the new name of the company in the register of companies; and\n( b ) issue a certificate of incorporation for the company recording the change of name of the company.\n(5) A change of name of a company—\n( a ) takes effect from the date of the certificate issued under subsection (4); and\n( b ) does not affect the rights or obligations of the company, or legal proceedings by or against the company, and legal proceedings that might have been continued or commenced against the company under its former name may be continued or commenced against it under its new name."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART IV Company Names",
+      "section": "35",
+      "title": "Direction to change name",
+      "content": "35. Direction to change name\n(1) If the Registrar believes on reasonable grounds that the name under which a company is registered should not have been reserved, he may serve written notice on the company to change its name by a date specified in the notice, being a date not less than 20 working days after the date on which the notice is served.\n(2) If the company does not change its name within the period specified in the notice, the Registrar may enter, on the register of companies, a new name for the company selected by the Registrar, being a name under which the company may be registered under this Part.\n(3) If the Registrar registers a new name under subsection (2)—\n( a ) he shall issue a certificate of incorporation for the company recording the new name of the company, and section 34(4) of this Act shall apply in relation to the registration of the new name as if the name of the company had been changed under that section;\n( b ) he shall, within 14 days of the date of entry of the new name in the register, publicise the new name of the company by notice in the Gazette ; and\n( c ) the company shall pay to the Registrar the costs of the advertisement published under paragraph ( b )."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART IV Company Names",
+      "section": "36",
+      "title": "Use of Company name",
+      "content": "36. Use of Company name\n(1) A company shall ensure that its name is clearly stated in—\n( a ) every written communication sent by, or on behalf of, itself; and\n( b ) every document issued or signed by, or on behalf of, itself that evidences or creates a legal obligation of the company.\n(2) Where—\n( a ) a document that evidences or creates a legal obligation of a company is issued or signed by or on behalf of the company; and\n( b ) the name of the company is incorrectly stated in the document, every person who issued or signed the document is liable to the same extent as the company if the company fails to discharge the obligation.\n(3) Liability under subsection (2) shall not be applicable where—\n( a ) the person who issued or signed the document proves that the person in whose favour the obligation was incurred was aware at the time the document was issued or signed that the obligation was incurred by the company; or\n( b ) the court is satisfied that it would not be just and equitable for the person who issued or signed the document to be so liable.\n(4) For the purposes of subsections (1), (2) and (3) and of section 177, relating to the manner in which a company may enter into contracts and other obligations, a company may use a generally recognised abbreviation of a word or words in its name if it is not misleading to do so and in particular may use the abbreviation \"Ltd\" and \"Pty\" for the words \"Limited\" and \"Proprietary\".\n(5) If, within the period of 12 months immediately preceding the giving by a company of any public notice, the name of the company was changed, the company shall ensure that the notice states—\n( a ) that the name of the company was changed in that period; and\n( b ) the former name or names of the company.\n(6) If a company fails to comply with subsection (1) or subsection (4)—\n( a ) the company shall be guilty of an offence and liable to the penalty set out in section 492(1); and\n( b ) every director of the company shall be guilty of an offence and liable to the penalty set out in section 493(1)."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART V Company Constitution",
+      "section": "37",
+      "title": "Requirement for company to have constitution",
+      "content": "37. Requirement for company to have constitution\n(1) A company, including a close company, shall have a constitution.\n[ 7 of 2022, s. 7 w.e.f. 25 February 2022. ]\n(2) A company which, prior to the commencement of this Act, was not required to have a constitution, shall submit to the Registrar, a constitution in the manner set out in the First Schedule, within 12 months from the commencement of this Act, or within a longer period as may be specified by the Minister by Order published in the Gazette .\n[ 3 of 2025, s. 4 w.e.f. 20 March 2025. ]\n(3) If a company fails to submit a constitution within the period prescribed in subsection (1), the Registrar shall in accordance with section 252 deregister the company.\n[ 7 of 2022, s. 7 w.e.f. 25 February 2022. ]\n(4) The Registrar may, subject to section 343, restore a company under subsection (3) upon—\n( a ) submission of a constitution in terms of subsection (2) notwithstanding that the one year period has lapsed; and\n( b ) payment, by the company that is restored, of a penalty of P2500 or such fee as may be prescribed from time to time.\n[ 7 of 2022, s. 7 w.e.f. 25 February 2022. ]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART V Company Constitution",
+      "section": "38",
+      "title": "Effect of Act on constitution",
+      "content": "38. Effect of Act on constitution\n(1) A company, the Board, each director and each shareholder of the company shall have the rights, powers, duties, and obligations set out in this Act except to the extent that they are negated or modified, in accordance with this Act, by the constitution of the company.\n[ 7 of 2022, s. 8 w.e.f. 25 February 2022. ]\n(2) Notwithstanding subsection (1), the members of a close company shall have the rights, powers, duties and obligations set out in Part XIX except to the extent that they are negated or modified, in accordance with that Part, by the constitution of the company.\n[ 7 of 2022, s. 8 w.e.f. 25 February 2022. ]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART V Company Constitution",
+      "section": "39",
+      "title": "[Repealed.]",
+      "content": "39. [Repealed.]\n[ 7 of 2022, s. 9 w.e.f. 25 February 2022. ]"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART V Company Constitution",
+      "section": "40",
+      "title": "Form of constitution",
+      "content": "40. Form of constitution\nThe constitution of a company is—\n[ 7 of 2022, s. 10(a) w.e.f. 25 February 2022. ]\n( a ) in the case of a company registered under Part II, a document certified by the applicant for registration of the company as the company's constitution;\n( b ) ...;\n[ 7 of 2022, s. 10(b) w.e.f. 25 February 2022. ]\n( c ) in the case of a company registered under the repealed Act, the memorandum and articles of association as originally registered or as altered in accordance with the repealed Act, including so far as they apply to the company the regulations contained in Table A, Table B, Table C or Table D in the First Schedule to the repealed Act:\nProvided that any statement of objects in the memorandum shall, from the commencement of this Act, have the effect stated in section 25;\n( d ) a document that is adopted by the company as its constitution under section 43;\n( e ) a document described in section 44 of this Act; or\n( f ) a document described in any of the preceding paragraphs of this section as altered by the company under section 43 or varied by the court under section 175."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART V Company Constitution",
+      "section": "41",
+      "title": "Contents of constitution",
+      "content": "41. Contents of constitution\nSubject to section 25(2), the constitution of a company may contain—\n( a ) matters contemplated by this Act for inclusion in the constitution of a company;\n( b ) powers that regulate and bind the company, the names of natural persons having control over the company and those in senior management positions in terms of section 21; and\n( c ) such other matters as the company wishes to include in its constitution.\n[ 7 of 2022, s. 11 w.e.f. 25 February 2022. ]"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART V Company Constitution",
+      "section": "42",
+      "title": "Effect of constitution",
+      "content": "42. Effect of constitution\n(1) The constitution of a company has no effect to the extent that it contravenes, or is inconsistent with, this Act.\n(2) Subject to this Act, the constitution of a company is binding as between—\n( a ) the company, each director and each shareholder; and\n[ 7 of 2022, s. 12 w.e.f. 25 February 2022. ]\n( b ) shareholders, in accordance with its terms."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "PART V Company Constitution",
+      "section": "43",
+      "title": "Adoption, alteration and revocation of constitution",
+      "content": "43. Adoption, alteration and revocation of constitution\n(1) The shareholders of a company may, by special resolution, adopt a constitution for the company.\n[ 7 of 2022, s. 13 w.e.f. 25 February 2022. ]\n(2) Subject to subsection (3), and without limiting section 104 (which relates to variation of shareholders' rights) and section 174 (which relates to the right of a shareholder to apply to the court for relief in cases of prejudice), but subject to section 31(6) (which relates to a direction made by the Minister under section 31) and to section 64 (which relates to the reduction of shareholders' liability), the shareholders of a company may, by special resolution, alter or revoke the constitution of the company.\n(3) An existing company which has, as its constitution pursuant to section 40( c ), a memorandum of association and articles of association, shall not alter any of the provisions in its existing memorandum of association or articles of association unless it replaces its memorandum of association and its articles of association by a single document into which it consolidates its constitution.\n(4) Within 10 working days of the adoption of a constitution by a company, or the alteration or revocation of the constitution of a company, as the case may be, the Board shall ensure that a notice in the prescribed form of the adoption of the constitution or of the alteration or revocation of the constitution is delivered to the Registrar for registration.\n(5) If the Board of a company fails to comply with subsection (4) of this section, every director of the company commits an offence and is liable, on conviction, to the penalty set out in section 493(1).\n(6) A company to which subsection (3) would otherwise apply may apply to the Registrar for dispensation from the requirement in subsection (3) that the memorandum and articles of association be replaced at that time by a constitution into which it consolidates its existing memorandum and articles, and where the Registrar considers that the requirement may impose undue hardship on the company, the Registrar may grant a dispensation to the company from the application of subsection (3) on such conditions as the Registrar considers appropriate. The conditions imposed by the Registrar may include a condition that the company register such a constitution within such period of time as the Registrar may stipulate.\n(7) Notwithstanding the provisions of section 522 and the Eleventh Schedule, the Registrar shall not, during a period of three years from the commencement of this Act, require the payment of any fee which would otherwise be payable on the presentation by a company, registered under the repealed Act, for registration of a constitution which replaces its memorandum and articles."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "PART V Company Constitution",
+      "section": "44",
+      "title": "New form of constitution",
+      "content": "44. New form of constitution\n(1) A company may, from time to time, deliver, to the Registrar, a single document that incorporates the provisions of a document referred to in any of the paragraphs of section 40, together with all amendments to it.\n(2) The Registrar may, if he considers that by reason of the number of amendments to a company's constitution it would be desirable for the constitution to be contained in a single document, by notice in writing, require a company to deliver to him a single document that incorporates the provisions of a document referred to in any of the paragraphs of section 40 together with the amendments to it.\n(3) Within 20 working days of receipt by a company of a notice under subsection (2), the Board shall ensure that the document required by that subsection is received by the Registrar for registration.\n(4) The Board shall ensure that a document delivered to the Registrar under this section is accompanied by a certificate signed by a person authorised by the Board that the document complies with subsection (1) or subsection (2), as the case may be, of this section.\n(5) As soon as the Registrar receives a document certified in accordance with subsection (4), he shall register the document.\n(6) If the Board of a company fails to comply with subsection (3) or subsection (4), every director of the company shall be guilty of an offence and liable to the penalty set out in section 493(1)."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART VI Shares",
+      "section": "45",
+      "title": "Legal nature and rights and powers attaching to shares",
+      "content": "45. Legal nature and rights and powers attaching to shares\n(1) A share in a company is movable property and is transferable in accordance with section 48.\n(2) Subject to subsection (3), a share in a company confers on the holder—\n( a ) the right to one vote on a poll at a meeting of the company on any resolution;\n( b ) the right to an equal share in dividends authorised by the Board;\n( c ) the right to an equal share in the distribution of the surplus assets of the company.\n(3) Subject to section 60, the rights specified in subsection (2) may be negated, altered, or added to by the constitution of the company or in accordance with the terms on which the share is issued under section or section 50, as the case may be."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "PART VI Shares",
+      "section": "46",
+      "title": "Types of shares",
+      "content": "46. Types of shares\n(1) Subject to the constitution of the company, different classes of shares may be issued in a company.\n(2) Without limiting subsection (1), shares in a company may—\n( a ) be redeemable within the meaning of section 72;\n( b ) confer preferential or limited rights to distributions of capital or income;\n( c ) confer special, limited, or conditional voting rights; or\n( d ) not confer voting rights."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "PART VI Shares",
+      "section": "47",
+      "title": "No par value shares",
+      "content": "47. No par value shares\n(1) All shares created or issued after the commencement of this Act shall be shares of no par value.\n(2) All shares issued prior to the commencement of this Act shall be deemed to be converted into shares of no par value but such conversion shall not affect the rights and liabilities attached to such shares and in particular, but without prejudice to the generality of this provision, such conversion shall not affect—\n( a ) any unpaid liability on such shares; or\n( b ) the rights of the holders thereof in respect of dividends, voting or repayment on winding-up or a reduction of capital.\n(3) Subsection (2) shall apply notwithstanding any statement in a share certificate relating to the shares that describes the shares by reference to a par value.\n(4) On the commencement of this Act, the stated capital of a company which has issued shares prior to the commencement of this Act shall be the whole of the company's called up issued share capital and its share premium account.\n(5) Notwithstanding the provisions of subsection (1), the Registrar may, in exceptional circumstances where he is satisfied that a company registered under this Act is a wholly owned subsidiary of a company registered outside Botswana and that for the purposes of the company's reporting obligations outside Botswana it is necessary for the company to be formed with shares carrying a par value, the Registrar may grant a dispensation from the provisions of subsection (1) and permit the issue of a class or classes of par value shares, on such terms and conditions as he may consider appropriate:\nProvided that all the ordinary shares or all the preference shares shall consist of either one or the other, and any premiums received on any issue of shares shall be transferred into an account called a share premium account to which, together with the company's nominal issued share capital, the provisions of section 59 relating to reduction of capital shall apply.\n(6) Shares of par value issued under subsection (5) may, with the approval of the Registrar where the functional currency of the company is a foreign currency, be designated in that foreign currency, but shall otherwise be designated in the currency of Botswana."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "PART VI Shares",
+      "section": "48",
+      "title": "Transferability of shares",
+      "content": "48. Transferability of shares\n(1) Subject to any limitation or restriction on the transfer of shares in the constitution, a share in a company is transferable.\n(2) A share is transferred by entry in the share register in accordance with section 81.\n(3) Subject to section 82, the executor of a deceased shareholder may transfer a share even though the executor is not a shareholder at the time of transfer.\n(3A) A company that transfers a share in the company shall, in such form as may be prescribed and within 20 days from the date the transfer is made, notify the Registrar of the transfer.\n[ 22 of 2018, s. 10(a) w.e.f. 3 June 2019. ]\n(3B) Where a company fails to comply with subsection (3A)—\n( a ) the company shall be guilty of an offence and liable to a penalty set out in section 492(1); and\n( b ) every director of the company shall be guilty of an offence and liable to a fine set out in section 492(2).\n[ 22 of 2018, s. 10(b) w.e.f. 3 June 2019. ]"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "PART VI Shares",
+      "section": "49",
+      "title": "Issue of shares on registration and amalgamation",
+      "content": "49. Issue of shares on registration and amalgamation\n(1) Upon the registration of the company under section 22, the company shall issue, to any person or persons named in the application for registration as a shareholder or shareholders, the number of shares specified in the application as being the number of shares to be issued to that person or those persons.\n(2) Upon the issue of a certificate of amalgamation under section 227, the amalgamated company shall issue to any person entitled to a share or shares under the amalgamation proposal, the share or shares to which that person is entitled."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "PART VI Shares",
+      "section": "50",
+      "title": "Issue of other shares",
+      "content": "50. Issue of other shares\n(1) Subject to this Act and the constitution of the company, the Board of a company may issue shares at any time, to any person, and in any number it considers appropriate:\nProvided that—\n(i) no shares may be issued to bearer or an unidentified shareholder; and\n(ii) where the constitution of the company contains a provision authorising the company to issue shares to the bearer or an unidentified shareholder, the company shall immediately amend its constitution to remove such provision and deliver a copy of the amended constitution to the Registrar within a month from the date of commencement of this section.\n[ 7 of 2022, s. 14 w.e.f. 25 February 2022. ]\n(2) If the shares confer rights other than those set out in section 45(2), or impose any obligation on the holder, the Board shall, subject to—\n( a ) the prior approval of an ordinary resolution of shareholders (unless the constitution otherwise provides); and\n( b ) the requirements of section 104 (dealing with a variation of class rights), approve terms of issue which set out the rights and obligations attached to the shares.\n(3) The terms of issue approved by the Board under subsection (2)—\n( a ) shall be consistent with the constitution of the company, and to the extent that they are not so consistent are invalid and of no effect; and\n( b ) are deemed to form part of the constitution and may be amended in accordance with section 43 subject to the requirements of section 104, providing for the variation of class rights.\n(4) Within 10 working days of the issue of shares under this section, the company shall—\n( a ) give notice to the Registrar, in the prescribed form, of the number of shares issued;\n[ 22 of 2018, s. 11 w.e.f. 3 June 2019. ]\n( b ) deliver to the Registrar a copy of any terms of issue approved under subsection (2); and\n( c ) deliver to the Registrar together with the notice under paragraph ( a ) and the copy of any terms of issue under paragraph ( b ), a declaration made by any of the persons referred to in section 21(3) that the provisions of the Act in relation to the issue of shares have been complied with.\n(5) If a company fails to comply with subsection (4)—\n( a ) the company shall be guilty of an offence and liable to the penalty set out in section 492(1); and\n( b ) every officer of the company who is in default shall be guilty of an offence and liable to the penalty set out in section 493(1)."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "PART VI Shares",
+      "section": "51",
+      "title": "Alteration in number of shares",
+      "content": "51. Alteration in number of shares\n(1) A company may by ordinary resolution—\n( a ) subdivide its shares into shares of a smaller amount if the proportion between the amount paid, and the amount, if any, unpaid on each reduced share remains the same as it was in the case of the share from which the reduced share is derived; or\n( b ) consolidate and divide all of its shares into shares of a larger amount than its existing shares.\n(2) Where shares are consolidated, the amount paid and any unpaid liability thereon, any fixed sum by way of dividend or repayment to which such shares are entitled, shall also be consolidated.\n(3) Where a company has altered its share capital in a manner specified in subsection (1), it shall, within 10 working days, file a notice to that effect with the Registrar.\n(4) A notice under subsection (3) shall include particulars with respect to the classes of shares affected."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "PART VI Shares",
+      "section": "52",
+      "title": "Pre-emptive rights to new issues",
+      "content": "52. Pre-emptive rights to new issues\n(1) Subject to the constitution, where a company issues shares which rank equally with or prior to existing shares as to voting or distribution rights, those shares shall be offered to the holders of existing shares in a manner which would, if the offer were accepted, maintain the relative voting and distribution rights of those shareholders.\n(2) An offer under subsection (1) shall remain open for acceptance for a reasonable time."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "PART VI Shares",
+      "section": "53",
+      "title": "Consideration for issue of shares",
+      "content": "53. Consideration for issue of shares\n(1) Before it issues any shares the Board shall—\n( a ) determine the amount of the consideration for which the shares shall be issued; and\n( b ) resolve that in its opinion the consideration is fair and reasonable to the company and to all existing shareholders.\n(2) The consideration for which a share is issued may take any form and may be cash, promissory notes, contracts for future services, real or personal property, or other securities of the company and may be issued in part for cash and in part by way of some other form of consideration."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "PART VI Shares",
+      "section": "54",
+      "title": "Shares not paid for in cash",
+      "content": "54. Shares not paid for in cash\n(1) Shares shall be deemed not to have been paid for in cash except to the extent that the company has actually received cash in payment of the shares at the time of or subsequently to the agreement to issue the shares.\n(2) Before shares are credited as fully or partly paid up other than for cash, the Board shall—\n( a ) determine the reasonable present cash value of the consideration; and\n( b ) resolve that, in its opinion, the present cash value of the consideration is—\n(i) fair and reasonable to the company and to all existing shareholders, and\n(ii) not less than the amount to be credited in respect of the shares.\n(3) The directors who vote in favour of a resolution under subsection (2) shall sign a certificate—\n( a ) describing the consideration in sufficient detail to identify it; and\n( b ) stating—\n(i) the present cash value of the consideration and the basis for assessing it,\n(ii) that the present cash value of the consideration is fair and reasonable to the company and to all existing shareholders; and\n(iii) that the present cash value of the consideration is not less than the amount to be credited in respect of the shares.\n(4) The Board shall deliver a copy of a certificate that complies with subsection (3) to the Registrar for registration within 10 working days after it is given, and where the shares are issued to an officer or employee of the company or to any relative of such persons or to a corporation which is a related party of such persons, the certificate shall be entered in the Interests Register.\n(5) For the purposes of this section, shares that are or are to be credited as paid up, whether wholly or partly, as part of an arrangement that involves the transfer of property or the provision of services and an exchange of cash or cheques or other negotiable instruments, whether simultaneously or not, shall be treated as paid up other than in cash to the value of the property or services.\n(6) A director who fails to comply with subsection (3) of this section shall be guilty of an offence and liable to the penalty set out in section 492(1).\n(7) Nothing in this section applies to the issue of shares in a company on—\n( a ) the conversion of any convertible securities; or\n( b ) the exercise of any option to acquire shares in the company.\n(8) If the Board of a company fails to comply with subsection (4), every officer of the company shall be guilty of an offence and liable to the penalty set out in section 492(1)."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "PART VI Shares",
+      "section": "55",
+      "title": "Calls on shares",
+      "content": "55. Calls on shares\n(1) Where a call is made on a share or any other obligation attached to a share is performed by the shareholder, the company shall, within 10 working days of the call being made, give notice, in the prescribed form, to the Registrar of the amount of the stated capital of the company following the making of the call.\n[ 22 of 2018, s. 12 w.e.f. 3 June 2019. ]\n(2) If a company fails to comply with subsection (1)—\n( a ) the company shall be guilty of an offence and liable to the penalty set out in section 492(1); and\n( b ) every director of the company who is in default shall be guilty of an offence and liable to the penalty set out in section 493(1)."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "PART VI Shares",
+      "section": "56",
+      "title": "Consent to issue of shares",
+      "content": "56. Consent to issue of shares\nThe issue by a company of a share that—\n( a ) increases the liability of a person to the company; or\n( b ) imposes a new liability on a person to the company, is void if that person or an agent of that person authorised in writing does not consent in writing to becoming the holder of the share before it is issued."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "PART VI Shares",
+      "section": "57",
+      "title": "Time of issue of shares",
+      "content": "57. Time of issue of shares\nA share is issued when the name of the holder is entered on the share register."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "PART VI Shares",
+      "section": "58",
+      "title": "Board may authorise distributions to shareholders",
+      "content": "58. Board may authorise distributions to shareholders\n(1) Before a distribution is made by a company to any shareholder, that distribution—\n( a ) shall be authorised by the Board under subsection (2); and\n( b ) shall, unless the constitution provides otherwise, be approved by the shareholders by ordinary resolution.\n(2) The Board of a company may authorise a distribution at such time and of such amount as it considers appropriate, if it is satisfied that the company will, immediately after the distribution is made, satisfy the solvency test.\n(3) The directors who vote in favour of a distribution shall sign a certificate stating that, in their opinion, the company will, immediately after the distribution, satisfy the solvency test.\n(4) If after a distribution is authorised and before it is made, the Board ceases to be satisfied that the company will, immediately after the distribution is made, satisfy the solvency test, any distribution made by the company is deemed not to have been authorised.\n(5) In applying the solvency test for the purpose of this section and section 63, \"debts\" includes fixed preferential returns on shares ranking ahead of those in respect of which a distribution is made, except where that fixed preferential return is expressed in the constitution as being subject to the power of the Board to authorise distributions.\n(6) A director who fails to comply with subsection (3) of this section shall be guilty of an offence and liable to the penalty set out in section 493(2)."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "PART VI Shares",
+      "section": "59",
+      "title": "Reduction of stated capital",
+      "content": "59. Reduction of stated capital\n(1) Subject to subsection (3), a company may by special resolution reduce its stated capital to such amount as it considers appropriate.\n(2) Public notice of a proposed reduction of a company's stated capital shall be given not less than 30 days before the resolution to reduce stated capital is passed.\n(3) Where a company has agreed in writing with a creditor of the company that it will not reduce its stated capital below a specified amount without the prior consent of the creditor, or unless specified conditions are satisfied at the time of the reduction, a resolution to reduce stated capital passed in breach of any such agreement is invalid and of no effect.\n(4) A company shall not take any action to extinguish or reduce a liability in respect of an amount unpaid on a share or to reduce its stated capital for any purpose other than the purpose of declaring that its stated capital is reduced by an amount that is not represented by the value of its assets if there are reasonable grounds for believing that—\n( a ) the company is, or after the taking of such action, would be unable to pay its debts as they become due; or\n( b ) after the taking of such action the value of the company's assets would be less than the value of its liabilities.\n(5) Where a share is redeemed at the option of the shareholder under section 74 or on a fixed date under section 75, or the company purchases a share under section 100 and the Board is satisfied that as a consequence of the redemption or purchase, the company would but for this subsection fail to satisfy the solvency test, the Board shall resolve that the stated capital of the company shall be reduced by the amount by which the company would so fail to satisfy the solvency test and the resolution of the Board shall have effect notwithstanding subsections (1) to (3).\n(6) ...\n[ 22 of 2018, s. 13(a) w.e.f. 3 June 2019. ]\n(7) If a company fails to comply with subsection (2)—\n[ 22 of 2018, s. 13(b) w.e.f. 3 June 2019. ]\n( a ) the company shall be guilty of an offence and liable to the penalty set out in section 492(2); and\n( b ) every officer of the company who is in default shall be guilty of an offence and liable to the penalty set out in section 493(2)."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "PART VI Shares",
+      "section": "60",
+      "title": "Dividends",
+      "content": "60. Dividends\n(1) A dividend is a distribution other than a distribution to which sections 66 and 76 apply.\n(2) The Board shall not authorise a dividend—\n( a ) in respect of some but not all the shares in a class; or\n( b ) of a greater amount in respect of some shares in a class than other shares in that class except where—\n(i) the amount of the dividend is reduced in proportion to any liability attached to the shares under the constitution, or\n(ii) a shareholder has agreed in writing to receive no dividend, or a lesser dividend than would otherwise be payable."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "PART VI Shares",
+      "section": "61",
+      "title": "Shares in lieu of dividends",
+      "content": "61. Shares in lieu of dividends\nSubject to the constitution of the company, the Board may issue shares to any shareholders who have agreed to accept the issue of shares, wholly or partly, in lieu of a proposed dividend or proposed future dividends if—\n( a ) the right to receive shares, wholly or partly, in lieu of the proposed dividend or proposed future dividends has been offered to all shareholders of the same class on the same terms;\n( b ) in the event that all shareholders elect to receive the shares in lieu of the proposed dividend, the relative voting or distribution rights in relation to the shares would be maintained;\n( c ) the shareholders to whom the right is offered are afforded a reasonable opportunity of accepting it;\n( d ) the shares issued to each shareholder are issued on the same terms and subject to the same rights as the shares issued to all shareholders in that class who agree to receive the shares; and\n( e ) the provisions of section 50 are complied with by the Board."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "PART VI Shares",
+      "section": "62",
+      "title": "Shareholder discounts",
+      "content": "62. Shareholder discounts\n(1) The Board may resolve that the company offer shareholders discounts in respect of some or all of the goods sold or services provided by the company.\n(2) The Board may approve a discount scheme under subsection (1) only if it has previously resolved that the proposed discounts are—\n( a ) fair and reasonable to the company and to all shareholders; and\n( b ) to be available to all shareholders or all shareholders of the same class on the same terms.\n(3) A discount scheme may not be approved or continued by the Board unless it is satisfied on reasonable grounds that the company satisfies the solvency test.\n(4) Subject to subsection (5), a discount accepted by a shareholder under a discount scheme approved under this section is not a distribution for the purposes of this Act.\n(5) Where—\n( a ) a discount is accepted by a shareholder under a scheme approved or continued by the Board; and\n( b ) at the time the scheme was approved or the discount was offered, the Board ceased to be satisfied on reasonable grounds that the company would satisfy the solvency test, the provisions of section 63 shall apply in relation to the discount with such modifications as may be necessary as if the discount were a distribution that is deemed not to have been authorised."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "PART VI Shares",
+      "section": "63",
+      "title": "Recovery of distributions",
+      "content": "63. Recovery of distributions\n(1) A distribution made to a shareholder at a time when the company did not, immediately after the distribution, satisfy the solvency test may be recovered by the company from the shareholder unless—\n( a ) the shareholder received the distribution in good faith and without knowledge of the company's failure to satisfy the solvency test;\n( b ) the shareholder has altered the shareholder's position in reliance on the validity of the distribution; and\n( c ) it would be unfair to require repayment in full or at all.\n(2) If, in relation to a distribution made to shareholders—\n( a ) the procedure set out in section 58 has not been followed; or\n( b ) reasonable grounds for believing that the company would satisfy the solvency test in accordance with section 58, section 74 or section 75, as the case may be, did not exist at the time the certificate was signed, a director who—\n(i) failed to take reasonable steps to ensure the procedure was followed, or\n(ii) signed the certificate, as the case may be, is personally liable to the company to repay to the company so much of the distribution as is not able to be recovered from shareholders.\n(3) If, by virtue of section 58(4) a distribution is deemed not to have been authorised, a director who—\n( a ) ceased after authorisation but before the making of the distribution to be satisfied on reasonable grounds for believing that the company would satisfy the solvency test immediately after the distribution is made; and\n( b ) failed to take reasonable steps to prevent the distribution being made, is personally liable to the company to repay to the company so much of the distribution as is not able to be recovered from shareholders.\n(4) If, by virtue of section 62(5), a distribution is deemed not to have been authorised, a director who failed to take reasonable steps to prevent the distribution being made is personally liable to the company to repay to the company so much of the distribution as is not able to be recovered from shareholders.\n(5) If, in an action brought against a director or shareholder under this section, the court is satisfied that the company could, by making a distribution of a lesser amount, have satisfied the solvency test, the court may—\n( a ) permit the shareholder to retain; or\n( b ) relieve the director from liability in respect of,\nan amount equal to the value of any distribution that could properly have been made."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "PART VI Shares",
+      "section": "64",
+      "title": "Reduction of shareholders liability",
+      "content": "64. Reduction of shareholders liability\n(1) If a company proposes to alter its constitution, or redeem shares under section 73 in a manner which would cancel or reduce the liability of a shareholder to the company in relation to a share held prior to that alteration, or redemption, the proposed cancellation or reduction of liability is to be treated—\n( a ) for the purposes of section 58 as if it were a distribution; and\n( b ) for the purposes of section 60(2) as if it were a dividend.\n(2) If a company has altered its constitution, or redeemed shares under section 73 in a manner which cancels or reduces the liability of a shareholder to the company in relation to a share held prior to that alteration, or redemption, that cancellation or reduction of liability is to be treated for the purposes of section 63 as a distribution of the amount by which that liability was reduced.\n(3) If the liability of a shareholder of an amalgamating company, to that company in relation to a share held before the amalgamation is—\n( a ) greater than the liability of that shareholder to the amalgamated company in relation to a share or shares into which that share is converted; or\n( b ) cancelled by the cancellation of that share in the amalgamation, the reduction of liability effected by the amalgamation is to be treated, for the purposes of section 63(1) and (3), as a distribution by the amalgamated company to that shareholder, whether or not that shareholder becomes a shareholder of the amalgamated company of the amount by which that liability was reduced.\n(4) Where a company acquires shares issued by it, the provisions of section 67 shall govern the way in which the distribution to shareholders is to be treated."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "PART VI Shares",
+      "section": "65",
+      "title": "Company may acquire or redeem its own shares",
+      "content": "65. Company may acquire or redeem its own shares\n(1) A company shall not purchase or otherwise acquire any of its own shares except—\n( a ) under section 66;\n( b ) under sections 98 to 103;\n( c ) with the approval of a unanimous resolution;\n( d ) if the company is a private company, with the unanimous agreement of all shareholders under section 247; or\n( e ) in accordance with an order made by the court under this Act.\n(2) A company shall not redeem a share which is a redeemable share except in accordance with sections 72 to 75.\n(3) Within seven days following the acquisition or redemption of shares by the company, the company shall give notice to the Registrar of the number and class of shares acquired or redeemed.\n(4) Where shares are acquired by a company pursuant to subsection (1) or redeemed pursuant to subsection (2), the stated capital of the class of shares so acquired or redeemed shall be decreased by an amount derived by multiplying the number of shares of that class so acquired with the amount arrived at so as to take into account the extent to which the company's stated capital is reduced by the company's acquisition or redemption of its own shares.\n(5) A company shall not make any payment in whatever form to acquire or redeem any share issued by the company where there are reasonable grounds for believing that the company is or would after the payment, be unable to satisfy the solvency test.\n(6) Shares in the capital of a company may not be acquired or redeemed if, as a result of such acquisition or redemption, there would no longer be any shares on issue other than convertible or redeemable shares.\n(7) If a company fails to comply with subsection (3) or (4)—\n( a ) the company shall be guilty of an offence and liable, in the case of subsection (3), to the penalty set out in section 492(1) and in the case of subsection (4) to the penalty set out in section 492(3); and\n( b ) every officer of the company who is in default shall be guilty of an offence and liable, in the case of subsection (3), to the penalty set out in section 493(1) and in the case of subsection (4) to the penalty set out in section 493(2)."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "PART VI Shares",
+      "section": "66",
+      "title": "Purchase of own shares",
+      "content": "66. Purchase of own shares\n(1) A company may with the approval of the Board and of an ordinary resolution of shareholders purchase or otherwise acquire its own shares:\nProvided that the shares are fully paid up and its constitution does not forbid it from doing so.\n(2) The approval pursuant to subsection (1) may be a general approval or a specific approval for a particular acquisition.\n(3) If the approval under subsection (1) is a general approval, it shall be valid only until the next annual meeting or it may be revoked or varied by ordinary resolution by any general meeting of the company at any time prior to such annual meeting.\n(4) Subject to subsection (10), before a company enters into any arrangement to purchase its own shares, the Board shall resolve that it is not aware of any information that has not been disclosed to shareholders which is material to an assessment of the value of the shares, and as a result of which the terms on which the shares are being acquired or the consideration to be provided for the shares are unfair to shareholders whose shares are to be acquired.\n(5) Save as provided under subsections (10) and (11), a company that proposes to acquire shares that are issued by it shall deliver or mail a copy of the written offer or circular to each shareholder on record as at the date of the offer, in such manner as may be provided in the constitution of the company for sending any notice of meeting to shareholders—\n( a ) stating the number of its issued shares which the company proposes to acquire;\n( b ) specifying the terms and reasons for the offer; and\n( c ) providing the disclosure required by subsection (12).\n[ 22 of 2018, s. 14(a) w.e.f. 3 June 2019. ]\n(6) The provisions of sections 313 to 315 shall apply so far as they reasonably extend to all documents issued in terms of subsection (5).\n(7) Where in response to any offer to acquire shares, the shareholders propose to dispose of a greater number of shares than the company offered to acquire, the company shall acquire from all shareholders who offered to sell, pro rata as nearly as possible disregarding fractions:\nProvided that this section shall not apply to the acquisition of shares in terms of transactions effected on a stock exchange within Botswana or to acquisition of shares by an investment company with variable capital.\n(8) A company that acquires shares issued by it shall, in such form as may be prescribed and within 30 days from the date the shares are acquired, notify the Registrar of the date and number of shares that it has acquired.\n[ 22 of 2018, s. 14(b) w.e.f. 3 June 2019. ]\n(9) A stock exchange within Botswana may, in addition to any requirements contained in this Act, determine further requirements with which a company whose shares are listed on such exchange shall comply prior to such company acquiring its own shares.\n(10) Subsections (4), (5) and (8) shall not apply to an investment company with variable capital which is licensed under the Collective Investment Undertakings Act (Cap. 56:09).\n(11) Subsection (5) shall not apply to—\n( a ) an offer which is made to all shareholders to acquire a proportion of their shares which, would if accepted, leave unaffected relative voting and distribution rights, and affords a reasonable opportunity to shareholders to accept the offer;\n( b ) an offer to which all shareholders have consented in writing;\n( c ) an offer made pursuant to a unanimous shareholder agreement under section 247;\n( d ) an offer made pursuant to an approval by unanimous resolution; or\n( e ) where the purchase or acquisition is made on a stock exchange in accordance with the rules of the stock exchange.\n(12) The disclosure required for the purposes of subsection (5) is a document that sets out—\n( a ) the nature and terms of the offer, and if made to specified shareholders only, names of those shareholders;\n( b ) the nature and extent of any relevant interest of any director of the company in any shares the subject of the offer; and\n( c ) the text of the resolution required by subsection (4), together with such further information and explanation as may be necessary to enable a reasonable shareholder to understand the nature and implications for the company and its shareholders of the proposed acquisition."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "PART VI Shares",
+      "section": "67",
+      "title": "Liability of directors and shareholders where solvency test not satisfied",
+      "content": "67. Liability of directors and shareholders where solvency test not satisfied\n(1) The directors of a company, who, contrary to the provisions of section 65(5), are party to allowing the company to acquire any share issued by it, shall be jointly and severally liable to restore to the company any amount so paid and not otherwise recovered by the company, subject to any relief granted by the court under section 517.\n(2) A director who is liable under subsection (1) may apply to the court for an order directing any shareholder or former shareholder to pay, to the company, any money that was paid to such shareholder contrary to section 65(5).\n(3) Where the acquisition by the company, of shares issued by it, is in contravention of the provisions of section 66(5), any creditor who was a creditor at the time of acquisition or any shareholder may apply to the court for an order and the company may, if it thinks it equitable to do so—\n( a ) order a shareholder or former shareholder to pay to the company any money or return any consideration that was paid or provided by the company to acquire the shares;\n( b ) order the company to issue an equivalent number of shares to the shareholder or former shareholder;\n( c ) make such order as it considers appropriate.\n(4) A proceeding to enforce a liability imposed by this section shall be brought within three years after the date of completion of the acquisition.\n(5) Nothing contained in this section shall limit or diminish any liability which any person may incur under this Act or any other law, or the common law.\n(6) For the purposes of this section \"director of a company\" includes a director of a holding company of such company."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "PART VI Shares",
+      "section": "68",
+      "title": "Cancellation of shares repurchased",
+      "content": "68. Cancellation of shares repurchased\n(1) Subject to sections 69 and 70, shares that are acquired by a company pursuant to section 66 or section 100 are deemed cancelled immediately on acquisition.\n(2) Shares are acquired for the purposes of subsection (1) on the date on which the company would, apart from this section, become entitled to exercise the rights attached to the shares.\n(3) On the cancellation of a share under this section, the rights and privileges attached to that share expire; but the share may be reissued in accordance with this Part."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "PART VI Shares",
+      "section": "69",
+      "title": "Company may hold its own shares",
+      "content": "69. Company may hold its own shares\n(1) Shares acquired by a company pursuant to section 66 or section 98 shall not be deemed cancelled under section 68(1) if—\n( a ) the constitution of the company expressly permits the company to hold its own shares;\n( b ) the Board of the company resolves that the shares concerned shall not be cancelled on acquisition; and\n( c ) the number of shares acquired, when aggregated with shares of the same class held by the company pursuant to this section at the time of the acquisition, does not exceed five per cent of the shares of that class previously issued by the company, excluding shares previously deemed to be cancelled under section 68(1).\n(2) Shares acquired by a company pursuant to section 66 or section 98 that, pursuant to this section, are not deemed cancelled shall be held by the company in itself.\n(3) A share that a company holds in itself under subsection (2) may be cancelled by the Board of the company resolving that the share is cancelled; and the share shall be deemed to be cancelled on the making of such a resolution.\n(4) The rights and obligations attaching to a share that a company holds in itself pursuant to subsection (2) shall not be exercised by or against a company while it holds the share.\n(5) Without limiting subsection (4), while a company holds a share in itself pursuant to this section, the company shall not—\n( a ) exercise any voting rights attaching to the share; or\n( b ) make or receive any distribution authorised or payable in respect of the share."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "PART VI Shares",
+      "section": "70",
+      "title": "Reissue of shares company holds in itself",
+      "content": "70. Reissue of shares company holds in itself\n(1) Subject to subsection (2), section 53 shall apply to the transfer of a share held by a company in itself as if the transfer were the issue of the share under section 50.\n(2) Subject to subsection (1), the transfer of a share by a company in itself shall not be subject to any provisions in this Act or the company's constitution relating to the issue of shares, except to the extent the company's constitution expressly applies those provisions.\n(3) A company shall not grant an option to acquire a share it holds in itself or enter into any obligations to transfer such a share where the company has received notice in writing of a takeover scheme or, in the case of a listed company where the stock exchange makes a public notification to the share-market that a takeover offer for more than 20 per cent of the company's shares is to be made."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "PART VI Shares",
+      "section": "71",
+      "title": "Enforceability of contract to repurchase shares",
+      "content": "71. Enforceability of contract to repurchase shares\n(1) A contract with a company providing for the acquisition, by the company, of its shares is specifically enforceable against the company except to the extent that the company would, after performance of the contract fail to satisfy the solvency test.\n(2) The company has the burden of proving that performance of the contract would result in the company being unable to satisfy the solvency test.\n(3) Until the company has fully performed a contract referred to in subsection (1), the other party to the contract retains the status of a claimant entitled to be paid as soon as the company is lawfully able to do so or, prior to the removal of the company from the register of companies, to be ranked subordinate to the rights of creditors but in priority to the other shareholders."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "PART VI Shares",
+      "section": "72",
+      "title": "Meaning of \"redeemable\"",
+      "content": "72. Meaning of \"redeemable\"\nFor the purpose of this Act, unless the constitution of the company forbids the issue of redeemable shares, a share is redeemable—\n( a ) if the terms of the issue of the share, or where those terms of issue are contained in the constitution, the constitution makes provision for the redemption of the share—\n(i) at the option of the company,\n(ii) at the option of the holder of the share, or\n(iii) on a date specified in the terms of the issue of the share or the constitution if the terms of issue are contained in the constitution; or\n( b ) for a consideration that is—\n(i) specified,\n(ii) to be calculated by reference to a formula, or\n(iii) required to be fixed by a suitably qualified person who is not associated with or interested in the company."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "PART VI Shares",
+      "section": "73",
+      "title": "Redemption at option of company",
+      "content": "73. Redemption at option of company\nA redemption of a share at the option of the company is—\n( a ) an acquisition by the company of the share for the purposes of section 66(4) and (5); and\n( b ) a distribution for the purposes of section 57."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "PART VI Shares",
+      "section": "74",
+      "title": "Redemption at option of shareholder",
+      "content": "74. Redemption at option of shareholder\n(1) Subject to this section, if a share is redeemable at the option of the holder of the share, and the holder gives proper notice to the company requiring the company to redeem the share—\n( a ) the company shall redeem the share on the date specified in the notice, or if no date is specified, on the date of receipt of the notice;\n( b ) the share is deemed to be cancelled on the date of redemption; and\n( c ) from the date of redemption the former shareholder ranks as an unsecured creditor of the company for the sum payable on redemption.\n(2) A redemption under this section—\n( a ) is not a distribution for the purposes of section 58 and 60; and\n( b ) is deemed to be a distribution for the purposes of subsections (1) and (5) of section 63 of this Act."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "PART VI Shares",
+      "section": "75",
+      "title": "Redemption on fixed date",
+      "content": "75. Redemption on fixed date\n(1) Subject to this section, if a share is redeemable on a specified date—\n( a ) the company shall redeem the share on that date;\n( b ) the share is deemed to be cancelled on that date; and\n( c ) from that date the former shareholder ranks as an unsecured creditor of the company for the sum payable on redemption.\n(2) A redemption under this section—\n( a ) is not a distribution for the purposes of sections 58 and 60; and\n( b ) is deemed to be a distribution for the purposes of subsections (1) and (3) of section 63."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "PART VI Shares",
+      "section": "76",
+      "title": "Restrictions on giving financial assistance",
+      "content": "76. Restrictions on giving financial assistance\n(1) A company shall not give financial assistance directly or indirectly to any person for the purpose of or in connection with the acquisition of its own shares, other than in accordance with this section.\n(2) A company may give financial assistance for the purpose of, or in connection with, the acquisition of its own shares if the Board has previously resolved that—\n( a ) giving the assistance is in the interests of the company;\n( b ) the terms and conditions on which the assistance is given are fair and reasonable to the company and to any shareholders not receiving that assistance; and\n( c ) immediately after giving the assistance, the company will satisfy the solvency test.\n(3) If the amount of any financial assistance approved under subsection (2) together with the amount of any other financial assistance given by the company which is still outstanding exceeds 10 per cent of the company's stated capital, the company shall not give the assistance unless it first obtains from its auditor or, if it does not have an auditor, from a person qualified to act as its auditor, a certificate that—\n( a ) the person has inquired into the state of affairs of the company; and\n( b ) the person is not aware of anything to indicate that the opinion of the Board as to the matters in paragraph ( b ) of subsection (2) is unreasonable in all the circumstances.\n(4) The amount of any financial assistance under this section is not a distribution for the purposes of section 58.\n(5) For the purposes of this section, the term \"financial assistance\" includes giving a loan or guarantee, or the provision of security."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "PART VI Shares",
+      "section": "77",
+      "title": "Transactions not prohibited by section 76",
+      "content": "77. Transactions not prohibited by section 76\nSection 76 shall not apply to—\n( a ) a distribution to a shareholder approved under section 58;\n( b ) the issue of shares by the company;\n( c ) a repurchase or redemption of shares by the company;\n( d ) anything done under a compromise under Part XV or a compromise or arrangement approved under Part XVI;\n( e ) a situation where the ordinary business of a company includes the lending of money by the company in the ordinary course of business."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "PART VI Shares",
+      "section": "78",
+      "title": "Subsidiary may not hold shares in holding company",
+      "content": "78. Subsidiary may not hold shares in holding company\n(1) Subject to this section, a subsidiary shall not hold shares in its holding company, and, subject to subsection (6), a transfer of shares in a holding company to its subsidiary shall be void and of no effect.\n(2) Subject to subsection (6), an issue of shares by a holding company to its subsidiary shall be void and of no effect.\n(3) Where a company that holds shares in another company becomes a subsidiary of that other company—\n( a ) the company may, notwithstanding subsection (1), continue to hold those shares; but\n( b ) the exercise of any voting rights attaching to those shares shall be of no effect.\n(4) Nothing in this section prevents a subsidiary holding shares in its holding company in its capacity as a personal representative or a trustee unless the holding company or another subsidiary has a beneficial interest under the trust other than an interest that arises by way of security for the purposes of a transaction made in the ordinary course of the business of lending money.\n(5) This section applies to a nominee for a subsidiary in the same way as it applies to the subsidiary.\n(6) Notwithstanding the provisions of this section, a subsidiary company may, in accordance with sections 69 to 70 with any necessary adjustments, acquire shares in its holding company to a maximum of 10 per cent in the aggregate of the number of issued shares of the holding company:\nProvided that this subsection shall not apply to the acquisition of shares by a holding company in its subsidiary."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "PART VI Shares",
+      "section": "79",
+      "title": "Statement of rights to be given to shareholders",
+      "content": "79. Statement of rights to be given to shareholders\n(1) Every company shall issue to a shareholder, on request, a statement that sets out—\n( a ) the class of shares held by the shareholder, the total number of shares of that class issued by the company, and the number of shares of that class held by the shareholder;\n( b ) the rights, privileges, conditions, and limitations, including restrictions on transfer, attaching to the shares held by the shareholder; and\n( c ) the relationship of the shares held by the shareholder to other classes of shares.\n(2) The company is not obliged to provide a shareholder with a statement if—\n( a ) a statement has been provided within the previous six months;\n( b ) the shareholder has not acquired or disposed of shares since the previous statement was provided;\n( c ) the rights attached to shares of the company have not been altered since the previous statement was provided; and\n( d ) there are no special circumstances which would make it unreasonable for the company to refuse the request.\n(3) The statement is not evidence of title to the shares or of any of the matters set out in it.\n(4) The statement shall state in a prominent place that it is not evidence of title to the shares or of the matters set out in it.\n(5) If a company fails to comply with subsection (1)—\n( a ) the company shall be guilty of an offence and liable to the penalty set out in section 492(1); and\n( b ) every director of the company shall be guilty of an offence and liable to the penalties set out in section 493(1)."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "PART VII Title Transfers, Share Register and Certificates",
+      "section": "80",
+      "title": "Lien on shares",
+      "content": "80. Lien on shares\n(1) Subject to subsection (2) a company shall, unless the constitution provides otherwise, be entitled to a lien, in priority to any other claim, over every partly paid issued share, and over any dividend payable on the share, for all money due by the holder of that share to the company by way of money called or payable at a fixed time in respect of the unpaid amount owing in respect of that share.\n(2) A company, other than a listed company, may, if expressly so provided in its constitution, be entitled to a lien, in priority to any other claim over all shares including fully paid up shares and over any dividend payable on those shares, for all money due by the holder of those shares to the company whether in relation to the shares or otherwise.\n(3) A company may, in such manner as the directors consider appropriate, sell any share over which the company has a lien:\nProvided that no sale shall be made unless—\n( a ) a sum in respect of which the lien exists is presently payable; and\n( b ) until the expiry of 14 days after a written notice, stating and demanding payment of such part of the amount in respect of which the privilege or lien exists as is presently payable, has been given to the registered holder for the time of the share, or the person entitled to the share by reason of the death or bankruptcy of the registered holder.\n(4) The directors may, to give effect to any sale under subsection (2), authorise a person to transfer the shares sold to the purchaser of the shares, who shall be registered as the holder of the share comprised in any such transfer, and shall not be bound to see to the application of the purchase money, nor shall the title of the purchaser to the share be affected by any irregularity or invalidity in the proceedings relating to the sale.\n(5) The proceeds of the sale shall be received by the company and applied in payment of such part of the amount in respect of which the lien exists as is presently payable, and any residue shall, subject to a like lien for sums not presently payable as existed upon the share before the sale, be paid to the person entitled to the share at the date of the sale.\n(6) The directors may, unless the constitution provides otherwise, decline to register the transfer of a share on which the company has a lien."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "PART VII Title Transfers, Share Register and Certificates",
+      "section": "81",
+      "title": "Transfer of shares",
+      "content": "81. Transfer of shares\n(1) Subject to the constitution of the company and any other written law, shares in a company may be transferred by the entry of the name of the transferee on the share register in accordance with this section.\n(2) For the purpose of transferring shares, a transfer form signed by the present holder of the shares or by his personal representative shall be given to—\n( a ) the company; or\n( b ) an agent of the company who maintains the share register under section 83(4).\n(3) The form of transfer shall be signed by the transferee if registration has the effect of imposing on the transferee as holder of the shares a liability to the company.\n(4) On receipt of a form of transfer in accordance with subsection (2) and (3), the company shall forthwith enter or cause to be entered the name of the transferee on the share register as holder of the shares, unless—\n( a ) the Act or the constitution expressly permits the Board to refuse or delay registration for the reasons stated;\n( b ) the Board resolves within one month of receipt of the transfer to refuse or delay the registration of the transfer, and the resolution sets out in full the reasons for doing so; and\n( c ) notice of the resolution, including those reasons, is sent to the transferor and to the transferee within five days of the resolution being passed by the Board.\n(4A) A company that transfers a share in the company shall, in such form as may be prescribed and within 20 days from the date the transfer is made, notify the Registrar of the transfer.\n[ 22 of 2018, s. 15 w.e.f. 3 June 2019. ]\n(5) Subject to the constitution of a company, the Board may refuse or delay the registration of a transfer of shares under subsection (4) where the holder of the shares has failed to pay to the company an amount due in respect of those shares, whether by way of consideration for the issue of the shares or in respect of sums payable by the holder of the shares in accordance with the constitution.\n(6) Subsections (2) to (5) shall not apply to securities traded on a stock market of a Stock Exchange under a scheme for the electronic transfer of shares approved and publicly notified by a Stock Exchange.\n(7) Where a company fails to comply with subsection (4)—\n( a ) the company shall be guilty of an offence and liable to the penalty set out in section 491(1); and\n( b ) every director of the company shall be guilty of an offence and liable to the penalty set out in section 492(1)."
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "PART VII Title Transfers, Share Register and Certificates",
+      "section": "82",
+      "title": "Transfer of shares by operation of law",
+      "content": "82. Transfer of shares by operation of law\n(1) Shares in a company may pass by operation of law notwithstanding the constitution of the company.\n(2) A transfer of the share or other interest of a deceased shareholder of a company made by his executor shall, although the executor is not himself a shareholder, be as valid as if he had been a member at the date of the transfer, subject to the Capital Transfer Act (Cap. 53:02) and any law relating to the administration of the estate of a deceased person."
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "PART VII Title Transfers, Share Register and Certificates",
+      "section": "83",
+      "title": "Company to maintain share register",
+      "content": "83. Company to maintain share register\n(1) A company having a share capital shall maintain a share register that records the shares issued by the company, and in the case of a public company the register shall state—\n( a ) whether, under the constitution of the company or the terms of issue of the shares, there are any restrictions or limitations on the transfer of shares; and\n( b ) where any document that contains the restrictions or limitations may be inspected.\n(2) The share register shall state, with respect to each class of shares—\n( a ) the names, alphabetically arranged, and the latest known address of each person who is, or has within the last seven years been, a shareholder;\n( b ) the number of shares of that class held by each shareholder within the last seven years; and\n( c ) the date of any—\n(i) issue of shares to,\n(ii) repurchase or redemption of shares from, or"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accounting records",
+      "definition": "the accounting records referred to in section 189",
+      "source_provision": "s2"
+    },
+    {
+      "term": "annual meeting",
+      "definition": "the meeting of a company required to be held by section 105",
+      "source_provision": "s2"
+    },
+    {
+      "term": "annual report",
+      "definition": "the report required to be made by section 212",
+      "source_provision": "s2"
+    },
+    {
+      "term": "annual return",
+      "definition": "the return required to be made by section 217 and includes any document attached to or intended to be read with the return",
+      "source_provision": "s2"
+    },
+    {
+      "term": "arrangement",
+      "definition": "a re-organisation of the share capital of a company by the consolidation of shares of different classes or by the division of shares into shares of different classes or by both these methods",
+      "source_provision": "s2"
+    },
+    {
+      "term": "balance sheet date",
+      "definition": "assigned to it in section 210",
+      "source_provision": "s2"
+    },
+    {
+      "term": "banking company",
+      "definition": "a bank licensed under the Banking Act (Cap. 46:04)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "beneficial owner",
+      "definition": "assigned to it under the Financial Intelligence Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "book",
+      "definition": "any account, deed, writing or document, and any other record of information however compiled, recorded or stored",
+      "source_provision": "s2"
+    },
+    {
+      "term": "borrowing company",
+      "definition": "a company that is or will be under a liability to repay any money received or to be received by it in response to an invitation to the public to subscribe for or purchase debentures",
+      "source_provision": "s2"
+    },
+    {
+      "term": "close company",
+      "definition": "a company which is registered as a close company in accordance with Part XIX",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Collateral Registry",
+      "definition": "the Collateral Registry established under the Movable Property (Security Interests) Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "company",
+      "definition": "a company formed and registered under Part II or registered under Part XXIV or an existing company",
+      "source_provision": "s2"
+    },
+    {
+      "term": "company limited by guarantee",
+      "definition": "a company formed on the principle of having the liability of its members limited by the constitution to such amount as the members may respectively undertake to contribute to the assets of the company in the event of its being wound-up",
+      "source_provision": "s2"
+    },
+    {
+      "term": "company limited by shares",
+      "definition": "a company formed on the principle of having the liability of its shareholders limited, by the constitution, to any amount unpaid on the shares respectively held by the shareholders",
+      "source_provision": "s2"
+    },
+    {
+      "term": "competent authority",
+      "definition": "assigned to it under the Financial Intelligence Act and includes a foreign comparable body",
+      "source_provision": "s2"
+    },
+    {
+      "term": "constitution",
+      "definition": "a document referred to in section 40",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contributory",
+      "definition": "a person liable to contribute to the assets of a company in the event of its being wound-up, and for the purposes of all proceedings for determining, and all proceedings prior to the final determination of, the persons who are deemed to be contributories, includes any person alleged to be a contributory under section 366",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "the High Court of Botswana and in relation to any offence against this Act, includes a Magistrate's Court having jurisdiction in respect of that offence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "creditors' voluntary winding-up",
+      "definition": "assigned to it by section 409(3)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "date of incorporation",
+      "definition": "the date of registration of a company",
+      "source_provision": "s2"
+    },
+    {
+      "term": "declared company",
+      "definition": "assigned to it in section 282",
+      "source_provision": "s2"
+    },
+    {
+      "term": "director",
+      "definition": "set out in section 126",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dividend",
+      "definition": "set out in section 60",
+      "source_provision": "s2"
+    },
+    {
+      "term": "document",
+      "definition": "a document in any form, and includes—\n( a ) any writing on any material",
+      "source_provision": "s2"
+    },
+    {
+      "term": "employee",
+      "definition": "a person who has entered into a contract of employment for the hire of his labour",
+      "source_provision": "s2"
+    },
+    {
+      "term": "executive director",
+      "definition": "a director who is involved in the day-to-day management of the company",
+      "source_provision": "s2"
+    },
+    {
+      "term": "executor",
+      "definition": "a person who is appointed by the Master of the High Court to administer the estate of a deceased person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "exempt private company",
+      "definition": "assigned to it in subsection (3) of this section",
+      "source_provision": "s2"
+    },
+    {
+      "term": "existing company",
+      "definition": "a body corporate registered or deemed to be registered under Part II of this Act or under the repealed Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "expert",
+      "definition": "a person holding himself out to be such whose professional or technical training gives authority to a statement made by him",
+      "source_provision": "s2"
+    },
+    {
+      "term": "external company",
+      "definition": "a body corporate, other than a corporation sole, which is registered or incorporated outside Botswana and that is required to be registered under Part XXIV",
+      "source_provision": "s2"
+    },
+    {
+      "term": "external country",
+      "definition": "any state, dominion, country, colony or territory other than Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "external register",
+      "definition": "the register of bodies corporate that are incorporated outside Botswana kept pursuant to Part XXIV",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial statements",
+      "definition": "assigned to it in section 211(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "firm",
+      "definition": "the association formed by persons who enter into a partnership not registered under this Act or the repealed Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foreign company",
+      "definition": "a body of persons formed outside Botswana which—\n( a ) is a body corporate in its place of incorporation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "group financial statements",
+      "definition": "set out in section 211(3)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "group",
+      "definition": "set out in section 207",
+      "source_provision": "s2"
+    },
+    {
+      "term": "holding company",
+      "definition": "assigned to it section 6(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "a qualified person in terms of section 281 who is appointed to carry out an investigation under Part XXI",
+      "source_provision": "s2"
+    },
+    {
+      "term": "insurance company",
+      "definition": "a company registered as an insurer under the Insurance Industry Act (Cap. 46:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "interests register",
+      "definition": "the register kept under sections 135 and 186(1)( c )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "International Standards on Auditing",
+      "definition": "the International Standards on Auditing issued by the International Federation of Accountants",
+      "source_provision": "s2"
+    }
+  ]
+}

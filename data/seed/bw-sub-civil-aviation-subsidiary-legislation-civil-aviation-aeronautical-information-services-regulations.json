@@ -1,0 +1,375 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-aeronautical-information-services-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (aeronautical Information Services) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (aeronautical Information Services) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-aeronautical-information-services-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary Provisions (regs 1-3)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Aeronautical Information Services) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary Provisions (regs 1-3)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"aerodrome mapping data\" means data collected for the purpose of compiling aerodrome mapping information;\n\"aerodrome reference point (ARP)\" means a designated geographical location of an aerodrome;\n\"aeronautical chart\" a representation of a portion of the earth, its culture and relief, specifically designated to meet the requirements of air navigation;\n\"aeronautical data\" means a representation of aeronautical facts, concepts or instructions in a formalised manner suitable for communication, interpretation or processing;\n\"aeronautical fixed service (AFS)\" a telecommunication service between specified fixed points provided primarily for the safety of air navigation and for the regular, efficient and economical operation of air services;\n\"aeronautical information\" means information resulting from the assembly, analysis and formatting of aeronautical data;\n\"aeronautical information circular (AIC)\" means a notice containing information that does not qualify for the origination of a Notice To Air Men (NOTAM) or for inclusion in the aeronautical information publication, but which relates to flight safety, air navigation, technical, administrative or legislative matters;\n\"aeronautical information management (AIM)\" means the dynamic, integrated management of aeronautical information through the provision and exchange of quality-assured digital aeronautical data in collaboration with all parties;\n\"aeronautical information product\" means aeronautical data and aeronautical information provided either as digital data sets or as a standardised presentation in paper or electronic media and includes—\n( a ) aeronautical information publication (AIP), including amendments and supplements;\n( b ) aeronautical information circulars (AIC);\n( c ) aeronautical charts;\n( d ) NOTAM; and\n( e ) digital data sets;\n\"aeronautical information publication (AIP)\" means a publication issued by or with the authority of the Authority and containing aeronautical information of a lasting character essential to air navigation;\n\"Aeronautical Information Regulation and Control (AIRAC)\" means a regulated system where establishment, withdrawal or significant changes in aeronautical information is based upon a series of common effective dates at intervals of 28 days;\n\"aeronautical information service (AIS)\" means a service established within the defined area of coverage responsible for the provision of aeronautical data and aeronautical information necessary for the safety, regularity and efficiency of air navigation;\n\"AIP amendment\" means permanent changes to the information contained in the aeronautical information publication;\n\"AIP supplement\" means temporary changes to the information contained in the aeronautical information publication which are provided by means of special pages;\n\"aeronautical information regulation and control\" means a system aimed at advance notification, based on common effective dates, of circumstances that necessitate significant changes in operating practices;\n\"air defence identification zone (ADIZ)\" means special designated airspace of defined dimensions within which aircraft are required to comply with special identification or reporting procedures additional to those related to the provision of air traffic services;\n\"Air Traffic Management (ATM)\" means the dynamic, integrated management of air traffic and airspace (including air traffic services, airspace management and air traffic flow management) – safely, economically and efficiently – through the provision of facilities and seamless services in collaboration with all parties and involving airborne and ground-based functions;\n\"application\" means manipulation and processing of data in support of user requirements (ISO 19104*);\n\"area navigation (RNAV)\" means a method of navigation which permits aircraft operation on any desired flight path within the coverage of ground- or space-based navigation aids or within the limits of the capability of self-contained aids, or a combination of these;\n\"assemble\" means a process of merging data from multiple sources into a database and establishing a baseline for subsequent processing;\n\"calendar\" means discrete temporal reference system that provides the basis for defining temporal position to a resolution of one day (ISO 19108*);\n\"confidence level\" means the probability that the true value of a parameter is within a certain interval around the estimate of its value;\n\"culture\" means all man-made features constructed on the surface of the earth, such as cities, railways and canals;\n\"danger area\" means an airspace of defined dimensions within which activities dangerous to the flight of aircraft may exist at specified times;\n\"data accuracy\" means a degree of conformance between the estimated or measured value and the true value;\n\"data completeness\" means the degree of confidence that all of the data needed to support the intended use is provided;\n\"data format\" means a structure of data elements, records and files arranged to meet standards, specifications or data quality requirements;\n\"data integrity assurance level\" means a degree of assurance that an aeronautical data and its value has not been lost or altered since the data origination or authorised amendment;\n\"data product\" means a data set or data set series that conforms to a data product specification (ISO 19131*);\n\"data product specification\" means a detailed description of a data set or data set series together with additional information that will enable it to be created, supplied to and used by another party (ISO 19131*);\n\"data quality\" means a degree or level of confidence that the data provided meet the requirements of the data user in terms of accuracy, resolution and integrity or equivalent assurance level, traceability, timeliness, completeness and format;\n\"data resolution\" means a number of units or digits to which a measured or calculated value is expressed and used;\n\"data set\" means an identifiable collection of data (ISO 19101*);\n\"data set series\" means a collection of data sets sharing the same product specification (ISO 19115*);\n\"data timeliness\" means the degree of confidence that the data is applicable to the period of its intended use;\n\"data traceability\" means the degree that a system or a data product can provide a record of the changes made to that product and thereby enable an audit trail to be followed from the end-user to the originator;\n\"datum\" means any quantity or set of quantities that may serve as a reference or basis for the calculation of other quantities (ISO 19104*);\n\"feature\" means abstraction of real world phenomena (ISO 19101*);\n\"feature type\" means class of real world phenomena with common properties (ISO 19110*);\n\"geoid\" means the equipotential surface in the gravity field of the earth which coincides with the undisturbed mean sea level (MSL) extended continuously through the continents;\n\"geoid undulation\" means the distance of the geoid above (positive) or below (negative) the mathematical reference ellipsoid;\n\"gregorian calendar\" means calendar in general use; first introduced in 1582 to define a year that more closely approximates the tropical year than the Julian calendar (ISO 19108*);\n\"height\" means the vertical distance of a level, point or an object considered as a point, measured from a specific datum;\n\"heliport\" means an aerodrome or a defined area on a structure intended to be used wholly or in part for the arrival, departure and surface movement of helicopters;\n\"human factors principles\" means principles which apply to aeronautical design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance;\n\"integrity classification (aeronautical data)\" means classification based upon the potential risk resulting from the use of corrupted data. Aeronautical data are classified as—\n( a ) routine data: there is a very low probability when using corrupted routine data that the continued safe flight and landing of an aircraft would be severely at risk with the potential for catastrophe;\n( b ) essential data: there is a low probability when using corrupted essential data that the continued safe flight and landing of an aircraft would be severely at risk with the potential for catastrophe; and\n( c ) critical data; there is a high probability when using corrupted critical data that the continued safe flight and landing of an aircraft would be severely at risk with the potential for catastrophe;\n\"international NOTAM office (NOF)\" means an office designated by the Authority for the exchange of NOTAM internationally;\n\"manoeuvring area\" means that part of an aerodrome to be used for the take-off, landing and taxiing of aircraft, excluding aprons;\n\"metadata\" means data about data (ISO 19115*);\n\"movement area\" means that part of an aerodrome to be used for the take-off, landing and taxiing of aircraft, consisting of the manoeuvring area and the apron;\n\"next intended user\" means the entity that receives the aeronautical data or information from the Aeronautical Information Service;\n\"NOTAM\" means a notice distributed by means of telecommunication containing information concerning the establishment, condition or change in any aeronautical facility, service, procedure or hazard, the timely knowledge of which is essential to personnel concerned with flight operations;\n\"obstacle\" means all fixed (whether temporary or permanent) and mobile objects, or parts thereof, that—\n( a ) are located on an area intended for the surface movement of an aircraft; or\n( b ) extend above a defined surface intended to protect aircraft in flight; or\n( c ) stand outside those defined surfaces and that have been assessed as being a hazard to air navigation;\n\"obstacle or terrain data collection surface\" means a defined surface intended for the purpose of collecting obstacle or terrain data;\n\"origination (aeronautical data or aeronautical information)\" means the creation of the value associated with new data or information or the modification of the value of an existing data or information;\n\"originator (aeronautical data or aeronautical information)\" means an entity that is accountable for data or information origination or from which the AIS organisation receives aeronautical data and information;\n\"position (geographical)\" means a set of co-ordinates (latitude and longitude) referenced to the mathematical reference ellipsoid which define the position of a point on the surface of the earth;\n\"precision\" means the smallest difference that can be reliably distinguished by a measurement process;\n\"prohibited area\" means an airspace of defined dimensions, above the land areas or territorial waters of the Republic of Botswana, within which the flight of aircraft is prohibited;\n\"quality\" means a degree to which a set of inherent characteristics fulfils requirements (ISO 9000*);\n\"quality management\" means co-ordinated activities to direct and control an organisation with regard to quality (ISO 9000*);\n\"requirement\" means a need or expectation that is stated, generally implied or obligatory (ISO 9000*);\n\"resolution\" means a number of units or digits to which a measured or calculated value is expressed and used;\n\"restricted area\" means an airspace of defined dimensions, above the land areas or territorial waters of the Republic of Botswana, within which the flight of aircraft is restricted in accordance with certain specified conditions;\n\"terrain\" means the surface of the earth containing naturally occurring features such as mountains, hills, ridges, valleys, bodies of water, permanent ice and snow, and excluding obstacles;\n\"traceability\" means ability to trace the history, application or location of that which is under consideration (ISO 9000*);\n\"validation\" means confirmation, through the provision of objective evidence, that the requirements for a specific inte"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary Provisions (regs 1-3)",
+      "section": "3",
+      "title": "Application of the Regulations",
+      "content": "3. Application of the Regulations\nThese Regulations shall apply to an aeronautical information services provider."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II General Provisions (regs 4-8)",
+      "section": "4",
+      "title": "Provision of an aeronautical information service",
+      "content": "4. Provision of an aeronautical information service\nA person shall not provide an aeronautical information service, and undertake aeronautical data and information management unless he or she has certificate issued in accordance with the Civil Aviation (Certification of Air Navigation Service Providers) Regulations."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II General Provisions (regs 4-8)",
+      "section": "5",
+      "title": "Horizontal reference system",
+      "content": "5. Horizontal reference system\nAn aeronautical information service provider shall ensure that—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aerodrome mapping data",
+      "definition": "data collected for the purpose of compiling aerodrome mapping information",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome reference point (ARP)",
+      "definition": "a designated geographical location of an aerodrome",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical data",
+      "definition": "a representation of aeronautical facts, concepts or instructions in a formalised manner suitable for communication, interpretation or processing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical information",
+      "definition": "information resulting from the assembly, analysis and formatting of aeronautical data",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical information circular (AIC)",
+      "definition": "a notice containing information that does not qualify for the origination of a Notice To Air Men (NOTAM) or for inclusion in the aeronautical information publication, but which relates to flight safety, air navigation, technical, administrative or legislative matters",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical information management (AIM)",
+      "definition": "the dynamic, integrated management of aeronautical information through the provision and exchange of quality-assured digital aeronautical data in collaboration with all parties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical information product",
+      "definition": "aeronautical data and aeronautical information provided either as digital data sets or as a standardised presentation in paper or electronic media and includes—\n( a ) aeronautical information publication (AIP), including amendments and supplements",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical information publication (AIP)",
+      "definition": "a publication issued by or with the authority of the Authority and containing aeronautical information of a lasting character essential to air navigation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Information Regulation and Control (AIRAC)",
+      "definition": "a regulated system where establishment, withdrawal or significant changes in aeronautical information is based upon a series of common effective dates at intervals of 28 days",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical information service (AIS)",
+      "definition": "a service established within the defined area of coverage responsible for the provision of aeronautical data and aeronautical information necessary for the safety, regularity and efficiency of air navigation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "AIP amendment",
+      "definition": "permanent changes to the information contained in the aeronautical information publication",
+      "source_provision": "s2"
+    },
+    {
+      "term": "AIP supplement",
+      "definition": "temporary changes to the information contained in the aeronautical information publication which are provided by means of special pages",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical information regulation and control",
+      "definition": "a system aimed at advance notification, based on common effective dates, of circumstances that necessitate significant changes in operating practices",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air defence identification zone (ADIZ)",
+      "definition": "special designated airspace of defined dimensions within which aircraft are required to comply with special identification or reporting procedures additional to those related to the provision of air traffic services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Air Traffic Management (ATM)",
+      "definition": "the dynamic, integrated management of air traffic and airspace (including air traffic services, airspace management and air traffic flow management) – safely, economically and efficiently – through the provision of facilities and seamless services in collaboration with all parties and involving airborne and ground-based functions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "application",
+      "definition": "manipulation and processing of data in support of user requirements (ISO 19104*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "area navigation (RNAV)",
+      "definition": "a method of navigation which permits aircraft operation on any desired flight path within the coverage of ground- or space-based navigation aids or within the limits of the capability of self-contained aids, or a combination of these",
+      "source_provision": "s2"
+    },
+    {
+      "term": "assemble",
+      "definition": "a process of merging data from multiple sources into a database and establishing a baseline for subsequent processing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "calendar",
+      "definition": "discrete temporal reference system that provides the basis for defining temporal position to a resolution of one day (ISO 19108*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "confidence level",
+      "definition": "the probability that the true value of a parameter is within a certain interval around the estimate of its value",
+      "source_provision": "s2"
+    },
+    {
+      "term": "culture",
+      "definition": "all man-made features constructed on the surface of the earth, such as cities, railways and canals",
+      "source_provision": "s2"
+    },
+    {
+      "term": "danger area",
+      "definition": "an airspace of defined dimensions within which activities dangerous to the flight of aircraft may exist at specified times",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data accuracy",
+      "definition": "a degree of conformance between the estimated or measured value and the true value",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data completeness",
+      "definition": "the degree of confidence that all of the data needed to support the intended use is provided",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data format",
+      "definition": "a structure of data elements, records and files arranged to meet standards, specifications or data quality requirements",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data integrity assurance level",
+      "definition": "a degree of assurance that an aeronautical data and its value has not been lost or altered since the data origination or authorised amendment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data product",
+      "definition": "a data set or data set series that conforms to a data product specification (ISO 19131*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data product specification",
+      "definition": "a detailed description of a data set or data set series together with additional information that will enable it to be created, supplied to and used by another party (ISO 19131*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data quality",
+      "definition": "a degree or level of confidence that the data provided meet the requirements of the data user in terms of accuracy, resolution and integrity or equivalent assurance level, traceability, timeliness, completeness and format",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data resolution",
+      "definition": "a number of units or digits to which a measured or calculated value is expressed and used",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data set",
+      "definition": "an identifiable collection of data (ISO 19101*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data set series",
+      "definition": "a collection of data sets sharing the same product specification (ISO 19115*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data timeliness",
+      "definition": "the degree of confidence that the data is applicable to the period of its intended use",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data traceability",
+      "definition": "the degree that a system or a data product can provide a record of the changes made to that product and thereby enable an audit trail to be followed from the end-user to the originator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "datum",
+      "definition": "any quantity or set of quantities that may serve as a reference or basis for the calculation of other quantities (ISO 19104*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "feature",
+      "definition": "abstraction of real world phenomena (ISO 19101*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "feature type",
+      "definition": "class of real world phenomena with common properties (ISO 19110*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "geoid",
+      "definition": "the equipotential surface in the gravity field of the earth which coincides with the undisturbed mean sea level (MSL) extended continuously through the continents",
+      "source_provision": "s2"
+    },
+    {
+      "term": "geoid undulation",
+      "definition": "the distance of the geoid above (positive) or below (negative) the mathematical reference ellipsoid",
+      "source_provision": "s2"
+    },
+    {
+      "term": "gregorian calendar",
+      "definition": "calendar in general use",
+      "source_provision": "s2"
+    },
+    {
+      "term": "height",
+      "definition": "the vertical distance of a level, point or an object considered as a point, measured from a specific datum",
+      "source_provision": "s2"
+    },
+    {
+      "term": "heliport",
+      "definition": "an aerodrome or a defined area on a structure intended to be used wholly or in part for the arrival, departure and surface movement of helicopters",
+      "source_provision": "s2"
+    },
+    {
+      "term": "human factors principles",
+      "definition": "principles which apply to aeronautical design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "integrity classification (aeronautical data)",
+      "definition": "classification based upon the potential risk resulting from the use of corrupted data. Aeronautical data are classified as—\n( a ) routine data: there is a very low probability when using corrupted routine data that the continued safe flight and landing of an aircraft would be severely at risk with the potential for catastrophe",
+      "source_provision": "s2"
+    },
+    {
+      "term": "international NOTAM office (NOF)",
+      "definition": "an office designated by the Authority for the exchange of NOTAM internationally",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manoeuvring area",
+      "definition": "that part of an aerodrome to be used for the take-off, landing and taxiing of aircraft, excluding aprons",
+      "source_provision": "s2"
+    },
+    {
+      "term": "metadata",
+      "definition": "data about data (ISO 19115*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "movement area",
+      "definition": "that part of an aerodrome to be used for the take-off, landing and taxiing of aircraft, consisting of the manoeuvring area and the apron",
+      "source_provision": "s2"
+    },
+    {
+      "term": "next intended user",
+      "definition": "the entity that receives the aeronautical data or information from the Aeronautical Information Service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "NOTAM",
+      "definition": "a notice distributed by means of telecommunication containing information concerning the establishment, condition or change in any aeronautical facility, service, procedure or hazard, the timely knowledge of which is essential to personnel concerned with flight operations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "obstacle",
+      "definition": "all fixed (whether temporary or permanent) and mobile objects, or parts thereof, that—\n( a ) are located on an area intended for the surface movement of an aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "obstacle or terrain data collection surface",
+      "definition": "a defined surface intended for the purpose of collecting obstacle or terrain data",
+      "source_provision": "s2"
+    },
+    {
+      "term": "origination (aeronautical data or aeronautical information)",
+      "definition": "the creation of the value associated with new data or information or the modification of the value of an existing data or information",
+      "source_provision": "s2"
+    },
+    {
+      "term": "originator (aeronautical data or aeronautical information)",
+      "definition": "an entity that is accountable for data or information origination or from which the AIS organisation receives aeronautical data and information",
+      "source_provision": "s2"
+    },
+    {
+      "term": "position (geographical)",
+      "definition": "a set of co-ordinates (latitude and longitude) referenced to the mathematical reference ellipsoid which define the position of a point on the surface of the earth",
+      "source_provision": "s2"
+    },
+    {
+      "term": "precision",
+      "definition": "the smallest difference that can be reliably distinguished by a measurement process",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prohibited area",
+      "definition": "an airspace of defined dimensions, above the land areas or territorial waters of the Republic of Botswana, within which the flight of aircraft is prohibited",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quality",
+      "definition": "a degree to which a set of inherent characteristics fulfils requirements (ISO 9000*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quality management",
+      "definition": "co-ordinated activities to direct and control an organisation with regard to quality (ISO 9000*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "requirement",
+      "definition": "a need or expectation that is stated, generally implied or obligatory (ISO 9000*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "resolution",
+      "definition": "a number of units or digits to which a measured or calculated value is expressed and used",
+      "source_provision": "s2"
+    },
+    {
+      "term": "restricted area",
+      "definition": "an airspace of defined dimensions, above the land areas or territorial waters of the Republic of Botswana, within which the flight of aircraft is restricted in accordance with certain specified conditions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "terrain",
+      "definition": "the surface of the earth containing naturally occurring features such as mountains, hills, ridges, valleys, bodies of water, permanent ice and snow, and excluding obstacles",
+      "source_provision": "s2"
+    },
+    {
+      "term": "traceability",
+      "definition": "ability to trace the history, application or location of that which is under consideration (ISO 9000*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "validation",
+      "definition": "confirmation, through the provision of objective evidence, that the requirements for a specific inte",
+      "source_provision": "s2"
+    }
+  ]
+}

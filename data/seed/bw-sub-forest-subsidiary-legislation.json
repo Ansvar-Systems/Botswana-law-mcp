@@ -1,0 +1,56 @@
+{
+  "id": "bw-sub-forest-subsidiary-legislation",
+  "type": "statute",
+  "title": "Forest: Subsidiary Legislation",
+  "title_en": "Forest: Subsidiary Legislation",
+  "short_name": "Forest: Subsidiary Legislation",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/forest-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Forest (Declaration of Forest Reserves) Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Declaration of forest reserves",
+      "content": "2. Declaration of forest reserves\nEvery area specified in the Schedule to this Order is hereby declared to be a forest reserve with the name specified therein under which the description of the area appears."
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Forest (Declaration of Protected Trees) Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Declaration of protected trees",
+      "content": "2. Declaration of protected trees\nAll trees of the species specified in the Schedule are hereby declared to be protected trees in those parts of Botswana constituting State land."
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Forest (Exemption of Certain Villages from Prohibited Acts in Forest Reserves) Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application",
+      "content": "2. Application\nThe provisions of this Order shall apply to the towns, villages or habitations of Kasane, Kazungula and Lesoma."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Exemption from restrictions",
+      "content": "3. Exemption from restrictions\nThe bona fide inhabitants of the towns, villages or habitations referred to in paragraph 1 may, within the Kasane Forest Reserve adjacent to such towns, villages, or habitations, collect for their own domestic use, but not for sale or barter—\n( a ) firewood from dead trees provided that collection is made by donkey or head-load and not by motor vehicle;\n( b ) poles of the species of trees specified in Part I of the Schedule hereto for the purposes of erecting huts and cattle kraals;"
+    }
+  ],
+  "definitions": []
+}

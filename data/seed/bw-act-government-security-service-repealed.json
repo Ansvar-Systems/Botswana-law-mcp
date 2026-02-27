@@ -1,0 +1,109 @@
+{
+  "id": "bw-act-government-security-service-repealed",
+  "type": "statute",
+  "title": "Government Security Service",
+  "title_en": "Government Security Service",
+  "short_name": "Government Security Service",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/government-security-service-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Government Security Service Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Administrative Secretary\" means the Administrative Secretary in the Office of the President;\n\"Board\" means a Board appointed in terms of sections 22, 23 and 24;\n\"Chief Security Officer\" means the Chief Security Officer appointed by the Administrative Secretary;\n\"Council\" means the Security Service Council appointed in terms of section 7;\n\"Government Security Service\" means the Service responsible for the maintenance of security in government premises immediately before the coming into force of this Act;\n\"junior officer\" means a security officer of the rank of Security Inspector and below;\n\"Service\" means the Government Security Service established under section 3;\n\"security officer\" means an officer of the Service; and\n\"senior officer\" means a security officer of the rank of Assistant Security Superintendent and above."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment and constitution of the Service",
+      "section": "3",
+      "title": "Establishment of the Service",
+      "content": "3. Establishment of the Service\n(1) There is hereby established a Service to be known as the Government Security Service.\n(2) The Service shall consist of the Chief Security Officer and officers of the ranks set out in the Schedule.\n(3) The Minister may, by order published in the Gazette, amend the Schedule."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment and constitution of the Service",
+      "section": "4",
+      "title": "Appointment of Officers",
+      "content": "4. Appointment of Officers\nSubject to the laws governing the public service, the—\n( a ) Administrative Secretary shall appoint the Chief Security Officer and the Deputy Chief Security Officer; and\n( b ) Chief Security Officer shall appoint security officers of the rank of Senior Security Superintendent and below."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment and constitution of the Service",
+      "section": "5",
+      "title": "Application of Public Service General Orders to security officers",
+      "content": "5. Application of Public Service General Orders to security officers\nEvery security officer shall be subject to the Botswana Public Service General Orders in so far as such Orders are not inconsistent with the provisions of this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Establishment and constitution of the Service",
+      "section": "6",
+      "title": "Chief Security Officer",
+      "content": "6. Chief Security Officer\nThe Chief Security Officer shall, subject to this Act and the general direction of the Administrative Secretary, be responsible for the command, superintendence, direction and control of the Service."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Establishment and constitution of the Service",
+      "section": "7",
+      "title": "Appointment of Security Service Council",
+      "content": "7. Appointment of Security Service Council\n(1) The Minister shall appoint a Council to be known as the Security Service Council consisting of not less than three or more than five members.\n(2) The Minister shall appoint a Chairman and Vice-Chairman from among the members appointed under subsection (1).\n(3) A member shall be appointed for such period not exceeding two years as the Minister may determine, at the end of which period a member shall be eligible for re-appointment.\n(4) Notice of the appointments made under subsection (1), their commencement dates and their duration shall be published by notice in the Gazette.\n(5) Upon giving notice in writing of not less than 14 days, a meeting of the Council shall be called by the Chairman and held at such times and at such places as the Council may determine.\n(6) The Council shall hold two ordinary meetings in each year.\n(7) Special meetings of the Council may be convened by the Chairman upon the giving of a shorter notice when he considers such meetings to be necessary and desirable.\n(8) A quorum of the Council shall be three of the members thereof.\n(9) Decisions of the Council at any meeting shall be made by a majority of the members present at the meeting, and in the event of an equality of votes the Chairman or other person presiding shall have a casting vote.\n(10) Subject to the provisions of this Act, the Council shall regulate its own procedure."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Administrative Secretary",
+      "definition": "the Administrative Secretary in the Office of the President",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "a Board appointed in terms of sections 22, 23 and 24",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Security Officer",
+      "definition": "the Chief Security Officer appointed by the Administrative Secretary",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Security Service Council appointed in terms of section 7",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Government Security Service",
+      "definition": "the Service responsible for the maintenance of security in government premises immediately before the coming into force of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "junior officer",
+      "definition": "a security officer of the rank of Security Inspector and below",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Service",
+      "definition": "the Government Security Service established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "security officer",
+      "definition": "an officer of the Service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "senior officer",
+      "definition": "a security officer of the rank of Assistant Security Superintendent and above.",
+      "source_provision": "s2"
+    }
+  ]
+}

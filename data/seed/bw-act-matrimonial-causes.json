@@ -1,0 +1,72 @@
+{
+  "id": "bw-act-matrimonial-causes",
+  "type": "statute",
+  "title": "Matrimonial Causes",
+  "title_en": "Matrimonial Causes",
+  "short_name": "Matrimonial Causes",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/matrimonial-causes",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Matrimonial Causes Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"court\" includes the High Court and a subordinate matrimonial court;\n\"Registrar\" means the Registrar of the High Court of Botswana;\n\"subordinate matrimonial court\" means a court held by a judicial officer appointed under section 5."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Non-application to customary marriages",
+      "content": "3. Non-application to customary marriages\nThis Act shall not apply to any marriage contracted in accordance with customary law."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Power to grant relief limited to monogamous marriages",
+      "content": "4. Power to grant relief limited to monogamous marriages\nNothing in this Act shall authorise any court to pronounce a decree of divorce, nullity, judicial separation or presumption of death and dissolution of marriage or to make any other order than an order dismissing an action unless the marriage to or in respect of which the decree or order relates was a monogamous marriage."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Subordinate matrimonial courts",
+      "content": "5. Subordinate matrimonial courts\n(1) The President may, on the recommendation of the Chief Justice by order published in the Gazette , appoint any judicial officer appointed by the Judicial Service Commission to hold a court (hereinafter called a \"subordinate matrimonial court\") for the exercise of the jurisdiction and powers conferred by this Act in respect of such area or areas as may be specified in such order.\n(2) Subject to subsections (3), (4) and (5), a subordinate matrimonial court shall have the same jurisdiction as the High Court.\n(3) A subordinate matrimonial court shall have no jurisdiction as to the validity or otherwise of any marriage or divorce and shall have no power to make any order of presumption of death and dissolution of marriage.\n(4) If, during the pleadings prior to, or at the hearing of, any action by a subordinate matrimonial court any question or matter arises in relation to the validity or otherwise of any marriage or divorce of any of the parties to the action, the subordinate matrimonial court shall either—\n( a ) refer such question or matter to the High Court by way of case stated for determination by the High Court;\n( b ) adjourn the case pending the decision on such question or matter by the High Court; and\n( c ) on receiving the determination of the High Court allow pleadings to continue or proceed with the hearing of the case, whichever is appropriate, in accordance with such determination; or\n( d ) if it considers that it would be in the interest of the parties, transfer the entire case to the High Court for hearing and determination.\n(5) A subordinate matrimonial court shall exercise jurisdiction under this Act only—\n( a ) if both plaintiff and defendant are ordinarily resident within its jurisdiction; or\n( b ) where one of the parties is not so resident, if a consent to jurisdiction is filed by or on behalf of the non-resident party."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Reservation of question of law",
+      "content": "6. Reservation of question of law\n(1) A subordinate matrimonial court may, on its own motion or at the request of any party to the action, reserve for the opinion of the High Court any question of law which arises upon the hearing of the action by such subordinate matrimonial court and shall adjourn the action pending receipt of the determination of the High Court.\n(2) The question of law so reserved shall be transmitted to the High Court in the form of a special case stated.\n(3) Upon receipt of the determination of the High Court, the subordinate matrimonial court shall determine the issues of the action in accordance with such determination."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Jurisdiction in matrimonial cases",
+      "content": "7. Jurisdiction in matrimonial cases\n(1) A court shall have jurisdiction to try an action instituted by one spouse against the other for divorce or judicial separation if, at the date of the institution of proceedings either spouse is domiciled in Botswana or has been resident within Botswana for a continuous period of three years immediately preceding the date of the institution of proceedings."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "court",
+      "definition": "the High Court and a subordinate matrimonial court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of the High Court of Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "subordinate matrimonial court",
+      "definition": "a court held by a judicial officer appointed under section 5.",
+      "source_provision": "s2"
+    }
+  ]
+}

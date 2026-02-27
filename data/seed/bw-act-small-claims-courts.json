@@ -1,0 +1,84 @@
+{
+  "id": "bw-act-small-claims-courts",
+  "type": "statute",
+  "title": "Small Claims Courts",
+  "title_en": "Small Claims Courts",
+  "short_name": "Small Claims Courts",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/small-claims-courts",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Small Claims Courts Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Court\" means a small claims court established under section 3;\n\"presiding officer\" means a magistrate or other person referred to in section 8;\n\"Registrar\" means the Registrar of the High Court; and\n\"rules of court\" means rules made by the Chief Justice under section 19."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment and Nature of Court",
+      "section": "3",
+      "title": "Establishment of courts",
+      "content": "3. Establishment of courts\nThe Chief Justice may by Order establish a small claims court for any magisterial district established under section 9 of the Magistrates' Courts Act (Cap. 04:04)."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment and Nature of Court",
+      "section": "4",
+      "title": "Nature of courts",
+      "content": "4. Nature of courts\n(1) Subject to subsection (2), a small claims court shall not be a court of record.\n(2) Every presiding officer shall—\n( a ) record, or cause to be recorded every decision or order of Court made by him or her and shall sign it; and\n( b ) keep such other records relating to the proceedings of the Court as may be required by rules of court.\n(3) The process of every Court shall be of force throughout Botswana."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment and Nature of Court",
+      "section": "5",
+      "title": "Courts to be open to public",
+      "content": "5. Courts to be open to public\n(1) Subject to the provisions of subsection (2), the proceedings of every Court shall be open to the public.\n(2) A presiding officer may, in the interests of justice or good order or public morals or at the request of the parties, for reasons considered, sufficient by the Court, order that the proceedings shall be conducted in camera or that specified persons shall not be present.\n(3) The presiding officer may, in the event of any disturbance, order the offender to be removed or that the courtroom be cleared."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Establishment and Nature of Court",
+      "section": "6",
+      "title": "Language of court",
+      "content": "6. Language of court\nProceedings of the Court shall be conducted in the official languages of Botswana:\nProvided that where interpretation is required into any other language the presiding officer may order that the party requiring such interpretation should pay any costs incurred thereby."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Establishment and Nature of Court",
+      "section": "7",
+      "title": "Parties who may appear",
+      "content": "7. Parties who may appear"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Court",
+      "definition": "a small claims court established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "presiding officer",
+      "definition": "a magistrate or other person referred to in section 8",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of the High Court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rules of court",
+      "definition": "rules made by the Chief Justice under section 19.",
+      "source_provision": "s2"
+    }
+  ]
+}

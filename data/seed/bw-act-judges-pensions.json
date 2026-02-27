@@ -1,0 +1,47 @@
+{
+  "id": "bw-act-judges-pensions",
+  "type": "statute",
+  "title": "Judges&#039; Pensions",
+  "title_en": "Judges&#039; Pensions",
+  "short_name": "Judges&#039; Pensions",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/judges-pensions",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Judges' Pensions Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"age of retirement\" means the age prescribed as the age of retirement of a judge by the Constitution or enactment under which he or she is or was appointed;\n\"dependent children\" includes step children;\n\"full pension\" has the meaning assigned to it under section 7;\n\"judge\" means—\n( a ) the President and any judge of the Court of Appeal;\n( b ) the Chief Justice and any judge of the High Court;\n( c ) the President or any judge of the Industrial Court; or\n( d ) such person as the President may by order declare to be included in the definition of a judge for the purposes of this Act;\n\"judicial service\" means service as—\n( a ) President or judge of the Court of Appeal;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "age of retirement",
+      "definition": "the age prescribed as the age of retirement of a judge by the Constitution or enactment under which he or she is or was appointed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dependent children",
+      "definition": "step children",
+      "source_provision": "s2"
+    },
+    {
+      "term": "full pension",
+      "definition": "assigned to it under section 7",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judicial service",
+      "definition": "service as—\n( a ) President or judge of the Court of Appeal",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "bw-act-mineral-rights-tax",
+  "type": "statute",
+  "title": "Mineral Rights Tax",
+  "title_en": "Mineral Rights Tax",
+  "short_name": "Mineral Rights Tax",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/mineral-rights-tax",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Mineral Rights Tax Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act unless the context otherwise requires—\n\"Commissioner\" means the Commissioner of Taxes;\n\"effective date\" means 1st July, 1972;\n\"holder of mineral rights\" has the same meaning as in the Mines and Minerals Act (Cap. 66:01);\n\"mineral rights\" has the same meaning as in the Mines and Minerals Act;\n\"Minister\" means the Minister for the time being responsible for finance;\n\"tax\" means the tax charged under this Act and for the purposes of recovery includes any penalty, interest, fee or other charge imposed under this Act;\n\"tax year\" means a period of 12 months beginning on 1st July and ending on the next succeeding 30th June.\n(2) For the purposes of section 3(6)( d ) a person shall be deemed to have control of a company—\n( a ) if he exercises, or is able to exercise or is entitled to acquire, control, whether direct or indirect, over the company's affairs, and in particular, but without prejudice to the generality of the preceding words, if he possesses, or is entitled to acquire, the greater part of the share capital or voting power in the company;\n( b ) if he possesses, or is entitled to acquire, either—\n(i) the greater part of the issued share capital of the company;\n(ii) such part of that capital as would, if the whole of the income of the company were in fact distributed to the members, entitle him to receive the greater part of the amount so distributed; or\n(iii) such redeemable share capital as would entitle him to receive on its redemption the greater part of the assets which, in the event of a winding-up, would be available for distributing among members; or\n( c ) if in the event of a winding-up he would be entitled to the greater part of the assets available for distribution among members.\n(3) Where two or more persons together satisfy any of the conditions in paragraphs ( a ) to ( c ) of subsection (2) they shall be taken to have control of the company.\n(4) In subsection (2) \"member\" includes any person having a share or interest in the capital or income of the company, and, for the purposes of that subsection, a person shall be treated as entitled to acquire anything which he is entitled to acquire at a future date, or will at a future date be entitled to acquire; and, for the purposes of paragraphs ( b )(iii) and ( c ) of that subsection, any loan creditor may be treated as a member (and the references to share capital as including loan capital).\n(5) For the purposes of subsections (2) and (3) there shall be attributed to any person any rights or powers of a nominee for him, that is to say, any rights or powers which another person possesses on his behalf or may be required to exercise on his direction or behalf.\n(6) For the purposes of subsections (2) and (3) there may also be attributed to any person all the rights and powers of any company of which he has, or he and associates of his have, control of any two or more such companies, or of any associate of his or of any two or more associates of his, including those attributed to a company or associate under subsection (5) but not those attributed to an associate under this subsection.\n(7) For the purposes of subsection (6) \"associate\" means, in relation to a person—\n( a ) any relative or partner of the person;\n( b ) the trustee or trustees of any settlement in relation to which the person is, or any relative of his (living or dead) is or was, a settlor; and\n( c ) where the person is interested in any shares or obligations of a company which are subject to any trust, or are part of the estate of a deceased person, any other person interested therein."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Charge of mineral rights tax and rates",
+      "content": "3. Charge of mineral rights tax and rates"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Commissioner",
+      "definition": "the Commissioner of Taxes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "effective date",
+      "definition": "1st July, 1972",
+      "source_provision": "s2"
+    },
+    {
+      "term": "holder of mineral rights",
+      "definition": "as in the Mines and Minerals Act (Cap. 66:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mineral rights",
+      "definition": "as in the Mines and Minerals Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister for the time being responsible for finance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tax",
+      "definition": "the tax charged under this Act and for the purposes of recovery includes any penalty, interest, fee or other charge imposed under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tax year",
+      "definition": "a period of 12 months beginning on 1st July and ending on the next succeeding 30th June.\n(2) For the purposes of section 3(6)( d ) a person shall be deemed to have control of a company—\n( a ) if he exercises, or is able to exercise or is entitled to acquire, control, whether direct or indirect, over the company's affairs, and in particular, but without prejudice to the generality of the preceding words, if he possesses, or is entitled to acquire, the greater part of the share capital or voting power in the company",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "any person having a share or interest in the capital or income of the company, and, for the purposes of that subsection, a person shall be treated as entitled to acquire anything which he is entitled to acquire at a future date, or will at a future date be entitled to acquire",
+      "source_provision": "s2"
+    }
+  ]
+}

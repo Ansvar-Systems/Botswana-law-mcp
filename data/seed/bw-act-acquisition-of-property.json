@@ -1,0 +1,67 @@
+{
+  "id": "bw-act-acquisition-of-property",
+  "type": "statute",
+  "title": "Acquisition of Property",
+  "title_en": "Acquisition of Property",
+  "short_name": "Acquisition of Property",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/acquisition-of-property",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Acquisition of Property Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless inconsistent with the context—\n\"Board\" means a Board of Assessment constituted in terms of section 11;\n\"judge in chambers\" means the Chief Justice or any judge of the High Court sitting in chambers;\n\"real property\" and \"property\" mean any real right in immovable property in Botswana other than a mortgage bond over immovable property, and include any lease of immovable property, any rights to the use of public water whether derived from the common law or from statute, any servitude, or the creation of any servitude, and any land granted or ceded to any corporation, company or person; but shall not include Tribal Territories as defined by the Tribal Territories Act (Cap. 32:03)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Power of the President to acquire property",
+      "content": "3. Power of the President to acquire property\n(1) The President may acquire any real property where the acquisition of such property is necessary or expedient—\n( a ) in the interests of defence, public safety, public order, public morality, public health, town and country planning or land settlement; or\n( b ) in order to secure the development or utilisation of that or other property for a purpose beneficial to the community,\npaying such compensation therefor as may be agreed upon or determined under the provisions of this Act.\n(2) The President may agree with the owner of any real property required for public purposes for the purchase of such property, or such portion thereof as he thinks proper, for such consideration or compensation as may be agreed upon or determined under the provisions of this Act; and may in like manner acquire leasehold title."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Preliminary investigations",
+      "content": "4. Preliminary investigations\n(1) Whenever it appears to the President that real property in any locality is likely to be needed for any public purpose it shall be lawful for any person either generally or specially authorised by the President in this behalf and for his servants and workmen to do all or any of the following things—\n( a ) to enter upon and survey and take levels of any property in such locality;\n( b ) to dig or bore under the subsoil;\n( c ) to do all other acts necessary to ascertain whether the property is adapted for such purpose;\n( d ) to clear, set out and mark the boundaries of the property proposed to be taken and the intended line of the work (if any) proposed to be made thereon:\nProvided that no person shall enter into any building or upon any enclosed court or garden attached to a dwelling-house (except with the consent of the occupier thereof) without previously giving such occupier at least seven days' notice of his intention to do so.\n(2) As soon as conveniently may be after any entry made under subsection (1) the person so authorised as aforesaid shall pay for all damage done, and in case of dispute as to the amount to be paid either such person or the person claiming compensation may refer such dispute to a magistrate's court presided over by a Magistrate Grade I or over having jurisdiction in the area, whose decision shall be subject to an appeal to the High Court."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Notice of intention to take property",
+      "content": "5. Notice of intention to take property\nWhenever the President resolves to acquire any property in terms of section 3 the Minister shall give notice to the persons interested or claiming to be interested in such property or to the persons entitled by this Act to sell and convey or lease the same or to such of them as shall after reasonable inquiry be known to him (which notice shall be in Form A in the Schedule or to the like effect)."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Powers of persons under disability to sell and convey",
+      "content": "6. Powers of persons under disability to sell and convey\nIt shall be lawful for any person who is the registered owner of any property or entitled to any real rights or any estate or interest therein, to sell and convey or lease the same to the President, and particularly it shall be lawful for all or any of the following persons to sell and convey or lease, that is to say, fiduciary heirs, fideicommissary heirs, guardians, tutors testamentary or dative, curators nominate or dative, curators appointed to lunatics, idiots or prodigals, trustees under antenuptial contracts or for charitable or other purposes, executors and administrators, and trustees in insolvent estates; and the power so to sell and convey or lease as aforesaid may lawfully be exercised by such persons not only on behalf of themselves, but also for and on behalf of every person entitled in reversion or remainder after them, and to such tutors or curators or trustees on behalf of their cestui que trusts respectively to the same extent as such wards or cestui que trusts could have exercised the same powers under this Act if they had respectively been of no disability."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Notice of intention to take over and power to take possession",
+      "content": "7. Notice of intention to take over and power to take possession\n(1) The President may, by such notice as is prescribed in section 5 or by any subsequent notice, direct the persons aforesaid to yield up possession of such property after the expiration of the period specified in the notice, which period shall not be less than two months from the service of such notice, unless the property is urgently required for the public purpose."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "a Board of Assessment constituted in terms of section 11",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judge in chambers",
+      "definition": "the Chief Justice or any judge of the High Court sitting in chambers",
+      "source_provision": "s2"
+    }
+  ]
+}

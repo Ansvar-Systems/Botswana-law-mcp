@@ -1,0 +1,32 @@
+{
+  "id": "bw-sub-trade-disputes-subsidiary-legislation",
+  "type": "statute",
+  "title": "Trade Disputes: Subsidiary Legislation",
+  "title_en": "Trade Disputes: Subsidiary Legislation",
+  "short_name": "Trade Disputes: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/trade-disputes-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Trade Disputes Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Registration of collective labour agreements, etc.",
+      "content": "2. Registration of collective labour agreements, etc.\n(1) The Commissioner shall register one copy of any copies of the same collective labour agreement or of the same agreement extending or varying the terms of a collective labour agreement lodged with him in accordance with section 29(1) of the Act by affixing his date stamp thereto and by recording in a register of collective labour agreements to be kept by him in the form set out in the Schedule hereto—\n( a ) the fact and date of registration of the copy; and\n( b ) the full name and postal address of each party to the agreement.\n(2) The Commissioner shall retain the copy registered in accordance with this regulation with his records and shall serve notice in accordance with section 29(2) of the Act on every party to the material agreement that he has registered the copy by—\n( a ) serving on the party that lodged the registered copy with him a true copy thereof; and\n( b ) serving on every other party that lodged a copy of the agreement with him that copy,\nafter first affixing his date stamp thereto."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Secret ballot in connection with industrial action by employees in essential service",
+      "content": "3. Secret ballot in connection with industrial action by employees in essential service\n(1) This regulation shall apply in respect of every secret ballot as defined by the Act (namely, a secret ballot of employees in an essential service held on the question of whether industrial action in furtherance of a trade dispute should or should not be taken by those employees).\n(2) There shall be lodged with the Commissioner, not less than five days immediately before the day on which it is proposed that the ballot be held or commence, for submission to the Minister—\n( a ) a written statement setting forth—\n(i) the nature of the industrial action contemplated;\n(ii) the steps taken to inform the employees concerned of the nature of the industrial action contemplated and to inform them that no such action may be taken unless the result of the ballot shows that not less than two-thirds of the employees entitled to vote and actually voting therein are in favour of taking industrial action; and\n(iii) the day or days on which, the precise location of the place or places at which and the hours between which it is proposed that the ballot be held; and"
+    }
+  ],
+  "definitions": []
+}

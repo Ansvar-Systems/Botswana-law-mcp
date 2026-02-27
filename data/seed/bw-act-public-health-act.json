@@ -1,0 +1,786 @@
+{
+  "id": "bw-act-public-health-act",
+  "type": "statute",
+  "title": "Public Health Act",
+  "title_en": "Public Health Act",
+  "short_name": "Public Health Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/public-health-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Public Health Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"AIDS\" means acquired immunodeficiency syndrome;\n\"adult\" means a person who is 16 years of age or over;\n\"advertisement\" includes any representation by any means for the purpose of promoting, directly or indirectly, the sale of any article;\n\"appointing authority\" means any person or body having power, whether delegated or otherwise, to make appointments to posts in the public service;\n\"approved\" means approved by the Minister;\n\"approved health care worker\" means a person approved as a health care worker;\n\"approved specialist medical practitioner\" means a person approved as a specialist medical practitioner;\n\"article\" includes any food article, and labelling or advertising materials used in connection with public health services;\n\"authorised officer\" means a person designated as such in terms of section 37(1);\n\"back to back system\" means adjacent premises that are constructed in a manner that gives zero setback to both premises;\n\"building\" includes any structure, dwelling or premises constructed for the purpose of occupation;\n\"burial\" means the burial in earth, interment or any other form of sepulchre, or the cremation or any other approved mode of disposal, of a dead body;\n\"Kgosi\" has the meaning assigned to it in the Bogosi Act (Cap. 41:01);\n\"certificate of designation\" means a certificate issued under section 37(3);\n\"child\" means a person who is under the age of 16 years;\n\"cleansing\" means—\n( a ) the removal from surfaces, by scrubbing and washing, with water, soap or suitable detergent, of infectious agents and organic matter on which and in which infectious agents may find favourable conditions for prolonging the life and virulence of such infectious agents;\n( b ) the killing of infectious agents outside the body by chemical or physical means directly applied; or\n( c ) the removal from the environment, of pollutants and contaminants using appropriate chemical, biological and physical agents or other suitable methods;\n\"communicable disease\" means any disease which can be transmitted directly or indirectly from one person to another;\n\"consent\" means permission given without any force, fraud or threat, and with the knowledge and understanding of the matter to which the consent relates;\n\"Council\" means the National Health Council established under section 5;\n\"Director\" means the Director of Health Services referred to in section 15;\n\"disposal\" has the meaning assigned to it in the Waste Management Act (Cap. 65:06);\n\"District Health Management Team\" means an organisation providing health services in a district on behalf of the Ministry;\n\"District Primary Health Care Coordinating Committee\" means primary health care coordinating committee at the district level established under section 14(1);\n\"District Public Health Specialist\" means a medical practitioner who possesses a recognised specialist qualification in public health and who heads the department responsible for health in a district council;\n\"dust\" means any solid matter in a fine or disintegrated form, which is capable of being dispersed or suspended in the atmosphere;\n\"dwelling\" means any structure or place, any portion of which is used by a human being for sleeping, or in which any human lives;\n\"environmental health\" means the aspect of public health that is concerned with the forms of life, substance, forces and conditions in the surroundings of human beings that may exert an influence on human health and well-being;\n\"environmental health officer\" means an officer who possesses requisite training in environmental health and is recognised as such;\n\"food\" has the meaning assigned to it in the Food Control Act (Cap. 65:05);\n\"health district\" means a geographical health services region which is administratively under a district, town or city council;\n\"health establishment\" means an institution, entity or body corporate registered with the Ministry, to provide health services;\n\"health facility\" means any government institution, non-governmental organisation or private institution engaged, directly or indirectly in providing health care or health services to members of the public;\n\"health hazard\" means—\n( a ) a condition of premises;\n( b ) a solid, liquid or gaseous substance, a combination of substances or a combination of different states of a substance;\n( c ) a thing;\n( d ) a plant;\n( e ) an animal;\n( f ) a human being; or\n( g ) a condition, state, agent or process,\nthat is, or may become, harmful or dangerous to health, that hinders in any manner the suppression of disease or the prevention of injury, or that is prescribed as a health hazard;\n\"health officer\" means—\n( a ) a person designated to be a health officer in terms of section 20;\n( b ) a medical practitioner registered under the Botswana Health Professions Act (Cap. 61:02);\n( c ) an environmental health officer; or\n( d ) a community health nurse;\n\"HIV\" means Human Immunodeficiency Virus;\n\"HIV test\" means a medical test, approved by the Director, which determines whether or not a person is infected with HIV;\n\"immunisable disease\" means a disease that is subject to immunisation under the International Health Regulations;\n\"infected\" means suffering from, or carrying, a potential disease-causing agent in the body;\n\"International Health Regulations\" means the International Health Regulations determined by the World Health Organisation;\n\"label\" includes any tag, brand, mark, pictorial or other descriptive matter, written, printed, stencilled, marked, embossed or impressed on, or attached to, or included in, belonging to, or accompanying, any product, or any package or article;\n\"local authority\" has the meaning assigned to it in the Interpretation Act (Cap. 01:04);\n\"material thing\" means any object, item or matter apart from documentary evidence which can authenticate one&rsquo;s claim to a property;\n\"medical practitioner\" has the meaning assigned to it in the Botswana Health Professionals Act;\n\"medical surveillance\" means the keeping of a person under medical observation;\n\"member\" means a member of the National Health Council;\n\"National Health Council\" means the body established as a National Health Council under section 5;\n\"notifiable disease\" means smallpox (including variola minor or Alastair), cholera, plague, yellow fever, diphtheria, typhoid (enteric) fever (including para-typhoid AB), whooping cough, tuberculosis, poliomyelitis, neonatal tetanus, measles, leprosy, urethral discharge syndrome, vaginal discharge syndrome, genital ulcer syndrome, pelvic inflammatory disease (PID), other sexually transmitted infections, HIV, AIDS, pneumonia in under five year olds, malaria, bacillary dysentery, meningococcal meningitis and viral hemorrhagic fever (VHF), and includes any other disease declared a notifiable disease in terms of section 52;\n\"noxious or offensive gases\" means any of the following groups of compounds which in the form of gas, namely, hydrocarbons, alcohols, aldehydes, ketones, ethers, esters, phenols, organic acids and their derivatives, halogens, organic nitrogen, organic sulphur, sulphur and halogen compounds, cyanides, cyanogens, ammonia and its compounds, inorganic acids, fumes containing antimony, arsenic, beryllium, chromium, cobalt, copper, lead, manganese, mercury, vanadium or zinc, or their derivatives, fumes from tar- works, cement-works, fumes and odours from purification plants, glue factories, cement-works and meat or fish processing factories; and any other gas, fume or particular matter prescribed as a noxious or offensive gas for the purpose of this Act; and includes dust from asbestos treatment or mining;\n\"nurse\" has the meaning assigned to it in the Nurses and Midwives Act (Cap. 61:03);\n\"nurse administrator\" has the meaning assigned to it in the Nurses and Midwives Act;\n\"objectionable matter\" means smoke, gases including noxious or offensive gases, vapours, fumes, grit, dust or other matter capable of being dispersed or suspended in the atmosphere, which is produced or is likely to be produced by any industrial process;\n\"occupier\" includes—\n( a) a person in actual occupation of land or premises without regard to the title under which he or she occupies;\n( b ) in the case of premises subdivided and let to lodgers or various tenants, the person receiving the rent payable by lodgers or tenants, whether on the person&rsquo;s own account or as an agent for a person entitled to receive the rent or interested on receiving the rent;\n( c ) in the case of a school, the school head or other person in charge of the school; and\n( d ) in case of a government premises, the accounting officer;\n\"owner&ldquo; means any person who is the legal owner, lessee or occupier of any property on which any other person dwells or animal or thing is kept or present, or a process is being carried on, or any other person responsible for carrying on any process on any property;\n\"package&ldquo; means anything, including food, which is wholly or partly placed or packed and includes any basket, pail, tray, or receptacle of any kind, whether open or enclosed;\n\" parent\" means a parent, the legal guardian of a child and includes a person with the care or custody of a child;\n\"partner\" means a spouse or a person with whom another person is living in a domestic relationship; domestic relationship as used under this definition has the meaning assigned to it in the Domestic Violence Act (Cap. 28:05);\n\"point of entry\" means an airport or a border post established under section 131;\n\"police officer\" has the meaning assigned to it in the Police Act (Cap. 21:01);\n\"port health\" means the aspect of public health service that deals with the prevention of the introduction of quarantinable diseases and conditions of public health significance from external sources at the port of entry;\n\"port health officer\" means an environmental health officer or any other authorised officer designated as a port health officer under section 132;\n\"premises\" means any building, dwelling or other structure, together with the land on which it is situated and any adjoining land occupied or used in connection with any activities carried on in the building, dwelling or structure, and includes any land without any buildings or other structures;\n\"Primary Health Care Coordinating Committee\" means a primary health care coordinating committee at the national level established under section 14(1);\n\"process\" means any activity or combination of activities involving the movement of people, materials, forms or other entities, including the use, storage, manufacturing, and handling, of a thing with the intent to bring about some desired product or result, that may impact on human health and the environment;\n\"public health\" means a science and art of preventing disease, prolonging life, promoting physical and mental health and efficiency through organised community efforts for the sanitation of the environment, control of community infections, the education of the individual in principles of personal hygiene, the organisation of medical and nursing services for the prevention and early diagnosis of disease, and development of social machinery which will ensure, to every individual in the community, a standard of living adequate for the maintenance of health;\n\"public health services\" means programmes and services that prevent or limit diseases or disability; that protect, promote and restore health or that contribute to achieving goals for the health of the population, and includes programmes and services—\n( a ) with respect to environmental health and safety;\n( b ) with respect to community health and family health;\n( c ) to promote healthy living;\n( d ) to promote the self-reliance and well-being of individuals;\n( e ) to improve the nutritional status of the population through access to healthy food;\n( f ) to prevent, detect, investigate, treat or control communicable and non-communicable diseases;\n( g ) to prevent injuries;\n( h ) to prevent, dete"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Status of Act in relation to other legislation",
+      "content": "3. Status of Act in relation to other legislation\nAny other existing legislation on public health shall be in addition to, and not in derogation from this Act in so far as it is consistent with this Act and, in the event of any conflict between that legislation and this Act, this Act shall prevail."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary",
+      "section": "4",
+      "title": "Ministry&rsquo;s functions in public health",
+      "content": "4. Ministry&rsquo;s functions in public health\nThe functions of the Ministry in public health are to—\n( a ) promote public health;\n( b ) promote personal health and environmental health;\n( c ) prevent and guard against the introduction of disease from outside Botswana;\n( d ) prevent or control communicable diseases;\n( e ) advise and assist local authorities with regard to matters affecting public health;\n( f ) prepare and publish reports and statistics or other information relating to public health;\n( g ) provide for the appointment of advisers, advisory bodies or councils to assist the Minister in all matters concerning public health;\n( h ) determine the policies, goals and measures necessary to promote, improve and maintain the health and well-being of the population;\n( i ) administer the Act, and make regulations on broad public health issues;\n( j ) set health standards and ensure that the standards are adhered to;\n( k ) ensure that authorised officers at all times have access to any health service or health facility, for the purpose of supervision of compliance with provisions laid down in, or decisions made pursuant to, national policy, legislation, regulations and recognised standards;\n( I ) pursue its supervisory role by means of advice, counselling and the provision of information, and by arranging for systematic and independent audits of the internal control systems established in terms of this Act; and\n( m ) monitor and evaluate the efficiency of health programmes and services and their effectiveness in achieving the established goals for the population."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment of National Health Council",
+      "section": "5",
+      "title": "Establishment of Council",
+      "content": "5. Establishment of Council\n(1) There is hereby established a council to be known as the National Health Council.\n(2) The Council shall consist of—\n( a ) an eminent health professional of Botswana, who shall be the chairperson; and\n( b ) the following members appointed by the Minister, in writing—\n(i) a representative of the Ministry responsible for agriculture,\n(ii) a representative of the Ministry responsible for education and skills development,\n(iii) a representative of the Ministry responsible for finance and development planning,\n(iv) a representative of the Ministry responsible for sport, youth and culture,\n(v) a representative of the Ministry responsible for infrastructure, science and technology,\n(vi) a representative of the Ministry responsible for transport and communications,\n(vii) a representative of the Ministry responsible for local government,\n(viii) a representative of the Ministry responsible for wildlife and the environment,\n(ix) a representative of the Ministry responsible for labour,\n(x) a representative of the Ministry responsible for trade and industry,\n(xi) a representative of the Ministry responsible for minerals, energy and water resources,\n(xii) a representative of the Botswana Health Professions Council,\n(xiii) a representative of the Attorney-General&rsquo;s Chambers,\n(xiv) a representative of the faculty responsible for health sciences at the University of Botswana,\n(xv) a representative of the Botswana Bureau of Standards,\n(xvi) one medical practitioner representing private health providers,\n(xvii) a representative of the department responsible for environmental health at the University of Botswana,\n(xviii) a representative from non-governmental organisations,\n(xix) a representative of the Dikgosi,\n(xx) two representatives from development partners, and\n(xxi) two other persons appointed by the Minister, who have suitable expert knowledge or experience to assist the Council in the discharge of its duties.\n(3) The head of the department responsible for public health or policy in the Ministry of Health shall be the Secretary of the Council.\n(4) In this section &ldquo;an eminent health professional of Botswana&rdquo; means a distinguished member from among Botswana health professionals."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Establishment of National Health Council",
+      "section": "6",
+      "title": "Powers and duties of Council",
+      "content": "6. Powers and duties of Council\n(1) The Council shall be an advisory body to the Minister.\n(2) The Council shall—\n( a ) at the request of the Minister, or may, of its own accord, advise the Minister on—\n(i) policy concerning any matter that is likely to protect, promote, improve and maintain the health of the population,\n(ii) legislation pertaining to health matters,\n(iii) norms and standards for the establishment of health facilities,\n(iv) the implementation of health policy, and\n(v) the integration of national strategy for health research; and\n( b ) consider appeals on matters relating to the implementation of public health policies.\n(3) For the purposes of performing its functions, the Council may, in its discretion, consult or receive representations from any person, body or authority."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Establishment of National Health Council",
+      "section": "7",
+      "title": "Tenure of office of members",
+      "content": "7. Tenure of office of members\n(1) A member shall hold office for a period not exceeding three years, as may be specified in the instrument appointing him or her and shall be eligible for re-appointment.\n(2) In appointing members to the Council, the Minister shall specify their periods of appointment such that at any given time, two thirds of the old membership is retained."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Establishment of National Health Council",
+      "section": "8",
+      "title": "Disqualification from appointment as member",
+      "content": "8. Disqualification from appointment as member\nA person shall not be appointed as a member who has—\n( a ) in terms of a law in force in any country—\n(i) been adjudged or otherwise declared bankrupt or insolvent and has not been discharged, or\n(ii) made an assignment, arrangement or composition with his or her creditors, which has not been rescinded or set aside; or\n( b ) within a period of ten years immediately preceding the date of his or her intended appointment, been convicted—\n(i) in Botswana, of a criminal offence, or\n(ii) outside Botswana, of a criminal offence which, if committed in Botswana, would have been a criminal offence,\nand sentenced by a court of competent jurisdiction to imprisonment for six months or more without the option of a fine, whether that sentence has been suspended or not and for which he or she has not received a free pardon."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Establishment of National Health Council",
+      "section": "9",
+      "title": "Vacation of office of member",
+      "content": "9. Vacation of office of member\n(1) The Minister may, by notice in writing, remove a member from office if that member—\n( a ) is absent without reasonable cause, from three consecutive meetings of the Council of which that member has had notice;\n( b ) is inefficient;\n( c ) has been found to be physically or mentally incapable of performing his or her duties efficiently, and the member&rsquo;s medical doctor has issued a certificate to that effect;\n( d ) contravenes this Act or otherwise misconducts himself or herself to the detriment of the objectives of the Council;\n( e ) becomes subject to a disqualification set out in section 8; or\n( f ) has failed to comply with section 12(1).\n(2) A member may resign from his or her office by giving 30 days written notice to the Minister.\n(3) The office of a member shall become vacant—\n( a ) where the member appeals, 30 days from the date a ruling against the member is made on an appeal made in respect of a conviction against the member under section 8( b );\n( b ) where the member does not appeal, 30 days from the date the member was convicted of an offence referred to in section 8( b );\n( c ) after the member communicates his or her resignation, in writing, to the Minister, in accordance with subsection (2); or\n( d ) after 30 days have elapsed from the date the member is given notice in writing by the Minister to vacate office in accordance with subsection (1).\n(4) For the purposes of subsection (1)( d ), &ldquo;misconduct&rdquo; includes any act done without reasonable excuse by a member which—\n( a ) amounts to failure to perform, in a proper manner, any duty imposed on him or her as a member;\n( b ) is prejudicial to the efficient conduct of the business of the Council; or\n( c ) tends to bring the Council into disrepute."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II Establishment of National Health Council",
+      "section": "10",
+      "title": "Filling of vacancies",
+      "content": "10. Filling of vacancies\n(1) Where the office of a member becomes vacant before the expiry of the member&rsquo;s term of office, the Minister may appoint another person to be a member in place of the member who has vacated office, and that member shall hold office for the remainder of the term of office of the member who vacated office.\n(2) Where the remainder of the term of office of a member is 24 months or less, the Minister shall not appoint another person to be a member in place of the member who has vacated office."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II Establishment of National Health Council",
+      "section": "11",
+      "title": "Meetings and proceedings of Council",
+      "content": "11. Meetings and proceedings of Council\n(1) The Council shall, for the transaction of its business, meet at least three times a year at such time and place as the chairperson may determine.\n(2) The Minister shall, upon giving at least 30 days written notice to the members, convene the first meeting of the Council as soon as practicable after the commencement of this Act.\n(3) Any other meeting of the Council shall be convened by the chairperson or vice chairperson at such times and places as the chairperson may determine, upon giving at least 14 days written notice to the members.\n(4) Without prejudice to subsections (2) and (3), where the urgency of any particular matter does not permit the giving of a notice in accordance with subsection (3), a special meeting of the Council may be held upon giving a shorter notice as may be reasonable under the circumstances.\n(5) Subject to this Act, the Council shall regulate its own proceedings.\n(6) At any meeting of the Council, two thirds of the members shall constitute a quorum .\n(7) A decision of the Council on any matter shall be by a simple majority of the members present and voting at the meeting and, in the event of an equality of votes, the person presiding shall have a casting vote in addition to that person&rsquo;s deliberative vote.\n(8) An act, decision or proceeding of the Council shall not be rendered invalid by reason only of a vacancy in the Council or on account of the appointment of any member being defective.\n(9) The Council may invite any person whose presence it considers necessary, to participate in the deliberations of its meetings, but that person shall not vote.\n(10) The chairperson presiding at a meeting of the Council shall cause proper minutes of meetings of Council to be taken and recorded."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II Establishment of National Health Council",
+      "section": "12",
+      "title": "Disclosure of interest",
+      "content": "12. Disclosure of interest\n(1) Where a member is present at a meeting of the Council or any of its committees at which any matter which is the subject of consideration and in which matter the member is directly or indirectly interested in a private capacity is to be discussed, he or she shall immediately upon the commencement of the meeting, disclose such interest and shall not, unless the Council or a committee otherwise directs, take part in any consideration or discussion of, or vote on, any question concerning that matter.\n(2) A disclosure of interest made under subsection (1) shall be recorded in the minutes of the meeting at which it is made.\n(3) Where a member fails to disclose his or her interest in accordance with subsection (1) and a decision by the Council or a committee of the Council is made benefiting that member, that decision shall be void to the extent that it benefits him or her.\n(4) A person who contravenes subsection (1) commits an offence and is liable to a fine not exceeding P5 000, or to imprisonment for a term not exceeding three months, or to both."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II Establishment of National Health Council",
+      "section": "13",
+      "title": "Committees of Council",
+      "content": "13. Committees of Council\n(1) The Council may establish such committees as the Council considers necessary to advise it on any matter.\n(2) The Council may appoint persons who are or are not its members to be members of committees, but the chairperson of a committee shall be a member of the Council.\n(3) The Council may delegate, to a committee, some of its functions as it considers appropriate.\n(4) A committee shall, for the transaction of its business, meet at the times and places as the Director may determine.\n(5) Sections 8 to 12 shall, with necessary modifications, apply to committees."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART III Administration of Act",
+      "section": "14",
+      "title": "Primary Health Care Coordinating Committees",
+      "content": "14. Primary Health Care Coordinating Committees\n(1) There is hereby established a National Primary Health Care Coordinating Committee and a District Primary Health Care Coordinating Committee for every health district.\n(2) The Minister shall appoint members of the National Primary Health Care Coordinating Committee and members of each District Primary Health Care Coordinating Committee.\n(3) The National Primary Health Care Coordinating Committee shall include among others—\n( a ) the Permanent Secretary to the Ministry;\n( b ) the Deputy Permanent Secretary to the Ministry responsible for Local Government;\n( c ) the Director;\n( d ) the head of public health in the Ministry;\n( e ) the head of the Policy Planning, Monitoring and Evaluation Department in the Ministry responsible for health;\n( f ) all Deputy Permanent Secretaries in the Ministry;\n( g ) the head of Primary Health Care Support Division in the Ministry;\n( h ) the head of clinical services in the Ministry;\n( i ) the head of HIV/AIDS Prevention and Care in the Ministry;\n( j ) the head of Central Medical Stores; and\n( k ) a representative of private sector health practitioners.\n(4) The functions of the National Primary Health Care Coordinating Committee are to—\n( a ) present, discuss and resolve technical and administrative policy matters relating to the delivery of public health services;\n( b ) advice the Minister and Council on the implementation of public health policy;\n( c ) develop, communicate, review and revise the terms of reference for district health services coordinating committees in all councils;\n( d ) monitor and guide the district primary health care coordinating committees in the performance of their work; and\n( e ) discuss and resolve any issue referred to it by a district health care coordinating committee.\n(5) The Permanent Secretary to the Ministry shall be the chairperson of the National Primary Health Care Coordinating Committee.\n(6) The Deputy Permanent Secretary to the Ministry shall be the vice chairperson of the National Primary Health Care Coordinating Committee.\n(7) The National Primary Health Care Coordinating Committee may invite any person from a Ministry or department when issues concerning that Ministry or department come before the National Primary Health Care Coordinating Committee for consideration, to attend and participate in the deliberations of its meetings, but such person shall not vote.\n(8) One half of the members of the National Primary Health Care Coordinating Committee shall constitute a quorum to conduct the business of the Committee.\n(9) A District Primary Health Care Coordinating Committee shall consist of—\n( a ) the District Public Health Specialist;\n( b ) the head of District Health Management Team;\n( c ) the head of preventive health services;\n( d ) the District Chief Community Health Nurse;\n( e ) the District Chief Environmental Health Officer; and\n( f ) the Chief Public Health Officer.\n(10) The functions of a District Primary Health Care Coordinating Committee shall be to—\n( a ) develop policy implementation guidelines on matters relating to public health and to harmonise such guidelines with the National Health Policy and health programmes carried out by the Ministry and local authorities;\n( b ) develop guidelines on the referral system for patients within the district and monitor their implementation;\n( c ) implement and monitor the changes in the district primary health care programmes;\n( d ) ensure that the implementation of primary health care programmes is in harmony with the National Health Policy; and\n( e ) monitor the provision and co-ordination of all health services within the district.\n(11) The Director may, in consultation with the Chairperson of the District Primary Health Care Coordinating Committee, invite any person whose presence the Director considers necessary, to attend and participate in the deliberations of its meetings, but that person shall not vote.\n(12) The chairperson of a District Primary Health Care Coordinating Committee shall be the District Public Health Specialist who shall be responsible for health services at the district level.\n(13) The deputy chairperson of a District Primary Health Care Coordinating Committee shall be the Hospital Superintendent or the Chief Medical Officer, as the case may be.\n(14) The Hospital Chief Nursing Officer or the Matron, as the case may be, shall be the Deputy Secretary to the District Primary Health Care Coordinating Committee.\n(15) The District Chief Environmental Health Officer shall be the Secretary to the District Primary Health Care Coordinating Committee.\n(16) A District Primary Health Care Coordinating Committee shall furnish a schedule of its meetings, copies of minutes of the meetings and quarterly progress reports on its functions, to the secretariat of the National Primary Health Care Coordinating Committee."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART III Administration of Act",
+      "section": "15",
+      "title": "Director of Health Services",
+      "content": "15. Director of Health Services\n(1) The Director of Health Services shall oversee the implementation of this Act.\n(2) The Director shall—\n( a ) be a medical practitioner; and\n( b ) have specialised qualifications in the area of clinical or public health."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART III Administration of Act",
+      "section": "16",
+      "title": "Powers and functions of Director",
+      "content": "16. Powers and functions of Director\nThe Director shall—\n( a ) develop and implement strategies to promote and improve public health;\n( b ) ensure that this Act is complied with;\n( c ) advise the Minister on any necessary or appropriate changes to this Act that may be necessary or appropriate;\n( d ) carry out any other function that the Minister may determine in line with this Act;\n( e ) be the chief technical advisor on national health issues; and\n( f ) do anything necessary or convenient to perform any functions under this Act."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART III Administration of Act",
+      "section": "17",
+      "title": "Directions by Minister",
+      "content": "17. Directions by Minister\nThe Minister may, in writing, give the Director such directions, not inconsistent with this Act, in respect of any power or function of the Director under this Act."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART III Administration of Act",
+      "section": "18",
+      "title": "Report on public health",
+      "content": "18. Report on public health\n(1) Within 12 months after the commencement of this Act, the Director shall submit to the Minister a report on the status of public health in the country, and at such intervals as the Minister shall determine by regulations.\n(2) The Minister shall, within 28 days after receipt of the report referred to in subsection (1), cause that report to be laid in the National Assembly, if the National Assembly is then in session, and where the National Assembly is not in session then in the following session, within 28 days after the commencement of that session."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART III Administration of Act",
+      "section": "19",
+      "title": "Delegation by Director",
+      "content": "19. Delegation by Director\nThe Director may, in writing, delegate any of his or her functions or powers under this Act to any person, class of persons, public authority or agency."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART III Administration of Act",
+      "section": "20",
+      "title": "Designation of health officers",
+      "content": "20. Designation of health officers\n(1) The Minister may, in writing, require the Director to designate as a health officer—\n( a ) a qualified medical practitioner; or\n( b ) a person with approved qualifications,\nfor purposes of discharging functions under section 22.\n(2) Where the Director fails to make any designation under subsection (1) within three months, the Director shall notify the Minister in writing stating the reasons for his or her failure.\n(3) Where the Director has given reasons to the Minister for not designating a person with approved qualifications as a health officer, and the Minister is satisfied with the reasons provided, the Minister may, in writing—\n( a ) allow the Director to designate, in accordance with the regulations, a person who does not have the approved qualifications;\n( b ) allow the Director to designate a person on such terms and conditions as the Minister may determine; or\n( c ) exempt the Director from being required to designate a person.\n(4) Subject to subsections (2) and (3)(c), the Minister shall designate a person with approved qualifications as health officer.\n(5) A person designated a health officer under this section shall be issued a certificate of designation stating that he or she has been so designated, and such certificate shall be prima facie proof of such designation."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART III Administration of Act",
+      "section": "21",
+      "title": "Approval of qualifications",
+      "content": "21. Approval of qualifications\nThe Director may, in writing, approve the qualifications required for designation as a health officer under section 20."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART III Administration of Act",
+      "section": "22",
+      "title": "Functions of health officers",
+      "content": "22. Functions of health officers\n(1) The Director shall ensure that a health officer carries out such functions as the Director may direct.\n(2) Without prejudice to the generality of subsection (1) a health officer shall—\n( a ) ensure that this Act is complied with within the local government area in respect of which he or she is appointed;\n( b ) assist in the preparation of any reports required to be made by the National Health Council under this Act; and\n( c ) take all lawful, necessary and reasonably practicable measures to ensure equal access and equity to health care services for all including those with mental illness."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART III Administration of Act",
+      "section": "23",
+      "title": "Emergency declaration",
+      "content": "23. Emergency declaration\n(1) The Director may, by Order published in the Gazette , declare that a public health emergency exists if—\n( a ) the Director is satisfied that the situation so dictates it; and\n( b ) it is not practicable for a declaration of a state of emergency or disaster to be made under the Emergency Powers Act (Cap. 22:04).\n(2) A public health emergency declaration made under subsection (1) shall specify—\n( a ) the nature of the public health emergency;\n( b ) the area to which the declaration relates; and\n( c ) the period, not exceeding seven days, during which the declaration shall be in force."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART III Administration of Act",
+      "section": "24",
+      "title": "Duration of emergency declaration",
+      "content": "24. Duration of emergency declaration\n(1) A public health emergency declaration shall come into force on the date on which it is made and shall continue for the period specified in the declaration.\n(2) The Director may, by Order published in the Gazette , extend the period of a public health emergency declaration as may be necessary."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART III Administration of Act",
+      "section": "25",
+      "title": "Directions by Director",
+      "content": "25. Directions by Director\n(1) After making a public health emergency declaration under section 23, the Director may take any action or, in writing, give directions to—\n( a ) reduce, remove or destroy any threat to public health;\n( b ) segregate or isolate persons in any area;\n( c ) evacuate persons from any area;\n( d ) prevent or permit people&rsquo;s access to any area; or\n( e ) control the movement of any vehicle, animal or person to any area.\n(2) The Director may, in writing, give any one or more of the following directions that any—\n( a ) specified person undergo a medical examination;\n( b ) specified person move to, or stay in, a specified area;\n( c ) substance or thing be seized;\n( d ) substance or thing be destroyed; or\n( e ) other action the Director considers appropriate be taken.\n(3) A person given a direction under subsection (2) shall comply with that direction and any regulations made under this Act.\n(4) A person who contravenes any provision of this section commits an offence and is liable to a fine not exceeding P5 000, or to imprisonment for a term not exceeding 12 months or, to both."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART III Administration of Act",
+      "section": "26",
+      "title": "Special powers",
+      "content": "26. Special powers\n(1) The Director may, in writing, authorise persons or a class of persons to assist him or her in carrying out any direction under this Act.\n(2) A person authorised under subsection (1), or a police officer, in assisting the Director to carry out any direction under this Act, may—\n( a ) enter, by reasonable force where necessary, any place that is reasonably necessary to enter, so as to—\n(i) save human life,\n(ii) prevent injury to a person, or\n(iii) rescue any injured or endangered person;\n( b ) close any area, premises or vehicle;\n( c ) close to traffic any road, street or other way on which traffic passes; and\n( d ) remove, by reasonable force, any person who fails to comply with the direction made under section 25."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART III Administration of Act",
+      "section": "27",
+      "title": "Compensation",
+      "content": "27. Compensation\n(1) A person may, in writing, apply to the Minister for compensation for any loss or damage suffered by that person as a result of anything done under section 25 or 26.\n(2) Compensation under subsection (1) shall be such amount the Minister considers appropriate for—\n( a ) any action or omission, by an authorised person that is not the result of a direction under section 25; or\n( b ) the loss or damage caused or that contributed to the public health emergency."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART III Administration of Act",
+      "section": "28",
+      "title": "Report by Director",
+      "content": "28. Report by Director\nAfter a public health emergency declaration ceases to be in force, the Director shall submit to the Minister a report containing full details of—\n( a ) the events resulting in the making of the declaration;\n( b ) directions and actions given by the Director; and\n( c ) likelihood of repeat or reoccurrence of events referred to in paragraph (a)."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART III Administration of Act",
+      "section": "29",
+      "title": "Public health inquiries",
+      "content": "29. Public health inquiries\nThe Director may, with the approval of the Minister, hold an inquiry in respect of—\n( a ) any matter concerning public health; or\n( b ) the administration of this Act."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART III Administration of Act",
+      "section": "30",
+      "title": "Investigation",
+      "content": "30. Investigation\n(1) Where a matter under section 25 does not, in the opinion of the Director, justify inquiry, the Director may carry out any necessary investigation into the matter.\n(2) In carrying out an investigation under subsection (1), the Director—\n( a ) shall have the powers specified in section 32; and\n( b ) may take any action necessary to protect public health."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART III Administration of Act",
+      "section": "31",
+      "title": "Procedure at inquiry",
+      "content": "31. Procedure at inquiry\n(1) An inquiry held under section 29 shall be conducted with as little formality and technicality as a proper consideration of the matter permits.\n(2) In conducting the inquiry under section 29, the Director shall not be bound by the rules of evidence, but shall observe the rules of natural justice."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART III Administration of Act",
+      "section": "32",
+      "title": "Powers of inquiry",
+      "content": "32. Powers of inquiry\nFor the purpose of an inquiry under section 29, the Director may—\n( a ) summon a person to appear and give evidence at the inquiry;\n( b ) require a person to answer any question;\n( c ) require a person to take an oath or make an affirmation;\n( d ) take statements; and\n( e ) require the production of any relevant document."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART III Administration of Act",
+      "section": "33",
+      "title": "Report of inquiry",
+      "content": "33. Report of inquiry\n(1) The Director shall, within 30 days of completing an inquiry, submit to the Minister a report of the findings of the inquiry.\n(2) The Minister shall, within 28 days of receipt of the report referred to in subsection (1), cause a copy of the report to be laid in the National Assembly if the National Assembly is in session, or, where the National Assembly is not in session, then within 28 days after the commencement of the following session."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART III Administration of Act",
+      "section": "34",
+      "title": "Protection of Director",
+      "content": "34. Protection of Director\n(1) The Director, in exercising any power or performing any function under sections 29 and 30 shall have the same protection and immunity as a judge of the High Court.\n(2) A person required to attend at an inquiry or investigation as a witness shall have the same protection as a witness in a proceeding in the High Court.\n(3) A person shall not, without reasonable excuse, fail to—\n( a ) appear or give evidence where required to do so;\n( b ) answer a question put to him or her;\n( c ) take an oath or make an affirmation where required to do so; or\n( d ) produce a document that he or she is required to produce at an inquiry.\n(4) A person appearing at an inquiry or investigation shall not knowingly give evidence that is false or misleading.\n(5) A person shall not hinder, obstruct or delay the conduct of any inquiry or investigation.\n(6) A person who contravenes this section commits an offence and is liable to a fine not exceeding P5 000, or imprisonment for a term not exceeding one year, or to both."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART III Administration of Act",
+      "section": "35",
+      "title": "General functions of District Health Management Team",
+      "content": "35. General functions of District Health Management Team\nThe District Health Management Team shall, for its area of jurisdiction,—\n( a ) develop and implement strategies to promote and improve public health;\n( b ) ensure that this Act is complied with;\n( c ) carry out any other function for the purpose of this Act; and\n( d ) ensure that it has a management and support team to co-ordinate and provide support and guidance in relation to public health consisting of at least one of the following—\n(i) a medical practitioner with appropriate public health training and experience,\n(ii) a nurse administrator (matron or equivalent),\n(iii) a community health nurse,\n(iv) a senior or chief health inspector or chief environmental health officer,\n(v) a district communicable disease officer (focusing on TB and AIDS),\n(vi) a district rehabilitation officer or physiotherapist,\n(vii) a district health education and nutrition officer, or a district health education officer and district nutrition officer, or\n(viii) an administration officer of an appropriate rank."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART III Administration of Act",
+      "section": "36",
+      "title": "Orders relating to functions",
+      "content": "36. Orders relating to functions\n(1) The Director may, in writing, order—\n( a ) the District Health Management Team to exercise any power or perform any function under this Act;\n( b ) any authorised officer to carry out, in urgent circumstances, a specified function of a local authority under this Act; or\n( c ) any authorised officer to perform any function, under this Act, in any area of jurisdiction of a local authority.\n(2) Where the District Health Management Team or a local authority fails to exercise any power or perform any function that the Director orders it to exercise or perform, under subsection (1)( a ), the Director may exercise the power or perform the function at the local authority&rsquo;s expense.\n(3) Before the Director makes an order or takes any action under sub section (2) in relation to a local authority, the Director shall, unless the circumstances require immediate action, hold an inquiry to establish why the local authority has failed to perform any function.\n(4) A local authority may, in writing, request the Director to exercise any of its powers or perform any of its functions at the local authority&rsquo;s expense."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART III Administration of Act",
+      "section": "37",
+      "title": "Designation of authorised officers",
+      "content": "37. Designation of authorised officers\n(1) The Minister may, in writing, designate a person or class of persons to be an authorised officer or authorised officers, as the case may be, to discharge the functions under this Act.\n(2) An authorised officer may require, and if so requested, shall be provided with information concerning health services provided to patients or prisoners, and may inspect such notes or records as are required to control and supervise the activities of a health service or health establishment.\n(3) A person designated as an authorised officer under this section shall be issued a certificate of designation stating that he or she has been so designated, and such certificate shall be prima facie proof of such designation.\n(4) For the purposes of subsection (2), &ldquo;prisoner&rdquo; has the meaning assigned to it in the Prisons Act (Cap. 21:03)."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART III Administration of Act",
+      "section": "38",
+      "title": "Entry, inspection, seizure, etc.",
+      "content": "38. Entry, inspection, seizure, etc.\n(1) For the purposes of section 37, an authorised officer may, at any reasonable time—\n( a ) enter, remain in and inspect any area, premises, body of water or vehicle;\n( b ) inspect anything found in or on any area, premises, body of water or vehicle;\n( c ) mark, fasten, secure, take and remove a sample of anything found in or on any area, premises, body of water or vehicle;\n( d ) open any container, receptacle or package found in or on any area, premises, body of water or vehicle;\n( e ) weigh, count, measure or gauge anything found in or on any area, premises, body of water or vehicle;\n( f ) seize anything or record found in or on any area, premises, body of water or vehicle;\n( g ) take any record found in or on any area, premises, body of water or vehicle for the purpose of copying it; or\n( h ) seal any area, premises, and body of water or vehicle.\n(2) In exercising the powers under this section the authorised officer shall—\n( a ) produce a certificate of identification issued by the Minister when requested to do so by the owner of the area, premises, body of water or vehicle;\n( b ) give reasonable notice to the owner of the area, premises, body of water or vehicle unless such notice would defeat the purpose of the intended exercise of the power; and\n( c ) use no more force than is necessary to exercise the power.\n(3) An authorised officer may require a police officer, an interpreter or any other person to assist him or her in exercising any power under this section.\n(4) An authorised officer who seizes anything under subsection (1)( f ) shall, by notice in writing served on the owner of the thing—\n( a ) specify the details of the thing seized;\n( b ) specify the place to which the thing has been taken including if need be, the manner of disposal or destruction; and\n( c ) in the case of food which is tainted, adulterated, diseased or unwholesome for human consumption, order it to be destroyed, or to be disposed off so as to prevent it from being used as food for humans or animals."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART III Administration of Act",
+      "section": "39",
+      "title": "Production of records",
+      "content": "39. Production of records\n(1) An authorised officer may require any person to produce any record required to be kept under this Act.\n(2) An authorised officer may—\n( a ) examine any record produced under subsection (1);\n( b ) remove the record for the purpose of paragraph (c); and\n( c ) take photographs extracts or notes from, or copies of, the record by any means."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART III Administration of Act",
+      "section": "40",
+      "title": "Production of things for inspection",
+      "content": "40. Production of things for inspection\nAn authorised officer may, in writing, require any person to produce, for inspection, anything in the person&rsquo;s possession where—\n( a ) the local authority or the officer reasonably believes that it may disclose evidence of the commission of an offence under this Act; or\n( b ) it is necessary for the purposes of this Act."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART III Administration of Act",
+      "section": "41",
+      "title": "Production of licence",
+      "content": "41. Production of licence\nAn authorised officer may—\n( a ) require a person to produce, for inspection, any licence relevant to the provision of the public health service rendered by the holder of the licence; and\n( b ) examine, remove and take photographs or copies of, or extracts or notes from any licence."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART III Administration of Act",
+      "section": "42",
+      "title": "Photographs, sketches, measurements and recordings",
+      "content": "42. Photographs, sketches, measurements and recordings\nFor the purposes of this Act, an authorised officer may—\n( a ) take any photograph, film or video recording;\n( b ) take any copy of, or extract from any record;\n( c ) take any measurements;\n( d ) make any sketches or drawings; and\n( e ) make any other recording by any other means."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "PART III Administration of Act",
+      "section": "43",
+      "title": "Information requirements",
+      "content": "43. Information requirements\n(1) An authorised officer may require a person to—\n( a ) give his or her full name and residential address;\n( b ) give details of any licence, permit or exemption under this Act; and\n( c ) provide any information relating to public health, that is reasonably required for the purposes of this Act.\n(2) An authorised officer may require any person to give information about that person&rsquo;s or another person&rsquo;s activities in respect of any matter under this Act.\n(3) A person who fails to comply with a requirement under this section commits an offence and is liable to a fine not exceeding P5 000, or to imprisonment for a term not exceeding three years, or to both.\n(4) An authorised officer who removes any item other than that contemplated in this Act from any land or premises being inspected shall—\n( a ) issue a receipt for that item, to the owner, or any person in control, of the premises; and\n( b ) return that item as soon as practicable after achieving the purpose for which it was removed."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "PART III Administration of Act",
+      "section": "44",
+      "title": "Entry and inspection with warrant",
+      "content": "44. Entry and inspection with warrant\n(1) An authorised officer in possession of a warrant issued by a magistrate in terms of subsection (3) may enter and inspect any residential land or premises for the purpose of carrying out functions under this Act.\n(2) An authorised officer shall, on entry into any residential land or premises, identify himself or herself by producing a certificate of designation.\n(3) A magistrate may issue a warrant to enter and inspect any residential land or premises if, from information on oath, there are reasonable grounds to believe that—\n( a ) there is non-compliance with this Act or any other law relating to public health; or\n( b ) in the interest of public health, it is necessary to obtain information that cannot be obtained without entering the land or premises.\n(4) A warrant in terms of this Act may only be carried out between 07:00 a.m. and 19:00 p.m. unless the magistrate who issued the warrant states, in writing, that entering and inspection may be carried out at night or at any other time reasonable in the circumstances."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART III Administration of Act",
+      "section": "45",
+      "title": "Entry and inspection without warrant",
+      "content": "45. Entry and inspection without warrant\n(1) An authorised officer without a warrant may enter and inspect any residential land or premises to carry out an inspection contemplated in this Part if, in his or her opinion, there is a reasonable belief that this Act is being, is about to be or has been contravened and that the obtaining of a warrant would defeat the purpose of the inspection or search.\n(2) An authorised officer may enter and inspect any residential land or premises, with the consent of the owner or person in charge of the land or premises.\n(3) An authorised officer without a warrant may enter any residential land or premises in respect of which there is an outstanding compliance notice, issued in terms of this Act, for the purpose of determining whether that notice has been complied with.\n(4) Upon entering any residential land or premises, but before an inspection is carried out, an authorised officer shall identify himself or herself and show a certificate of designation to the person giving permission for entry to the land or premises."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "PART III Administration of Act",
+      "section": "46",
+      "title": "Persons who may accompany health officers",
+      "content": "46. Persons who may accompany health officers\n(1) An authorised officer may require an interpreter, a police officer or any other person to assist him or her to conduct inspection.\n(2) Notwithstanding subsection (1), an authorised officer may reasonably require the assistance of an interpreter, police officer or any qualified person in the cause of his or her duties or in conducting inspection and may only require assistance from unqualified person in exceptional circumstances."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "PART III Administration of Act",
+      "section": "47",
+      "title": "Compliance notices",
+      "content": "47. Compliance notices\n(1) An authorised officer who discovers that any provision of this Act has not been complied with in relation to any land or premises, shall issue a compliance notice to the owner or person in charge of that land or premises.\n(2) An authorised officer who is satisfied that the owner or person in charge of any land or premises has satisfied the terms of a compliance notice, may issue to the owner or person a compliance certificate.\n(3) A compliance notice issued under subsection (1) shall remain in force until an authorised officer issues a compliance certificate in respect of that notice.\n(4) For the purposes of this section—\n\"compliance notice\" means a notice issued by an authorised officer to the owner or person in charge of land or premises requiring him or her to comply with the requirement of the law; and\n\"compliance certificate\" means a certificate issued by an authorised officer to the owner or person in charge of land or premises who has complied with the requirement of the law."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "PART III Administration of Act",
+      "section": "48",
+      "title": "Miscellaneous provision relating to health officers, authorised officers and compliance procedures",
+      "content": "48. Miscellaneous provision relating to health officers, authorised officers and compliance procedures\nFor the purposes of this Act, the head of a public health department at the national or district level shall be—\n( a ) the owner and occupier of any land or premises that the department occupies or uses to the exclusion of any other person; and\n( b ) the employer or persons in the service of that department if, as an employer, the department—\n(i) bears any duty imposed by this Act, or\n(ii) exercises any power conferred by this Act."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "PART III Administration of Act",
+      "section": "49",
+      "title": "Offences relating to authorised officers and their functions",
+      "content": "49. Offences relating to authorised officers and their functions\nA person who—\n( a ) refuses an authorised officer acting in terms of this Act access to any land or premises;\n( b ) obstructs or hinders an authorised officer who is carrying out a duty under this Act;\n( c ) refuses to provide an authorised officer with any information that the person is required to provide under this Act;\n( d ) knowingly gives false or misleading information to an authorised officer;\n( e ) unlawfully prevents the owner of any land or premises, or a person working for that owner, from entering the land or premises in order to comply with a requirement of this Act;\n( f ) impersonates an authorised officer;\n( g ) falsifies a warrant, compliance notice, compliance certificate or certificate of designation;\n( h ) fails to comply with a compliance notice;\n( i ) acts contrary to the terms of a warrant issued in accordance with this Act; or\n( j ) in the performance of any function or exercise of any power in terms of this Act, acquires any information relating to the financial or business affairs of any person, and discloses that information, except—\n(i) to a person who requires that information in order to perform a function or exercise a power in terms of this Act,\n(ii) where the disclosure is ordered by a court of law, or\n(iii) where the disclosure is in compliance with the provisions of any law,\ncommits an offence and is liable to a fine not exceeding P5 000, or to imprisonment for a term not exceeding 12 months, or to both."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "PART IV Maternal and Under Five Years Child Death",
+      "section": "50",
+      "title": "Maternal death to be reported",
+      "content": "50. Maternal death to be reported\n(1) An officer-in-charge of a health facility shall ensure that every maternal or child under the age of five years death that occurs at the health facility is recorded and reported in such manner as may be prescribed.\n(2) An adult person who is present during a maternal or child under the age of five years death, or any adult occupier of a dwelling in which a maternal or child under the age of five years death occurs, or any other adult person who is the first person to become aware of a maternal or child under the age of five years death shall report such death to a health facility situated where the death occurred, within 48 hours of such occurrence, or as soon as is practicable.\n(3) An officer-in-charge of a health facility shall ensure that any maternal or child under the age of five years death reported to the health facility in terms of subsection (2) is recorded and reported within 30 days.\n(4) An officer-in-charge of a health facility shall, on a monthly basis, verify every maternal or child under the age of five years death recorded by the health facility and report same to the District Registrar of Births and Deaths or Registration Officer in whose area the health facility is situated and to the Ministry."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "PART IV Maternal and Under Five Years Child Death",
+      "section": "51",
+      "title": "Health facility to collaborate with Kgosi",
+      "content": "51. Health facility to collaborate with Kgosi\nAn officer-in-charge of a health facility shall collaborate with the Kgosi in whose area the health facility is situated, in the identification of maternal or children under the age of five years deaths that occur in that area."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "PART V Notifiable and Communicable Diseases",
+      "section": "52",
+      "title": "Notification of disease",
+      "content": "52. Notification of disease\n(1) Notifiable diseases shall be under surveillance and shall be reported within such period as may be prescribed in the Integrated Disease Surveillance and Response Guidelines prepared by the Minister.\n(2) The Minister may, by Order published in the Gazette-\n( a ) declare that any disease, other than those specified in subsection (1), shall be a notifiable disease under this Act;\n( b ) declare that only the provisions of this Act as are mentioned in the Order shall apply to any notifiable disease;\n( c ) restrict this Act regarding the notification of any disease, to any district or area and for that period as may be specified in the Order, or until the Order has been revoked or has expired; and\n( d ) direct that persons, authorities, agencies and departments outside the Ministry shall comply with this Act, more particularly the provisions relating to disease notification.\n(3) Every officer-in-charge of a health facility, a medical practitioner or health officer shall, in writing, notify the Director about a notifiable disease that occurs at the facility or that the medical practitioner or health officer comes across during the course of that medical practitioner or health officer&rsquo;s work.\n(4) A person who contravenes subsection (3) commits an offence and is liable to a fine not exceeding P5 000, or to imprisonment for a term not exceeding one year, or to both, and in the case of a body corporate, the head of that body corporate or the officer directly responsible for the body corporate shall be liable to the same fine and imprisonment."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "PART V Notifiable and Communicable Diseases",
+      "section": "53",
+      "title": "Inspection of premises with persons infected with communicable disease",
+      "content": "53. Inspection of premises with persons infected with communicable disease\nA health officer or an authorised officer may, at any reasonable time of the day, enter and inspect any premises which he or she has reason to believe that—\n( a ) any person suffering, or who has recently suffered from any communicable disease is or has recently been present; or\n( b ) any of its inmates has recently been exposed to the infection of any communicable disease,\nand may medically examine or cause to be medically examined any person in the premises for the purpose of ascertaining whether that person is suffering, or has recently suffered, from that disease."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "PART V Notifiable and Communicable Diseases",
+      "section": "54",
+      "title": "Power to cleanse premises",
+      "content": "54. Power to cleanse premises\n(1) Where any health officer or an authorised officer is of the opinion that the cleansing of any premises or part of the premises, and of any articles in the premises likely to retain infection would prevent or control a communicable disease, the health officer or the authorised officer may give notice, in writing, to the owner or occupier of that premises or part of the premises specifying the steps to be taken to cleanse those premises or part of the premises and articles within that time as may be specified in the notice.\n(2) A person to whom notice is given under subsection (1), who fails to comply with the notice commits an offence and is liable to a fine not exceeding P2 000, or to imprisonment for a term not exceeding six months, or to both.\n(3) Where the owner or occupier of any premises or part of the premises referred to in subsection (1) is, for any reason, unable to comply with this section, a health officer or an authorised officer may, with or without the owners or occupiers consent, enter and cleanse those premises or part of the premises and articles in the premises or part of the premises."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "PART V Notifiable and Communicable Diseases",
+      "section": "55",
+      "title": "Destruction of bedding, clothing, etc.",
+      "content": "55. Destruction of bedding, clothing, etc.\n(1) A health officer or an authorised officer may direct the destruction of any bedding, clothing or other articles which have been exposed to infection from any communicable disease, or which, in the opinion of a health officer, are contaminated; and any such direction shall be sufficient authority for any person authorised to destroy the bedding, clothing, rags or other articles.\n(2) The Minister may award compensation for any bedding, clothing or other articles destroyed under this section."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "PART V Notifiable and Communicable Diseases",
+      "section": "56",
+      "title": "Provision of cleansing place",
+      "content": "56. Provision of cleansing place\nA health officer or an authorised officer may provide a proper place for the cleansing of bedding, clothing or any articles which have become contaminated, and may cause any bedding, clothing, rags or articles brought for cleansing to be cleansed free of charge."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "PART V Notifiable and Communicable Diseases",
+      "section": "57",
+      "title": "Isolation of persons who have been exposed to infection",
+      "content": "57. Isolation of persons who have been exposed to infection\n(1) Where, in the opinion of a medical practitioner, health officer or an authorised officer, any person certified to be suffering from a communicable disease is not accommodated or is not being treated or nursed in such manner as to adequately guard against the spread of the communicable disease, that person may, on the order of a medical practitioner, health officer or an authorised officer be detained in or removed to a health facility or any temporary place which, in the opinion of the medical practitioner, health officer or an authorised officer is suitable for the reception of that person.\n(2) The person referred to in subsection (1) shall be detained in the health facility or temporary place in which he or she is detained or to which he or she is removed until the medical practitioner, health officer or an authorised officer, in writing, by the Director is satisfied that he or she is free from infection or can be discharged without danger to the public health.\n(3) A person detained in accordance with an order of a medical practitioner, health officer, or an authorised officer who escapes or attempts to escape, commits an offence and is liable to a penalty prescribed under this Act."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "PART V Notifiable and Communicable Diseases",
+      "section": "58",
+      "title": "Offence of exposure of infected persons and things",
+      "content": "58. Offence of exposure of infected persons and things\n(1) A person who—\n( a ) while suffering from any communicable disease, wilfully exposes himself or herself to another person, without proper precautions against spreading that disease in any street, public place, shop or public conveyance;\n( b ) being in charge of any person suffering from a communicable disease, exposes such person in a manner stated in paragraph (a); or\n( c ) gives, lends, sells, transmits or exposes, without previous cleansing, any bedding, clothing, rags or other articles which have been exposed to infection from any such disease,\ncommits an offence.\n(2) Notwithstanding subsection (1), the proceedings under this section shall not be taken against persons conveying, with proper precautions, any bedding, clothing, rags or other articles for the purpose of having the bedding, clothing, rags or other articles cleansed.\n(3) For the purposes of this section, ‘‘public conveyance&rdquo; includes any train, coach, omnibus, motorcar or any vehicle of any kind, or any aircraft, if it pliers for hire or is used by members of the public."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "PART V Notifiable and Communicable Diseases",
+      "section": "59",
+      "title": "Cleansing of public conveyances",
+      "content": "59. Cleansing of public conveyances\nAn owner or driver of a public conveyance in which a person suffering, or suspected of suffering, from a communicable disease has been carried, shall immediately provide for the cleansing of that public conveyance on the instruction, in writing, of a health officer."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "PART V Notifiable and Communicable Diseases",
+      "section": "60",
+      "title": "Offence of letting infected premises",
+      "content": "60. Offence of letting infected premises\nA person who, knowingly, lets for hire any dwelling or premises or part of the dwelling or premises in which a person who has been suffering from a communicable disease resided without cleansing the dwelling or premises or part of, and articles in the dwelling or premises likely to retain infection, commits an offence."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "PART V Notifiable and Communicable Diseases",
+      "section": "61",
+      "title": "Death in premises due to communicable disease",
+      "content": "61. Death in premises due to communicable disease\n(1) In every case of a death from a communicable disease, the occupier of the premises in which the death has occurred shall immediately communicate with, and arrange for, a health officer to be notified of the death, and make the best arrangements practicable, pending the removal of the body and the carrying out of thorough cleansing, for preventing the spread of disease.\n(2) A person, who without reasonable cause, fails or refuses to comply with subsection (1), commits an offence."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "PART V Notifiable and Communicable Diseases",
+      "section": "62",
+      "title": "Disposal of body of person who died from communicable disease",
+      "content": "62. Disposal of body of person who died from communicable disease\n(1) When—\n( a ) the body of a person who has died of a communicable disease is retained in a room in which any person lives, sleeps, works, or in which food is kept or prepared or eaten;\n( b ) any dead body is retained in any dwelling or place under circumstances which, in the opinion of a health officer, are likely to endanger health; or\n( c ) any dead body is found and is unclaimed or where no competent person undertakes to bury that dead body,\nany magistrate or member of the Botswana Police Service of, above, the rank of sergeant, may on a certificate signed by a health officer, direct that the dead body be removed to a mortuary for post-mortem examination or, where the dead body is that of a person certified to have died of a communicable disease, may order that the dead body be buried immediately without removal to a mortuary.\n(2) A person who hinders or obstructs the execution of any order or direction given under this section commits an offence."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "PART VI Special Provisions Regarding Diseases Subject to the International Health Regulations, 2005",
+      "section": "63",
+      "title": "Diseases subject to International Health Regulations",
+      "content": "63. Diseases subject to International Health Regulations\n(1) The International Health Regulations, 2005 to which Botswana is a party as set out in Schedule 1 to this Act, and includes any Appendices thereto and any Resolution of the Conference of Parties, shall have the force of law in Botswana.\n(2) The provisions of this Act, unless otherwise expressed, in so far as they concern diseases subject to the International Health Regulations, 2005 shall be deemed to apply to—\n( a ) Cholera (including cholera due to the El Tor vibrio ), dengue fever, human influenza caused by a new subtype, meningococcal disease, Poliomyelitis due to wild-type poliovirus, plague (all forms), Rift Valley fever, severe acute respiratory syndrome (SARS), smallpox (including alastrim or ariola minor ), viral haemorrhagic fevers, (ebola, lassa, marburg), West Nile fever, yellow fever;\n( b ) other diseases that are of special national or regional concern; and\n( c ) any event of potential international public health concern, including those of unknown causes or sources and those involving other events or diseases than those listed in paragraphs ( a ) and ( b ).\n(3) Subject to subsection (1), any amendment made to the International Health Regulations, 2005, Botswana shall become a party to the amendment, and the Minister shall, by Order published in the Gazette , publish the amendments and upon publication the International Health Regulations, 2005 shall, in their application to Botswana, be so amended."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "PART VI Special Provisions Regarding Diseases Subject to the International Health Regulations, 2005",
+      "section": "64",
+      "title": "Power of entry",
+      "content": "64. Power of entry\nA health officer shall have the power of entry on any premises for the purpose of carrying out functions under this Act."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "PART VI Special Provisions Regarding Diseases Subject to the International Health Regulations, 2005",
+      "section": "65",
+      "title": "Notification of sickness or mortality in animals",
+      "content": "65. Notification of sickness or mortality in animals\n(1) A person who becomes aware of any unusual sickness or mortality among rats, mice, cats, dogs or other animals susceptible to plague, rabies or other disease subject to the International Health Regulations, 2005, not due to poison or other deliberate act, shall immediately report the fact to the nearest police station or to a health or veterinary officer.\n(2) A person who contravenes subsection (1) commits an offence and is liable to a fine not exceeding P1 000, or to imprisonment for a term not exceeding three months, or to both."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "PART VI Special Provisions Regarding Diseases Subject to the International Health Regulations, 2005",
+      "section": "66",
+      "title": "Notification of diseases subject to International Health Regulations, 2005",
+      "content": "66. Notification of diseases subject to International Health Regulations, 2005\nA police officer, health officer, authorised officer or veterinary officer shall immediately report to the Director of Health Services, by radio, telegraph, telephone or other expeditious means, particulars of every notification received of a case of any disease subject to the International Health Regulations, 2005, or of any unusual sickness or mortality in animals, made under section 65."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "PART VI Special Provisions Regarding Diseases Subject to the International Health Regulations, 2005",
+      "section": "67",
+      "title": "Requisition of premises, equipment, etc.",
+      "content": "67. Requisition of premises, equipment, etc.\n(1) Where an outbreak of any disease subject to the International Health Regulations, 2005 exists or is likely to exist, the Minister may, in the interest of public health, require any person who owns or has charge of any land or any premises, buildings or dwellings not occupied, or any person who owns or has charge of transport, bedding, hospital equipment, drugs, food or other appliances, materials or articles urgently required in connection with the outbreak, to hand over the use of that article, subject to the prompt payment of adequate compensation as hire or purchase price.\n(2) A person, who without reasonable cause, fails or refuses to comply with any requirement under subsection (1), commits an offence."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "PART VII Prevention of the Spread of Immunisable Diseases and their Re-emergence",
+      "section": "68",
+      "title": "Emergency vaccination",
+      "content": "68. Emergency vaccination\n(1) In the event of the re-occurrence or threatened outbreak of any immunisable or re-emerging immunisable disease in any area—\n( a ) a public vaccinator may require—\n(i) any person who has or is suspected to have been in any way recently exposed to the infection to be vaccinated or revaccinated immediately, or\n(ii) the parent or guardian of any child who has or is suspected to have been so exposed, to have such child vaccinated or revaccinated immediately;\n( b ) the Director shall, by Order published in the Gazette , require all persons within a defined area to attend, at specified centres, to undergo examination, vaccination or revaccination or micronutrient supplementation as circumstances may require, and the Order shall be published in the media, in the news paper with wide circulation or posted up in public places, or otherwise, as may be considered sufficient by the Director; and\n( c ) any public vaccinator or medical practitioner duly authorised by the Director may require any person in that area to furnish satisfactory proof that the person has been successfully vaccinated within that period as to render the vaccination valid.\n(2) The Director shall, subject to subsection (1) provide further procedures where necessary to be followed.\n(3) A person who fails to—\n( a ) comply with subsection (1); or\n( b ) attend at specified centres in terms of subsection (1)( b ), or to furnish the proof required under subsection (1)( c ) with regard to himself or herself or any child of which he or she is the parent and refuses to allow himself or herself or the child to be vaccinated,"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "AIDS",
+      "definition": "acquired immunodeficiency syndrome",
+      "source_provision": "s2"
+    },
+    {
+      "term": "adult",
+      "definition": "a person who is 16 years of age or over",
+      "source_provision": "s2"
+    },
+    {
+      "term": "advertisement",
+      "definition": "any representation by any means for the purpose of promoting, directly or indirectly, the sale of any article",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appointing authority",
+      "definition": "any person or body having power, whether delegated or otherwise, to make appointments to posts in the public service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved",
+      "definition": "approved by the Minister",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved health care worker",
+      "definition": "a person approved as a health care worker",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved specialist medical practitioner",
+      "definition": "a person approved as a specialist medical practitioner",
+      "source_provision": "s2"
+    },
+    {
+      "term": "article",
+      "definition": "any food article, and labelling or advertising materials used in connection with public health services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised officer",
+      "definition": "a person designated as such in terms of section 37(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "back to back system",
+      "definition": "adjacent premises that are constructed in a manner that gives zero setback to both premises",
+      "source_provision": "s2"
+    },
+    {
+      "term": "building",
+      "definition": "any structure, dwelling or premises constructed for the purpose of occupation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "burial",
+      "definition": "the burial in earth, interment or any other form of sepulchre, or the cremation or any other approved mode of disposal, of a dead body",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Kgosi",
+      "definition": "assigned to it in the Bogosi Act (Cap. 41:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate of designation",
+      "definition": "a certificate issued under section 37(3)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child",
+      "definition": "a person who is under the age of 16 years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "communicable disease",
+      "definition": "any disease which can be transmitted directly or indirectly from one person to another",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consent",
+      "definition": "permission given without any force, fraud or threat, and with the knowledge and understanding of the matter to which the consent relates",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the National Health Council established under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the Director of Health Services referred to in section 15",
+      "source_provision": "s2"
+    },
+    {
+      "term": "disposal",
+      "definition": "assigned to it in the Waste Management Act (Cap. 65:06)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "District Health Management Team",
+      "definition": "an organisation providing health services in a district on behalf of the Ministry",
+      "source_provision": "s2"
+    },
+    {
+      "term": "District Primary Health Care Coordinating Committee",
+      "definition": "primary health care coordinating committee at the district level established under section 14(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "District Public Health Specialist",
+      "definition": "a medical practitioner who possesses a recognised specialist qualification in public health and who heads the department responsible for health in a district council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dust",
+      "definition": "any solid matter in a fine or disintegrated form, which is capable of being dispersed or suspended in the atmosphere",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dwelling",
+      "definition": "any structure or place, any portion of which is used by a human being for sleeping, or in which any human lives",
+      "source_provision": "s2"
+    },
+    {
+      "term": "environmental health",
+      "definition": "the aspect of public health that is concerned with the forms of life, substance, forces and conditions in the surroundings of human beings that may exert an influence on human health and well-being",
+      "source_provision": "s2"
+    },
+    {
+      "term": "environmental health officer",
+      "definition": "an officer who possesses requisite training in environmental health and is recognised as such",
+      "source_provision": "s2"
+    },
+    {
+      "term": "food",
+      "definition": "assigned to it in the Food Control Act (Cap. 65:05)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health district",
+      "definition": "a geographical health services region which is administratively under a district, town or city council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health establishment",
+      "definition": "an institution, entity or body corporate registered with the Ministry, to provide health services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health facility",
+      "definition": "any government institution, non-governmental organisation or private institution engaged, directly or indirectly in providing health care or health services to members of the public",
+      "source_provision": "s2"
+    },
+    {
+      "term": "HIV",
+      "definition": "Human Immunodeficiency Virus",
+      "source_provision": "s2"
+    },
+    {
+      "term": "HIV test",
+      "definition": "a medical test, approved by the Director, which determines whether or not a person is infected with HIV",
+      "source_provision": "s2"
+    },
+    {
+      "term": "immunisable disease",
+      "definition": "a disease that is subject to immunisation under the International Health Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "infected",
+      "definition": "suffering from, or carrying, a potential disease-causing agent in the body",
+      "source_provision": "s2"
+    },
+    {
+      "term": "International Health Regulations",
+      "definition": "the International Health Regulations determined by the World Health Organisation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "label",
+      "definition": "any tag, brand, mark, pictorial or other descriptive matter, written, printed, stencilled, marked, embossed or impressed on, or attached to, or included in, belonging to, or accompanying, any product, or any package or article",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local authority",
+      "definition": "assigned to it in the Interpretation Act (Cap. 01:04)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "material thing",
+      "definition": "any object, item or matter apart from documentary evidence which can authenticate one&rsquo",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical practitioner",
+      "definition": "assigned to it in the Botswana Health Professionals Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical surveillance",
+      "definition": "the keeping of a person under medical observation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the National Health Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "National Health Council",
+      "definition": "the body established as a National Health Council under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "notifiable disease",
+      "definition": "smallpox (including variola minor or Alastair), cholera, plague, yellow fever, diphtheria, typhoid (enteric) fever (including para-typhoid AB), whooping cough, tuberculosis, poliomyelitis, neonatal tetanus, measles, leprosy, urethral discharge syndrome, vaginal discharge syndrome, genital ulcer syndrome, pelvic inflammatory disease (PID), other sexually transmitted infections, HIV, AIDS, pneumonia in under five year olds, malaria, bacillary dysentery, meningococcal meningitis and viral hemorrhagic fever (VHF), and includes any other disease declared a notifiable disease in terms of section 52",
+      "source_provision": "s2"
+    },
+    {
+      "term": "noxious or offensive gases",
+      "definition": "any of the following groups of compounds which in the form of gas, namely, hydrocarbons, alcohols, aldehydes, ketones, ethers, esters, phenols, organic acids and their derivatives, halogens, organic nitrogen, organic sulphur, sulphur and halogen compounds, cyanides, cyanogens, ammonia and its compounds, inorganic acids, fumes containing antimony, arsenic, beryllium, chromium, cobalt, copper, lead, manganese, mercury, vanadium or zinc, or their derivatives, fumes from tar- works, cement-works, fumes and odours from purification plants, glue factories, cement-works and meat or fish processing factories",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nurse",
+      "definition": "assigned to it in the Nurses and Midwives Act (Cap. 61:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nurse administrator",
+      "definition": "assigned to it in the Nurses and Midwives Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "objectionable matter",
+      "definition": "smoke, gases including noxious or offensive gases, vapours, fumes, grit, dust or other matter capable of being dispersed or suspended in the atmosphere, which is produced or is likely to be produced by any industrial process",
+      "source_provision": "s2"
+    },
+    {
+      "term": "parent",
+      "definition": "a parent, the legal guardian of a child and includes a person with the care or custody of a child",
+      "source_provision": "s2"
+    },
+    {
+      "term": "partner",
+      "definition": "a spouse or a person with whom another person is living in a domestic relationship",
+      "source_provision": "s2"
+    },
+    {
+      "term": "point of entry",
+      "definition": "an airport or a border post established under section 131",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police officer",
+      "definition": "assigned to it in the Police Act (Cap. 21:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "port health",
+      "definition": "the aspect of public health service that deals with the prevention of the introduction of quarantinable diseases and conditions of public health significance from external sources at the port of entry",
+      "source_provision": "s2"
+    },
+    {
+      "term": "port health officer",
+      "definition": "an environmental health officer or any other authorised officer designated as a port health officer under section 132",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "any building, dwelling or other structure, together with the land on which it is situated and any adjoining land occupied or used in connection with any activities carried on in the building, dwelling or structure, and includes any land without any buildings or other structures",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Primary Health Care Coordinating Committee",
+      "definition": "a primary health care coordinating committee at the national level established under section 14(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "process",
+      "definition": "any activity or combination of activities involving the movement of people, materials, forms or other entities, including the use, storage, manufacturing, and handling, of a thing with the intent to bring about some desired product or result, that may impact on human health and the environment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public health",
+      "definition": "a science and art of preventing disease, prolonging life, promoting physical and mental health and efficiency through organised community efforts for the sanitation of the environment, control of community infections, the education of the individual in principles of personal hygiene, the organisation of medical and nursing services for the prevention and early diagnosis of disease, and development of social machinery which will ensure, to every individual in the community, a standard of living adequate for the maintenance of health",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public health services",
+      "definition": "programmes and services that prevent or limit diseases or disability",
+      "source_provision": "s2"
+    }
+  ]
+}

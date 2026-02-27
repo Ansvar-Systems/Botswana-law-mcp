@@ -1,0 +1,198 @@
+{
+  "id": "bw-sub-land-survey-subsidiary-legislation",
+  "type": "statute",
+  "title": "Land Survey: Subsidiary Legislation",
+  "title_en": "Land Survey: Subsidiary Legislation",
+  "short_name": "Land Survey: Subsidiary Leg...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/land-survey-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Land Survey Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "2",
+      "title": "Application",
+      "content": "2. Application\nIn so far as these Regulations differ from procedures established by usage they shall not apply to any survey the field work of which has been actually commenced before the commencement of these Regulations."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "3. Interpretation\nIn these Regulations unless the context otherwise requires—\n\"accurately determined\" means determined with a standard of accuracy conforming with that prescribed in regulation 11(1);\n\"administrative district\" means a district prescribed in terms of section 2 of the Administrative Districts Act (Cap. 03:02);\n\"arc of observations\" means the mean of two rounds of observations to surrounding stations and beacons, one being taken in a clockwise direction and the other with the telescope transitted in an anti-clockwise direction;\n\"cadastre area\" for purposes of land registration, means, a surveyed administrative boundary of a specific area which is registered in the deeds Registry as a diagram for that area;\n\"degree square\" means an area abounded by lines of latitude and longitude joining the four intersection points of two adjacent whole numbered lines of latitude and longitude within Botswana;\n\"Director\" means the Director of Surveys and Lands;\n\"original diagram\" means the diagram of the property being surveyed, resurveyed, or subdivided;\n\"registration division\" , in respect of any land, means the degree square in which such land is situate;\n\"regular figure\" or \"figure of regular shape\" means a rectangular figure or a right-angled triangle;\n\"rural land\" means all land not situate in a township, village or settlement;\n\"side\" , when used in relation to a figure on a diagram or general plan, means a straight boundary line represented thereon, or the imaginary line joining any two beacons between which the boundary is curvilinear, and includes the line joining an unbeaconed corner point with the indicatory beacon defining such point;\n\"the right or left bank of a river\" means that bank of the river which is on his right or left side, as the case may be, when the observer is looking downstream; and \"the middle of the river\" means the line midway between the banks."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Power of Director to Test Surveys (reg 4)",
+      "section": "4",
+      "title": "Director may test surveys",
+      "content": "4. Director may test surveys\nIf the Director has reason to doubt the accuracy, correctness or authenticity of any survey, or of any information supplied in connection with such survey, he may, after having given notice of his intention to the land surveyor concerned, test such accuracy, correctness or authenticity and thereafter take such further action as he may deem fit."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART III Field Work (regs 5-17)",
+      "section": "5",
+      "title": "Survey information",
+      "content": "5. Survey information\n(1) Before carrying out any survey in terms of the Act, a land surveyor shall provide himself with all available information in respect of any previous surveys of the piece of land to be surveyed, of the adjoining pieces of land, and of official co-ordinate values and designations of beacons affected by his survey.\n(2) If the Director is able to furnish the information required under subregulation (1), he will do so on payment of such disbursements as he may prescribe."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART III Field Work (regs 5-17)",
+      "section": "6",
+      "title": "Surveyor to finish sketch plan, etc.",
+      "content": "6. Surveyor to finish sketch plan, etc.\nIn applying for information required in terms of regulation 5 a land surveyor shall furnish a sketch plan, or a verbal description of the land, indicating the approximate location of the portion to be surveyed in relation to surrounding pieces of land."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART III Field Work (regs 5-17)",
+      "section": "7",
+      "title": "Instruments",
+      "content": "7. Instruments\n(1) Every land surveyor shall ensure that his instruments and equipment are in proper adjustment.\n(2) A measuring band shall be tested against a standard base approved by the Director, who shall assign an official number thereto.\n(3) On payment of a fee of P3 such band may at any time be submitted to the Director to be tested.\n(4) When called upon by the Director, a land surveyor shall make his instruments and equipment available for testing.\n(5) The Director may condemn any instrument or equipment which he considers unfit for survey work."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART III Field Work (regs 5-17)",
+      "section": "8",
+      "title": "Field measurements and observations",
+      "content": "8. Field measurements and observations\n(1) A land surveyor shall determine the positions of all stations, beacons, landmarks and boundaries within the limits of accuracy prescribed in regulation 11 and shall adequately check every part of his survey.\n(2) Unless a point is otherwise adequately checked—\n( a ) when its position is determined by intersection or trilateration, the angle at the vertex of any triangle used in such determination shall not be less than 30 degrees nor greater than 150 degrees;\n( b ) its position shall not be determined by resection from less than four points favourably situated, and the observations used in such determination shall consist of not less than two arcs, unless three of such points are within 3000 m of the point being determined, in which case only one arc need be observed;\n( c ) its position shall not be determined by a single triangle only, unless observations are made at all three points and on at least two different parts of the circle.\n(3) Observations at any station or beacon shall consist of at least one arc when observing over distances exceeding 1000 m, or over any distance of more than 100 m when the slope exceeds 10 degrees."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART III Field Work (regs 5-17)",
+      "section": "9",
+      "title": "Measurement of base lines and other distances",
+      "content": "9. Measurement of base lines and other distances\n(1) If in any survey it is necessary to measure a base, the length of such base shall not be less than 10 per cent of the perimeter of the land under survey where such perimeter does not exceed 13 000 m.\n(2) When the perimeter exceeds 13 000 m, the length of the base shall be at least 1300 m.\n(3) In this regulation, the perimeter of the land includes the connections required by regulation 37.\n(4) A base shall be measured—\n( a ) once in each direction;\n( b ) in two sections of more or less equal length, which shall be compared through subsidiary triangles; or\n( c ) in one continuous length, in which case it shall either be compared with a check base or checked in some other adequate manner.\n(5) The difference between any two measurements or between a measurement and a derived distance shall not exceed 1/7500.\n(6) The requirements of this regulation may, in exceptional circumstances, be relaxed with the approval of the Director.\n(7) Measured distances shall be corrected for slope and for all factors to enable the correct plane distance to be obtained.\n(8) Measurements in the course of a survey base on geodetic stations, shall, in addition, be reduced to sea level and corrected for scale enlargement factor."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART III Field Work (regs 5-17)",
+      "section": "10",
+      "title": "Connection to geodetic stations, reference marks",
+      "content": "10. Connection to geodetic stations, reference marks\n(1) Any survey of land situate in a township, village or settlement shall be connected to, or based upon, reference marks:\nProvided that such connection or basing shall not be necessary—\n(i) when the land is situate more than 300 m from the nearest reference mark;\n(ii) in the case of reference marks whose positions have been recorded on a general plan, when the land surveyor is able from other sources to apply satisfactory checks to the correctness of the positions of beacons of the land being surveyed; or\n(iii) in the case of reference marks other than those shown on a general plan or erected in terms of section 23 of the Act, unless the Director has published a notice in the Gazette , setting forth a date after which such connection or basing shall be compulsory.\n(2) Any survey of rural land shall be based on geodetic stations if surrounded by such stations and situate within 3000 m of any such station:\nProvided such basing shall not be necessary when it is dependent upon a traverse from any such station and the distance between such land and such station exceeds 800 m.\n(3) When the survey of rural land is not based on geodetic stations, the positions of all geodetic stations as referred to in regulation 35(1)( a )(iii), shall be accurately determined.\n(4) Any survey station, whose position on the trigonometrical system has been determined with a degree of accuracy conforming with that prescribed in regulation 11 for Class A surveys, and which has been placed in a position and permanently marked in a manner acceptable to the Director, shall rank as a geodetic station or a reference mark, as the case may be, for the purposes of this regulation.\n(5) The Director shall maintain a record of all such survey stations and shall issue their co-ordinate values.\n(6) The Director may, in exceptional circumstances and subject to such conditions as he may deem necessary, exempt any survey from the operation of this regulation."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART III Field Work (regs 5-17)",
+      "section": "11",
+      "title": "Limits of allowable error in field work",
+      "content": "11. Limits of allowable error in field work\n(1) The error in a survey, other than that referred to in subregulation (2), shall not exceed the limits expressed by the following formulae, where—\nClass A refers to—\n(i) the determination of reference marks established in terms of section 23 of the Act;\n(ii) the fixing of reference marks in previously surveyed townships, villages or settlements; and\n(iii) such other determinations as may be prescribed in these Regulations.\nClass B refers to—\n(i) the determination of reference marks in new townships, villages or settlements;\n(ii) the survey of new townships, villages or settlements;\n(iii) the re-survey or subdivision of a lot in an existing township, village or settlement;\n(iv) the survey for the replacement of a beacon in a township, village or settlement; and\n(v) the survey for the preparation of a diagram required under any law relating to the registration of mining titles in respect of precious stones and minerals.\nClass C refers to all surveys not included in Class A or Class B, and shall include surveys for mining titles in respect of base minerals—\n( a ) when the position of a point is determined by triangulation, the difference between the observed and the calculated value of any of the directions used in the determination of the point shall not exceed—\nwhere S is the distance in metres between the known and the unknown point;\n( b ) when the position of the point is determined by traverse, the closure of the traverse shall not exceed—\nfor Class A, 0,01 X square root of (0,25f + 0,00015f 2 )\nfor Class B, 0,02 X square root of (0,25f + 0,00015f 2 )\nfor Class C, 0,04 X square root of (0,25f + 0,00015f 2 )\nwhere f is the sum of the traverse distances in metres:\nProvided that when the traverse closes on the starting point, the closure for Class C shall not exceed that prescribed for Class B:\nProvided that the Director shall determine a standard of accuracy for any survey operation not specified in this regulation.\n(2) The error in a traverse made for the purpose of determining the position of a curvilinear boundary shall not exceed one per cent of the length of the traverse.\n(3) The position of a curvilinear boundary shall be determined with an accuracy commensurate with tacheometric measurement."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART III Field Work (regs 5-17)",
+      "section": "12",
+      "title": "Limit of allowable difference from original survey",
+      "content": "12. Limit of allowable difference from original survey\n(1) For the purposes of section 17 of the Act the limit of disagreement from the original diagram shall be—\n0,4 X square root of d,\nwhere d represents the distance in metres derived from data on the original diagram between any two beacons affected by the subdivision.\n(2) Any portion of a boundary line shall be deemed to be within the limit when the whole of such boundary line is within such limit."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART III Field Work (regs 5-17)",
+      "section": "13",
+      "title": "Official co-ordinate values",
+      "content": "13. Official co-ordinate values\n(1) The Director may assign an official co-ordinate value, based on the trigonometrical survey system, to any beacon which has been correctly identified, if the determination of the co-ordinate value of such beacon conforms with the standard of accuracy prescribed in regulation 11 for Class A surveys.\n(2) The Director shall assign a distinctive official designation to every beacon to which an official co-ordinate value has been assigned and shall maintain a record of all such official designations and values.\n(3) An official co-ordinate value shall be used on all new diagrams, except as otherwise provided in regulation 48, and the position of the beacon to which an official co-ordinate value has been assigned, shall not be redetermined except for the purpose of verification.\n(4) An official co-ordinate value shall not be altered except with the consent of the Director, and then only—\n( a ) if the effect of a subsequent extension of the trigonometrical system or an alteration of the co-ordinate values of geodetic stations in the relevant area has, in his opinion, rendered an adjustment necessary or desirable;\n( b ) when the lawful position of the affected beacon has subsequently to be reviewed;\n( c ) when an undetected error in survey has adversely affected the previous determination; or\n( d ) when in any subsequent survey it is deemed necessary to use a co-ordinate value determined with a greater degree of accuracy."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART III Field Work (regs 5-17)",
+      "section": "14",
+      "title": "Adoption of data",
+      "content": "14. Adoption of data\n(1) When the position of a terminal beacon has previously been properly identified and determined on the trigonometrical system, the co-ordinates of such beacon may be adopted for the purpose of alignment thereto:\nProvided that a beacon is not placed so close to such terminal beacon that its alignment could be appreciably affected by such survey errors as could normally be expected in the determination of the position of the terminal beacon.\n(2) The data defining an unbeaconed point in relation to an indicatory beacon and obtained in the process of correcting the alignment of a beacon as prescribed in regulation 17, may be adopted without verification for the purpose of any new diagram."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART III Field Work (regs 5-17)",
+      "section": "15",
+      "title": "Curvilinear boundaries",
+      "content": "15. Curvilinear boundaries\n(1) When the centre line of a railway forms, or defines an existing boundary, the intersections of such line with the rectilinear boundaries, and when necessary, the ends of the straights, shall be accurately determined.\n(2) The position of a railway curve defining an existing boundary may be determined by any survey methods:\nProvided that—\n(i) such determination conforms with the standard of accuracy prescribed in regulation 11(2);\n(ii) unless the elements of the curve are accurately determined, or the curve is determined by photogrammetric methods, points surveyed on such curve shall not be more than 30 m apart.\n(3) Notwithstanding the provisions of subregulation (2), it shall not be necessary to re-determine the radius and the centre of a circular curve which forms or defines an existing boundary, when such curve has previously been accurately determined.\n(4) Wire fences, railway lines, roads, streams which are liable to change course or any regular curves, or natural or artificial features which are not permanently or clearly defined shall not be adopted as new boundaries.\n(5) When a land surveyor is prevented from obtaining access to the middle of a river forming a boundary, he may determine its position by surveying the position of one of the banks and the widths at critical points.\n(6) When a river boundary is described on the original diagram in ambiguous terms, but the land is depicted as extending to a bank, and when the ambiguity is not removed in terms of section 29 of the Act, the position of such bank shall be determined for the purpose of representing it on a new sub-divisional diagram.\n(7) The survey records relating to a survey in terms of section 14 of the Act shall include a plan showing complete details of the new boundary together with the relevant numerical data for inclusion in a new diagram that may be required to be framed of any property affected.\n(8) Photogrammetric methods acceptable to the Director may be used for determining the position of any curvilinear boundary.\n(9) The total length of a traverse, made for the purpose of determining the position of a curvilinear boundary, shall not exceed 2500 m, unless otherwise adequately checked."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART III Field Work (regs 5-17)",
+      "section": "16",
+      "title": "Topography",
+      "content": "16. Topography\nIn the survey of rural land sufficient observations, measurements and sketches shall be made to enable the main topographical features to be determined. Alternatively, the topography may be reproduced from large scale modern maps or from vertical or near vertical aerial photographs:\nProvided that the positions of features which are liable to change shall be verified."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART III Field Work (regs 5-17)",
+      "section": "17",
+      "title": "Alignment of existing beacons",
+      "content": "17. Alignment of existing beacons\n(1) In surveying a piece of land, any existing beacon which is supposed to be on a straight line boundary common to such piece of land and other properties, a land surveyor shall, subject to the provisions of subregulation (7), proceed as follows—\n( a ) when the terminals of the common boundary line are established beacons, or are well ascertained beacons recognised by all parties, the beacon if not on the straight line joining the terminals shall, subject to the provisions of subregulation (6), be replaced on line unless it is an established beacon, in which case it shall be adopted as a beacon of the land under survey;\n( b ) when the terminals of the common boundary line are not established beacons, and the positions of one or both is doubtful, the beacon, if not on line, may be adopted provided it is a well ascertained beacon recognised by all parties and in respect of which an agreement substantially in accordance with the agreement set out in the Schedule to the Act, signed by all parties concerned, is lodged with the Director.\n(2) When any beacon of a piece of land adjoining that under survey, which is supposed to be on the common boundary referred to in subregulation (1) is found to be not on line, it need not be dealt with:\nProvided that—\n(i) if it is an established beacon it shall be adopted as a beacon of the land under survey;\n(ii) if it is a well ascertained beacon recognised by all parties and in respect of which an agreement substantially in accordance with the agreement set out in the Schedule to the Act, signed by all parties concerned, is lodged with the Director, it may be adopted as a beacon of the land under survey.\n(3) In cases not provided for above, a land surveyor shall investigate the matter thoroughly and collect all available information and evidence to enable him to place the beacons in the most likely positions; an agreement as abovementioned, to all such beacons, shall be lodged if deemed necessary by the Director.\n(4) Cognizance shall be taken of the beacons and boundary of a township, village or settlement along the straight line boundary.\n(5) A full report detailing all the evidence on which the land surveyor based his action shall be submitted with the relative survey records.\n(6) In correcting the alignment of a beacon as provided for in this regulation, such beacon shall, as a rule, be placed at the intersection of the boundary line of which it forms a terminal, with the straight line on which it is supposed to be.\n(7) For the purposes of this regulation a beacon shall be deemed to be not on the true and correct boundary when its displacement exceeds with a maximum of 0,9 m:\nProvided that—\n(i) a beacon need not be moved in order to correct its alignment when its displacement falls within the limit of-\nwith a maximum of 0,9 m, where \"d\" is the distance from such beacon to the nearest terminal, or point justifiably adopted as terminal in terms of this regulation;\n(ii) in cases where it is necessary to correct alignment, if the beacon is not replaced on line—\n( a ) it shall be used as an indicatory beacon for the unbeaconed point adopted as a corner of the land under survey; and\n( b ) such data as may be necessary to define the position of such point in relation to such indicatory beacon, shall be recorded on any new diagram affected.\n(8) When a surveyor is able to identify a beacon previously placed on line, and in respect of which the survey records have been approved and the Director is satisfied that the alignment was correctly effected, such beacon need not be re-tested for alignment."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART IV Beacons, Geodetic Stations, Reference Marks (regs 18-23)",
+      "section": "18",
+      "title": "Specifications for beacons",
+      "content": "18. Specifications for beacons\n(1) Except as provided in regulation 19, the corner points of every piece of land shall be marked by beacons in accordance with the following minimum specifications—\n( a ) for land situate in a township, village or settlement, a 12 mm iron peg or galvanised iron pipe, 455 mm long, driven in vertically and flush with the surface of the ground;\n( b ) for rural land, an iron standard weighing approximately 3 kg per m, a 20 mm iron peg or galvanised iron pipe, 900 mm, driven in vertically and projecting not more than 150 mm above the surface of the ground; over the standard, peg or pipe shall be erected a cairn of stones, or a heap of sods, 600 mm high with a base of 600 mm:\nProvided that—\n(i) when the corner point falls in soft or sandy ground the length of the standard, peg or pipe shall be increased sufficiently to ensure the stability and permanence of the beacon;\n(ii) when it is not possible to drive the standard, peg or pipe into the ground, the corner point shall be defined by a 12 mm hole drilled 25 mm deep into the obstructing rock, pavement or structure;\n(iii) when the corner point falls in hard or rocky ground and the standard, peg or pipe cannot be driven in to the prescribed depth, its length may be reduced if the stability and permanence of the beacon is not thereby impaired, otherwise the corner point shall be defined by a standard, peg or pipe, 300 mm long, embedded in a symmetrical block of concrete 1500 cc in volume;\n(iv) if deemed necessary, any standard, peg or pipe may be embedded in a symmetrical block of concrete 1500 cc in volume.\n(2) When a post forms part of a properly erected fence and occupies a corner point of land being surveyed, it may be adopted as a beacon.\n(3) For rural land the corner post shall be distinguished from other fence posts in the vicinity by erecting a small cairn of stones or a heap of sods around the post, by paint marks, or by two trenches dug in the direction of two boundaries meeting at the post.\n(4) A peg shall not be placed at the foot of the corner post for the purpose of identification.\n(5) Any departure from the prescribed types of beacons shall be reported to the Director for sanction.\n(6) When in the survey of any piece of land a beacon which should define one of its corner points is missing, or in a dilapidated condition, or of a decidedly inferior type, it shall be restored in conformity with the requirements of this regulation.\n(7) This regulation shall not apply to the survey of a mining right.\n(8) In no circumstances shall a geodetic station erected by the Director or the Directorate of Overseas Surveys be used as a new beacon."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART IV Beacons, Geodetic Stations, Reference Marks (regs 18-23)",
+      "section": "19",
+      "title": "When beacons are not required",
+      "content": "19. When beacons are not required\n(1) It shall not be necessary to define any corner point by a beacon—\n( a ) when the corner point coincides with the corner of a permanent building, which shall in such case be adopted as a beacon;\n( b ) when the corner point is in such close proximity to the corner of a building that a beacon cannot be conveniently placed in position; in such case the position of the corner of the building shall be accurately determined for use as an indicatory beacon;\n( c ) when the area affected by a servitude is of defined width, in which case it shall be necessary to place beacons along one side only of the area, or on a convenient line indicatory to such side;\n( d ) at the ends of the straight of a railway line forming a boundary;\n( e ) when the purpose of the beacon will fall away by consolidation of title;\n( f ) in the case of a servitude based on visible physical features of a permanent nature.\n(2) The Director may waive the requirement to erect or restore any beacon when it is evident that such beacon would serve no useful purpose."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accurately determined",
+      "definition": "determined with a standard of accuracy conforming with that prescribed in regulation 11(1)",
+      "source_provision": "s3"
+    },
+    {
+      "term": "administrative district",
+      "definition": "a district prescribed in terms of section 2 of the Administrative Districts Act (Cap. 03:02)",
+      "source_provision": "s3"
+    },
+    {
+      "term": "arc of observations",
+      "definition": "the mean of two rounds of observations to surrounding stations and beacons, one being taken in a clockwise direction and the other with the telescope transitted in an anti-clockwise direction",
+      "source_provision": "s3"
+    },
+    {
+      "term": "degree square",
+      "definition": "an area abounded by lines of latitude and longitude joining the four intersection points of two adjacent whole numbered lines of latitude and longitude within Botswana",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Director",
+      "definition": "the Director of Surveys and Lands",
+      "source_provision": "s3"
+    },
+    {
+      "term": "original diagram",
+      "definition": "the diagram of the property being surveyed, resurveyed, or subdivided",
+      "source_provision": "s3"
+    },
+    {
+      "term": "figure of regular shape",
+      "definition": "a rectangular figure or a right-angled triangle",
+      "source_provision": "s3"
+    },
+    {
+      "term": "rural land",
+      "definition": "all land not situate in a township, village or settlement",
+      "source_provision": "s3"
+    },
+    {
+      "term": "the right or left bank of a river",
+      "definition": "that bank of the river which is on his right or left side, as the case may be, when the observer is looking downstream",
+      "source_provision": "s3"
+    },
+    {
+      "term": "the middle of the river",
+      "definition": "the line midway between the banks.",
+      "source_provision": "s3"
+    }
+  ]
+}

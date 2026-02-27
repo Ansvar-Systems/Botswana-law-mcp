@@ -1,0 +1,148 @@
+{
+  "id": "bw-act-arms-and-ammunition",
+  "type": "statute",
+  "title": "Arms and Ammunition",
+  "title_en": "Arms and Ammunition",
+  "short_name": "Arms and Ammunition",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/arms-and-ammunition",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Arms and Ammunition Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"airgun\" , \"air rifle\" and \"air pistol\" mean, respectively, a gun, rifle or pistol which discharges missiles by the pressure of air or gas or by mechanical means which do not use the products of combustion or explosives;\n\"ammunition\" means any catridge or percussion cap designed for use in the discharge of arms, and includes gunpowder and grenades, bombs and others like missiles, whether capable of use with those arms or not, and any munition containing or designed or adapted to contain any noxious liquid, gas or other things;\n[ 13 of 2023, s 3. ]\n\"arms dealer’s licence\" means a licence issued under section 17;\n\"arms licence\" means a licence issued under section 9;\n\"arms of war\" means artillery of all kinds, apparatus for the discharge of all kinds of projectiles, explosive or gas-diffusing, flame-throwers, bombs, grenades, machine-guns and rifled small-bore breach-loading weapons, or such arms as may be prescribed, but does not include sporting rifles, or personal or other weapons or apparatus not intended for warlike purposes;\n\"Board\" means the Arms and Ammunition Board referred to in section 4;\n[ 13 of 2023, s 3. ]\n\"broker\" means a person acting as an intermediary that brings together relevant parties and arranges or facilitates a transaction involving firearms in return for some form of benefit, whether financial or otherwise;\n\"Commissioner\" means the Commissioner of Police;\n\"customs officer\" means an \"officer\" as defined in the Customs and Excise Duty Act (Cap. 50:01);\n\"dealer\" means a person who is licensed to trade in firearms and ammunition under section 17;\n\"export permit\" means a permit issued under section 13;\n\"firearm\" means—\n( a ) any portable lethal weapon that expels, or is designed to expel, a shot, bullet or projectile by the action of a burning propellant, excluding antique firearms or their replicas that are not subject to authorisation in Botswana;\n( b ) any device which may be readily converted into a weapon referred to in paragraph ( a );\n( c ) any weapon of any description designed or intended to discharge—\n(i) any noxious liquid, noxious gas or other noxious substance, or\n(ii) an electrical charge which, when it strikes any person or animal is of sufficient strength to stun and temporarily disable the person or animal struck (such weapon being commonly known as a \"stun gun\" or \"electronic paralyser\");\n( d ) any revolver, crossbow, laser gun or any other similar weapon; or\n[ 13 of 2023, s 3. ]\n( e ) any light weapon;\n\"gun smith\" means a person licenced under section 21 to repair, test or proves firearms, but not a manufacturer or dealer;\n\"import permit\" means a permit issued under section 12;\n\"licence\" means a licence issued under section 22;\n\"licensing officer\" means an officer appointed under section 3(2);\n\"manufacturer\" means a registered company which makes or assembles arms and ammunition and holding a manufacturer’s licence issued under section 19;\n\"Part or component\" means any element or replacement element specifically designed for a firearm and essential to its operation, including a barrel, frame or receiver, slide or cylinder, bolt or breech block, and any device designed or adapted to diminish the sound caused by firing a firearm;\n\"Registry\" means the Central Arms Registry referred to in section 8;\n\"repealed Act\" means the Arms and Ammunition Act (Cap. 24:01) repealed under section 43;\n\"trafficking in firearms\" has the meaning assigned to it in section 14;\n\"transit\" means the conveyance through Botswana to another country of firearms or ammunition that have been imported; and\n\"wildlife officer\" has the meaning as defined in the Wildlife Conservation and National Parks Act (Cap. 38:01)."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Administration",
+      "section": "3",
+      "title": "Commissioner of Police and licensing officers",
+      "content": "3. Commissioner of Police and licensing officers\n(1) Subject to the provisions of this Act, the Commissioner shall be responsible for the administration of this Act.\n(2) The Commissioner may appoint such number of police officers as may be necessary, to be known as licensing officers, to assist in the administration of this Act.\n(3) The Commissioner shall have the following powers in administrating the provisions of this Act—\n( a ) to conduct public education programmes concerning this Act and all other matters relating to the safe possession and use of firearms;\n( b ) to develop a training curriculum for competency testing in the use of arms;\n( c ) to conduct research into firearms policies;\n( d ) to manage the office of the Central Arms Registry;\n( e ) to receive any fees paid in terms of this Act;\n( f ) to designate police officials as designated licensing officers;\n( g ) to appoint an officer-in-charge of the Central Arms Registry; and\n( h ) to exchange information on matters relating to the implementation of the United Nation Protocol Against the Illicit Manufacturing of and Trafficking in Firearms, their Parts and Components and Ammunition and the SADC Protocol on Control of Firearms, Ammunition and Other Related Materials.\n(4) The Commissioner shall, in addition to the powers conferred on him or her by subsection (3), have the power to administer non-commercial importation and exportation for civilian use of arms and ammunition, including the issuance, transfer, suspension, amendment or cancellation of a permit, licence or registration certificate relating to the civilian use of arms and ammunition as the Minister may prescribe.\n[ 13 of 2023, s 4. ]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Administration",
+      "section": "4",
+      "title": "Arms and Ammunition Board",
+      "content": "4. Arms and Ammunition Board\n(1) The Arms and Ammunition Quota Board established under section 4 of the repealed Act, is hereby continued under the new name Arms and Ammunition Board.\n[ 13 of 2023, s 5. ]\n(2) The Board shall consist of such members as the Minister may, by Notice published in the Gazette , appoint.\n[ 13 of 2023, s 5. ]\n(3) A person shall not be appointed as a member of the Board if he or she is a Commissioner or Deputy Commissioner.\n[ 13 of 2023, s 5. ]\n(4) A member of the Board shall hold office for such period as may be specified in the notice appointing him or her and on the expiration of such period shall be eligible for reappointment for one more term.\n[ 13 of 2023, s 5. ]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ammunition",
+      "definition": "any catridge or percussion cap designed for use in the discharge of arms, and includes gunpowder and grenades, bombs and others like missiles, whether capable of use with those arms or not, and any munition containing or designed or adapted to contain any noxious liquid, gas or other things",
+      "source_provision": "s2"
+    },
+    {
+      "term": "arms dealer’s licence",
+      "definition": "a licence issued under section 17",
+      "source_provision": "s2"
+    },
+    {
+      "term": "arms licence",
+      "definition": "a licence issued under section 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "arms of war",
+      "definition": "artillery of all kinds, apparatus for the discharge of all kinds of projectiles, explosive or gas-diffusing, flame-throwers, bombs, grenades, machine-guns and rifled small-bore breach-loading weapons, or such arms as may be prescribed, but does not include sporting rifles, or personal or other weapons or apparatus not intended for warlike purposes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Arms and Ammunition Board referred to in section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "broker",
+      "definition": "a person acting as an intermediary that brings together relevant parties and arranges or facilitates a transaction involving firearms in return for some form of benefit, whether financial or otherwise",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "the Commissioner of Police",
+      "source_provision": "s2"
+    },
+    {
+      "term": "customs officer",
+      "definition": "an \"officer\" as defined in the Customs and Excise Duty Act (Cap. 50:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dealer",
+      "definition": "a person who is licensed to trade in firearms and ammunition under section 17",
+      "source_provision": "s2"
+    },
+    {
+      "term": "export permit",
+      "definition": "a permit issued under section 13",
+      "source_provision": "s2"
+    },
+    {
+      "term": "gun smith",
+      "definition": "a person licenced under section 21 to repair, test or proves firearms, but not a manufacturer or dealer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "import permit",
+      "definition": "a permit issued under section 12",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued under section 22",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensing officer",
+      "definition": "an officer appointed under section 3(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manufacturer",
+      "definition": "a registered company which makes or assembles arms and ammunition and holding a manufacturer’s licence issued under section 19",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Part or component",
+      "definition": "any element or replacement element specifically designed for a firearm and essential to its operation, including a barrel, frame or receiver, slide or cylinder, bolt or breech block, and any device designed or adapted to diminish the sound caused by firing a firearm",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registry",
+      "definition": "the Central Arms Registry referred to in section 8",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "the Arms and Ammunition Act (Cap. 24:01) repealed under section 43",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trafficking in firearms",
+      "definition": "assigned to it in section 14",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transit",
+      "definition": "the conveyance through Botswana to another country of firearms or ammunition that have been imported",
+      "source_provision": "s2"
+    },
+    {
+      "term": "wildlife officer",
+      "definition": "as defined in the Wildlife Conservation and National Parks Act (Cap. 38:01).",
+      "source_provision": "s2"
+    }
+  ]
+}

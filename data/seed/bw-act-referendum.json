@@ -1,0 +1,90 @@
+{
+  "id": "bw-act-referendum",
+  "type": "statute",
+  "title": "Referendum",
+  "title_en": "Referendum",
+  "short_name": "Referendum",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/referendum",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Referendum Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) Unless the context otherwise requires or this section otherwise provides, terms used in this Act shall have the same meaning as that which they have under the Electoral Act (Cap. 02:09).\n(2) In this, Act unless the context otherwise requires—\n\"poll\" means a poll conducted in accordance with this Act;\n\"polling day\" means the day appointed by writ as the day upon which a poll shall be taken under this Act;\n\"writ\" means a writ issued under section 5."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Procedural requirement",
+      "content": "3. Procedural requirement\nWhere under any law, any matter is required to be submitted to a vote of the electors qualified to vote in the election of the Elected Members of the National Assembly for approval by a majority of them, it shall be submitted in accordance with the provisions of this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Matter to be posed as a question",
+      "content": "4. Matter to be posed as a question\nThe matter requiring the approval of the majority of the electors shall be submitted in the form of a question requiring an affirmative or negative reply and shall, where it is an amendment to any law, contain a full text of the proposed amendment."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Writ of referendum",
+      "content": "5. Writ of referendum\n(1) When any matter is required under any law to be submitted to a vote of the electors qualified to vote at an election of the Elected Members of the National Assembly, the President shall issue a writ in Form A set out in the Schedule under the Public Seal of Botswana addressed to the Secretary to the Independent Electoral Commission fixing the day and the hours for the taking of the poll and setting out the matter on which the poll is to be taken.\n[ 5 of 2001, s. 2(a). ]\n(2) If at any time between the publication of the notice under subsection (1) and polling day, the President is satisfied that it is expedient in the public interest to do so, he may, by proclamation published in the Gazette , adjourn the taking of the poll to some other day specified by him.\n(3) A proclamation made under subsection (2) shall apply only to such constituencies as are specified in the proclamation, and not to any other constituency."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Persons entitled to vote",
+      "content": "6. Persons entitled to vote\n(1) Subject to the provisions of section 18, any person registered as a voter in any constituency shall be entitled to vote, at the polling station at which he has been so registered, in accordance with section 54 of the Electoral Act (Cap. 02:09).\n(2) No person shall be entitled to vote—\n( a ) more than once at a referendum;\n( b ) at a referendum if he is at the date of the referendum, disqualified from voting at any election under the provisions of the Electoral Act (Cap. 02:09) or any other law pursuant to section 67(4) of the Constitution."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Form of ballot and manner of voting",
+      "content": "7. Form of ballot and manner of voting\n(1) The ballot of every person voting at a referendum shall consist of a ballot paper in a form to be determined by the Independent Electoral Commission and having a serial number printed or stamped on it.\n[ 5 of 2001, s. 3. ]\n(2) A voter wishing to vote on the question posed by the referendum shall do so by placing a mark in the space provided on the ballot paper to indicate the manner in which he wishes to vote.\n[ 5 of 2001, s. 3. ]"
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Polling hours",
+      "content": "8. Polling hours\n(1) Every poll shall commence at six-thirty o'clock in the morning and close at seven o'clock in the evening, unless the Secretary to the Independent Electoral Commission otherwise orders.\n[ 5 of 2001, s. 2(a). ]\n(2) Different hours for the taking of the poll may be ordered by the Secretary to the Independent Electoral Commission in respect of different constituencies or different polling stations, and in such case the returning officer shall amend any notice issued in terms of subsection (1) accordingly.\n[ 5 of 2001, s. 2(a). ]\n(3) Notwithstanding the provisions of subsections (1) and (2), a presiding officer may, where voters are waiting to vote, extend the closing time for a period not exceeding two hours."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Control of polling stations",
+      "content": "9. Control of polling stations\n(1) In the absence of the presiding officer from any polling station, a polling officer nominated by the returning officer shall act as presiding officer.\n(2) A polling officer may be authorised by the presiding officer to do any act which the presiding officer is required or authorised to do at a polling station, except that he may not order the searching of any voter, the arrest of any person or the exclusion or removal of any person from the polling station."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Arrangement of polling stations",
+      "content": "10. Arrangement of polling stations\n(1) On polling day at every polling station there shall be—\n( a ) outside the polling station in a conspicuous place, a notice setting out the name of the polling station;\n( b ) both within and outside the polling station notices, setting out the question posed by the referendum;\n( c ) one or more polling booths in which voters may handle their ballot papers in secrecy, each containing notices of the kind referred to in paragraph ( b ), a table and a discard box;\n[ 5 of 2001, s. 2(b) and (e). ]\n( d ) one or more ballot boxes placed in front of the presiding officer; and\n( e ) a copy of the election roll for the constituency, a sufficient number of ballot papers, and other things necessary for the poll to be properly and expeditiously carried out.\n[ 5 of 2001, s. 2(b) and (e). ]\n(2) Every presiding officer shall be in possession of a seal supplied by the Secretary to the Independent Electoral Commission."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "poll",
+      "definition": "a poll conducted in accordance with this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "polling day",
+      "definition": "the day appointed by writ as the day upon which a poll shall be taken under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "writ",
+      "definition": "a writ issued under section 5.",
+      "source_provision": "s2"
+    }
+  ]
+}

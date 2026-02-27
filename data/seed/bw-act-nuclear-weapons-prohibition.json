@@ -1,0 +1,65 @@
+{
+  "id": "bw-act-nuclear-weapons-prohibition",
+  "type": "statute",
+  "title": "Nuclear Weapons (prohibition)",
+  "title_en": "Nuclear Weapons (prohibition)",
+  "short_name": "Nuclear Weapons (prohibition)",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/nuclear-weapons-prohibition",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Nuclear Weapons (Prohibition) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act unless the context otherwise requires—\n\"nuclear energy\" means any form of energy released in the course of nuclear fission or nuclear fusion or of any other nuclear transmutation;\n\"nuclear explosive device\" means any nuclear weapons or other explosive device capable of releasing nuclear energy, irrespective of the purpose for which it could be used, whether assembled, partly assembled, or unassembled;\n\"nuclear material\" means—\n( a ) any source or fissionable material such as plutonium 239;\n( b ) uranium-233;\n( c ) uranium enriched in isotopes of 235 or 233; or\n( d ) any material containing one or more of the foregoing; and such fissionable material as the Minister shall from time to time determine, but does not include source material such as ores or ore residue;\n\"proliferation financing\" means the act of providing funds or financial services which are used, in whole or in part, for the manufacture, acquisition, possession, development, export, transhipment, brokering, transport, transfer, stockpiling or use of any nuclear weapon and its means of delivery and related materials, including both technologies and goods used for non-legitimate purposes; and\n\"Treaty\" means the Non-Proliferation of Nuclear Weapons Treaty of 1st July, 1968 as set out in the Schedule to this Act and includes any amendments thereto and any Resolutions of the Conference of Parties."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application of Treaty",
+      "content": "3. Application of Treaty\nThe Non-Proliferation of Nuclear Weapons Treaty of 1st July, 1968 as set out in the Schedule to this Act and any amendments thereto, shall have force of law in Botswana."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Act binds the State",
+      "content": "4. Act binds the State\nThis Act binds the State."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Nuclear weapons and nuclear materials",
+      "content": "5. Nuclear weapons and nuclear materials\n(1) Subject to the exceptions for peaceful use of nuclear materials including nuclear energy, nuclear medicine and nuclear technology under the Radiation Protection Act (Cap. 24:03), a person who—\n( a ) uses nuclear material;\n( b ) receives the transfer from any transferor whatsoever of nuclear weapons or other nuclear explosive devices or of control over such weapons or explosive devices directly, or indirectly;\n( c ) manufactures or otherwise acquires nuclear weapons or other nuclear explosive devices;\n( d ) seeks or receives any assistance in the manufacture of nuclear weapons or other nuclear explosive devices;\n( e ) diverts nuclear energy from peaceful uses to nuclear weapons or other nuclear explosive devices;\n( f ) constructs, acquires or retains any facility intended for the production of nuclear weapons or other nuclear explosive devices; or\n( g ) possesses, develops, exports, transports, transfers, stockpiles or uses any nuclear weapon or nuclear explosive device or its means of delivery,\ncommits an act of terrorism and is liable to a penalty specified in section 3(2) of the Counter Terrorism Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "nuclear energy",
+      "definition": "any form of energy released in the course of nuclear fission or nuclear fusion or of any other nuclear transmutation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nuclear explosive device",
+      "definition": "any nuclear weapons or other explosive device capable of releasing nuclear energy, irrespective of the purpose for which it could be used, whether assembled, partly assembled, or unassembled",
+      "source_provision": "s2"
+    },
+    {
+      "term": "proliferation financing",
+      "definition": "the act of providing funds or financial services which are used, in whole or in part, for the manufacture, acquisition, possession, development, export, transhipment, brokering, transport, transfer, stockpiling or use of any nuclear weapon and its means of delivery and related materials, including both technologies and goods used for non-legitimate purposes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Treaty",
+      "definition": "the Non-Proliferation of Nuclear Weapons Treaty of 1st July, 1968 as set out in the Schedule to this Act and includes any amendments thereto and any Resolutions of the Conference of Parties.",
+      "source_provision": "s2"
+    }
+  ]
+}

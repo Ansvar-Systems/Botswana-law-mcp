@@ -1,0 +1,66 @@
+{
+  "id": "bw-act-hire-purchase",
+  "type": "statute",
+  "title": "Hire-purchase",
+  "title_en": "Hire-purchase",
+  "short_name": "Hire-purchase",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/hire-purchase",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "CHAPTER 46:03 HIRE-PURCHASE",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Hire-Purchase Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "CHAPTER 46:03 HIRE-PURCHASE",
+      "section": "2",
+      "title": "Interpretation and application",
+      "content": "2. Interpretation and application\n(1) In this Act, unless the context otherwise requires-\n\"agreement\" means a hire-purchase agreement or an instalment sale agreement;\n\"buyer\" or \"seller\" means the person who, in terms of any agreement, is the buyer or the seller or the hirer or lessor, as the case may be;\n\"cash price\", in relation to any goods, means the price stated in respect of those goods under section 5(1)( a );\n\"court\" means a magistrate's court or the High Court, as the case may be, but does not include a customary court;\n\"hire-purchase agreement\" means any agreement whereby goods are sold subject to the condition that the ownership in such goods shall not pass merely by the transfer of the possession of such goods, and the purchase price is to be paid in instalments, two or more of which are payable after such transfer; and includes any other agreement which has or agreements which together have the same import, whatever form such agreement or agreements may take:\nProvided that any agreement which or agreements which together provide for the letting and hiring of goods-\n(i) with the right to purchase such goods only after two or after more than two instalments subsequent to such transfer have been paid in respect thereof; or\n(ii) with the right, after two or after more than two instalments subsequent to such transfer have been paid in respect thereof, to continue or renew from time to time such letting and hiring at a nominal rental, or to continue or renew from time to time the right to be in possession of the goods, without any further payment or against payment of a nominal periodical or other amount,\nshall, whether or not the agreement or agreements may at any time be terminated by either party or one of the parties, be deemed, for the purposes of this Act, to be of the said import;\n\"instalment sale agreement\" means any agreement of purchase and sale whereby ownership in the goods sold passes upon delivery, and the purchase price is to be paid in instalments, two or more of which are payable after delivery, and under which the seller would be entitled to the return of the goods sold if the buyer should fail to comply with any one or more provisions thereof; and includes any other agreement which has or agreements which together have the same import, whatever form such agreement or agreements may take;\n\"purchase price\" means the total sum payable under any agreement, to the seller by the buyer, exclusive of any sum payable in terms of the agreement as a penalty or as damages for the breach thereof or by way of interest upon instalments which are in arrear.\n(2) If any seller has agreed that any part of the purchase price may be discharged otherwise than by the payment of money, any such discharge shall, subject to the provisions of section 7, be deemed to be a payment of that part of the purchase price.\n(3) The provisions of this Act shall-\n( a ) apply to agreements relating to movables, entered into after the commencement of this Act under which the purchase price does not exceed P4 000; and\n( b ) not apply to any agreement under which the Government is the seller, or to any agreement in respect of the sale of a movable belonging to a class or group of prescribed movables.\n(4) Sections 9, 12, 13 and 17 shall, subject to the provisions of subsection (3), apply in respect of agreements in force at and entered into before the commencement of this Act."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "CHAPTER 46:03 HIRE-PURCHASE",
+      "section": "3",
+      "title": "Requirements as to negotiations prior to making of agreement",
+      "content": "3. Requirements as to negotiations prior to making of agreement\n(1) Before any agreement is entered into the prospective seller shall-\n( a ) state in writing to the prospective buyer, otherwise than in any note or memorandum of the agreement, a price at which the goods to which the agreement relates may be purchased from such seller for a cash amount in money; and\n( b ) submit to the prospective buyer, if the agreement is entered into otherwise than in English, a translation of such agreement in English, which is substantially correct:\nProvided that paragraph ( a ) shall be deemed to have been sufficiently complied with-"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "agreement",
+      "definition": "a hire-purchase agreement or an instalment sale agreement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "seller",
+      "definition": "the person who, in terms of any agreement, is the buyer or the seller or the hirer or lessor, as the case may be",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "a magistrate's court or the High Court, as the case may be, but does not include a customary court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hire-purchase agreement",
+      "definition": "any agreement whereby goods are sold subject to the condition that the ownership in such goods shall not pass merely by the transfer of the possession of such goods, and the purchase price is to be paid in instalments, two or more of which are payable after such transfer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "instalment sale agreement",
+      "definition": "any agreement of purchase and sale whereby ownership in the goods sold passes upon delivery, and the purchase price is to be paid in instalments, two or more of which are payable after delivery, and under which the seller would be entitled to the return of the goods sold if the buyer should fail to comply with any one or more provisions thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "purchase price",
+      "definition": "the total sum payable under any agreement, to the seller by the buyer, exclusive of any sum payable in terms of the agreement as a penalty or as damages for the breach thereof or by way of interest upon instalments which are in arrear.\n(2) If any seller has agreed that any part of the purchase price may be discharged otherwise than by the payment of money, any such discharge shall, subject to the provisions of section 7, be deemed to be a payment of that part of the purchase price.\n(3) The provisions of this Act shall-\n( a ) apply to agreements relating to movables, entered into after the commencement of this Act under which the purchase price does not exceed P4 000",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "bw-act-succession-rights-the-surviving-spouse-and-inheritance-family-provisions",
+  "type": "statute",
+  "title": "Succession (rights of the Surviving Spouse and Inheritance Family Provisions)",
+  "title_en": "Succession (rights of the Surviving Spouse and Inheritance Family Provisions)",
+  "short_name": "Succession (rights of the S...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/succession-rights-the-surviving-spouse-and-inheritance-family-provisions",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Succession (Rights of the Surviving Spouse and Inheritance Family Provisions) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act, unless the context otherwise requires—\n\"annual income\" means, in relation to the net estate of a deceased person, the income that the net estate might be expected at the date of the making of an order under section 6, when realised, to yield in a year;\n\"court\" means the High Court of Botswana;\n\"death duties\" means estate duty and every other duty leviable or payable on death;\n\"net estate\" means all the property of which a deceased person had power to dispose by his will (otherwise than by virtue of a special power of appointment) less the amount of his funeral, testamentary and administration expenses, debts and liabilities and estate duty payable out of his estate on his death;\n\"son\" and \"daughter\" include the son or daughter of the deceased en ventre sa mère at the date of the death of the deceased;\n(2) For the purposes of this Act any relationship by adoption under the provisions of the Adoption of Children Act (Cap. 28:01) shall be equivalent to blood relationship."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Act not to apply to estates administered in accordance with customary law",
+      "content": "3. Act not to apply to estates administered in accordance with customary law\nThe provisions of this Act shall not extend to the estate of any person who dies either wholly or partly intestate where the rights of succession to such estate are determinable in accordance with customary law."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Amendment of law of intestacy",
+      "content": "4. Amendment of law of intestacy\n(1) The surviving spouse of every person who, after the commencement of this Act, dies either wholly or partly intestate is hereby declared to be an intestate heir of the deceased spouse according to the following rules—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "court",
+      "definition": "the High Court of Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "death duties",
+      "definition": "estate duty and every other duty leviable or payable on death",
+      "source_provision": "s2"
+    },
+    {
+      "term": "net estate",
+      "definition": "all the property of which a deceased person had power to dispose by his will (otherwise than by virtue of a special power of appointment) less the amount of his funeral, testamentary and administration expenses, debts and liabilities and estate duty payable out of his estate on his death",
+      "source_provision": "s2"
+    }
+  ]
+}

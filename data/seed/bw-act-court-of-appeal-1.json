@@ -1,0 +1,55 @@
+{
+  "id": "bw-act-court-of-appeal-1",
+  "type": "statute",
+  "title": "Court of Appeal",
+  "title_en": "Court of Appeal",
+  "short_name": "Court of Appeal",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/court-of-appeal-1",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Court of Appeal Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Court of Appeal\" shall, where permissible under this Act, include a single member of that Court;\n\"judgment\" includes decree, order, conviction, sentence or decision;\n\"President\" means the President of the Court of Appeal."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Seal of the Court of Appeal",
+      "content": "3. Seal of the Court of Appeal\n(1) The Court of Appeal shall have, and use as occasion may require, a seal having the device and impression of the Arms of Botswana surrounded by the inscription \"The Court of Appeal of Botswana\".\n(2) The seal shall be kept in the custody of the Registrar of the Court of Appeal."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Composition of the Court of Appeal",
+      "content": "4. Composition of the Court of Appeal\n(1) The Court of Appeal shall, in addition to the judges provided for in the Constitution, consist of such number of Justices of Appeal not exceeding 12.\n[ 3 of 2017, s. 2. ]\n(2) The provisions of subsection (1) shall be deemed to have come into effect on 19th December, 1980.\n[ 3 of 2017, s. 2. ]"
+    },
+    {
+      "provision_ref": "s4A",
+      "section": "4A",
+      "title": "Validation of previous appointments",
+      "content": "4A. Validation of previous appointments\n(1) The appointments of Justices of Appeal by the President before the coming into effect of this Act shall be deemed to have been validly made notwithstanding that at the time of such appointments the number of Justices of Appeal had not been prescribed by Parliament.\n[ 3 of 2017, s. 3. ]\n(2) The appointment by the President of any other Justice of Appeal on a fixed term contract before the coming into effect of this Act, shall be deemed to have been validly made notwithstanding that such Justice of Appeal had been appointed on more than one fixed term contract."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "judgment",
+      "definition": "decree, order, conviction, sentence or decision",
+      "source_provision": "s2"
+    },
+    {
+      "term": "President",
+      "definition": "the President of the Court of Appeal.",
+      "source_provision": "s2"
+    }
+  ]
+}

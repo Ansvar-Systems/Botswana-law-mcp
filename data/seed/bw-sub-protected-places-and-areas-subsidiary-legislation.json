@@ -1,0 +1,32 @@
+{
+  "id": "bw-sub-protected-places-and-areas-subsidiary-legislation",
+  "type": "statute",
+  "title": "Protected Places and Areas: Subsidiary Legislation",
+  "title_en": "Protected Places and Areas: Subsidiary Legislation",
+  "short_name": "Protected Places and Areas:...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/protected-places-and-areas-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Protected Places and Areas Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Declaration of protected areas, etc.",
+      "content": "2. Declaration of protected areas, etc.\nThe places or areas listed in the first column of the Schedule are declared to be protected places or areas, as the case may be, for the purposes of the Act."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Authorised officer",
+      "content": "3. Authorised officer\nThe person listed in the second column of the Schedule is declared to be an authorised officer in respect of the area in relation thereto in the first column of the Schedule."
+    }
+  ],
+  "definitions": []
+}

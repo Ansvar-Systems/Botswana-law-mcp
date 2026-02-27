@@ -1,0 +1,60 @@
+{
+  "id": "bw-sub-chapter-42-03-building-societies-subsidiary-legislation",
+  "type": "statute",
+  "title": "Building Societies: Subsidiary Legislation",
+  "title_en": "Building Societies: Subsidiary Legislation",
+  "short_name": "Building Societies: Subsidi...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/chapter-42-03-building-societies-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Building Societies (Classification of Urban Certificate of Rights Plots as Urban Immovable Property) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations \"urban certificate of rights plot\" means a plot of land within a township specified in a certificate of rights issued in respect of the plot whereby a grant or other disposition thereof has been made and executed in terms of the State Land Act (Cap. 32:01)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Immovable urban property",
+      "content": "3. Immovable urban property\nEvery piece of land comprised in an urban certificate of rights plot is hereby classified as urban immovable property for the purposes of the Act."
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Building Societies (Conversion) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"conversion statement\" means a statement issued by a society at the time of conversion;\n\"distribution of funds\" means a distribution of funds of the society or the conferral of right in relation to shares, if any, of a successor company proposed to be made to, or upon members of a society as a result of the conversion;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "urban certificate of rights plot",
+      "definition": "a plot of land within a township specified in a certificate of rights issued in respect of the plot whereby a grant or other disposition thereof has been made and executed in terms of the State Land Act (Cap. 32:01).",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conversion statement",
+      "definition": "a statement issued by a society at the time of conversion",
+      "source_provision": "s2"
+    },
+    {
+      "term": "distribution of funds",
+      "definition": "a distribution of funds of the society or the conferral of right in relation to shares, if any, of a successor company proposed to be made to, or upon members of a society as a result of the conversion",
+      "source_provision": "s2"
+    }
+  ]
+}

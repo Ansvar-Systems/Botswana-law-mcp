@@ -1,0 +1,168 @@
+{
+  "id": "bw-act-local-authorities-procurement-and-asset-disposal-repealed",
+  "type": "statute",
+  "title": "Local Authorities Procurement and Asset Disposal",
+  "title_en": "Local Authorities Procurement and Asset Disposal",
+  "short_name": "Local Authorities Procureme...",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/local-authorities-procurement-and-asset-disposal-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Local Authorities Procurement and Asset Disposal Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Accounting Officer\" means the Chief Executive Officer of a local authority;\n\"Adjudication Committee\" means a committee established under section 11;\n\"assets\" means property owned by a local authority whether tangible or intangible;\n\"bid\" means tender and vice versa , inclusive of quotations;\n\"bidder\" means a person participating as a bidder in a public procurement or asset disposal activity;\n\"bidding packages\" includes invitation to tender, solicitation documents, statement of requirements or any other documents inviting bidders to participate in procurement or disposal proceedings, and includes documents inviting potential bidders to pre-qualify;\n\"citizen contractor\" means a contractor who is a natural person or an incorporated company wholly owned and controlled by persons who are citizens of Botswana;\n\"committee\" means the Evaluation Committee or the Adjudication Committee or both;\n\"Competent Authority\" means the unit under the Ministry of Local Government designated as the Competent Authority under section 25;\n\"contractor\" means a person who enters into a contract with a procuring and disposing entity;\n\"disposal\" means the divestiture of assets, including intellectual and proprietary rights and goodwill, and any other rights of a local authority including sale, rental, lease, franchise, auction, or any combination, however classified;\n\"Evaluation Committee\" means a committee established under section 8;\n\"external beneficiary\" means external bidder or foreign company bidding for an undertaking;\n\"local authority\" means a city council, a town council, a township authority, a district council, a subdistrict council or an administrative authority;\n\"member\" means a member of a committee, and includes the Chairperson thereof;\n\"pre-qualification\" means a screening process to ensure that the invitations to bid are confined to capable firms;\n\"procurement\" means acquisition by purchase, rental, lease, hire purchase, licence, tenancy, franchise, or any other contractual means, of any type of works, services or supplies, or any combination thereof;\n\"procuring and disposing entity\" means a user department, division, branch or section of a local authority, including any project unit established by and operating under a local authority, which initiates procurement and is the user of the requirements;\n\"provider\" means a natural person or a company incorporated under the<CS:\"Hidden - Grey - 8_2\"> Companies Act (Cap. 42:01);\n\"Public Procurement and Asset Disposal Board\" means the Board established under section 10 of the <CS:\"Hidden - Grey - 8_2\"> Public Procurement and Asset Disposal Act (Cap. 42:08);\n\"Secretariat\" means the office designated as a Secretariat of a committee under section 16;\n\"services\" means all services, other than works and supplies, including banking services, insurance coverage, travel services, cleaning services, consultancy services;\n\"specifications\" means the standard specifications developed under the<CS:\"Hidden - Grey - 8_2\"> Standards Act (Cap. 43:07), and includes—\n( a ) a generic or functional description of the qualities required of a procurement item;\n( b ) the relevant industry standards of approaching and executing the assignment in question; or\n( c ) the appropriate good practice tests that are to be used to verify the specified quality and performance of the procured item before delivery, on delivery, during installation and in the course of operation, as applicable, and the use of which shall be mandatory in all bidding documents;\n\"statement of requirements\" means a document that contains a full and complete description of the requirement that is the subject of the procurement or disposal;\n\"supplies\" includes goods, raw materials, products, equipment or objects of any kind and description in solid, liquid or gaseous form, or in the form of electricity, or intellectual and proprietary rights, as well as works or services incidental to the provision of such supplies; and\n\"works\" means—\n( a ) any work associated with the construction, reconstruction, demolition, repair, or renovation of a building or structure, on the surface or underground, on and under water;\n( b ) the preparation, excavation, erection, assembly, installation, testing and commissioning of any plant, equipment or materials, decoration and finishing;\n( c ) turnkey projects, build own and operate projects, build operate and transfer projects or any arrangement of this nature;\n( d ) any other form of private-public partnerships or joint development activities, all or any of which may include management, maintenance, testing, commissioning or training; or\n( e ) services or supplies incidental to the foregoing works, where the value of such incidental services or supplies does not exceed the value of such works."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Scope of the Act",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThe provisions of this Act shall apply to—\n( a ) local authorities;\n( b ) the procurement or disposal of all assets;\n( c ) the procurement of all works, services or supplies, (or any combination thereof, however classified); and\n( d ) the disposal of—\n(i) physical properties and land;\n(ii) items acquired through works, services or supplies contracts;\n(iii) intellectual and proprietary rights;\n(iv) financial instruments, including shares, stocks, bonds, etc.; and\n(v) goodwill and any other rights of the local authority."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Scope of the Act",
+      "section": "4",
+      "title": "Responsibility for procurement and disposal of assets",
+      "content": "4. Responsibility for procurement and disposal of assets"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Accounting Officer",
+      "definition": "the Chief Executive Officer of a local authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Adjudication Committee",
+      "definition": "a committee established under section 11",
+      "source_provision": "s2"
+    },
+    {
+      "term": "assets",
+      "definition": "property owned by a local authority whether tangible or intangible",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bid",
+      "definition": "tender and vice versa , inclusive of quotations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bidder",
+      "definition": "a person participating as a bidder in a public procurement or asset disposal activity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bidding packages",
+      "definition": "invitation to tender, solicitation documents, statement of requirements or any other documents inviting bidders to participate in procurement or disposal proceedings, and includes documents inviting potential bidders to pre-qualify",
+      "source_provision": "s2"
+    },
+    {
+      "term": "citizen contractor",
+      "definition": "a contractor who is a natural person or an incorporated company wholly owned and controlled by persons who are citizens of Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "committee",
+      "definition": "the Evaluation Committee or the Adjudication Committee or both",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Competent Authority",
+      "definition": "the unit under the Ministry of Local Government designated as the Competent Authority under section 25",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contractor",
+      "definition": "a person who enters into a contract with a procuring and disposing entity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "disposal",
+      "definition": "the divestiture of assets, including intellectual and proprietary rights and goodwill, and any other rights of a local authority including sale, rental, lease, franchise, auction, or any combination, however classified",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Evaluation Committee",
+      "definition": "a committee established under section 8",
+      "source_provision": "s2"
+    },
+    {
+      "term": "external beneficiary",
+      "definition": "external bidder or foreign company bidding for an undertaking",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local authority",
+      "definition": "a city council, a town council, a township authority, a district council, a subdistrict council or an administrative authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of a committee, and includes the Chairperson thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pre-qualification",
+      "definition": "a screening process to ensure that the invitations to bid are confined to capable firms",
+      "source_provision": "s2"
+    },
+    {
+      "term": "procurement",
+      "definition": "acquisition by purchase, rental, lease, hire purchase, licence, tenancy, franchise, or any other contractual means, of any type of works, services or supplies, or any combination thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "procuring and disposing entity",
+      "definition": "a user department, division, branch or section of a local authority, including any project unit established by and operating under a local authority, which initiates procurement and is the user of the requirements",
+      "source_provision": "s2"
+    },
+    {
+      "term": "provider",
+      "definition": "a natural person or a company incorporated under the<CS:\"Hidden - Grey - 8_2\"> Companies Act (Cap. 42:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Public Procurement and Asset Disposal Board",
+      "definition": "the Board established under section 10 of the <CS:\"Hidden - Grey - 8_2\"> Public Procurement and Asset Disposal Act (Cap. 42:08)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Secretariat",
+      "definition": "the office designated as a Secretariat of a committee under section 16",
+      "source_provision": "s2"
+    },
+    {
+      "term": "services",
+      "definition": "all services, other than works and supplies, including banking services, insurance coverage, travel services, cleaning services, consultancy services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "specifications",
+      "definition": "the standard specifications developed under the<CS:\"Hidden - Grey - 8_2\"> Standards Act (Cap. 43:07), and includes—\n( a ) a generic or functional description of the qualities required of a procurement item",
+      "source_provision": "s2"
+    },
+    {
+      "term": "statement of requirements",
+      "definition": "a document that contains a full and complete description of the requirement that is the subject of the procurement or disposal",
+      "source_provision": "s2"
+    },
+    {
+      "term": "supplies",
+      "definition": "goods, raw materials, products, equipment or objects of any kind and description in solid, liquid or gaseous form, or in the form of electricity, or intellectual and proprietary rights, as well as works or services incidental to the provision of such supplies",
+      "source_provision": "s2"
+    }
+  ]
+}

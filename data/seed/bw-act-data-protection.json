@@ -1,0 +1,21 @@
+{
+  "id": "bw-act-data-protection",
+  "type": "statute",
+  "title": "Data Protection",
+  "title_en": "Data Protection",
+  "short_name": "Data Protection",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/data-protection",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Data Protection Act."
+    }
+  ],
+  "definitions": []
+}

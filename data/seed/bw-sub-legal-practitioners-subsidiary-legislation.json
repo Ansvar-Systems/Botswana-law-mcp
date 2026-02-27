@@ -1,0 +1,32 @@
+{
+  "id": "bw-sub-legal-practitioners-subsidiary-legislation",
+  "type": "statute",
+  "title": "Legal Practitioners: Subsidiary Legislation",
+  "title_en": "Legal Practitioners: Subsidiary Legislation",
+  "short_name": "Legal Practitioners: Subsid...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/legal-practitioners-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Legal Practitioners (Examinations and Qualifications for Admission) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Prescribed degrees and additional qualifications",
+      "content": "2. Prescribed degrees and additional qualifications\nFor the purposes of section 4( b )(ii) of the Act—\n( a ) a degree in law from any of the universities specified in the Schedule hereto shall be a prescribed degree; and\n( b ) the additional qualification prescribed shall be that a candidate must pass a local examination covering the following subjects—\n(i) practice and procedure in the High Court, and the magistrates' courts; and the constitution and jurisdiction of the customary courts;\n(ii) the elementary principles of Roman-Dutch law:\nProvided that where the degree in question includes Roman-Dutch law as a subject, this subparagraph shall not apply; and\n(iii) the statutory law of Botswana:\nProvided that the provisions of this paragraph shall not apply to a candidate who has passed examinations in the subjects specified therein at the University of Botswana prior to obtaining a law degree at any of the universities specified in the Schedule."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Qualification for admission as notary public",
+      "content": "4. Qualification for admission as notary public\nFor the purposes of section 11( a )(ii) of the Act, a candidate for admission as a notary public must—\n( a ) pass a local examination covering the following subjects—\n(i) elementary history of the office of notary public;\n(ii) the Acts listed below, with particular reference to the function of a notary public—"
+    }
+  ],
+  "definitions": []
+}

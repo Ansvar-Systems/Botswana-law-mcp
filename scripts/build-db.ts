@@ -408,7 +408,7 @@ function buildDatabase(): void {
 
               const euInsert = insertEuDocument.run(
                 ref.euDocumentId, ref.type, ref.year, ref.number, ref.community,
-                shortName, shortName, eurLexUrl, 'Auto-extracted from Botswanan statute text',
+                shortName, shortName, eurLexUrl, 'Auto-extracted from Botswana statute text',
               );
               if (euInsert.changes > 0) totalEuDocuments++;
 
@@ -448,10 +448,11 @@ function buildDatabase(): void {
     insertMeta.run('tier', 'free');
     insertMeta.run('schema_version', '2');
     insertMeta.run('built_at', new Date().toISOString());
+    insertMeta.run('build_date', new Date().toISOString().split('T')[0]);
     insertMeta.run('builder', 'build-db.ts');
-    insertMeta.run('jurisdiction', 'KE');
-    insertMeta.run('source', 'elaws.gov.bw');
-    insertMeta.run('licence', 'Government Open Data');
+    insertMeta.run('jurisdiction', 'BW');
+    insertMeta.run('source', 'botswanalaws.com');
+    insertMeta.run('licence', 'Public Access (partial paywall)');
   });
   writeMeta();
 

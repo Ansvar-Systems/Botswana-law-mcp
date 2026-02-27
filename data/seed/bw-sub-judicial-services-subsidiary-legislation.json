@@ -1,0 +1,89 @@
+{
+  "id": "bw-sub-judicial-services-subsidiary-legislation",
+  "type": "statute",
+  "title": "Judicial Services: Subsidiary Legislation",
+  "title_en": "Judicial Services: Subsidiary Legislation",
+  "short_name": "Judicial Services: Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/judicial-services-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Judicial Services (Code of Conduct and Enforcement Procedures) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires?\n\"Commission\" means the Judicial Service Commission established in terms of section 103(1) of the Constitution;\n\"evidence leader\" means an attorney appointed by the Attorney-General to assist in leading evidence;\n\"immediate family\" means a spouse, child, parent, grandchild, great grandparent, sibling, uncle, aunt, niece, nephew of a judicial officer or any person living in the same house as a family member of a judicial officer;\n\"judicial officer\" includes the Chief Justice, the President of the Court of Appeal, Justices of Appeal, High Court Judges, Magistrates, Masters and Registrars; and\n\"Panel\" means a disciplinary panel appointed under regulation 14(10)."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Regulations shall apply to every judicial officer and no minimum standard prescribed in these Regulations shall be taken to derogate from the highest standards of ethics expected."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Code of Conduct (regs 4-11)",
+      "section": "4",
+      "title": "Judicial independence",
+      "content": "4. Judicial independence\nA judicial officer shall?\n( a ) exercise his or her judicial functions independently and free of extraneous influence;\n( b ) reject any attempt to influence his or her decision in any matter before the court outside the proper process of the court;\n( c ) encourage, safeguard and uphold arrangements, to maintain and enhance the institutional and operational independence of the judiciary; and\n( d ) exhibit and promote high standards of judicial conduct."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Code of Conduct (regs 4-11)",
+      "section": "5",
+      "title": "Integrity",
+      "content": "5. Integrity\n(1) A judicial officer shall?\n( a ) conduct himself or herself with integrity so as to sustain and enhance public confidence in the judiciary;\n( b ) ensure that his or her conduct is above reproach in his or her public and private life;\n( c ) encourage and support the observance of these high standards by his or her judicial colleagues; and\n( d ) not give legal advice, except to a member of his or her immediate family and for no fee.\n(2) A judicial officer or immediate family shall not accept a?\n( a ) gift;\n( b ) bequest;\n( c ) favour; or\n( d ) loan,\nfrom any person for purposes of a bribe or corrupt practice or which is calculated to influence the officer in the execution of his or her duties.\n(3) Notwithstanding the provisions of subregulation (2) a gift, award or benefit which cannot reasonably be perceived as a bribe, corrupt practice or one accompanied by intention to influence the judicial officer in the performance of his or her duties shall be acceptable."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Code of Conduct (regs 4-11)",
+      "section": "6",
+      "title": "Diligence",
+      "content": "6. Diligence\nA judicial officer shall?\n( a ) devote his or her professional activity to judicial duties, which include presiding in court, delivery of judgments, administrative work and other judicial tasks essential to the court's operation;\n( b ) take reasonable steps to develop, maintain and enhance his or her knowledge, skills and personal qualities necessary for judicial office;\n( c ) not engage in any conduct incompatible with the diligent discharge of his or her judicial duties or condone such conduct amongst colleagues or staff; and\n( d ) perform his or her duties with promptness and professionalism."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Code of Conduct (regs 4-11)",
+      "section": "7",
+      "title": "Equality",
+      "content": "7. Equality\nA judicial officer shall?\n( a ) conduct proceedings before him or her in such a manner as to ensure equality before the law;\n( b ) carry out his or her duties with consideration for all persons without discrimination on any ground;\n( c ) strive to be aware of, and understand the differences arising from gender, race, religion, culture, ethnic background, sexual orientation, disability or health condition, and shall not discriminate on these or any other basis;\n( d ) not be a member of any organisation that?"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Commission",
+      "definition": "the Judicial Service Commission established in terms of section 103(1) of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "evidence leader",
+      "definition": "an attorney appointed by the Attorney-General to assist in leading evidence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "immediate family",
+      "definition": "a spouse, child, parent, grandchild, great grandparent, sibling, uncle, aunt, niece, nephew of a judicial officer or any person living in the same house as a family member of a judicial officer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judicial officer",
+      "definition": "the Chief Justice, the President of the Court of Appeal, Justices of Appeal, High Court Judges, Magistrates, Masters and Registrars",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Panel",
+      "definition": "a disciplinary panel appointed under regulation 14(10).",
+      "source_provision": "s2"
+    }
+  ]
+}

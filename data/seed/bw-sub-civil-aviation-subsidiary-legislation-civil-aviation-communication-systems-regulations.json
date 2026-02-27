@@ -1,0 +1,344 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-communication-systems-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (communication Systems) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (communication Systems) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-communication-systems-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary Provisions (regs 1-3)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Communication Systems) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary Provisions (regs 1-3)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"Aerodrome\" means a defined area on land or water including any buildings, installations and equipment intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft;\n\"AeroMACS downlink (DL)\" means the transmission direction from the Base station (BS) to the Mobile station (MS);\n\"AeroMACS handover\" means the process in which a Mobile station (MS) migrates from the air-interface provided by one Base station (BS) to another air-interface which is provided by another BS;\n\"AeroMACS uplink (UL)\" means the transmission of the direction from the Mobile station (MS) to the Base station (BS);\n\"Aeronautical Administrative Communications (AAC)\" means communications necessary for the exchange of aeronautical administrative messages;\n\"Aeronautical Mobile Airport Communications System (AeroMACS)\" means a high capacity data link which supports mobile and fixes communications on the aerodrome surface;\n\"Aeronautical Operational Control (AOC)\" means communication required for the exercise of the authority over the initiation, continuation, diversion or termination of the flight for safety, regularity and efficiency purposes;\n\"Aeronautical Telecommunication Network (ATN)\" means a global internetwork architecture that allows ground, air-ground and avionic data subnetworks to exchange digital data for the safety of air navigation and for the regular, efficient and economic operation of the Air traffic services;\n\"air navigation services\" includes the following services provided for air navigation—\n( a ) Air traffic services;\n( b ) Instrument Flight Procedure Design Services (IFPD);\n( c ) Aeronautical Information Services (AIS);\n( d ) aeronautical cartographic services;\n( e ) aeronautical telecommunication services; and\n( f ) search and rescue services;\n\"air navigation services provider (ANSP)\" means an entity which is established for the purpose of providing the above-mentioned services of the air navigation services as provided in these Regulations;\n\"Air traffic safety electronics personnel (ATSEP)\" means a person who is engaged directly with the operations, maintenance and installation activities of the CNS/ATM systems;\n\"Air traffic service\" means a generic term referring to the flight information service including—\n( a ) alerting service;\n( b ) air traffic advisory service;\n( c ) air traffic control service;\n( d ) area control service;\n( e ) approach control service; or\n( f ) aerodrome control service;\n\"Aircraft address\" means a unique combination of 24 bits available for sending communication information to the aircraft for the purpose of air-ground communications, navigation and surveillance;\n\"Aircraft data circuit-terminating equipment (ADCE)\" means an aircraft specific data circuit-terminating equipment that is associated with an airborne data link processor (ADLP), that operates a protocol unique to Mode S data link for data transfer between air and ground;\n\"aircraft data link processor (ADLP)\" means an aircraft-resident processor that is specific for a particular air-ground data link being the Mode S which provides the channel management, segments or reassemble the messages for transfer which is connected to one side of the aircraft elements common to all data link systems and to the other side of the air-ground link itself;\n\"Aircraft earth station (AES)\" means a mobile earth station in the aeronautical mobile-satellite service located on the board of the aircraft;\n\"aircraft or vehicle\" means a machine or the device capable of atmospheric flight, or a vehicle on the airport surface movement area including runways and taxiways;\n\"air-initiated protocol\" means a procedure initiated by a Mode S aircraft installation for delivering a standard length or extended length downlink message to the ground;\n\"application entity (AE)\" means an AE which represents a set of international organisation for standardisation or Open System Interconnection communication capabilities of a particular application process;\n\"Aeronautical Telecommunication Network (ATN) or Internet Protocol Suite\" means Aeronautical Telecommunication Network or Internet Protocol Suite;\n\"Aeronautical Telecommunication Network end-system\" means an Aeronautical Telecommunication Network host in the Internet Protocol Suite terminology;\n\"Aeronautical Telecommunication Network host\" means an Aeronautical Telecommunication Network end-system in the Open System Interconnection terminology;\n\"Aeronautical Telecommunication Network Security services\" means a set of information which allows the receiving end system or intermediate system to identify unambiguous security source of the received information and to verify the integrity of that information;\n\"Aeronautical Telecommunication Services Inter-Facility Data Communication (AIDC)\" means an automated data exchange between Air traffic services units in the support of the flight notification, co-ordination, transfer of control and of communication;\n\"Aeronautical Telecommunication Services Message Handling Service (ATSMHS)\" means an Aeronautical Telecommunication Network application consisting of the procedures used to exchange Aeronautical Telecommunication Services messages in store-and-forward mode over the Aeronautical Telecommunication Network such that the transfer of an Aeronautical Telecommunication Services message is in general not correlated with the transfer of another Aeronautical Telecommunication Services message service provider;\n\"Aeronautical Telecommunication Services Message Handling System (AMHS)\" means the set of the computing and communication resources implemented by Aeronautical Telecommunication Services organisations to provide the Aeronautical Telecommunication Services Message Handling Service;\n\"authorised path\" means a communication path suitable for a given message category;\n\"automatic dependent surveillance-contract (ADS-C)\" means an ADS-C agreement which would be used as an exchange between the ground system and the aircraft, via a data link, specifying under which conditions ADS-C reports would be initiated, and what data would be contained in the reports;\n\"automatic dependent surveillance-broadcast (ADS-B)\" means the way in which the aircraft, aerodrome vehicles and other objects can automatically transmit or receive data such as identification, position and additional data, as appropriate, in a broadcast mode via a data link;\n\"automatic terminal information service (ATIS)\" means the automatic provision of current, routine information to arriving and departing aircraft throughout 24 hours or a specified portion thereof;\n\"Base station (BS)\" means a generalised equipment set providing connectivity, management, and control of the Mobile station (MS);\n\"BDS Comm-B Data Selector\" means the eight-bit BDS code that determines the register whose contents are to be transferred in the MB field of a comm-B reply which is expressed in two groups of four bits each, BDS1 of most significant four bits and BDS2 least significant four bits;\n\"bit error rate (BER)\" means the number of bit errors in a sample divided by the total number of bits in the sample, generally averaged over many such samples;\n\"break-before-make AeroMACS handover\" means where the service with the target Base station starts after a disconnection of the service with the previous serving Base station;\n\"broadcast\" means a transmission of information relating to air navigation that is not addressed to a specific station or stations;\n\"burst profile\" means a set of parameters that describe the uplink or downlink transmission properties associated with an interval usage code and each profile contains parameters such as modulation type, forward error correction (FEC) type, preamble, length, guard times;\n\"burst\" means a time defined, contiguous set of one or more related signal units which may transfer user information and protocols, signalling any necessary preamble;\n\"capability report\" means information identifying whether the transponder has a data link capability as reported in the capability field of an all-call reply or squitter transmission;\n\"carrier-to-multipath ratio (C/M)\" means the ratio of the carrier power received directly without reflection to the multipath power carrier received via reflection;\n\"carrier-to-noise density ratio (C/No)\" means the ratio of the total carrier power to the average noise power in a 1 Hz band-width, usually expressed in dBHz;\n\"channel rate accuracy\" means the relative accuracy of the clock to which the transmitted channel bits are synchronised at a channel rate of 1.2 kbits/s, maximum error of one part in 106 implies the maximum allowed error in the clock is Â±1.2 x 10-3Hz;\n\"channel rate\" means the rate at which bits are transmitted over the Radio Frequency channel and these bits include those bits used for framing and error correction, as well as the information bits for burst transmission and the channel rate refers to the instantaneous burst rate over the period of the burst;\n\"circuit mode\" means a configuration of the communications network which gives the appearance to the application of a dedicated transmission path;\n\"close-out\" means a command from Mode S interrogator that terminates Mode S link layer communication transaction;\n\"cluster of interrogators\" means two or more interrogators with the same interrogator identifier (II) code, operating co-operatively to ensure that there is no interference to the required surveillance and data link performance of each of the interrogators in areas of common coverage;\n\"coded chip\" means a \"1\" or \"0\" output of the rate Â½ or Â¼ convolutional code Encoder;\n\"comm-A\" means a 112-bit interrogation containing the 56-bit MA message field which is used by the uplink standard length message (SLM) and the broadcast protocols;\n\"comm-B\" means a 112-bit reply containing the 56-bit MB message field which is used by the downlink SLM, ground-initiated and broadcast protocols;\n\"comm-C\" means a 112-bit interrogation containing the 80-bit MC message field which is used by the uplink extended Length message (ELM) protocol;\n\"comm-D\" means a 112-bit reply containing the 80-bit MD message field which is used by the downlink ELM protocol;\n\"CNS\" means Communication, Navigations and Surveillance;\n\"connection\" means a logical association between peer-level entities in a communication system;\n\"connection establishment delay\" means connection establishment delay as defined in ISO 8348 and it includes a component attributable to the subnetwork (SN) service user which is the time between the SN-CONNECT indication and the SN-CONNECT response and this user component is due to work outside the boundaries of the satellite subnetwork and is therefore excluded from the AMS(R)S specifications;\n\"controller pilot data link communications (CPDLC)\" means communication between a controller and the pilot, using data link for ATC communications;\n\"Convolutional turbo codes (CTC)\" means type of forward error collection (FEC) code;\n\"COSPAS-SARSAT\" means Space System for Search of vessels in distress, Search and Rescue Satellite-Aided Tracking;\n\"current slot\" means the slot in which a received transmission begins;\n\"data circuit-terminating equipment (DCE)\" means a DCE network provider equipment used to facilitate communications between DTEs;\n\"data link capability report\" means information in a comm-B reply which identifies the complete Mode S communications capabilities of the aircraft installation;\n\"data link entity (DLE)\" means a protocol State machine capable of setting up and managing a single data link connection;\n\"data link flight information services (D-FIS)\" means the provision of FIS via data link;\n\"data link initiation capability (DLIC)\" means a data link application that provides the ability to exchange addresses, names and version numbers necessary to initiate data link applications;\n\"data link service (DLS) sub-layer\" means the sub-layer that "
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Aerodrome",
+      "definition": "a defined area on land or water including any buildings, installations and equipment intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "AeroMACS downlink (DL)",
+      "definition": "the transmission direction from the Base station (BS) to the Mobile station (MS)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "AeroMACS handover",
+      "definition": "the process in which a Mobile station (MS) migrates from the air-interface provided by one Base station (BS) to another air-interface which is provided by another BS",
+      "source_provision": "s2"
+    },
+    {
+      "term": "AeroMACS uplink (UL)",
+      "definition": "the transmission of the direction from the Mobile station (MS) to the Base station (BS)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Administrative Communications (AAC)",
+      "definition": "communications necessary for the exchange of aeronautical administrative messages",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Mobile Airport Communications System (AeroMACS)",
+      "definition": "a high capacity data link which supports mobile and fixes communications on the aerodrome surface",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Operational Control (AOC)",
+      "definition": "communication required for the exercise of the authority over the initiation, continuation, diversion or termination of the flight for safety, regularity and efficiency purposes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Telecommunication Network (ATN)",
+      "definition": "a global internetwork architecture that allows ground, air-ground and avionic data subnetworks to exchange digital data for the safety of air navigation and for the regular, efficient and economic operation of the Air traffic services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air navigation services",
+      "definition": "the following services provided for air navigation—\n( a ) Air traffic services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air navigation services provider (ANSP)",
+      "definition": "an entity which is established for the purpose of providing the above-mentioned services of the air navigation services as provided in these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Air traffic safety electronics personnel (ATSEP)",
+      "definition": "a person who is engaged directly with the operations, maintenance and installation activities of the CNS/ATM systems",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Air traffic service",
+      "definition": "a generic term referring to the flight information service including—\n( a ) alerting service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aircraft address",
+      "definition": "a unique combination of 24 bits available for sending communication information to the aircraft for the purpose of air-ground communications, navigation and surveillance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aircraft data circuit-terminating equipment (ADCE)",
+      "definition": "an aircraft specific data circuit-terminating equipment that is associated with an airborne data link processor (ADLP), that operates a protocol unique to Mode S data link for data transfer between air and ground",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft data link processor (ADLP)",
+      "definition": "an aircraft-resident processor that is specific for a particular air-ground data link being the Mode S which provides the channel management, segments or reassemble the messages for transfer which is connected to one side of the aircraft elements common to all data link systems and to the other side of the air-ground link itself",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aircraft earth station (AES)",
+      "definition": "a mobile earth station in the aeronautical mobile-satellite service located on the board of the aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft or vehicle",
+      "definition": "a machine or the device capable of atmospheric flight, or a vehicle on the airport surface movement area including runways and taxiways",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air-initiated protocol",
+      "definition": "a procedure initiated by a Mode S aircraft installation for delivering a standard length or extended length downlink message to the ground",
+      "source_provision": "s2"
+    },
+    {
+      "term": "application entity (AE)",
+      "definition": "an AE which represents a set of international organisation for standardisation or Open System Interconnection communication capabilities of a particular application process",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Telecommunication Network (ATN) or Internet Protocol Suite",
+      "definition": "Aeronautical Telecommunication Network or Internet Protocol Suite",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Telecommunication Network end-system",
+      "definition": "an Aeronautical Telecommunication Network host in the Internet Protocol Suite terminology",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Telecommunication Network host",
+      "definition": "an Aeronautical Telecommunication Network end-system in the Open System Interconnection terminology",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Telecommunication Network Security services",
+      "definition": "a set of information which allows the receiving end system or intermediate system to identify unambiguous security source of the received information and to verify the integrity of that information",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Telecommunication Services Inter-Facility Data Communication (AIDC)",
+      "definition": "an automated data exchange between Air traffic services units in the support of the flight notification, co-ordination, transfer of control and of communication",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Telecommunication Services Message Handling Service (ATSMHS)",
+      "definition": "an Aeronautical Telecommunication Network application consisting of the procedures used to exchange Aeronautical Telecommunication Services messages in store-and-forward mode over the Aeronautical Telecommunication Network such that the transfer of an Aeronautical Telecommunication Services message is in general not correlated with the transfer of another Aeronautical Telecommunication Services message service provider",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Telecommunication Services Message Handling System (AMHS)",
+      "definition": "the set of the computing and communication resources implemented by Aeronautical Telecommunication Services organisations to provide the Aeronautical Telecommunication Services Message Handling Service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised path",
+      "definition": "a communication path suitable for a given message category",
+      "source_provision": "s2"
+    },
+    {
+      "term": "automatic dependent surveillance-contract (ADS-C)",
+      "definition": "an ADS-C agreement which would be used as an exchange between the ground system and the aircraft, via a data link, specifying under which conditions ADS-C reports would be initiated, and what data would be contained in the reports",
+      "source_provision": "s2"
+    },
+    {
+      "term": "automatic dependent surveillance-broadcast (ADS-B)",
+      "definition": "the way in which the aircraft, aerodrome vehicles and other objects can automatically transmit or receive data such as identification, position and additional data, as appropriate, in a broadcast mode via a data link",
+      "source_provision": "s2"
+    },
+    {
+      "term": "automatic terminal information service (ATIS)",
+      "definition": "the automatic provision of current, routine information to arriving and departing aircraft throughout 24 hours or a specified portion thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Base station (BS)",
+      "definition": "a generalised equipment set providing connectivity, management, and control of the Mobile station (MS)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "BDS Comm-B Data Selector",
+      "definition": "the eight-bit BDS code that determines the register whose contents are to be transferred in the MB field of a comm-B reply which is expressed in two groups of four bits each, BDS1 of most significant four bits and BDS2 least significant four bits",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bit error rate (BER)",
+      "definition": "the number of bit errors in a sample divided by the total number of bits in the sample, generally averaged over many such samples",
+      "source_provision": "s2"
+    },
+    {
+      "term": "break-before-make AeroMACS handover",
+      "definition": "where the service with the target Base station starts after a disconnection of the service with the previous serving Base station",
+      "source_provision": "s2"
+    },
+    {
+      "term": "broadcast",
+      "definition": "a transmission of information relating to air navigation that is not addressed to a specific station or stations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "burst profile",
+      "definition": "a set of parameters that describe the uplink or downlink transmission properties associated with an interval usage code and each profile contains parameters such as modulation type, forward error correction (FEC) type, preamble, length, guard times",
+      "source_provision": "s2"
+    },
+    {
+      "term": "burst",
+      "definition": "a time defined, contiguous set of one or more related signal units which may transfer user information and protocols, signalling any necessary preamble",
+      "source_provision": "s2"
+    },
+    {
+      "term": "capability report",
+      "definition": "information identifying whether the transponder has a data link capability as reported in the capability field of an all-call reply or squitter transmission",
+      "source_provision": "s2"
+    },
+    {
+      "term": "carrier-to-multipath ratio (C/M)",
+      "definition": "the ratio of the carrier power received directly without reflection to the multipath power carrier received via reflection",
+      "source_provision": "s2"
+    },
+    {
+      "term": "carrier-to-noise density ratio (C/No)",
+      "definition": "the ratio of the total carrier power to the average noise power in a 1 Hz band-width, usually expressed in dBHz",
+      "source_provision": "s2"
+    },
+    {
+      "term": "channel rate accuracy",
+      "definition": "the relative accuracy of the clock to which the transmitted channel bits are synchronised at a channel rate of 1.2 kbits/s, maximum error of one part in 106 implies the maximum allowed error in the clock is Â±1.2 x 10-3Hz",
+      "source_provision": "s2"
+    },
+    {
+      "term": "channel rate",
+      "definition": "the rate at which bits are transmitted over the Radio Frequency channel and these bits include those bits used for framing and error correction, as well as the information bits for burst transmission and the channel rate refers to the instantaneous burst rate over the period of the burst",
+      "source_provision": "s2"
+    },
+    {
+      "term": "circuit mode",
+      "definition": "a configuration of the communications network which gives the appearance to the application of a dedicated transmission path",
+      "source_provision": "s2"
+    },
+    {
+      "term": "close-out",
+      "definition": "a command from Mode S interrogator that terminates Mode S link layer communication transaction",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cluster of interrogators",
+      "definition": "two or more interrogators with the same interrogator identifier (II) code, operating co-operatively to ensure that there is no interference to the required surveillance and data link performance of each of the interrogators in areas of common coverage",
+      "source_provision": "s2"
+    },
+    {
+      "term": "coded chip",
+      "definition": "a \"1\" or \"0\" output of the rate Â½ or Â¼ convolutional code Encoder",
+      "source_provision": "s2"
+    },
+    {
+      "term": "comm-A",
+      "definition": "a 112-bit interrogation containing the 56-bit MA message field which is used by the uplink standard length message (SLM) and the broadcast protocols",
+      "source_provision": "s2"
+    },
+    {
+      "term": "comm-B",
+      "definition": "a 112-bit reply containing the 56-bit MB message field which is used by the downlink SLM, ground-initiated and broadcast protocols",
+      "source_provision": "s2"
+    },
+    {
+      "term": "comm-C",
+      "definition": "a 112-bit interrogation containing the 80-bit MC message field which is used by the uplink extended Length message (ELM) protocol",
+      "source_provision": "s2"
+    },
+    {
+      "term": "comm-D",
+      "definition": "a 112-bit reply containing the 80-bit MD message field which is used by the downlink ELM protocol",
+      "source_provision": "s2"
+    },
+    {
+      "term": "CNS",
+      "definition": "Communication, Navigations and Surveillance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "connection",
+      "definition": "a logical association between peer-level entities in a communication system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "connection establishment delay",
+      "definition": "connection establishment delay as defined in ISO 8348 and it includes a component attributable to the subnetwork (SN) service user which is the time between the SN-CONNECT indication and the SN-CONNECT response and this user component is due to work outside the boundaries of the satellite subnetwork and is therefore excluded from the AMS(R)S specifications",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controller pilot data link communications (CPDLC)",
+      "definition": "communication between a controller and the pilot, using data link for ATC communications",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Convolutional turbo codes (CTC)",
+      "definition": "type of forward error collection (FEC) code",
+      "source_provision": "s2"
+    },
+    {
+      "term": "COSPAS-SARSAT",
+      "definition": "Space System for Search of vessels in distress, Search and Rescue Satellite-Aided Tracking",
+      "source_provision": "s2"
+    },
+    {
+      "term": "current slot",
+      "definition": "the slot in which a received transmission begins",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data circuit-terminating equipment (DCE)",
+      "definition": "a DCE network provider equipment used to facilitate communications between DTEs",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data link capability report",
+      "definition": "information in a comm-B reply which identifies the complete Mode S communications capabilities of the aircraft installation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data link entity (DLE)",
+      "definition": "a protocol State machine capable of setting up and managing a single data link connection",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data link flight information services (D-FIS)",
+      "definition": "the provision of FIS via data link",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data link initiation capability (DLIC)",
+      "definition": "a data link application that provides the ability to exchange addresses, names and version numbers necessary to initiate data link applications",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data link service (DLS) sub-layer",
+      "definition": "the sub-layer that",
+      "source_provision": "s2"
+    }
+  ]
+}

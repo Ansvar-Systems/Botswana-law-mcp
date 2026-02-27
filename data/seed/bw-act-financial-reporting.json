@@ -1,0 +1,235 @@
+{
+  "id": "bw-act-financial-reporting",
+  "type": "statute",
+  "title": "Financial Reporting",
+  "title_en": "Financial Reporting",
+  "short_name": "Financial Reporting",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/financial-reporting",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Financial Reporting Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"annual report\" means the document that an entity issues on an annual basis of its affairs, including its financial statements together with the audit report, and the report from its Board of Directors;\n\"annual revenue\" means revenue accruing over the preceding 12 months;\n\"audit\" means an examination of the financial statements of an organisation to form an opinion on whether the—\n( a ) information presented in the financial statements, taken as a whole, reflect the true and fair financial position of the organisation including its assets and liabilities at a given date and its profits and losses for the given period; and\n( b ) the financial statements are prepared in accordance with the applicable financial reporting standards;\n\"auditor\" means a person, whether independently or as a partner of an audit firm, or as an employee of the Government that provides audit services to a private or public entity;\n\"audit firm\" means a firm that provides audit services to a private or public entity;\n\"auditing standards\" means the auditing standards issued by the Authority under section 53;\n\"Authority\" means the Botswana Accountancy Oversight Authority established under section 3;\n\"Board\" means the Board of Directors established under section 7;\n\"certified auditor\" means an auditor registered under section 24 of the Act;\n[ Act 9 of 2020, s. 2(a). ]\n\"certified auditor of public interest entity\" means an auditor registered to provide audit services to a public interest entity in accordance with section 24;\n\"certified auditor of P.I.E\" means the certified auditor of public interest entity;\n\"engagement quality control review\" means a process designed to provide an objective evaluation, on or before the date of the report, of the significant judgments the engagement team has made and the considerations it made in formulating the audit opinion or report;\n[ Act 9 of 2020, s. 2(b). ]\n\"engagement team\" means all partners and staff performing an audit engagement, and any individuals engaged by the firm or a network firm who perform procedures on the engagement;\n[ Act 9 of 2020, s. 2(b). ]\n\"entity\" means any person or body of persons, whether incorporated or unincorporated;\n\"financial reporting standards\" means the financial reporting standards issued by the Authority under section 52;\n\"financial statements\" means a complete set of financial statements whether interim or final, prepared and presented in accordance with the financial reporting standards issued by the Authority under section 52;\n\"firm\" means an audit firm for certified auditors or certified auditors of public interest entities registered under section 25, which firm provides audit services to public interest entities or other entities, including a partly or wholly funded public body;\n[ Act 9 of 2020, s. 2(a). ]\n\"IFAC\" means the International Federation of Accountants or its successor body;\n[ Act 9 of 2020, s. 2(b). ]\n\"IFRS\" means the International Financial Reporting Standards;\n[ Act 9 of 2020, s. 2(b). ]\n\"independence\" means independence of mind, independence in appearance, or both;\n\"independence of appearance\" means the avoidance of facts and circumstances that are so significant that a reasonable and informed third party having knowledge of all relevant information, including any safeguards applied, will reasonably conclude that the integrity, objectivity or professional scepticism of a firm or a member of the audit team had been compromised;\n\"independence of mind\" means the state of mind that permits the provision of an opinion without being affected by influences that compromise professional judgment, allowing an individual to act with integrity, and exercise objectivity and professional scepticism;\n\"Institute\" means the professional accountancy body known as the Botswana Institute of Chartered Accountants established under section 3 of the Accountants Act (Cap. 61:05);\n\"ISQC 1\" means the International Standard on Quality Control 1 or its successor quality control standard;\n[ Act 9 of 2020, s. 2(b). ]\n\"material irregularity\" means an irregularity that, by itself, or in combination with other irregularities, results in a mis-statement of the financial statements of an entity, or in its financial statements not fairly presenting the operations and financial condition of the entity and that, if properly presented, would affect a financial or investment decision of the user;\n\"member firm\" means a firm providing professional auditing services which is registered in accordance with section 25;\n[ Act 9 of 2020, s. 2(b). ]\n\"officer\" in relation to a public interest entity, means a person who is responsible for the preparation of financial statements, and includes a member of the audit practice review committee, the chief executive, the chief financial officer and directors;\n\"professional misconduct\" means an act or omission constituting misconduct in terms of section 38(2);\n[ Act 9 of 2020, s. 2(a). ]\n\"public body\" means any board, tribunal, commission, council, committee or other body, corporate or unincorporated established under any enactment, and includes any company in which the Government has equity shares;\n[ Act 9 of 2020, s. 2(b). ]\n\"public interest entity (P.I.E)\" has the meaning assigned to it under section 22; and\n[ Act 9 of 2020, s. 2(a). ]\n\"rules\" means the rules of the Authority made under section 72."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment and functions of the Botswana Accountancy Oversight Authority and its Board",
+      "section": "3",
+      "title": "Establishment of Authority",
+      "content": "3. Establishment of Authority\n(1) There is hereby established a body to be known as the Botswana Accountancy Oversight Authority.\n(2) The Authority shall be a body corporate with perpetual succession and a common seal, capable of suing and being sued in its own name and, subject to the provisions of this Act, of doing or performing all such acts as bodies corporate may, by law, do or perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment and functions of the Botswana Accountancy Oversight Authority and its Board",
+      "section": "4",
+      "title": "Seal of Authority",
+      "content": "4. Seal of Authority\n(1) The seal of the Authority shall be such device as may be determined by the Board and shall be kept by the Chief Executive.\n(2) The affixing of the seal shall be authenticated by the Chairperson or Vice Chairperson and the Chief Executive or any other person authorised in that behalf by a resolution of the Board.\n(3) Any contract or instrument which, if entered into or executed by a person not being a body corporate would not be required to be under seal, may be entered into or executed without seal on behalf of the Board by the Chairperson or any other person generally or specifically authorised by the Board to do so."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment and functions of the Botswana Accountancy Oversight Authority and its Board",
+      "section": "5",
+      "title": "Objectives of Authority",
+      "content": "5. Objectives of Authority\nThe principal objectives of the Authority shall be to provide oversight to accounting and auditing services and promote the standard, quality and credibility of providing financial and non-financial information by entities, including public interest entities and, without limiting the generality of the foregoing, shall be to—\n( a ) promote the highest standards of auditors registered with the Authority;\n[ Act 9 of 2020, s. 3(a). ]\n( b ) improve the standard and quality of accounting and audit services;\n( c ) improve the integrity, competence and transparency of accountants and auditors;\n( d ) promote development of the accountancy profession;\n( e ) protect the interest of the general public and investors in entities, including public interest entities;\n( f ) ensure compliance with and application of local and international accounting and auditing standards;\n( g ) promote high standards of corporate governance and compliance with professional ethics;\n( h ) monitor and adopt international developments in accounting and auditing fields;\n( i ) encourage effective collaboration with other regulators;\n( j ) implement a sound system of quality assurance mechanisms to ensure high quality audit practice; and\n[ Act 9 of 2020, s. 3(b). ]\n( k ) act as a supervisory authority under the Financial Intelligence Act.\n[ Act 9 of 2020, s. 3(b). ]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Establishment and functions of the Botswana Accountancy Oversight Authority and its Board",
+      "section": "6",
+      "title": "General functions and powers of Authority",
+      "content": "6. General functions and powers of Authority\n(1) Subject to the provisions of this Act, the functions of the Authority, for purposes of providing oversight over auditors, professional accountancy bodies and generally with regard to the accounting and auditing profession, shall be to—\n( a ) issue, adopt, establish, monitor and enforce financial reporting, accounting and auditing standards;\n( b ) monitor the quality and fairness of financial reporting;\n( c ) monitor and enforce compliance with the reporting requirements provided under any relevant enactment;\n( d ) ensure and enforce compliance with standards and pronouncements issued by the—\n(i) International Accounting Standards Board,\n(ii) International Auditing and Assurance Standards Board,\n(iii) International Public Sector Accounting Standards Board,\n(iv) International Ethics Standards Board for Accountants of the International Federation of Accountants,\n(v) International Accounting Education Standards Board, and\n(vi) the successor bodies of each;\n( e ) oversee and monitor the services and professional conduct of certified auditors of P.I.Es;\n( f ) issue accounting and auditing rules, codes and guidelines in accordance with the relevant laws and international standards;\n( g ) conduct investigations and, where necessary, impose relevant sanctions on certified auditors, officers of public interest entities as well as on public interest entities or other entities;\n[ Act 9 of 2020, s. 4(a)(i). ]\n( h ) establish, maintain and apply an investigation system and disciplinary procedure against certified auditors, and firms of public interest entities as well as against public interest entities or other entities and, where necessary, coordinate with or refer any disciplinary proceedings to other regulators;\n[ Act 9 of 2020, s. 4(a)(ii). ]\n( i ) co-ordinate and co-operate with international institutions in the development and enforcement of financial reporting, accounting and auditing standards;\n( j ) oversee and monitor the regulatory system, training, professional development programmes and examinations and other activities of the Institute;\n( k ) initiate, organise and participate in educational and training programmes in accounting and auditing;\n( l ) encourage, and where appropriate, finance research into any matter affecting financial reporting, accounting, auditing and corporate governance;\n( m ) provide accreditation to the Institute and other professional accountancy bodies;\n[ Act 9 of 2020, s. 4(a)(iii). ]\n( n ) register public interest entities and other entities, including partly or wholly funded public bodies; and\n[ Act 9 of 2020, s. 4(a)(iv). ]\n( o ) perform such other duties or functions as the Authority deems necessary for the purposes of implementing the provisions of this Act.\n(2) In the performance of its functions, the Authority shall—\n( a ) review and analyse financial reports and identify any failure on the part of the public interest entity or other entity, including a partly or wholly funded public body to comply with the requirements of any relevant law or any financial reporting standard, code or guideline issued under this Act;\n[ Act 9 of 2020, s. 4(b). ]\n( b ) inform the public interest entity or other entity, including a partly or wholly funded public body of its shortcomings in its financial report and the required action to rectify the shortcomings; and\n[ Act 9 of 2020, s. 4(b). ]\n( c ) conduct inspection, at least every three years, on the regulatory system and other activities of the Institute and investigate whether they meet the Institute's criteria for protecting the public by—\n(i) maintaining high professional standards,\n(ii) taking steps to support the development of the accountancy profession, and\n(iii) accomplishing other public interest objectives as set forth in their constitutions; and\n( d ) inform the public interest entity or other entity, including a partly or wholly funded public body, auditor, firm, the Institute or any other interested party of its, his or her right to make representations to the Authority in relation to any matter under consideration by the Authority.\n[ Act 9 of 2020, s. 4(b). ]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Establishment and functions of the Botswana Accountancy Oversight Authority and its Board",
+      "section": "7",
+      "title": "Board of Directors",
+      "content": "7. Board of Directors\n(1) The functions and powers of the Authority shall be exercised and performed by a Board of Directors consisting of nine members as follows—\n( a ) the Accountant-General;\n( b ) the Governor of the Bank of Botswana;\n( c ) the Commissioner General of the Botswana Unified Revenue Service;\n( d ) the Chief Executive Officer of the Non Bank Financial Institutions Regulatory Authority;\n( e ) the Chief Executive of Business Botswana;\n[ Act 9 of 2020, s. 5(a). ]\n( f ) the Chief Executive of the Botswana Stock Exchange; who shall be ex-officio members;\n( g ) two experienced professional accountants, in this Act referred to as experts, appointed by the Minister on the recommendation of the ex-officio members; and\n[ Act 9 of 2020, s. 5(b). ]\n( h ) one academic professional accountant, appointed by the Minister on the recommendation of the ex-officio members.\n[ Act 9 of 2020, s. 5(c). ]\n(2) The appointed members of the Board shall be selected from persons—\n( a ) with at least 10 years experience in management, a profession or academia, and shall meet such other criteria as may be prescribed by this Act and provided in the rules; and\n( b ) who demonstrate expertise and practical knowledge of internationally recognised financial reporting and auditing standards.\n(3) The first appointed members of the Board shall be appointed within six months of the coming into force of this Act.\n(4) The Minister shall appoint a Chairperson of the Board from among members of the Board."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Establishment and functions of the Botswana Accountancy Oversight Authority and its Board",
+      "section": "8",
+      "title": "Powers of the Board",
+      "content": "8. Powers of the Board\n(1) The Board shall have powers to do all things necessary or appropriate in connection with the performance of its functions.\n(2) Without derogating from the generality of subsection (1), and subject to the provisions of this Act, the powers of the Board shall include the power to—\n( a ) co-operate with, or make the Authority become a member or an affiliate of, any international body, the objects or functions of which are similar to or connected with those of the Authority;\n( b ) impose and collect such penalties, fees and fines as may be required under this Act and the rules;\n( c ) levy such charges or fees as may be reasonable for services and facilities provided by the Authority;\n( d ) issue rules, guidelines and standards relating to financial reporting, accounting and auditing; and\n( e ) conduct any inquiry or investigation or collect information, documents or evidence for the purpose of carrying out its functions."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Establishment and functions of the Botswana Accountancy Oversight Authority and its Board",
+      "section": "9",
+      "title": "Tenure of office",
+      "content": "9. Tenure of office\n(1) An ex-officio member appointed under section 7(1) shall serve as a member of the Board by virtue of the office he or she holds.\n(2) An expert and academic appointed under section 7(1)( g ) or ( h ) as a member, shall hold office for a term of four years and shall be eligible for re-appointment for one further term.\n(3) The Chairperson of the Board shall hold office for three years, unless he or she ceases to be a member of the Board and shall be eligible for re-appointment for one further term.\n(4) Notwithstanding anything to the contrary herein contained, any appointed member, on attainment of the age limit to be prescribed by the rules, shall not be eligible for appointment or to continue in the said post."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II Establishment and functions of the Botswana Accountancy Oversight Authority and its Board",
+      "section": "10",
+      "title": "Disqualification, removal and resignation",
+      "content": "10. Disqualification, removal and resignation\n(1) A person shall not be appointed or elected as a member of the Board or be qualified to continue to hold office as a member who—\n( a ) is not a citizen of Botswana;\n( b ) has in terms of a law in force in any country—\n(i) been adjudged or otherwise declared bankrupt or insolvent and has not been discharged, or\n(ii) made an assignment, arrangement or composition with his or her creditors, which has not been rescinded or set aside;\n( c ) has within a period of 10 years immediately preceding the date of his or her proposed appointment, been convicted—\n(i) in Botswana, of a criminal offence, or\n(ii) outside Botswana, of an offence which if committed in Botswana, would have been a criminal offence, and sentenced by a court of competent jurisdiction to imprisonment for six months or more without the option of a fine, whether that sentence has been suspended or not, and for which he or she has not received a free pardon; or\n( d ) has committed a material breach of the Code of Conduct and Ethics adopted by the Board.\n(2) An auditor or former auditor shall not be appointed or elected as a member of the Board.\n[ Act 9 of 2020, s. 6. ]\n(3) The Minister may, in writing, suspend from office, a member against whom criminal proceedings are instituted for an offence in respect of which a sentence of imprisonment may be imposed, and whilst that member is so suspended, he or she shall not carry out any duties or be entitled to any remuneration or allowances as a member of the Board.\n(4) The Minister may, by notice in writing, remove an appointed member of the Board from office where the member—\n( a ) is absent without reasonable cause from three consecutive meetings of the Board of which he or she has had notice;\n( b ) has been found to be physically or mentally incapable of performing his or her duties efficiently, and his or her medical doctor has issued a certificate to that effect;\n( c ) contravenes the provisions of this Act or otherwise misconducts himself or herself to the detriment of the objectives of the Institute and of the Authority, or of public interest;\n( d ) has failed to comply with the provisions of section 17 or 18; or\n( e ) has been convicted of an offence under this Act for which he or she is sentenced to imprisonment for a term of six months or more without an option of a fine."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "annual report",
+      "definition": "the document that an entity issues on an annual basis of its affairs, including its financial statements together with the audit report, and the report from its Board of Directors",
+      "source_provision": "s2"
+    },
+    {
+      "term": "annual revenue",
+      "definition": "revenue accruing over the preceding 12 months",
+      "source_provision": "s2"
+    },
+    {
+      "term": "audit",
+      "definition": "an examination of the financial statements of an organisation to form an opinion on whether the—\n( a ) information presented in the financial statements, taken as a whole, reflect the true and fair financial position of the organisation including its assets and liabilities at a given date and its profits and losses for the given period",
+      "source_provision": "s2"
+    },
+    {
+      "term": "auditor",
+      "definition": "a person, whether independently or as a partner of an audit firm, or as an employee of the Government that provides audit services to a private or public entity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "audit firm",
+      "definition": "a firm that provides audit services to a private or public entity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "auditing standards",
+      "definition": "the auditing standards issued by the Authority under section 53",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Botswana Accountancy Oversight Authority established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of Directors established under section 7",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certified auditor",
+      "definition": "an auditor registered under section 24 of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certified auditor of public interest entity",
+      "definition": "an auditor registered to provide audit services to a public interest entity in accordance with section 24",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certified auditor of P.I.E",
+      "definition": "the certified auditor of public interest entity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "engagement quality control review",
+      "definition": "a process designed to provide an objective evaluation, on or before the date of the report, of the significant judgments the engagement team has made and the considerations it made in formulating the audit opinion or report",
+      "source_provision": "s2"
+    },
+    {
+      "term": "engagement team",
+      "definition": "all partners and staff performing an audit engagement, and any individuals engaged by the firm or a network firm who perform procedures on the engagement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "entity",
+      "definition": "any person or body of persons, whether incorporated or unincorporated",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial reporting standards",
+      "definition": "the financial reporting standards issued by the Authority under section 52",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial statements",
+      "definition": "a complete set of financial statements whether interim or final, prepared and presented in accordance with the financial reporting standards issued by the Authority under section 52",
+      "source_provision": "s2"
+    },
+    {
+      "term": "firm",
+      "definition": "an audit firm for certified auditors or certified auditors of public interest entities registered under section 25, which firm provides audit services to public interest entities or other entities, including a partly or wholly funded public body",
+      "source_provision": "s2"
+    },
+    {
+      "term": "IFAC",
+      "definition": "the International Federation of Accountants or its successor body",
+      "source_provision": "s2"
+    },
+    {
+      "term": "IFRS",
+      "definition": "the International Financial Reporting Standards",
+      "source_provision": "s2"
+    },
+    {
+      "term": "independence",
+      "definition": "independence of mind, independence in appearance, or both",
+      "source_provision": "s2"
+    },
+    {
+      "term": "independence of appearance",
+      "definition": "the avoidance of facts and circumstances that are so significant that a reasonable and informed third party having knowledge of all relevant information, including any safeguards applied, will reasonably conclude that the integrity, objectivity or professional scepticism of a firm or a member of the audit team had been compromised",
+      "source_provision": "s2"
+    },
+    {
+      "term": "independence of mind",
+      "definition": "the state of mind that permits the provision of an opinion without being affected by influences that compromise professional judgment, allowing an individual to act with integrity, and exercise objectivity and professional scepticism",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Institute",
+      "definition": "the professional accountancy body known as the Botswana Institute of Chartered Accountants established under section 3 of the Accountants Act (Cap. 61:05)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ISQC 1",
+      "definition": "the International Standard on Quality Control 1 or its successor quality control standard",
+      "source_provision": "s2"
+    },
+    {
+      "term": "material irregularity",
+      "definition": "an irregularity that, by itself, or in combination with other irregularities, results in a mis-statement of the financial statements of an entity, or in its financial statements not fairly presenting the operations and financial condition of the entity and that, if properly presented, would affect a financial or investment decision of the user",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member firm",
+      "definition": "a firm providing professional auditing services which is registered in accordance with section 25",
+      "source_provision": "s2"
+    },
+    {
+      "term": "professional misconduct",
+      "definition": "an act or omission constituting misconduct in terms of section 38(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public body",
+      "definition": "any board, tribunal, commission, council, committee or other body, corporate or unincorporated established under any enactment, and includes any company in which the Government has equity shares",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public interest entity (P.I.E)",
+      "definition": "assigned to it under section 22",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rules",
+      "definition": "the rules of the Authority made under section 72.",
+      "source_provision": "s2"
+    }
+  ]
+}

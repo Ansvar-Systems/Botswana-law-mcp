@@ -1,0 +1,116 @@
+{
+  "id": "bw-act-industrial-development-repealed",
+  "type": "statute",
+  "title": "Industrial Development",
+  "title_en": "Industrial Development",
+  "short_name": "Industrial Development",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/industrial-development-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Industrial Development Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act, unless the context otherwise requires—\n\"application\" means an application for a licence, in accordance with section 16, to manufacture any product at any place in Botswana, and includes—\n( a ) an application to manufacture a different or additional product;\n( b ) an application to manufacture at a different or additional place; and\n( c ) an application to transfer a licence to another person;\n\"authorised officer\" means a public officer appointed by the Minister in terms of section 29(1);\n\"Chairperson\" means a Chairperson of a committee;\n\"committee\" means a licensing committee, a Regional Appeals Board or the Industrial Licensing Authority;\n\"council\" means a city or town council established under the Townships Act (Cap. 40:02) or a district council established under the<CS:\"Hidden - Grey - 8_2\"> Local Government (District Councils) Act (Cap. 40:01);\n\"Industrial Licensing Authority\" means the Industrial Licensing Authority established under section 26;\n\"large enterprise\" means a business entity with such annual turnover and staff complement as the Minister may, by order published in the Gazette , prescribe;\n\"licence\" means a licence to manufacture, issued under section 17;\n\"licensing committee\" means a committee established under section 3;\n\"manufacture\" means to subject physical matter to any process which materially changes it or its packaging in substance, character or appearance and includes the assembly of parts;\n\"medium enterprise\" means a business entity with such annual turnover and staff complement as the Minister may, by order published in the Gazette , prescribe;\n\"member\" means a member of a committee and includes a chairperson;\n\"micro enterprise\" means a business entity with such annual turnover and staff complement as the Minister may, by order published in the Gazette , prescribe;\n\"product\" means any article, thing or substance produced by any manufacturing enterprise to which this Act applies, but excludes any immovable structure;\n\"Regional Appeals Board\" means the Board established under section 25; and\n\"small enterprise\" means a business entity with such annual turnover and staff complement as the Minister may, by order published in the Gazette , prescribe.\n(2) This Act shall apply to any manufacturing enterprise which—\n( a ) is either wholly or partly owned by citizens of Botswana and employs, in the aggregate at any given moment anywhere in Botswana, 10 or more persons, including managers, directors, or sales or clerical or other staff;\n( b ) any person not being a citizen of Botswana carries on by himself or herself or with others; or\n( c ) irrespective of the number of persons employed therein, uses any engine, motor or other appliances providing energy derived from steam, water, sun, wind, electricity, the combustion of fuel or any other source of not less than 20 kilowatts or equivalent power in aggregate.\n(3) Notwithstanding the provisions of subsection (2), the provisions of this Act shall not apply to—\n( a ) the Botswana Meat Commission including any individual enterprises undertaken by that Commission;\n( b ) any manufacturing enterprise for milling licensed under the Control of Maize Milling Act (Cap. 43:05);\n( c ) any co-operative society registered under the provisions of the Co-operative Societies Act (Cap. 42:04);\n( d ) any manufacturing enterprise whose premises are licensed in terms of any regulations made under the provisions of the<CS:\"Hidden - Grey - 8_2\"> Hides and Skins Export Act (Cap. 49:01);\n( e ) any diamond cutting licensed under the<CS:\"Hidden - Grey - 8_2\"> Diamond Cutting Act (Cap. 66:04); and\n( f ) the Botswana Vaccine Institute."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Licensing Committees",
+      "section": "3",
+      "title": "Establishment of licensing committees",
+      "content": "3. Establishment of licensing committees\n(1) There is hereby established a licensing committee for each council, the members of which committee shall be appointed by the Minister."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "application",
+      "definition": "an application for a licence, in accordance with section 16, to manufacture any product at any place in Botswana, and includes—\n( a ) an application to manufacture a different or additional product",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised officer",
+      "definition": "a public officer appointed by the Minister in terms of section 29(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "a Chairperson of a committee",
+      "source_provision": "s2"
+    },
+    {
+      "term": "committee",
+      "definition": "a licensing committee, a Regional Appeals Board or the Industrial Licensing Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council",
+      "definition": "a city or town council established under the Townships Act (Cap. 40:02) or a district council established under the<CS:\"Hidden - Grey - 8_2\"> Local Government (District Councils) Act (Cap. 40:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Industrial Licensing Authority",
+      "definition": "the Industrial Licensing Authority established under section 26",
+      "source_provision": "s2"
+    },
+    {
+      "term": "large enterprise",
+      "definition": "a business entity with such annual turnover and staff complement as the Minister may, by order published in the Gazette , prescribe",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence to manufacture, issued under section 17",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensing committee",
+      "definition": "a committee established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manufacture",
+      "definition": "to subject physical matter to any process which materially changes it or its packaging in substance, character or appearance and includes the assembly of parts",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medium enterprise",
+      "definition": "a business entity with such annual turnover and staff complement as the Minister may, by order published in the Gazette , prescribe",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of a committee and includes a chairperson",
+      "source_provision": "s2"
+    },
+    {
+      "term": "micro enterprise",
+      "definition": "a business entity with such annual turnover and staff complement as the Minister may, by order published in the Gazette , prescribe",
+      "source_provision": "s2"
+    },
+    {
+      "term": "product",
+      "definition": "any article, thing or substance produced by any manufacturing enterprise to which this Act applies, but excludes any immovable structure",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Regional Appeals Board",
+      "definition": "the Board established under section 25",
+      "source_provision": "s2"
+    },
+    {
+      "term": "small enterprise",
+      "definition": "a business entity with such annual turnover and staff complement as the Minister may, by order published in the Gazette , prescribe.\n(2) This Act shall apply to any manufacturing enterprise which—\n( a ) is either wholly or partly owned by citizens of Botswana and employs, in the aggregate at any given moment anywhere in Botswana, 10 or more persons, including managers, directors, or sales or clerical or other staff",
+      "source_provision": "s2"
+    }
+  ]
+}

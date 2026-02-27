@@ -1,0 +1,64 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-jwaneng-town-council-control-of-retail-sales-of-traditional-beer-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Jwaneng Town Council (control of Retail Sales of Traditional Beer) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Jwaneng Town Council (control of Retail Sales of Traditional Beer) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-jwaneng-town-council-control-of-retail-sales-of-traditional-beer-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Jwaneng Town Council (Control of Retail Sales of Traditional Beer) Bye-laws*.\n*>Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws\n\"council\" means Jwaneng Town Council;\n\"licensed premises\" means premises in respect of which a traditional beer licence is in force;\n\"licensee\" means the holder of a traditional beer licence;\n\"Town Clerk\" means the Town Clerk of Jwaneng Town Council;\n\"township\" means the area of jurisdiction of the Jwaneng Town Council;\n\"traditional beer\" means\n( a ) beer brewed from sorghum-meal or a mixture of sorghum-meal and mealie-meal by the fermentation of malted sorghum (but excluding the liquors commonly known as \"ila\" , \"kabidikama\" or \"banyana\" ) or any beer brewed as described to which sugar, honey or syrup has been added or which is mixed with or fortified or adulterated by any other liquor or substance, or any other of the liquors commonly known as \"khadi\" ; or\n( b ) any other liquor which the Minister may, by order published in the Gazette , declare to be traditional beer for the purposes of the Liquor Act (Cap. 43:11)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "General restriction on sale of traditional beer by retail",
+      "content": "3. General restriction on sale of traditional beer by retail\n(1) No person shall sell or buy traditional beer by retail within the township except\n( a ) in a beer hall conducted by the council;\n( b ) on premises in respect of which a licence issued under the Liquor Act (other than a provisional licence) is in force; or\n( c ) on premises in respect of which a licence issued under these Bye-laws (hereinafter referred to as a \"traditional beer licence\") is in force.\n(2) Any person who contravenes this bye-law shall be guilty of an offence and liable to a fine not exceeding P200 or to imprisonment for a term not exceeding six months, or to both."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application for issue, renewal or transfer of traditional beer licence",
+      "content": "4. Application for issue, renewal or transfer of traditional beer licence\n(1) In order to make an application for the issue or renewal of a traditional beer licence or for the transfer of such a licence to another person the occupier of the premises in respect of which the licence is sought or is in force, as the case may be, shall lodge an application in writing, in such form as the council may require, with the Town Clerk.\n(2) Every application for the issue of a traditional beer licence shall state whether a licence is sought authorising the sale of traditional beer for consumption\n( a ) on the premises in question;\n( b ) off the premises in question; or\n( c ) both on and off the premises in question.\n(3) No application for the issue or renewal of a traditional beer licence shall be made unless the applicant, not less than 21 days immediately before the application is made, has given notice of his intention to make the application and of the particulars thereof in a newspaper circulating within the township and in writing served on the principal police officer and the Government Medical Officer of Health stationed within the township.\n(4) No application for the renewal of a traditional beer licence shall be made after the licence has expired.\n(5) Where an application is made in accordance with this bye-law, the Town Clerk shall place the application before the council at its meeting next after the date on which the application was made."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "council",
+      "definition": "Jwaneng Town Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensed premises",
+      "definition": "premises in respect of which a traditional beer licence is in force",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "the holder of a traditional beer licence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Town Clerk",
+      "definition": "the Town Clerk of Jwaneng Town Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "township",
+      "definition": "the area of jurisdiction of the Jwaneng Town Council",
+      "source_provision": "s2"
+    }
+  ]
+}

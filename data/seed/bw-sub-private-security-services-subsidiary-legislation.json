@@ -1,0 +1,21 @@
+{
+  "id": "bw-sub-private-security-services-subsidiary-legislation",
+  "type": "statute",
+  "title": "Private Security Services: Subsidiary Legislation",
+  "title_en": "Private Security Services: Subsidiary Legislation",
+  "short_name": "Private Security Services: ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/private-security-services-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Private Security Services Regulations."
+    }
+  ],
+  "definitions": []
+}

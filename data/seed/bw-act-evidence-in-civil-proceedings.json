@@ -1,0 +1,42 @@
+{
+  "id": "bw-act-evidence-in-civil-proceedings",
+  "type": "statute",
+  "title": "Evidence in Civil Proceedings",
+  "title_en": "Evidence in Civil Proceedings",
+  "short_name": "Evidence in Civil Proceedings",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/evidence-in-civil-proceedings",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I General",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Evidence in Civil Proceedings Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I General",
+      "section": "2",
+      "title": "No person to be excluded from giving evidence, except on valid legal objection",
+      "content": "2. No person to be excluded from giving evidence, except on valid legal objection\nFrom and after the passing of this Act no person shall be excluded from being sworn as a witness or from giving evidence in any court, except in respect of a legal objection to his competency made, and appearing, to such court to be valid."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I General",
+      "section": "3",
+      "title": "Court to decide on admissibility of evidence",
+      "content": "3. Court to decide on admissibility of evidence\nIt shall be competent for the court alone in which any case may be depending to decide upon all questions concerning the competency of any witness or the admissibility of any evidence."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I General",
+      "section": "4",
+      "title": "Incompetency from insanity and intoxication",
+      "content": "4. Incompetency from insanity and intoxication\nNo person appearing, or proved, to be afflicted with idiocy, lunacy or insanity, or labouring under imbecility of mind arising from intoxication or otherwise, whereby he is deprived of the proper use of reason, shall in any case be competent to give evidence while under the influence of any such malady or disability."
+    }
+  ],
+  "definitions": []
+}

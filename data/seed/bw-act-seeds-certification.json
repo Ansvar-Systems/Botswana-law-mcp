@@ -1,0 +1,59 @@
+{
+  "id": "bw-act-seeds-certification",
+  "type": "statute",
+  "title": "Seeds Certification",
+  "title_en": "Seeds Certification",
+  "short_name": "Seeds Certification",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/seeds-certification",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Seeds Certification Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act, unless the context otherwise requires—\n\"Government-certified seeds\" means seeds in respect of which a certificate has been issued under section 9;\n\"Government-tested seeds\" means seeds in respect of which a certificate has been issued under section 8;\n\"impurities\" means all matter other than seeds of the kind of which the parcel purports to consist, and includes—\n( a ) any seeds of the kind of which the parcel purports to consist which are sprouted, shrivelled, cracked, insect damaged, diseased or otherwise injured;\n( b ) broken seeds of the kind of which the parcel purports to consist, so far as they are incapable of germinating;\n( c ) all seeds or portions of seeds other than those of which the parcel purports to consist, whether they are those of weeds, harmless plants or other cultivated plants; and\n( d ) inert matter, being seedlike structures from either crop, or weed plants, and other matter as follows—\n(i) seedlike structures from crop plants, namely, all pieces of seeds not exceeding one-half of the original size of the whole seed, including similarly sized pieces of broken, sprouted, shrivelled, cracked, insect damaged, diseased or otherwise injured seeds; seeds or pieces of seeds of legumes and crucifers with seed coats entirely removed; single glumes, single pales, empty glumes and sterile florets of grasses; and, in the case of mangold or beet seed, clusters wholly devoid of seed and all material which passes through a sieve having circular holes of 2.5 mm diameter;\n(ii) seedlike structures from weed plants, namely, seeds of legumes and cruficers with the seed coats entirely removed and single glumes, single pales, empty glumes and sterile florets of grasses;\n(iii) other matter, including soil, sand, grit and stones; fragments of roots, stem, leaves and flowers, chaff broken cones, scales and seed wings, excreta, ergot and other fungus sclerotia, spore masses of smut and bunt, nematode galls;\n\"inspector\" means any person appointed as an inspector under section 3;\n\"noxious weeds\" means weeds declared to be noxious weeds under the Noxious Weeds Act (Cap. 35:04);\n\"official seed-tester\" means any person appointed as a seed-tester under section 5;\n\"owner\" , in relation to any seeds, includes any person having for the time being the possession thereof;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Government-certified seeds",
+      "definition": "seeds in respect of which a certificate has been issued under section 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Government-tested seeds",
+      "definition": "seeds in respect of which a certificate has been issued under section 8",
+      "source_provision": "s2"
+    },
+    {
+      "term": "impurities",
+      "definition": "all matter other than seeds of the kind of which the parcel purports to consist, and includes—\n( a ) any seeds of the kind of which the parcel purports to consist which are sprouted, shrivelled, cracked, insect damaged, diseased or otherwise injured",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "any person appointed as an inspector under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "noxious weeds",
+      "definition": "weeds declared to be noxious weeds under the Noxious Weeds Act (Cap. 35:04)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "official seed-tester",
+      "definition": "any person appointed as a seed-tester under section 5",
+      "source_provision": "s2"
+    }
+  ]
+}

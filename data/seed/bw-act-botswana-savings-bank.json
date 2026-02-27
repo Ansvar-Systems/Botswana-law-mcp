@@ -1,0 +1,64 @@
+{
+  "id": "bw-act-botswana-savings-bank",
+  "type": "statute",
+  "title": "Botswana Savings Bank",
+  "title_en": "Botswana Savings Bank",
+  "short_name": "Botswana Savings Bank",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-savings-bank",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Savings Bank Act*.\n* >The former Botswana Savings Bank Act was repealed at the end of the transition period, which extended from 1st July, 1992 to 31st March, 1993 (both days inclusive).>"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Bank\" means the Botswana Savings Bank established under section 3;\n\"banking business\" means the business of accepting from members of the public money deposits payable on demand, or after a fixed period of time, or after notice, or any similar operation through the sale or placement of bonds, certificates, notes or other securities, and the use of such funds, either in whole or in part, whether within or without Botswana, for loans, advances, investments or any other operations authorised by law or by customary banking practice;\n\"Managing Director\" means the Managing Director appointed in terms of section 8;\n\"savings bank year\" means the period of twelve months ending on the 31st March in each year;\n\"statutory reserve account\" means the prescribed reserve account in terms of the Banking Act (Cap 46:04)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment of Bank",
+      "content": "3. Establishment of Bank\n(1) There is hereby established the Botswana Savings Bank to replace the present Botswana Savings Bank, which shall be an independent, national, financial institution, wholly owned by Government, for the purpose of providing banking and financial services for all the people of Botswana under the supervision of the Bank of Botswana.\n(2) The Bank shall be a body corporate capable under its own name of suing and of being sued, and of doing anything and entering into any transaction which bodies corporate may by law do and enter into which is incidental or conducive to the carrying on of its banking business under this Act.\n(3) The Bank shall conduct its business according to sound commercial principles, and in accordance with the requirements of the Banking Act (Cap. 46:04), with the objectives of—\n( a ) promoting the saving habit among the peoples of Botswana and mobilising local savings; and\n( b ) granting loans on commercial terms and providing efficient banking and financial services to meet the requirements of the rural and urban population of Botswana.\n(4) In furtherance of its objectives the Bank may—\n( a ) accept deposits and issue savings books and issue such financial instruments as it considers necessary or desirable to meet the needs of the peoples of Botswana;\n( b ) receive loans from various sources;\n( c ) enter into credit relations with private persons, small businesses and parastatal and private corporations throughout Botswana;\n( d ) invest its funds in accordance with sound investment principles providing adequate reward for any risk involved;\n( e ) maintain a statutory reserve account and such minimum percentage of liquid assets as may be specified in the Banking Act (Cap 46:04); and\n( f ) offer such other viable banking or financial services as the Board may consider necessary or desirable to meet the future needs of the peoples of Botswana.\n(5) The Bank is authorised to act as an agent for the administration of funds, other than the funds of the Bank, on behalf of individuals, organisations, or Government or other administrations.\n(6) The authorised capital of the Bank shall be 20 million Pula, of which the first five million Pula shall be fully subscribed."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Audit of accounts of Bank",
+      "content": "4. Audit of accounts of Bank\n(1) The accounts of the Bank shall be audited each year by independent auditors appointed by the Board with the approval of the Bank of Botswana.\n(2) After the accounts have been audited, the Board shall send to the Minister, and to the Bank of Botswana, not later than six months after the end of the savings bank year, copies of the auditor's report, the audited accounts and the annual report of the Bank."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bank",
+      "definition": "the Botswana Savings Bank established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "banking business",
+      "definition": "the business of accepting from members of the public money deposits payable on demand, or after a fixed period of time, or after notice, or any similar operation through the sale or placement of bonds, certificates, notes or other securities, and the use of such funds, either in whole or in part, whether within or without Botswana, for loans, advances, investments or any other operations authorised by law or by customary banking practice",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Managing Director",
+      "definition": "the Managing Director appointed in terms of section 8",
+      "source_provision": "s2"
+    },
+    {
+      "term": "savings bank year",
+      "definition": "the period of twelve months ending on the 31st March in each year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "statutory reserve account",
+      "definition": "the prescribed reserve account in terms of the Banking Act (Cap 46:04).",
+      "source_provision": "s2"
+    }
+  ]
+}

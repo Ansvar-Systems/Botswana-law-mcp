@@ -1,0 +1,59 @@
+{
+  "id": "bw-act-adoption-of-children",
+  "type": "statute",
+  "title": "Adoption of Children",
+  "title_en": "Adoption of Children",
+  "short_name": "Adoption of Children",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/adoption-of-children",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Adoption of Children Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"adopted child\" means a child adopted under this Act;\n\"adoptive parent\" means a person who adopts or has adopted a child under this Act;\n\"child\" means a person under the age of 19 years;\n\"court\" means a magistrates' court established under the Magistrates' Courts Act (Cap. 04:04).\n[ 9 of 2000, s. 2. ]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Qualifications for adoption of children",
+      "content": "3. Qualifications for adoption of children\n(1) Subject to subsections (2) and (3) the following persons may adopt any child—\n( a ) a husband and his wife jointly;\n( b ) a widower or widow or unmarried or divorced person;\n( c ) a married person whose spouse is at the time of the adoption, and has been for a continuous period of not less than seven years immediately preceding that time, mentally disordered or defective;\n( d ) a married person who is separated from his or her spouse by judicial decree.\n(2) No person under the age of 25 years shall (whether alone or jointly with his or her spouse) adopt any child and no person shall (whether alone or jointly with his or her spouse) adopt a child of the age of 16 years or more unless he or she is or both adoptive parents are at least 25 years older than that child:\nProvided that—\n(i) a widower or widow or unmarried or divorced person may adopt a child born of him or her, which has previously been adopted by any person under this Act, whether or not he or she is under the age of 25 years or is less than 25 years older than the child;\n(ii) a husband and his wife jointly may adopt any child born of one of the spouses, even though one of them is or both of them are under the age of 25 years, or even though the child is of the age of 16 years or more and one of them is or both of them are less than 25 years older than the child, if the husband is at least 15 years older than such a child of his wife or if the wife is at least 10 years older than such a child of her husband.\n(3) A person shall not adopt, otherwise than jointly with his or her spouse, a child less than 25 years younger than the said person, unless the child is of the same sex as that person or that person is a widower or widow or unmarried or divorced person and is a natural parent of the child."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Adoption orders",
+      "content": "4. Adoption orders\n(1) The adoption of a child shall be effected by the order of the court of the district in which the adopted child resides, granted on the application of the adoptive parent or parents.\n(2) A court to which application for an order of adoption is made shall not grant the application unless it is satisfied—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "adopted child",
+      "definition": "a child adopted under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "adoptive parent",
+      "definition": "a person who adopts or has adopted a child under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child",
+      "definition": "a person under the age of 19 years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "a magistrates' court established under the Magistrates' Courts Act (Cap. 04:04).\n[ 9 of 2000, s. 2. ]",
+      "source_provision": "s2"
+    }
+  ]
+}

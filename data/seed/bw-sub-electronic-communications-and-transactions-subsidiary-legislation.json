@@ -1,0 +1,132 @@
+{
+  "id": "bw-sub-electronic-communications-and-transactions-subsidiary-legislation",
+  "type": "statute",
+  "title": "Electronic Communications and Transactions: Subsidiary Legislation",
+  "title_en": "Electronic Communications and Transactions: Subsidiary Legislation",
+  "short_name": "Electronic Communications a...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/electronic-communications-and-transactions-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Electronic Communications and Transactions Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise provides—\n\"accreditation\" means accreditation granted under regulation 4;\n\"accredited certification service provider\" means a certification service provider accredited under these Regulations;\n\"ACS Compliance Checklist\" means the Accredited Certification Service Standards published by the Communications Regulatory Authority for compliance audit purposes;\n\"ACS Standards\" means the Accredited Certification Service Standards;\n\"certification practice statement\" means a statement issued by a certification service provider specifying the process of issuing certificates;\n\"Communications Regulatory Authority\" means the Communications Regulatory Authority established under section 3 of the Communications Regulatory Authority Act (Cap. 72:03);\n\"key personnel\" means employees who have direct responsibility for the day-to-day operations, security and performance of a certification service provider, or whose duties directly involve the issuance, renewal, suspension, revocation of certificates, the process of identification of any person requesting a certificate, the creation of private keys or the administration of the certification service providers computing facilities;\n\"qualifying certificate\" means a certificate which conforms with the requirements set out in Schedule 2;\n\"qualifying certification service provider\" means a certification service provider who satisfies the requirements set out in Schedule 2;\n\"qualifying signature verification device\" means a signature creation service which conforms with the requirements set out in Schedule 2;\n\"signatory\" means a person who holds a signature creation device and acts either on his or her own behalf or on behalf of another person;\n\"signature creation data\" means unique data such as codes or private cryptographic keys used by the signatory to create an electronic signature;\n\"signature creation device\" means configured software or hardware used to implement the signature creation data;\n\"signature verification data\" means data such as codes or public cryptographic keys used for the purpose of verifying an electronic signature; and\n\"standard end-user agreement\" means an agreement between the accredited certification service provider and its customer for the provision of secure electronic signatures."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application for registration as certification service provider",
+      "content": "3. Application for registration as certification service provider\n(1) A person who wishes to operate as a certification service provider shall make an application for accreditation to the Communications Regulatory Authority in Form A set out in Schedule 1, accompanied by a non-refundable fee of P10 000.\n(2) Any person who has been operating as a certification service provider shall notify the Communications Regulatory Authority within six months from the coming into operation of these Regulations.\n(3) A certification service provider who contravenes any provision of this regulation is liable to a fine not exceeding P5 000."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Issuance of certificate",
+      "content": "4. Issuance of certificate\n(1) The Communications Regulatory Authority shall where an application made under regulation 3 meets all the requirements, issue a certificate of accreditation in Form B set out in Schedule 1.\n(2) An accreditation certificate issued in terms of this regulation shall be valid for a period of two years.\n(3) A certification service provider shall, at all times, display a certificate of accreditation issued under subregulation (1) in a conspicuous manner in its place of business."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Renewal of certificate",
+      "content": "5. Renewal of certificate\n(1) An accredited certification service provider shall not later than three months before the date of expiry of the accreditation make an application to the Communications Regulatory Authority for the renewal of accreditation.\n(2) An application for renewal shall be made to the Communications Regulatory Authority in Form A set out in Schedule 1 and shall be accompanied by—\n( a ) a renewal fee of P5 000;\n( b ) the latest version of the certification practice statement;\n( c ) a copy of the latest version of the standard end-user agreement;\n( d ) the audited financial statements of the two previous years;\n( e ) an audited report; and\n( f ) any other information as the Communications Regulatory Authority may request.\n(3) The Communications Regulatory Authority may grant a renewal certificate for accreditation where it is satisfied that the applicant—\n( a ) meets the requirements of these Regulations; and\n( b ) has complied with conditions imposed on the accreditation.\n(4) An application for renewal shall be considered by the Communications Regulatory Authority within two months from the date of submission of the application."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Refusal to grant or renew accreditation",
+      "content": "6. Refusal to grant or renew accreditation\n(1) The Communications Regulatory Authority may refuse to grant or renew accreditation where—\n( a ) the certification service provider—\n(i) has not complied with any provisions of the Act or of these Regulations or of the ACS Standards,\n(ii) has not provided the Communications Regulatory Authority with the requested information for the application or the renewal of accreditation,\n(iii) is wound-up or liquidated, or\n(iv) has within a period of 10 years immediately preceding the date of his or her accreditation been convicted, whether in Botswana or elsewhere of an offence involving fraud or dishonesty or has been convicted of an offence under the Act or these Regulations;\n( b ) it is not satisfied with—\n(i) the qualifications or experience of the certification service provider’s key personnel,\n(ii) the financial standing of the certification service provider or of its significant owners, or\n(iii) the record of past performance or expertise of the certification service provider or of its personnel;\n( c ) it has reason to believe that the certification service provider may not be able to act in the best interest of its subscribers or customers having regard to the reputation, character, financial integrity and reliability of the certification service provider or any of its significant owners or key personnel;\n( d ) the certification service provider or any of its owners or key personnel is found guilty of misconduct of business; or\n( e ) it is of the opinion that it is in the interest of the public to do so.\n(2) The Communications Regulatory Authority shall inform the certification service provider of the reasons to refuse to grant or renew accreditation."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Revocation, suspension or cancellation",
+      "content": "7. Revocation, suspension or cancellation\nThe Communications Regulatory Authority may revoke, cancel or suspend accreditation of a certification service provider—\n( a ) where it is of the view that the information provided is false, misleading or inaccurate;\n( b ) where the certification service provider—\n(i) fails to undergo an audit required under regulation 15(1),\n(ii) is likely to be wound-up,\n(iii) fails to carry on the business for which it was accredited, or\n(iv) contravenes or fails to comply with any condition in respect of its accreditation;\n( c ) where the Communications Regulatory Authority has reason to believe that the certification service provider or any of its key personnel has not performed their duties efficiently, honestly or fairly; or"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accreditation",
+      "definition": "accreditation granted under regulation 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "accredited certification service provider",
+      "definition": "a certification service provider accredited under these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ACS Compliance Checklist",
+      "definition": "the Accredited Certification Service Standards published by the Communications Regulatory Authority for compliance audit purposes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ACS Standards",
+      "definition": "the Accredited Certification Service Standards",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certification practice statement",
+      "definition": "a statement issued by a certification service provider specifying the process of issuing certificates",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Communications Regulatory Authority",
+      "definition": "the Communications Regulatory Authority established under section 3 of the Communications Regulatory Authority Act (Cap. 72:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "key personnel",
+      "definition": "employees who have direct responsibility for the day-to-day operations, security and performance of a certification service provider, or whose duties directly involve the issuance, renewal, suspension, revocation of certificates, the process of identification of any person requesting a certificate, the creation of private keys or the administration of the certification service providers computing facilities",
+      "source_provision": "s2"
+    },
+    {
+      "term": "qualifying certificate",
+      "definition": "a certificate which conforms with the requirements set out in Schedule 2",
+      "source_provision": "s2"
+    },
+    {
+      "term": "qualifying certification service provider",
+      "definition": "a certification service provider who satisfies the requirements set out in Schedule 2",
+      "source_provision": "s2"
+    },
+    {
+      "term": "qualifying signature verification device",
+      "definition": "a signature creation service which conforms with the requirements set out in Schedule 2",
+      "source_provision": "s2"
+    },
+    {
+      "term": "signatory",
+      "definition": "a person who holds a signature creation device and acts either on his or her own behalf or on behalf of another person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "signature creation data",
+      "definition": "unique data such as codes or private cryptographic keys used by the signatory to create an electronic signature",
+      "source_provision": "s2"
+    },
+    {
+      "term": "signature creation device",
+      "definition": "configured software or hardware used to implement the signature creation data",
+      "source_provision": "s2"
+    },
+    {
+      "term": "signature verification data",
+      "definition": "data such as codes or public cryptographic keys used for the purpose of verifying an electronic signature",
+      "source_provision": "s2"
+    },
+    {
+      "term": "standard end-user agreement",
+      "definition": "an agreement between the accredited certification service provider and its customer for the provision of secure electronic signatures.",
+      "source_provision": "s2"
+    }
+  ]
+}

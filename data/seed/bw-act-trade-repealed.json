@@ -1,0 +1,108 @@
+{
+  "id": "bw-act-trade-repealed",
+  "type": "statute",
+  "title": "Trade",
+  "title_en": "Trade",
+  "short_name": "Trade",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/trade-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Trade Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"auctioneer\" ...;\n[1 of 2011, s. 2(1).]\n\"authorised officer\" means a person so designated under section 23;\n\"bookshop\" ...;\n[1 of 2011, s. 2(1).]\n\"boutique\" ...;\n[1 of 2011, s. 2(1).]\n\"bulk\" means quantities of goods as packaged by the manufacturer and not broken up into smaller quantities or single units, save that in the case of high value items such as fridges, furniture and bicycles, a wholesaler may sell an item in smaller quantities or single units;\n\"car wash\" ...;\n[1 of 2011, s. 2(1).]\n\"cleaning services\" ...;\n[1 of 2011, s. 2(1).]\n\"council\" means a city or town council established under the Townships Act (Cap. 40:02) or a district council established under the Local Government (District Councils) Act (Cap. 40:01);\n\"curio shop\" ...;\n[1 of 2011, s. 2(1).]\n\"departmental store\" ...;\n[1 of 2011, s. 2(1).]\n\"distributor\" ...;\n[1 of 2011, s. 2(1).]\n\"dry-clean\" ...;\n[1 of 2011, s. 2(1).]\n\"fresh produce\" ...;\n[1 of 2011, s. 2(1).]\n\"fronting\" means obtaining a licence to enable another person, who would otherwise not qualify to obtain such a licence, to run a business;\n\"funeral parlour\" ...;\n[1 of 2011, s. 2(1).]\n\"furniture shop\" ...;\n[1 of 2011, s. 2(1).]\n\"general clothing\" ...;\n[1 of 2011, s. 2(1).]\n\"general dealer\" ...;\n[1 of 2011, s. 2(1).]\n\"hairdresser\" ...;\n[1 of 2011, s. 2(1).]\n\"hardware\" ...;\n[1 of 2011, s. 2(1).]\n\"hire service\" ...;\n[1 of 2011, s. 2(1).]\n\"laundromat\" ...;\n[1 of 2011, s. 2(1).]\n\"licensee\" means a person to whom a licence has been issued under this Act;\n\"licensing committee\" means a committee of a council established under section 4, which committee issues licences under section 11;\n\"medium enterprise\" means a business entity with such annual turnover and staff complement as the Minister may, by order published in the Gazette , prescribe;\n[1 of 2011, s. 2(2).]\n\"micro enterprise\" means a business entity with such annual turnover and staff complement as the Minister may, by order published in the Gazette , prescribe;\n[1 of 2011, s. 2(2).]\n\"miscellaneous trade or business\" ...;\n[1 of 2011, s. 2(1).]\n\"motor dealer\" ...;\n[1 of 2011, s. 2(1).]\n\" petrol filling station\" ...;\n[1 of 2011, s. 2(1).]\n\"register\" means a register kept in accordance with section 11( b );\n\"region\" means an area made up of districts in the same geographical area;\n\"restaurant\" ...;\n[1 of 2011, s. 2(1).]\n\"sell\" means to sell by retail or wholesale and includes to barter, exchange, offer or expose for sale;\n\"small enterprise\" means a business entity with such annual turnover and staff complement as the Minister may, by order published in the Gazette , prescribe;\n[1 of 2011, s. 2(2).]\n\"supermarket/chain store\" ...;\n[1 of 2011, s. 2(1).]\n\"takeaway\" ...;\n[1 of 2011, s. 2(1).]\n\"trade\" means to carry on the business of selling goods or services;\n\"wholesale\" ...; and\n[1 of 2011, s. 2(1).]\n\"workshop\" ...\n[1 of 2011, s. 2(1).]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Application for a Licence to Trade or do Business",
+      "section": "3",
+      "title": "Trade or business required to be licensed",
+      "content": "3. Trade or business required to be licensed\n(1) No person shall carry on any trade or business for which a licence is required under this Act, unless the person holds a licence authorising him to carry on such trade or business.\n(2) Subsection (1) shall not apply to a person who has been issued a hawker's registration certificate or a street vendor's certificate under any enactment authorising the person to carry on trade or business as a hawker or street vendor.\n(3) A person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding P10 000 or to imprisonment for a term not exceeding three years, or to both."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Application for a Licence to Trade or do Business",
+      "section": "4",
+      "title": "Establishment of licensing committees",
+      "content": "4. Establishment of licensing committees\n(1) There is hereby established a licensing committee for each council, the members of which committee shall be appointed by the Minister.\n(2) Every committee shall consists of the following members—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "a person so designated under section 23",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bulk",
+      "definition": "quantities of goods as packaged by the manufacturer and not broken up into smaller quantities or single units, save that in the case of high value items such as fridges, furniture and bicycles, a wholesaler may sell an item in smaller quantities or single units",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council",
+      "definition": "a city or town council established under the Townships Act (Cap. 40:02) or a district council established under the Local Government (District Councils) Act (Cap. 40:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fronting",
+      "definition": "obtaining a licence to enable another person, who would otherwise not qualify to obtain such a licence, to run a business",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "a person to whom a licence has been issued under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensing committee",
+      "definition": "a committee of a council established under section 4, which committee issues licences under section 11",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medium enterprise",
+      "definition": "a business entity with such annual turnover and staff complement as the Minister may, by order published in the Gazette , prescribe",
+      "source_provision": "s2"
+    },
+    {
+      "term": "micro enterprise",
+      "definition": "a business entity with such annual turnover and staff complement as the Minister may, by order published in the Gazette , prescribe",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "a register kept in accordance with section 11( b )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "region",
+      "definition": "an area made up of districts in the same geographical area",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sell",
+      "definition": "to sell by retail or wholesale and includes to barter, exchange, offer or expose for sale",
+      "source_provision": "s2"
+    },
+    {
+      "term": "small enterprise",
+      "definition": "a business entity with such annual turnover and staff complement as the Minister may, by order published in the Gazette , prescribe",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trade",
+      "definition": "to carry on the business of selling goods or services",
+      "source_provision": "s2"
+    }
+  ]
+}

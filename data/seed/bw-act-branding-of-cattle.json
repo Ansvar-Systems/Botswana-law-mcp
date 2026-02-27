@@ -1,0 +1,96 @@
+{
+  "id": "bw-act-branding-of-cattle",
+  "type": "statute",
+  "title": "Branding of Cattle",
+  "title_en": "Branding of Cattle",
+  "short_name": "Branding of Cattle",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/branding-of-cattle",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Branding of Cattle Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"AC brand\" means any letter, character, sign or symbol or any combination thereof used or intended to be used for the marking of cattle to indicate that such cattle are pledged as security under the Agricultural Charges Act (Cap 35:01) or the Hypothecation Act (Cap. 46:05);\n\"Accountant-General\" means the person holding office as Accountant-General in the public service of Botswana;\n\"authorised creditor\" means an authorised creditor as defined in the Hypothecation Act;\n\"brand\" , as a noun, means any letter, character, sign or symbol or any combination thereof used or intended to be used for the marking of cattle; but does not include a distinctive mark, or an AC brand;\n\"brand\" , as a verb, means to burn, cut, imprint or in any way mark a brand on to cattle;\n\"brand directory\" means the directory of brands or any revised edition thereof or supplement thereto prepared in pursuance of section 18;\n\"brand register\" means the register kept under section 12;\n\"branding iron\" means any instrument or tool by which any brand can be branded on cattle;\n\"cattle\" means any bull, cow or ox, or any heifer or calf which has been weaned;\n\"distinctive mark\" means a cheekmark, hornmark, hoofmark or earmark, or any clasp, rivet or tag attached to an ear, and includes any other mark which the President may, by regulations, made under section 29, add to this definition;\n\"legal representative\" , in relation to a person who is dead, means the person who in law or in customary law, whichever may be applicable, represents the estate of that person;\n\"registered brand\" means a brand registered under this Act;\n\"Registrar\" means the Registrar of Brands appointed under section 11;\n\"zonal branding area\" means one of the areas prescribed under section 3;\n\"zonal symbol\" means one of the brands prescribed under section 3;"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Zonal Branding",
+      "section": "3",
+      "title": "Zonal branding areas",
+      "content": "3. Zonal branding areas\nThe President may from time to time by order published in the Gazette prescribe areas in Botswana to be zonal branding areas and shall in respect of each zonal branding area prescribe a letter of the alphabet to be the zonal symbol for that area:"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "AC brand",
+      "definition": "any letter, character, sign or symbol or any combination thereof used or intended to be used for the marking of cattle to indicate that such cattle are pledged as security under the Agricultural Charges Act (Cap 35:01) or the Hypothecation Act (Cap. 46:05)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Accountant-General",
+      "definition": "the person holding office as Accountant-General in the public service of Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised creditor",
+      "definition": "an authorised creditor as defined in the Hypothecation Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "brand directory",
+      "definition": "the directory of brands or any revised edition thereof or supplement thereto prepared in pursuance of section 18",
+      "source_provision": "s2"
+    },
+    {
+      "term": "brand register",
+      "definition": "the register kept under section 12",
+      "source_provision": "s2"
+    },
+    {
+      "term": "branding iron",
+      "definition": "any instrument or tool by which any brand can be branded on cattle",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cattle",
+      "definition": "any bull, cow or ox, or any heifer or calf which has been weaned",
+      "source_provision": "s2"
+    },
+    {
+      "term": "distinctive mark",
+      "definition": "a cheekmark, hornmark, hoofmark or earmark, or any clasp, rivet or tag attached to an ear, and includes any other mark which the President may, by regulations, made under section 29, add to this definition",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered brand",
+      "definition": "a brand registered under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of Brands appointed under section 11",
+      "source_provision": "s2"
+    },
+    {
+      "term": "zonal branding area",
+      "definition": "one of the areas prescribed under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "zonal symbol",
+      "definition": "one of the brands prescribed under section 3",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "bw-act-declaration-of-assets-and-liabilities-2",
+  "type": "statute",
+  "title": "Declaration of Assets and Liabilities",
+  "title_en": "Declaration of Assets and Liabilities",
+  "short_name": "Declaration of Assets and L...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/declaration-of-assets-and-liabilities-2",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Declaration of Assets and Liabilities Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"assets\" means property declarable under section 7(2);\n\"declaration\" means a declaration of interest, income, assets and liabilities in accordance with this Act;\n\"Director-General\" means the Director-General of the Ethics and Integrity Directorate appointed under section 5;\n\"Directorate\" means the Ethics and Integrity Directorate established under section 4;\n\"investigatory authority\" means an authority empowered by an Act of Parliament to investigate or prosecute unlawful practices;\n\"funds\" means assets of any kind, whether corporeal or incorporeal, tangible or intangible, movable or immovable, however acquired, and legal documents or instruments in any form, including electronic or digital, evidencing title to, or interest in such assets;\n\"judge\" means—\n( a ) the President of the Court of Appeal and a justice of Appeal;\n( b ) the Chief Justice or a judge of the High Court; and\n( c ) the President and a judge of the Industrial Court;\n\"liabilities\" includes responsibility in accordance with the law to satisfy a debt, duty or obligation quantifiable in monetary value, present and contingent, of a total value of P200 000 or above;\n\"livestock\" has the meaning assigned to it in the Livestock and Meat Industries Act (Cap. 36:03);\n\"local authority\" means a city council, a town council, a township authority, a district council, a sub-district council, an administrative authority or a landboard established under the Tribal Land Act (Cap. 32:02);\n\"magistrate\" means a magistrate as defined under the Magistrates&rsquo; Courts Act (Cap. 04:04);\n\"money laundering\" has the same meaning assigned to it under the Proceeds and Instruments of Crime Act (Cap. 08:03);\n\"private enterprise\" means a voluntary organisation, non-governmental organisation, political party, charitable institution, society, association, company, partnership, club, trust or any other person or organisation where public moneys are used;\n\"public body\" means any office, organisation, establishment or body created by or under any enactment or under powers conferred by any enactment, and includes any company in which Government has equity shares;\n\"public officer\" includes a public officer as defined under the Public Service Act (Cap. 26:01), and any other person holding a public office under any other enactment;\n\"public register\" means a register established under section 10(3)( i );\n\"register\" means the register established and maintained under section 10(3)( h ); and\n\"Registrar\" means the Registrar of the Court of Appeal, the Registrar of the High Court, the Registrar of the Industrial Court, and includes their Deputy Registrars and Assistant Registrars."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\n(1) The provisions of this Act shall apply to—\n( a ) the President;\n( b ) the Vice-President;\n( c ) the Speaker of the National Assembly;\n( d ) a Former President;\n( e ) a Cabinet Minister;\n( f ) the Deputy Speaker of the National Assembly;\n( g ) an Assistant Minister;\n( h ) a member of the National Assembly;\n( i ) a judge;\n( j ) a public officer at Deputy Director level and above;\n( k ) an officer of a public body at Deputy Director level and above;\n( l ) a member of a local authority at Deputy Director level and above;\n( m ) a head of a private enterprise; and\n( n ) such other officers as may be prescribed.\n(2) The provisions of this Act shall continue to apply to a person who has held any of the positions referred to in subsection (1) for a period of five years after the person ceases to hold the office."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Establishment of Directorate",
+      "content": "4. Establishment of Directorate\n(1) There is hereby established an Ethics and Integrity Directorate.\n(2) The Directorate shall consist of a Director-General and such other officers of the Directorate, as may be necessary for the proper performance of the functions of the Directorate.\n(3) The Directorate shall be a public office and accordingly, the provisions of the Public Service Act shall with such modifications as may be necessary, apply to the Director-General and to officers of the Directorate.\n(4) Subject to the provisions of this Act, the Directorate shall not, in the performance of its functions, be subject to the direction or control of any other person or authority."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Appointment of Director-General",
+      "content": "5. Appointment of Director-General\n(1) There shall be a Director-General who shall be appointed by the President on such terms and conditions as the President may, on the recommendation of the Minister, determine.\n(2) A person appointed as a Director-General shall hold office for a five year renewable term or until he or she attains the age of 60 years, whichever is the earlier.\n(3) A person holding the office of Director-General may be removed from office for—\n( a ) inability to perform the functions of his or her office arising from infirmity of body, mind or any other cause;\n( b ) gross misconduct; or\n( c ) incompetence.\n(4) The provisions of section 113(3), (4) and (5) of the Constitution shall apply with necessary modifications to the removal of a person holding office of Director-General.\n(5) The Director-General shall be responsible for the direction and administration of the Directorate."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Points of declarations",
+      "content": "6. Points of declarations\n(1) A declaration shall be made—\n( a ) to the Minister responsible for Presidential Affairs, Governance and Public Administration, by the Director-General;\n( b ) to the Director-General—\n(i) by the President,"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "assets",
+      "definition": "property declarable under section 7(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "declaration",
+      "definition": "a declaration of interest, income, assets and liabilities in accordance with this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director-General",
+      "definition": "the Director-General of the Ethics and Integrity Directorate appointed under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Directorate",
+      "definition": "the Ethics and Integrity Directorate established under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "investigatory authority",
+      "definition": "an authority empowered by an Act of Parliament to investigate or prosecute unlawful practices",
+      "source_provision": "s2"
+    },
+    {
+      "term": "funds",
+      "definition": "assets of any kind, whether corporeal or incorporeal, tangible or intangible, movable or immovable, however acquired, and legal documents or instruments in any form, including electronic or digital, evidencing title to, or interest in such assets",
+      "source_provision": "s2"
+    },
+    {
+      "term": "liabilities",
+      "definition": "responsibility in accordance with the law to satisfy a debt, duty or obligation quantifiable in monetary value, present and contingent, of a total value of P200 000 or above",
+      "source_provision": "s2"
+    },
+    {
+      "term": "livestock",
+      "definition": "assigned to it in the Livestock and Meat Industries Act (Cap. 36:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local authority",
+      "definition": "a city council, a town council, a township authority, a district council, a sub-district council, an administrative authority or a landboard established under the Tribal Land Act (Cap. 32:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "magistrate",
+      "definition": "a magistrate as defined under the Magistrates&rsquo",
+      "source_provision": "s2"
+    },
+    {
+      "term": "money laundering",
+      "definition": "assigned to it under the Proceeds and Instruments of Crime Act (Cap. 08:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "private enterprise",
+      "definition": "a voluntary organisation, non-governmental organisation, political party, charitable institution, society, association, company, partnership, club, trust or any other person or organisation where public moneys are used",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public body",
+      "definition": "any office, organisation, establishment or body created by or under any enactment or under powers conferred by any enactment, and includes any company in which Government has equity shares",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public officer",
+      "definition": "a public officer as defined under the Public Service Act (Cap. 26:01), and any other person holding a public office under any other enactment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public register",
+      "definition": "a register established under section 10(3)( i )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "the register established and maintained under section 10(3)( h )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of the Court of Appeal, the Registrar of the High Court, the Registrar of the Industrial Court, and includes their Deputy Registrars and Assistant Registrars.",
+      "source_provision": "s2"
+    }
+  ]
+}

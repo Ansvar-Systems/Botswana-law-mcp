@@ -1,0 +1,201 @@
+{
+  "id": "bw-act-virtual-assets-act",
+  "type": "statute",
+  "title": "Virtual Assets",
+  "title_en": "Virtual Assets",
+  "short_name": "Virtual Assets",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/virtual-assets-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Virtual Assets Act"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"asset\" means a property of any kind;\n\"asset token\" means a token that represents a claim against the issuer which—\n( a ) is intended to represent an asset and is embedded with underlying assets;\n( b ) derives its value by reference to an underlying asset;\n( c ) is secured by an underlying asset; or\n( d ) is backed up by assets held as collateral for the primary purpose of encouraging price stability;\n\"beneficiary\" in respect of a transfer of virtual assets means the person who will own the virtual asset on completion of a transfer;\n\"beneficial owner\" has the same meaning assigned to it under the Financial Intelligence Act (Cap. 08:07), and \"beneficial interest\" shall be construed accordingly;\n\"blockchain\" means a virtual or digital distributed ledger or database of transactions relating to virtual assets which are recorded chronologically and capable of being audited;\n\"Central Bank\" means the Bank of Botswana established under the Bank of Botswana Act (Cap. 55:10);\n\"comparable body\" means a body outside Botswana which has functions similar to those of the Regulatory Authority with respect to the regulation and licensing of a virtual asset business;\n\"competent authority\" has the meaning assigned to it under the Financial Intelligence Act;\n\"customer\" has the meaning assigned to it under the Financial Intelligence Act;\n\"cyber security event\" means any event that results in unauthorised access to, misuse or disruption of the electronic systems or information stored on such systems of a virtual asset service provider leading to loss, unlawful destruction or unauthorised disclosure of or access to such systems or information;\n\"distributed ledger technology\" —\n( a ) means a virtual or digital ledger in which data is recorded, consensually shared and synchronised across a network of multiple nodes or sites accessible by multiple persons; and\n( b ) includes a distributed ledger technology platform or software program that operates on a blockchain or similar technology;\n\"distributed ledger technology platform\" means an online mechanism for the sale, trade or exchange of virtual assets offered by a virtual asset service provider to its customers;\n\"fiat currency\" means—\n( a ) notes, coins or tokens issued into circulation by the Central Bank in terms of the Bank of Botswana Act; and\n( b ) notes, coins or money of a jurisdiction that is designated by the Government of that jurisdiction as a legal tender;\n\"financial institution\" has the meaning assigned to it under the Bank of Botswana Act;\n\"financial year\" means—\n( a ) in respect of a licence holder's first financial year, a period not exceeding 18 months from the date of issue of a licence to the licence holder and, in respect of every subsequent financial year, a period not exceeding 12 months; and\n( b ) where there is a change in its financial year, a period not exceeding 18 months;\n\"founder\" means a person who is entitled to a significant interest in the issuer or organiser, and includes a beneficial owner if different from the issuer or organiser;\n\"initial token offerings\" means an offer to the public, by an issuer, for the sale of a virtual token in exchange for fiat currency or another virtual asset;\n\"insider\" has the meaning assigned to it under the Securities Act (Cap. 56:08);\n\"inspector\" means an inspector appointed under section 6 and includes an investigator;\n\"issuer\" means a person contractually responsible for issuing a virtual token;\n\"licence\" means a licence issued in terms of this Act;\n\"licence holder\" means a person issued with a licence under section 11;\n\"market abuse\" means—\n( a ) insider dealing;\n( b ) the unlawful disclosure of insider information; or\n( c ) market manipulation in relation to any transaction, order or behaviour concerning a virtual asset;\n\"non-fungible token\" means a unique digital asset stored on a blockchain and serves as a verifiable proof of ownership for a specific item, artwork or collectible;\n\"offer\" means a document, notice, circular, advertisement, prospectus or white paper issued to the public or otherwise publicly accessible—\n( a ) inviting applications or offers to subscribe for or purchase virtual assets; or\n( b ) offering virtual assets for subscription or purchase;\n\"officer\" means a member of the board of directors, a chief executive, a chief financial officer, a senior executive, a manager, a partner, a money laundering reporting officer, a risk officer, a chief technical officer or any other person holding a similar function;\n\"organiser\" means a person who, if different from the issuer, whether alone or in conjunction with other persons, procures the issuance of virtual assets through an issuer on behalf of a customer;\n\"originator\" , in respect of a transfer of virtual assets means—\n( a ) the person that places an order with a virtual asset service provider for the transfer of virtual assets; or\n( b ) where the transfer is carried out by a virtual asset service provider on behalf of a third party, the third party who owned the virtual asset immediately prior to the transfer;\n\"property\" has the meaning assigned to it under the Proceeds and Instruments of Crime Act (Cap. 08:03);\n\"Regulatory Authority\" means the Non-Bank Financial Institutions Regulatory Authority established under the Non-Bank Financial Institutions Regulatory Authority Act (Cap. 46:08);\n\"security\" has the meaning assigned to it under the Securities Act (Cap. 56:08);\n\"significant interest\" means beneficial interests cumulatively representing more than 10 per cent of the issued and outstanding equity interests of the organiser, issuer or beneficial owner;\n\"token\" means any cryptographically secured digital representation of one or more rights provided on a digital distribution ledger platform or similar platform and issued by an issuer, and includes—\n( a ) a virtual currency token;\n( b ) an asset token;\n( c ) a non-fungible token; and\n( d ) any other digital representation of value designated by the Regulatory Authority to be a virtual token for the purposes of this Act;\n\"virtual asset\" —\n( a ) means a digital representation of value that—\n(i) may be digitally traded or transferred, and may be used for payment or investment purposes, or\n(ii) is distributed through a distributed ledger technology where value is embedded or in which there is a contractual right of use, and includes virtual tokens; and\n( b ) excludes—\n(i) a digital representation of legal tender as provided for under the Bank of Botswana Act, and\n(ii) securities and other financial assets that are regulated under the Securities Act;\n\"virtual asset business\" includes a trade or business that—\n( a ) operates as an issuer of initial token offerings;\n( b ) provides services related to a virtual token exchange;\n( c ) operates as a payment service provider utilising virtual assets;\n( d ) safe keeps or administers virtual assets or instruments enabling control over virtual assets;\n( e ) provides advice in relation to virtual assets;\n( f ) that operates as a virtual asset service provider, including providing a distributed ledger platform which facilitates the—\n(i) exchange between virtual assets and fiat currency,\n(ii) exchange between one or more forms of virtual assets, and\n(iii) transfer of virtual assets; or\n( g ) participates in and provides financial services related to an issuer's offer or sale of a virtual asset;\n\"virtual assets custody service\" means the acceptance for safekeeping of virtual assets or instruments that enable a virtual asset service provider to exercise control over the virtual assets or instruments;\n\"virtual asset exchange\" means a marketplace using the distributed ledger technology platform for the sale, trade, transfer or exchange of a virtual asset for fiat currency or another virtual asset;\n\"virtual asset service\" means a service provided in relation to a virtual asset business or transaction;\n\"virtual asset service provider\" means a person who—\n( a ) under an agreement, as part of a business, undertakes a virtual asset service or any of the following activities for or on behalf of another person—\n(i) the exchange between virtual assets and fiat currencies,\n(ii) the exchange between one or more forms of virtual assets,\n(iii) the transfer of virtual assets,\n(iv) the safekeeping or administration of virtual assets or instruments enabling control over virtual assets, and\n(v) the participation in and provision of financial services related to an issuer's offer or sale of a virtual asset; or\n( b ) is a dealer or is willing to deal, on own account, by buying and selling virtual assets at prices set by that person, and includes a—\n(i) market maker or liquidity provider,\n(ii) system that provides virtual liquidity, allowing traders to buy and sell derivatives on the blockchain, or\n(iii) virtually automated market maker; and\n\"virtual currency token\" means a digital representation of value which is digitally traded and functions as a—\n( a ) medium of exchange;\n( b ) unit of account; or\n( c ) store of value.\n(2) This Act is declared to be a financial services law for purposes of the Non-Bank Financial Institutions Regulatory Act."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Application of Act",
+      "content": "3. Application of Act\n(1) This Act shall apply to any virtual asset service provider and to any issuer of initial token offerings, that carries out its business into or from Botswana, irrespective of the physical location from which the activity is carried out.\n(2) This Act shall not apply to—\n( a ) a person only by reason of that person acting in a professional capacity on behalf of persons engaged in procuring the organisation, promotion, issuance, sale or trade of virtual assets;\n( b ) transactions or virtual assets in which a person grants a value as part of an affinity or rewards program, which value cannot be taken from or exchanged with the person for legal tender, bank credit or any virtual asset;\n( c ) a digital representation of value issued by or on behalf of the publisher of an online game, game platform or game, and used within an online game, game platform or game sold by the same publisher or offered on the same game platform;\n( d ) non-fungible tokens;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "asset",
+      "definition": "a property of any kind",
+      "source_provision": "s2"
+    },
+    {
+      "term": "asset token",
+      "definition": "a token that represents a claim against the issuer which—\n( a ) is intended to represent an asset and is embedded with underlying assets",
+      "source_provision": "s2"
+    },
+    {
+      "term": "beneficial owner",
+      "definition": "assigned to it under the Financial Intelligence Act (Cap. 08:07), and \"beneficial interest\" shall be construed accordingly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "blockchain",
+      "definition": "a virtual or digital distributed ledger or database of transactions relating to virtual assets which are recorded chronologically and capable of being audited",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Central Bank",
+      "definition": "the Bank of Botswana established under the Bank of Botswana Act (Cap. 55:10)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "comparable body",
+      "definition": "a body outside Botswana which has functions similar to those of the Regulatory Authority with respect to the regulation and licensing of a virtual asset business",
+      "source_provision": "s2"
+    },
+    {
+      "term": "competent authority",
+      "definition": "assigned to it under the Financial Intelligence Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "customer",
+      "definition": "assigned to it under the Financial Intelligence Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cyber security event",
+      "definition": "any event that results in unauthorised access to, misuse or disruption of the electronic systems or information stored on such systems of a virtual asset service provider leading to loss, unlawful destruction or unauthorised disclosure of or access to such systems or information",
+      "source_provision": "s2"
+    },
+    {
+      "term": "distributed ledger technology platform",
+      "definition": "an online mechanism for the sale, trade or exchange of virtual assets offered by a virtual asset service provider to its customers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial institution",
+      "definition": "assigned to it under the Bank of Botswana Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "founder",
+      "definition": "a person who is entitled to a significant interest in the issuer or organiser, and includes a beneficial owner if different from the issuer or organiser",
+      "source_provision": "s2"
+    },
+    {
+      "term": "initial token offerings",
+      "definition": "an offer to the public, by an issuer, for the sale of a virtual token in exchange for fiat currency or another virtual asset",
+      "source_provision": "s2"
+    },
+    {
+      "term": "insider",
+      "definition": "assigned to it under the Securities Act (Cap. 56:08)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "an inspector appointed under section 6 and includes an investigator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "issuer",
+      "definition": "a person contractually responsible for issuing a virtual token",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued in terms of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence holder",
+      "definition": "a person issued with a licence under section 11",
+      "source_provision": "s2"
+    },
+    {
+      "term": "non-fungible token",
+      "definition": "a unique digital asset stored on a blockchain and serves as a verifiable proof of ownership for a specific item, artwork or collectible",
+      "source_provision": "s2"
+    },
+    {
+      "term": "offer",
+      "definition": "a document, notice, circular, advertisement, prospectus or white paper issued to the public or otherwise publicly accessible—\n( a ) inviting applications or offers to subscribe for or purchase virtual assets",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer",
+      "definition": "a member of the board of directors, a chief executive, a chief financial officer, a senior executive, a manager, a partner, a money laundering reporting officer, a risk officer, a chief technical officer or any other person holding a similar function",
+      "source_provision": "s2"
+    },
+    {
+      "term": "organiser",
+      "definition": "a person who, if different from the issuer, whether alone or in conjunction with other persons, procures the issuance of virtual assets through an issuer on behalf of a customer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "property",
+      "definition": "assigned to it under the Proceeds and Instruments of Crime Act (Cap. 08:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Regulatory Authority",
+      "definition": "the Non-Bank Financial Institutions Regulatory Authority established under the Non-Bank Financial Institutions Regulatory Authority Act (Cap. 46:08)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "security",
+      "definition": "assigned to it under the Securities Act (Cap. 56:08)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "significant interest",
+      "definition": "beneficial interests cumulatively representing more than 10 per cent of the issued and outstanding equity interests of the organiser, issuer or beneficial owner",
+      "source_provision": "s2"
+    },
+    {
+      "term": "token",
+      "definition": "any cryptographically secured digital representation of one or more rights provided on a digital distribution ledger platform or similar platform and issued by an issuer, and includes—\n( a ) a virtual currency token",
+      "source_provision": "s2"
+    },
+    {
+      "term": "virtual asset business",
+      "definition": "a trade or business that—\n( a ) operates as an issuer of initial token offerings",
+      "source_provision": "s2"
+    },
+    {
+      "term": "virtual assets custody service",
+      "definition": "the acceptance for safekeeping of virtual assets or instruments that enable a virtual asset service provider to exercise control over the virtual assets or instruments",
+      "source_provision": "s2"
+    },
+    {
+      "term": "virtual asset exchange",
+      "definition": "a marketplace using the distributed ledger technology platform for the sale, trade, transfer or exchange of a virtual asset for fiat currency or another virtual asset",
+      "source_provision": "s2"
+    },
+    {
+      "term": "virtual asset service",
+      "definition": "a service provided in relation to a virtual asset business or transaction",
+      "source_provision": "s2"
+    },
+    {
+      "term": "virtual asset service provider",
+      "definition": "a person who—\n( a ) under an agreement, as part of a business, undertakes a virtual asset service or any of the following activities for or on behalf of another person—\n(i) the exchange between virtual assets and fiat currencies,\n(ii) the exchange between one or more forms of virtual assets,\n(iii) the transfer of virtual assets,\n(iv) the safekeeping or administration of virtual assets or instruments enabling control over virtual assets, and\n(v) the participation in and provision of financial services related to an issuer's offer or sale of a virtual asset",
+      "source_provision": "s2"
+    },
+    {
+      "term": "virtual currency token",
+      "definition": "a digital representation of value which is digitally traded and functions as a—\n( a ) medium of exchange",
+      "source_provision": "s2"
+    }
+  ]
+}

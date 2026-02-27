@@ -1,0 +1,69 @@
+{
+  "id": "bw-act-botswana-telecommunications-corporation-transition",
+  "type": "statute",
+  "title": "Botswana Telecommunications Corporation (transition)",
+  "title_en": "Botswana Telecommunications Corporation (transition)",
+  "short_name": "Botswana Telecommunications...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-telecommunications-corporation-transition",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Telecommunications Corporation (Transition) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Authority\" means the Botswana Telecommunications Authority, established under the Telecommunications Act (Cap. 72:03);\n\"board\" means the board of Directors of the Company established under section 5;\n\"Company\" means Botswana Telecommunications Corporation, as continued under section 3;\n\"conversion date\" means the date on which Botswana Telecommunications Corporation is registered as a company;\n\"Corporation\" means the Botswana Telecommunications Corporation established under the Botswana Telecommunications Corporation Act (Cap. 72:02);\n\"Employee Scheme\" means an employee benefit scheme to be established by the Company for the purpose of offering participation in that scheme to employees of the Company and to employees of the Company's subsidiaries;\n\"existing licence\" means the telecommunication service and telecommunication system licence issued to the Corporation by the Authority in terms of sections 27 and 28 of the Telecommunications Act;\n\"Investment Fund\" means a company established by the Government for the purpose of holding assets from or in respect of, privatised public enterprises, with the object of the economic empowerment of citizens of Botswana;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Authority",
+      "definition": "the Botswana Telecommunications Authority, established under the Telecommunications Act (Cap. 72:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "board",
+      "definition": "the board of Directors of the Company established under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Company",
+      "definition": "Botswana Telecommunications Corporation, as continued under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conversion date",
+      "definition": "the date on which Botswana Telecommunications Corporation is registered as a company",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Corporation",
+      "definition": "the Botswana Telecommunications Corporation established under the Botswana Telecommunications Corporation Act (Cap. 72:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Employee Scheme",
+      "definition": "an employee benefit scheme to be established by the Company for the purpose of offering participation in that scheme to employees of the Company and to employees of the Company's subsidiaries",
+      "source_provision": "s2"
+    },
+    {
+      "term": "existing licence",
+      "definition": "the telecommunication service and telecommunication system licence issued to the Corporation by the Authority in terms of sections 27 and 28 of the Telecommunications Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Investment Fund",
+      "definition": "a company established by the Government for the purpose of holding assets from or in respect of, privatised public enterprises, with the object of the economic empowerment of citizens of Botswana",
+      "source_provision": "s2"
+    }
+  ]
+}

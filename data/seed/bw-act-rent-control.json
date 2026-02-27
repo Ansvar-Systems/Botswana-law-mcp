@@ -1,0 +1,78 @@
+{
+  "id": "bw-act-rent-control",
+  "type": "statute",
+  "title": "Rent Control",
+  "title_en": "Rent Control",
+  "short_name": "Rent Control",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/rent-control",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Rent Control Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"agent\" means a person who lets premises on behalf of a landlord or collects rents in respect of premises on behalf of a landlord or is authorised by such landlord to do so;\n\"agricultural land\" does not include the garden of a house or building or land within the curtilage of a house or building;\n\"commercial building\" means a building or part of a building separately let or a room separately let which is used mainly for business, trade or professional purposes, and includes land occupied therewith under a tenancy, but does not include a building, part of a building or a room when let with agricultural land;\n\"controlled rent\" means the controlled rent of premises as ascertained and certified by the Tribunal under section 6;\n\"dwellinghouse\" means a building or part of a building separately let or a room separately let which is used mainly as a dwelling or place of residence, and includes land occupied therewith under a tenancy, but does not include a building, part of a building or a room when let with agricultural land;\n\"landlord\" includes—\n( a ) any person from time to time deriving title under the original landlord; and\n( b ) in relation to any dwellinghouse or commercial building, any person other than the tenant who is entitled to possession of such dwellinghouse or commercial building, and shall, for the purpose of the enforcement of any provision of this Act whereby any liability is imposed on a landlord, include any agent having charge, control or management of the premises on behalf of the landlord;\n\"let\" includes sublet;\n\"premium\" includes any fine or other like sum and any other pecuniary consideration in addition to rent;\n\"tenancy\" includes sub-tenancy;\n\"tenant\" includes a sub-tenant and any person deriving title from the original tenant or sub-tenant, as the case may be;\n\"Tribunal\" means the Rent Control Tribunal established under section 4."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "agent",
+      "definition": "a person who lets premises on behalf of a landlord or collects rents in respect of premises on behalf of a landlord or is authorised by such landlord to do so",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commercial building",
+      "definition": "a building or part of a building separately let or a room separately let which is used mainly for business, trade or professional purposes, and includes land occupied therewith under a tenancy, but does not include a building, part of a building or a room when let with agricultural land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled rent",
+      "definition": "the controlled rent of premises as ascertained and certified by the Tribunal under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dwellinghouse",
+      "definition": "a building or part of a building separately let or a room separately let which is used mainly as a dwelling or place of residence, and includes land occupied therewith under a tenancy, but does not include a building, part of a building or a room when let with agricultural land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "let",
+      "definition": "sublet",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premium",
+      "definition": "any fine or other like sum and any other pecuniary consideration in addition to rent",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tenancy",
+      "definition": "sub-tenancy",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tenant",
+      "definition": "a sub-tenant and any person deriving title from the original tenant or sub-tenant, as the case may be",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Tribunal",
+      "definition": "the Rent Control Tribunal established under section 4.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "bw-act-seeds-act",
+  "type": "statute",
+  "title": "Seeds Act",
+  "title_en": "Seeds Act",
+  "short_name": "Seeds Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/acts-on-notice/seeds-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "1. Short title and commencement\nThis Act may be cited as the Seeds Act, 2023, and shall come into operation on such date as the Minister may, by Order published in the Gazette, appoint."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"analytical purity\" or \"purity\" means the composition by weight of pure seed in a sample being tested determined by methods prescribed, and includes the identity of the various species of seeds and other inert particles constituting the sample being tested;\n\"authorised officer\" means an officer appointed by the Minister under section 8;\n\"basic seed\" means a seed derived or produced from pre-basic seed;\n\"breeders seed\" means a seed of a variety of proven genetic purity and identity produced for breeding that variety; or if of foreign origin, a seed certified by a recognised certification agency as being breeders seed;\n\"certified seed\" means—\n( a ) a class of seed produced from basic seed; or\n( b ) any of the breeders, pre-basic, basic or certified seed as determined by the certifying authority;\n\"certifying authority\" means an entity designated by the Minister under section 23;\n\"Committee\" means the National Seed Committee established under section 3;\n\"imported certified seed\" means any prescribed seed certified in the country of its origin imported by a registered seed importer and certified as imported certified seed;\n\"impurities\" means all matter other than seeds of the kind of which the parcel purports to consist, and includes—\n( a ) any seed of the ki nd of which the parcel purports to consist which are sprouted, shrivelled, cracked, insect damaged, diseased or otherwise damaged;\n( b ) broken seed of the kind of which the parcel purports to consist, so far as are incapable of germinating;\n( c ) all seeds or portions of seeds other than those of which the parcel purports to consist, whether they are those of weeds, harmless plants or other cultivated plants; and\n( d ) inert matter, being seed-like structures from either crop, or weed plants, and other matter as follows—\n(i) seed-like structures from crop plants, namely, all pieces of seeds not exceeding one-half of the original size of the whole seed, including similarly sized pieces of broken, sprouted, shriveled, cracked, insect damaged, diseased, or otherwise damaged seeds or pieces of seeds of legumes and crucifers with seed coats entirely removed; single glumes, single pales, empty glumes and sterile florets of grasses; and, in the case of mangold or beet seed, or clusters wholly devoid of seed and all material which passes through a sieve having circular holes of at least 2.5 mm diameter,\n(ii) seed-like structures from weed plants, namely, seeds of legumes and cruficers with the seed coats entirely removed and single glumes, single pales, empty glumes or sterile florets of grasses, and\n(iii) other matter, including soil, sand, grit and stones; fragments of roots, stem, leaves and flowers, chaff, broken cones, scales and seed wings, excreta, ergot and other fungus sclerotia, spore masses of smut and bunt, or nematode galls;\n\"label\" includes any legend, word, mark, symbol or design applied or attached to, included in, belonging to or accompanying any seed or package bearing reference to the contents;\n\"owner\" includes any person in possession of seeds;\n\"package\" includes a sack, bag, barrel, case or any other container in which seed is placed or packed;\n\"pre-basic seed\" means a class of seed derived or produced from breeders seed with assured genetic purity and identity;\n\"pure seed\" means the species stated by the sample being analysed, or being found to predominate in the test, and includes the botanical varieties and cultivars including immature, shriveled, undersized, diseased or germinated, or pieces of seed units larger than half their original size which can be identified as of that species;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "purity",
+      "definition": "the composition by weight of pure seed in a sample being tested determined by methods prescribed, and includes the identity of the various species of seeds and other inert particles constituting the sample being tested",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised officer",
+      "definition": "an officer appointed by the Minister under section 8",
+      "source_provision": "s2"
+    },
+    {
+      "term": "basic seed",
+      "definition": "a seed derived or produced from pre-basic seed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "breeders seed",
+      "definition": "a seed of a variety of proven genetic purity and identity produced for breeding that variety",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certifying authority",
+      "definition": "an entity designated by the Minister under section 23",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Committee",
+      "definition": "the National Seed Committee established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "imported certified seed",
+      "definition": "any prescribed seed certified in the country of its origin imported by a registered seed importer and certified as imported certified seed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "impurities",
+      "definition": "all matter other than seeds of the kind of which the parcel purports to consist, and includes—\n( a ) any seed of the ki nd of which the parcel purports to consist which are sprouted, shrivelled, cracked, insect damaged, diseased or otherwise damaged",
+      "source_provision": "s2"
+    },
+    {
+      "term": "label",
+      "definition": "any legend, word, mark, symbol or design applied or attached to, included in, belonging to or accompanying any seed or package bearing reference to the contents",
+      "source_provision": "s2"
+    },
+    {
+      "term": "owner",
+      "definition": "any person in possession of seeds",
+      "source_provision": "s2"
+    },
+    {
+      "term": "package",
+      "definition": "a sack, bag, barrel, case or any other container in which seed is placed or packed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pre-basic seed",
+      "definition": "a class of seed derived or produced from breeders seed with assured genetic purity and identity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pure seed",
+      "definition": "the species stated by the sample being analysed, or being found to predominate in the test, and includes the botanical varieties and cultivars including immature, shriveled, undersized, diseased or germinated, or pieces of seed units larger than half their original size which can be identified as of that species",
+      "source_provision": "s2"
+    }
+  ]
+}

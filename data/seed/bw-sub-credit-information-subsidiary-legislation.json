@@ -1,0 +1,92 @@
+{
+  "id": "bw-sub-credit-information-subsidiary-legislation",
+  "type": "statute",
+  "title": "Credit Information: Subsidiary Legislation",
+  "title_en": "Credit Information: Subsidiary Legislation",
+  "short_name": "Credit Information: Subsidi...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/credit-information-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Credit Information Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Register of credit bureaus",
+      "content": "2. Register of credit bureaus\n(1) The Bank shall enter in the Register of credit bureaus the following?\n( a ) a credit bureau?s licence number with the Bank;\n( b ) a credit bureau?s full name;\n( c ) a credit bureau?s trading name, if applicable;\n( d ) date of licensing;\n( e ) conditions of licensing, if any;\n( f ) whether the licence has been altered, and details thereof, if applicable;\n( g ) where the licence has been cancelled, the reasons for cancellation and the date of cancellation of licence; and\n( h ) a credit bureaus? contact details, including?\n(i) physical address,\n(ii) telephone number,\n(iii) fax number,\n(iv) e-mail address, and\n(v) contact person.\n(2) A data provider who wishes to inspect the Register shall on payment of a fee of P200 to the Bank be allowed access."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application for licence",
+      "content": "3. Application for licence\n(1) A person who wishes to obtain a licence shall apply to the Bank for a licence in accordance with Form A set out in the Schedule.\n(2) An applicant for a licence under subregulation (1) shall provide?\n( a ) full personal details, qualification, experience and interest of its general management;\n( b ) full personal details, qualification, experience and interest?\n(i) board of directors,\n(ii) shareholders, and\n(iii) beneficial owners;\n( c ) constitution of applicant;\n( d ) business plan;\n( e ) evidence of human capital and technological resources; and\n( f ) an application fee of P 5,000.\n(3) Where the application meets all the requirements, the Bank shall issue the applicant with a credit bureau licence in accordance with Form B set out in the Schedule.\n(4) A licence issued by the Bank shall be subject to an annual licence fee of P20 000."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Variation of conditions of licence",
+      "content": "4. Variation of conditions of licence\nA licensee may make an application to the Bank in terms of section 10 of the Act, for variation of any term or condition attached to its licence in accordance with Form C set out in the Schedule."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Surrender of licence",
+      "content": "5. Surrender of licence\nWhere a licensee wishes to surrender its licence in terms of section 12 of the Act the licensee shall submit a notice of surrender to the Bank in accordance with Form D set out in the Schedule."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Form and content of credit report",
+      "content": "6. Form and content of credit report\nA person who requests for a credit report in terms of section 25 of the Act, from a credit bureau shall apply in accordance with Form E set out in the Schedule."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Complaints report by credit bureau",
+      "content": "7. Complaints report by credit bureau\n(1) A credit bureau shall in terms of section 30( c ) of the Act, submit a bi-annual report in Form F set out in the Schedule.\n(2) The bi-annual report in subregulation (1) shall include the following information?\n( a ) the total number of complaints received;\n( b ) the nature of the complaint;\n( c ) the number of complaints that were found to be valid, partially valid and invalid, respectively;\n( d ) the number of complaints resolved and outstanding; and\n( e ) the nature and validity of complaints according to categories which shall include?\n(i) inaccurate or incorrect information,\n(ii) insufficient or incomplete information,\n(iii) outdated information,\n(iv) double listing,\n(v) incorrect merging of information, and\n(vi) consumer withdrawing a complaint.\n(3) Subject to subregulation (1), a credit bureau shall submit to the Bank the bi-annual reports in respect of the reporting periods?\n( a ) in respect of reporting period 1st January to 30th June by the 10th of July; and\n( b ) in respect of reporting period 1st July to 31st December by the 10th of January."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Provision of consumer information by data provider",
+      "content": "8. Provision of consumer information by data provider\nA data provider shall provide consumer information to a credit bureau in accordance with Form G set out in the Schedule."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Notification of adverse action",
+      "content": "9. Notification of adverse action\nA data provider shall notify a data subject of adverse action by it in terms of section 36 of the Act by providing the data subject with the following information?\n( a ) name and contact details of the data provider that submitted the adverse report;\n( b ) the part of the credit report relied on in taking the adverse action;\n( c ) the date the credit report was obtained; and\n( d ) reasons for the adverse action."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Initiating complaint to Bank",
+      "content": "10. Initiating complaint to Bank\n(1) A complainant may lodge a complaint to the Bank against a credit bureau in accordance with Form H set out in Schedule.\n(2) Where a complaint is made by a person acting on behalf of a complainant, the complaint shall be accompanied by a written consent of the complainant.\n(3) The complainant?s consent referred to in subregulation (2) shall contain the following?\n( a ) name and identity number of the third party, accompanied by a copy of the third party?s identity document;\n( b ) name of the credit bureau;\n( c ) full name, identity number and signature of the complainant;\n( d ) date of the transaction or event to which the complaint relates;\n( e ) details of the complaint; and\n( f ) a consent for the third party to lodge and handle the complaint, signed by the complainant.\n(4) The Bank shall investigate a complaint within 90 days of receiving such complaint."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Enforcement notice",
+      "content": "11. Enforcement notice\n(1) An enforcement notice issued in terms of section 43 of the Act shall be in accordance with Form I set out in the Schedule.\n(2) The enforcement notice issued in subregulation (1) shall contain the following information?\n( a ) the section of the Act in terms of which the notice has been issued; and\n( b ) the date of the notice."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Access to documents",
+      "content": "12. Access to documents\nA person may make an application to the Bank to obtain copies of permitted information in terms of section 47 of the Act in accordance with Form J set out in the Schedule and on payment of an application fee of P100."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Summoning of senior management of credit bureau",
+      "content": "13. Summoning of senior management of credit bureau\nThe Bank may in terms of section 50(1) of the Act summon a senior manager, director of the board or shareholder of a credit bureau for an examination in accordance with Form K set out in the Schedule."
+    }
+  ],
+  "definitions": []
+}

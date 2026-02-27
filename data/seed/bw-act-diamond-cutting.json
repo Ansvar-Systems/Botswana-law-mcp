@@ -1,0 +1,122 @@
+{
+  "id": "bw-act-diamond-cutting",
+  "type": "statute",
+  "title": "Diamond Cutting",
+  "title_en": "Diamond Cutting",
+  "short_name": "Diamond Cutting",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/diamond-cutting",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Act may be cited as the Diamond Cutting Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"crushed diamond\" means any part of a diamond which has been subjected to any of the operations of crushing;\n\"cut\" includes sawing, cleaving, polishing or bruting of rough or uncut diamond or any operation which alters any rough or uncut diamond, and \"diamond cutting\" shall be construed accordingly;\n\"cut diamond\" means a diamond on which the operation known as cutting has been completed;\n\"diamond dust\" means dust resulting from any of the operations of diamond cutting or diamond crushing;\n\"fragment\" means a part of a diamond separated from the main stone in the course of diamond cutting and of so irregular a shape and small a size as to be unsuitable for cutting;\n\"licence\" means a licence issued under this Act;\n\"licensee\" means a person to whom a licence has been issued;\n\"Mining Commissioner\" means any person for the time being holding the public office of Mining Commissioner;\n\"partly manufactured diamond\" means a diamond stone which has been subjected to one or more of the operations of diamond cutting, but not to the extent sufficient for it to be regarded in the diamond cutting industry as a fully cut and polished diamond;\n\"person\" means a natural person;\n\"polished diamond\" means a diamond which has been completely polished in accordance with the requisites of its class as recognised in the diamond cutting industry;\n\"rough or uncut diamond\" means a diamond which has not been subjected to any of the operations of diamond cutting or altered in any other manner, and includes a crushed diamond, diamond dust, fragment or partly manufactured diamond, diamond powder and any rough or uncut synthetic diamond;\n\"unpolished diamond\" means any diamond other than a polished diamond, and includes a partly manufactured diamond, fragment, diamond dust and a rough or uncut diamond."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Licensing of Cutting Operations",
+      "section": "3",
+      "title": "Control of diamond cutting",
+      "content": "3. Control of diamond cutting\n(1) No person shall cut any rough or uncut diamond unless he is—\n( a ) the holder of an appropriate licence prescribed by section 4; or\n( b ) an employee acting in the course of his employment with the holder of such a licence.\n(2) Any person whose licence has been suspended under any provision of this Act shall during the period of such suspension be deemed not to be the holder of a licence.\n(3) Any person who contravenes the provisions of subsection (1) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Licensing of Cutting Operations",
+      "section": "4",
+      "title": "Classification of licences",
+      "content": "4. Classification of licences\nLicences which may be issued under this Act shall be—\n( a ) a diamond cutter's licence which shall entitle the licensee to carry on diamond cutting for purposes of business or trade;\n( b ) a diamond research licence which shall entitle the licensee to conduct research into the physical properties of diamonds, the uses to which diamonds can be put and cognate matters, but shall not entitle the licensee to carry on diamond cutting for purposes of business or trade; or\n( c ) a diamond toolmaker's licence which shall entitle the licensee to set rough or uncut diamonds, not suitable for polishing, in tools or implements, or to crush or alter such diamonds for that purpose or for purposes of trade."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Licensing of Cutting Operations",
+      "section": "5",
+      "title": "Duration of licences and fees payable",
+      "content": "5. Duration of licences and fees payable\n(1) A licence shall be issued for such period as the Minister may determine.\n(2) There shall be due and payable to the Government by every holder of a licence an annual charge in such amount as the Minister may determine or as may be prescribed.\n(3) The annual charge under subsection (2) shall be payable on the issue of a licence and thereafter annually on the anniversary thereof until the termination of such licence."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Licensing of Cutting Operations",
+      "section": "6",
+      "title": "Application for licences",
+      "content": "6. Application for licences\n(1) An application for a licence shall be made to the Minister in the prescribed form."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "crushed diamond",
+      "definition": "any part of a diamond which has been subjected to any of the operations of crushing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cut",
+      "definition": "sawing, cleaving, polishing or bruting of rough or uncut diamond or any operation which alters any rough or uncut diamond, and \"diamond cutting\" shall be construed accordingly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cut diamond",
+      "definition": "a diamond on which the operation known as cutting has been completed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "diamond dust",
+      "definition": "dust resulting from any of the operations of diamond cutting or diamond crushing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fragment",
+      "definition": "a part of a diamond separated from the main stone in the course of diamond cutting and of so irregular a shape and small a size as to be unsuitable for cutting",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "a person to whom a licence has been issued",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Mining Commissioner",
+      "definition": "any person for the time being holding the public office of Mining Commissioner",
+      "source_provision": "s2"
+    },
+    {
+      "term": "partly manufactured diamond",
+      "definition": "a diamond stone which has been subjected to one or more of the operations of diamond cutting, but not to the extent sufficient for it to be regarded in the diamond cutting industry as a fully cut and polished diamond",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person",
+      "definition": "a natural person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "polished diamond",
+      "definition": "a diamond which has been completely polished in accordance with the requisites of its class as recognised in the diamond cutting industry",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rough or uncut diamond",
+      "definition": "a diamond which has not been subjected to any of the operations of diamond cutting or altered in any other manner, and includes a crushed diamond, diamond dust, fragment or partly manufactured diamond, diamond powder and any rough or uncut synthetic diamond",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unpolished diamond",
+      "definition": "any diamond other than a polished diamond, and includes a partly manufactured diamond, fragment, diamond dust and a rough or uncut diamond.",
+      "source_provision": "s2"
+    }
+  ]
+}

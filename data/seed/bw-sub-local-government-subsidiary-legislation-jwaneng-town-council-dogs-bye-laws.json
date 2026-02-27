@@ -1,0 +1,101 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-jwaneng-town-council-dogs-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Jwaneng Town Council (dogs) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Jwaneng Town Council (dogs) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-jwaneng-town-council-dogs-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Jwaneng Town Council (Dogs) Bye-Laws."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"authorised officer\" means the Town Clerk or any other officer of the Council authorised in writing by the Town Clerk to perform the duties under these Bye-laws;\n\"Council\" means the Jwaneng Town Council;\n\"impound\" means the seizure, taking into custody or receiving into custody, confinement or other exercise of control over a dog by any duly authorised officer;\n\"kennel\" means any animal hospital, home, boarding house or any establishment where a dog older than three months is accommodated for reward or payment for the purpose of treatment, custody and whelping;\n\"leash or lead\" means a collar chain or harness of appropriate material, not more than six meters in length and which is securely attached to a correctly fitted dog collar;\n\"menacing or dangerous dog\" means a dog that poses a threat to any person, animal or property;\n\"owner\" means a person who has full possession, charge, custody or control of a dog;\n\"prohibited areas\" means any of the places set out in Schedule 3;\n\"rabies certificate\" means a certificate signed by a veterinary officer stating that a dog has been vaccinated against rabies; and\n\"veterinary officer\" includes veterinary officer, livestock officer or stock inspector employed by the Government as a veterinary surgeon under the Veterinary Surgeons Act (Cap. 61:04)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Licensing of dogs",
+      "content": "3. Licensing of dogs\n(1) A person shall not keep\n( a ) a dog which is over three months old; or\n( b ) more than two dogs at a time in a residential place,\nunless he or she has been issued with a licence under these Bye-laws.\n(2) An owner of a dog shall, within four weeks of the dog attaining the age of three months, apply to an authorised officer for a dog licence in Form A as set out in Schedule 1.\n(3) In case of any dispute as to whether a dog is over the age of three months, the decision of a veterinary officer shall be final.\n(4) An authorised officer shall, on receipt of an application under subbye-law (2), and upon payment of a fee set out in Schedule 2, issue the applicant with a dog licence in Form B as set out in Schedule 1.\n(5) A person who seeks to keep an additional dog shall make an application to an authorised officer for an additional licence.\n(6) An authorised officer shall, in considering an application for an additional dog under subbye-law (5), have regard to adequacy of the land, premises or danger to any other animal, person or property due to the additional dog.\n(7) A licence issued under this bye-law shall be accompanied by a dog tag."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Duration of licence",
+      "content": "4. Duration of licence\nA licence issued under bye-law 3 shall be valid for 12 months and be renewable for a further period of 12 months upon application by the owner of a dog under bye-law 5."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Renewal of licence",
+      "content": "5. Renewal of licence\n(1) A holder of a licence issued under these Bye-laws shall, upon expiry of a licence, apply to an authorised officer for a renewal of a licence in Form C as set out in Schedule 1.\n(2) An application for the renewal of a licence under subbye-law (1), shall be made not later than one month before the expiry of the licence.\n(3) An authorised officer may, on receipt of an application under sub bye-law (1), renew a licence upon payment of a fee set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Licence not transferrable",
+      "content": "6. Licence not transferrable"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "the Town Clerk or any other officer of the Council authorised in writing by the Town Clerk to perform the duties under these Bye-laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Jwaneng Town Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "impound",
+      "definition": "the seizure, taking into custody or receiving into custody, confinement or other exercise of control over a dog by any duly authorised officer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "kennel",
+      "definition": "any animal hospital, home, boarding house or any establishment where a dog older than three months is accommodated for reward or payment for the purpose of treatment, custody and whelping",
+      "source_provision": "s2"
+    },
+    {
+      "term": "leash or lead",
+      "definition": "a collar chain or harness of appropriate material, not more than six meters in length and which is securely attached to a correctly fitted dog collar",
+      "source_provision": "s2"
+    },
+    {
+      "term": "menacing or dangerous dog",
+      "definition": "a dog that poses a threat to any person, animal or property",
+      "source_provision": "s2"
+    },
+    {
+      "term": "owner",
+      "definition": "a person who has full possession, charge, custody or control of a dog",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prohibited areas",
+      "definition": "any of the places set out in Schedule 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rabies certificate",
+      "definition": "a certificate signed by a veterinary officer stating that a dog has been vaccinated against rabies",
+      "source_provision": "s2"
+    },
+    {
+      "term": "veterinary officer",
+      "definition": "veterinary officer, livestock officer or stock inspector employed by the Government as a veterinary surgeon under the Veterinary Surgeons Act (Cap. 61:04).",
+      "source_provision": "s2"
+    }
+  ]
+}

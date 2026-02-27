@@ -1,0 +1,454 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-personnel-licensing-general-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (personnel Licensing) (general) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (personnel Licensing) (general) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-personnel-licensing-general-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Personnel Licensing) (General) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"accredited medical conclusion\" means a conclusion reached by one or more medical experts acceptable to the Authority and in consultation with flight operations or other experts as necessary;\n\"adapted competency model\" means a group of competencies with their associated description and performance criteria adapted from an International Civil Aviation Organisation (ICAO) competency framework that an organisation uses to develop competency-based training and assessment for a given role;\n\"aeronautical experience\" means the pilot time obtained in an aircraft or approved flight simulation training device that meets the training and flight time requirements of these Regulations;\n\"aeroplane\" means a power-driven heavier-than-air aircraft, that derives its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight;\n\"aircraft\" means a machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface;\n\"aircraft avionics\" is a term designating any electronic device, including its electrical part, for use in an aircraft, including radio, automatic flight control and instrument systems;\n\"aircraft category\" means the classification of an aircraft according to specified basic characteristics such as aeroplane, helicopter, glider or free balloon;\n\"aircraft certificated for single-pilot operation\" means a type of aircraft which the State of Registry has determined, during the certification process, may be operated safely with a minimum crew of one pilot;\n\"aircraft required to be operated with a co-pilot\" means a type of aircraft that is required to be operated with a co-pilot, as specified in the flight manual or by the air operator certificate;\n\"aircraft type\" means all aircraft of the same basic design including all modifications thereto except those modifications which result in a change in handling or flight characteristics;\n\"airframe\" means the fuselage, booms, nacelles, cowlings, fairings, airfoil surfaces including rotors, but excluding propellers and rotating airfoils of a powerplant, and landing gear of an aircraft and their accessories and controls;\n\"airmanship\" means the consistent use of good judgement and well-developed knowledge, skills and attitudes to accomplish flight objectives;\n\"airship\" means a power-driven lighter-than-air aircraft;\n\"appliance\" means an instrument, mechanism, equipment, part, apparatus, appurtenance or accessory, including communications equipment that is used or intended to be used in operating or controlling an aircraft in flight, and that is installed in or attached to the aircraft and is not part of an airframe, powerplant or propeller;\n\"approved maintenance organisation\" means an organisation approved by the Authority to perform specific aircraft maintenance activities including the inspection, overhaul, maintenance, repair or modification and release to service of an aircraft or aircraft component;\n\"approved training\" means training conducted under special curricula and supervision approved by the Authority;\n\"Approved Training Organisation\" means an organisation as defined in the Civil Aviation (Approved Training Organisations) Regulations (Cap. 71:01 (Sub. Leg.));\n\"ATS surveillance service\" is a term used to indicate a service provided directly by means of an ATS surveillance system;\n\"ATS surveillance system\" is a generic term meaning variously, ADS-B, PSR, SSR or any comparable ground-based system that enables the identification of an aircraft;\n\"authorised instructor\" means a person who—\n( a ) holds a valid and current ground or flight instructor rating issued under these Regulations, for conducting ground training or flight training; or\n( b ) is authorised by the Authority to provide ground training, flight training, or other training under these Regulations and the Civil Aviation (Approved Training Organisations) Regulations;\n\"balloon\" means a non-power-driven lighter-than-air aircraft;\n\"category I operation\" means a precision instrument approach and landing with a decision height not lower than 60 m (200 ft) and with either a visibility of not less than 800 m or Runway Visual Range (RVR) of not less than 550 m;\n\"category II operation\" means a precision instrument approach and landing with a decision height lower than 60 m (200 ft), but not lower than 30 m (100 ft) and an RVR of not less than 300 m;\n\"category III operation\" means a decision height lower than 30 m (100 ft) or no decision height and a runway visual range less than 300 m or no runway visual range limitations;\n\"certify as airworthy\" means to certify that an aircraft or parts thereof comply with current airworthiness requirements after maintenance has been performed on the aircraft or parts thereof;\n\"commercial air transport operation\" means an aircraft operation involving the transport of passengers, cargo or mail for remuneration or hire;\n\"competency\" means a dimension of human performance that is used to reliably predict successful performance on the job, whereby a competency is manifested and observed through behaviours that mobilise the relevant knowledge, skills and attitudes to carry out activities or tasks under specified conditions;\n\"competency-based training and assessment\" means training and assessment that are characterised by a performance orientation, emphasis on standards of performance and their measurement, and the development of training to the specified performance standards;\n\"competency standard\" means a level of performance that is defined as acceptable when assessing whether or not competency has been achieved;\n\"Contracting State\" means a State that is a signatory to the Convention on International Civil Aviation (Chicago Convention);\n\"co-pilot\" means a licensed pilot serving in any piloting capacity other than as pilot-in-command but excluding a pilot who is on board the aircraft for the sole purpose of receiving flight instruction;\n\"course\" means a programme of instruction to obtain a licence, rating, qualification, authorisation or current experience required under these Regulations;\n\"credit\" means a recognition of alternative means or prior qualifications;\n\"critical engine\" means the engine whose failure would most adversely affect the performance or handling qualities of an aircraft;\n\"cross country\" means a flight between a point of departure and a point of arrival following a pre-planned route using standard navigation procedures;\n\"detect and avoid\" means the capability to see, sense or detect conflicting traffic or other hazards and take the appropriate action;\n\"dual instruction time\" means a flight time during which a person receives flight instruction from a properly authorised pilot on board the aircraft, or from a properly authorised remote pilot using the remote pilot station during a remotely piloted aircraft flight;\n\"engine\" means a unit used or intended to be used for aircraft propulsion which consists of at least components and equipment necessary for functioning and control, but excludes the propeller or rotors, where applicable;\n\"error\" means an action or inaction by an operational person that leads to deviations from the organisational or the operational person's intentions or expectations;\n\"error management\" means the process of detecting and responding to errors with counter measures that reduce or eliminate the consequences of errors and mitigate the probability of further errors or undesired events;\n\"examiner\" means a person authorised by the Authority to conduct a pilot proficiency test, a practical test for a licence or rating, or a knowledge test under these Regulations;\n\"flight crew member\" means a crew member charged with duties essential to the operation of an aircraft during a flight;\n\"flight plan\" means specified information provided to air traffic services units, relative to an intended flight or portion of a flight of an aircraft;\n\"flight procedures trainer\" means as defined under the flight simulation training device;\n\"flight simulation training device\" means any of the following three types of apparatus in which flight conditions are simulated on the ground, a—\n( a ) simulation flight trainer, which provides an accurate representation of the flight deck of a particular aircraft type or an accurate representation of the remotely piloted aircraft system (RPAS) to the extent that the mechanical, electrical, electronic, etc. aircraft systems control functions, the normal environment of flight crew members, and the performance and flight characteristics of that type of aircraft are realistically simulated;\n( b ) flight procedures trainer, which provides a realistic flight deck environment or realistic RPAS environment, and which simulates instrument responses, simple control functions of mechanical, electrical, electronic, etc., aircraft systems, and the performance and flight characteristics of aircraft of a particular class; or\n( c ) basic instrument flight trainer, which is equipped with appropriate instruments, and which simulates the flight deck environment of an aircraft in flight or the RPAS environment in instrument flight conditions;\n\"flight time\" means—\n( a ) for an aeroplane, the total time from the moment an aeroplane moves for the purpose of taking off until the moment it finally comes to rest at the end of the flight; and it is synonymous with the term \"block to block\" or \"chock to chock\" time in general usage which is measured from the time an aeroplane first moves for the purpose of taking off until it finally stops at the end of the flight;\n( b ) for a helicopter, the total time from the moment a helicopter rotor blades start turning until the moment a helicopter comes to rest at the end of the flight and the rotor blades are stopped;\n( c ) for an airship or free balloon, the total time from the moment an airship or free balloon first becomes detached from the surface until the moment when it next becomes attached thereto or comes to rest thereon; or\n( d ) for remotely piloted aircraft system, the total time from the moment a command and control (C2) link is established between the remote pilot station (RPS) and the remotely piloted aircraft (RPA) for the purpose of taking off or from the moment the remote pilot receives control following a handover until the moment the remote pilot completes a handover or the C2 link between the RPS and the RPA is terminated at the end of the flight;\n\"glider\" means a non-power-driven heavier-than-air aircraft, that derives its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight;\n\"glider flight time\" means the total time occupied in flight, whether it is towed or not, from the moment the glider first moves for the purpose of taking off until the moment it comes to rest at the end of the flight;\n\"handover\" means the act of passing piloting control from one remote pilot station to another;\n\"heavier-than-air aircraft\" means an aircraft that derives its lift in flight chiefly from aerodynamic forces;\n\"helicopter\" means a heavier-than-air aircraft supported in flight, chiefly by the reactions of the air on one or more power-driven rotors on substantially vertical axes;\n\"human performance\" means human capabilities and limitations which have an impact on the safety and efficiency of aeronautical operations;\n\"IFR\" means the symbol used to designate the instrument flight rules;\n\"instrument approach procedure\" means a series of predetermined manoeuvres by reference to flight instruments with specified protection from obstacles from the initial approach fix, or where applicable, from the beginning of a defined arrival route to a point from which a landing can be completed and thereafter, and if a landing is not completed, to a position at which holding or en route obstacle clearance criterion applies;\n\"instrument fligh"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II General Rules Concerning Licences (regs 3-9)",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Regulations shall apply to the following—\n( a ) flight crew members—\n(i) a private pilot,\n(ii) a commercial pilot,\n(iii) a multi-crew pilot,\n(iv) an airline transport pilot,\n(v) a glider pilot, and\n(vi) a free balloon pilot; and\n( b ) personnel—\n(i) an aircraft maintenance engineer,\n(ii) an air traffic controller,\n(iii) a flight operations officer,\n(iv) an aeronautical station operator,\n(v) an aviation repair specialist,\n(vi) a parachute rigger,\n(vii) a flight radiotelephone operator,\n(viii) a cabin crew member, and\n(ix) any other personnel as may be determined by the Authority."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II General Rules Concerning Licences (regs 3-9)",
+      "section": "4",
+      "title": "Authority to act as flight crew member",
+      "content": "4. Authority to act as flight crew member\n(1) A person shall not act as a flight crew member of an aircraft unless, he or she holds a licence—\n( a ) appropriate to the duties to be performed by the person; and\n( b ) issued by the Authority in accordance with these Regulations.\n(2) Where a person holds a licence issued by a foreign Contracting State, the Authority may validate such licence.\n(3) A flight crew member shall carry the appropriate licence on board the aircraft when engaged in international air navigation."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II General Rules Concerning Licences (regs 3-9)",
+      "section": "5",
+      "title": "Validation of licence",
+      "content": "5. Validation of licence\n(1) The Authority may as an alternative to the issuance of its own licence, validate a licence issued by another Contracting State, by authorising a person holding such licence to exercise the privileges of the licence:\nProvided that—\n( a ) such validation shall be done in a manner determined by the Authority;\n( b ) the validation period shall not extend beyond the period of validity of the licence; and\n( c ) such validation shall cease to be valid if the licence is suspended or revoked.\n(2) The Authority shall verify the authenticity of the licence with the Contracting State that issued the licence where validation is issued for use in a commercial air transport operation.\n(3) Notwithstanding the provisions of subregulations (1) and (2), the Authority shall automatically render valid a licence from another ICAO Contracting State that adopted common licensing regulations and the State shall have entered into a formal agreement recognising the automatic validation process with an established surveillance system to ensure the continuing implementation of the common licensing regulations.\n(4) The Contracting State shall have registered the agreement with ICAO pursuant to Article 83 of the Convention on International Civil Aviation.\n(5) An endorsement shall appear on licences rendered valid under the process of subregulations (3) and (4) indicating—\n( a ) that the licence is automatically validated under the agreement;\n( b ) the reference to the ICAO registration number of the agreement and the endorsement; and\n( c ) a list of all States that are party to the agreement with any transition requirements where applicable."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II General Rules Concerning Licences (regs 3-9)",
+      "section": "6",
+      "title": "Privileges of holder of licence",
+      "content": "6. Privileges of holder of licence\nA licence holder shall not exercise privileges other than those granted under the licence."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II General Rules Concerning Licences (regs 3-9)",
+      "section": "7",
+      "title": "Medical fitness",
+      "content": "7. Medical fitness\n(1) An applicant for a licence shall, where applicable, hold a medical certificate issued by the Authority, in accordance with these Regulations.\n(2) To satisfy the licensing requirements of medical fitness, the applicant shall meet the appropriate medical requirements specified for the licence applied for."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II General Rules Concerning Licences (regs 3-9)",
+      "section": "8",
+      "title": "Competency and recency requirements",
+      "content": "8. Competency and recency requirements\n(1) The Authority shall, after issuing a licence, ensure that the privileges granted under the licence or ratings are not exercised unless the holder maintains competency and meets the requirements for recent experience.\n(2) A licence holder shall not exercise the privileges granted by that licence unless he or she maintains competency and meets the requirements for recent experience.\n(3) A flight crew member, engaged in commercial air transport operations shall establish maintenance of competency by demonstration of skill during proficiency flight checks.\n(4) A flight crew member may, to the extent possible, demonstrate his or her continuing competency in a flight simulation training device.\n(5) A flight crew member shall record the maintenance of competency in the operator's records or in the flight crew member's personal log book or licence."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II General Rules Concerning Licences (regs 3-9)",
+      "section": "9",
+      "title": "Language proficiency",
+      "content": "9. Language proficiency\n(1) An aeroplane, airship, helicopter, powered-lift pilot and a free balloon operator shall demonstrate the ability to speak and understand the language used for radiotelephony communications to the level specified in Schedule 2 of these Regulations.\n(2) An air traffic controller, a flight operations officer, cabin crew member, aircraft maintenance engineer, parachute rigger, aviation repair specialist and an aeronautical station operator shall demonstrate the ability to speak and understand the language used in radiotelephony communications to the level specified in Schedule 2 of these Regulations."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART III General Requirements for Pilot Licences, Remote Pilot Licence and Ratings (regs 10-18)",
+      "section": "10",
+      "title": "General licensing specifications",
+      "content": "10. General licensing specifications\nAn applicant for a pilot licence shall—\n( a ) before being issued with a pilot licence or rating, meet such requirements in respect of age, knowledge, experience, flight instruction, skill and medical fitness specified for the licence or rating applied for; and\n( b ) demonstrate in a manner determined by the Authority, such requirements for knowledge and skill specified for the licence or rating applied for."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART III General Requirements for Pilot Licences, Remote Pilot Licence and Ratings (regs 10-18)",
+      "section": "11",
+      "title": "Category ratings",
+      "content": "11. Category ratings\n(1) A person shall not, unless he or she is a holder of a pilot licence issued in accordance with these Regulations, act as a pilot-in-command or co-pilot of an aircraft in any of the following categories—\n( a ) an aeroplane;\n( b ) an airship of a volume of more than 4600 cubic metres;\n( c ) a free balloon;\n( d ) a glider;\n( e ) a helicopter; or\n( f ) a powered-lift.\n(2) The Authority shall include the category of the aircraft in the title of the licence or endorse it as a rating on the licence:\nProvided that the category rating shall not be endorsed on a licence if the category is included in the title of the licence.\n(3) Where the holder of a pilot licence applies for a licence for an additional aircraft category, the Authority shall—\n( a ) issue the holder of the licence with an additional pilot licence for that category of aircraft; or\n( b ) endorse the original licence with the new category rating.\n(4) The holder of a pilot licence who applies for an additional category rating shall meet the requirements of these Regulations, appropriate to the privileges for the category rating applied for.\n(5) Where the Authority issues an additional category rating or endorses the additional category rating on a pilot licence, the additional category rating shall indicate the level of licensing privileges at which the category rating is granted."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART III General Requirements for Pilot Licences, Remote Pilot Licence and Ratings (regs 10-18)",
+      "section": "12",
+      "title": "Class and type ratings",
+      "content": "12. Class and type ratings\n(1) The Authority shall establish class ratings for aeroplanes certificated for single-pilot operation including class ratings for a—\n( a ) single-engine land aeroplane;\n( b ) multi-engine land aeroplane; and\n( c ) helicopter or powered-lift which has comparable handling, performance and other characteristics.\n(2) The Authority shall establish type ratings for—\n( a ) an aircraft certificated for operation with a minimum crew of at least two pilots;\n( b ) a helicopter or powered-lift certificated for single-pilot operation except where a class rating has been established under subregulation (1); or\n( c ) any aircraft, whenever the Authority considers it necessary.\n(3) Where the Authority establishes a common type rating, the rating shall only apply to an aircraft with similar characteristics in operating procedures, systems and handling.\n(4) Where an applicant demonstrates the skill and knowledge required for the initial issue of a pilot licence, the Authority shall enter the category and rating appropriate to the class and type of aircraft used in the demonstration, on the licence.\n(5) Where the Authority issues a type rating limiting the privileges to act as co-pilot or limiting the privileges to act as pilot only during the cruise phase of the flight, the Authority shall endorse such limitation on the rating.\n(6) The Authority may, for the purpose of training, testing, or for specific special purpose non-revenue or non-passenger carrying flights—\n( a ) provide in writing to the licence holder, special authorisation, in place of issuing a type rating in accordance with subregulation (2); and\n( b ) the authorisation shall be limited in validity, to the time needed to complete the specific flight.\n(7) The Authority, having issued a licence, shall ensure that other Contracting States are satisfied as to the validity of the licence."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART III General Requirements for Pilot Licences, Remote Pilot Licence and Ratings (regs 10-18)",
+      "section": "13",
+      "title": "Requirements for class and type ratings",
+      "content": "13. Requirements for class and type ratings\n(1) An applicant for a class rating shall demonstrate a degree of skill appropriate to the licence in an aircraft of the class for which the rating is applied for.\n(2) An applicant for a type rating shall—\n( a ) have experience in the appropriate type of aircraft or flight simulator, which experience shall be gained under appropriate supervision, in—\n(i) the normal flight procedures and manoeuvres during all phases of flight,\n(ii) the abnormal and emergency procedures and manoeuvres in cases of failure and malfunction of equipment, such as powerplant, systems and airframe,\n(iii) where applicable, the instrument procedures, including instrument approach, missed approach and landing procedures under normal, abnormal and emergency conditions and simulated engine failure, and\n(iv) the procedures for crew incapacitation and co-ordination, including allocation of pilot tasks, crew co-operation and use of checklists;\n( b ) demonstrate the skill and knowledge required for the safe operation of the applicable type of aircraft, and relevant to the duties of a pilot-in-command or co-pilot; and\n( c ) demonstrate, at the airline transport pilot licence level, an extent of knowledge required under these Regulations.\n(3) Where the application is for a type rating for—\n( a ) an aircraft certificated for operation with a minimum crew of at least two pilots; or\n( b ) a helicopter or powered-lift certificated for single-pilot operation.\n(4) The applicant shall demonstrate the skill and knowledge required for the safe operation of the applicable type of aircraft and relevant to the licensing requirements and piloting functions of the applicant."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART III General Requirements for Pilot Licences, Remote Pilot Licence and Ratings (regs 10-18)",
+      "section": "14",
+      "title": "Use of flight simulation training device",
+      "content": "14. Use of flight simulation training device\nWhere an applicant uses a flight simulation training device to acquire the experience or perform any manoeuvre required during a demonstration of skill for the issue of a licence, the Authority shall ensure that the training device used is appropriate to the task and shall approve the use of such training device."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART III General Requirements for Pilot Licences, Remote Pilot Licence and Ratings (regs 10-18)",
+      "section": "15",
+      "title": "Instrument rating",
+      "content": "15. Instrument rating\nA holder of a pilot licence shall not act as a pilot-in-command or co-pilot of an aircraft under instrument flight rules unless he or she has received an instrument rating, from the Authority, appropriate to the aircraft category."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART III General Requirements for Pilot Licences, Remote Pilot Licence and Ratings (regs 10-18)",
+      "section": "16",
+      "title": "Authorisation to conduct instruction",
+      "content": "16. Authorisation to conduct instruction\n(1) A person shall not carry out a flight instruction required for the issue of a pilot licence or rating, unless he or she—\n( a ) holds an appropriate pilot licence;\n( b ) has received a flight instruction rating on his or her pilot licence, from the Authority;\n( c ) has been authorised by the Authority to act as an agent of an approved training organisation, carrying out flight instruction; or\n( d ) has received a specific authorisation from the Authority.\n(2) A person shall not carry out an instruction, on a flight simulation training device, required for the issue of a licence or rating, unless he or she—\n( a ) holds an appropriate licence; or\n( b ) has the appropriate flight training experience; and\n( c ) has received a specific authorisation from the Authority.\n(3) An approved training for flight crew and air traffic controllers shall be conducted within an approved training organisation.\n(4) Any competency-based approved training for aircraft maintenance personnel shall be conducted within an approved training organisation."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART III General Requirements for Pilot Licences, Remote Pilot Licence and Ratings (regs 10-18)",
+      "section": "17",
+      "title": "Crediting of flight time",
+      "content": "17. Crediting of flight time\n(1) A student pilot or a holder of a pilot licence shall be entitled to be credited in full, with all solo, dual instruction and pilot-in-command flight time towards the total flight time required for the initial issue of a pilot licence or the issue of a higher grade of pilot licence.\n(2) When acting as a co-pilot of an aircraft certificated for operation by a single pilot, but the Authority requires for the aircraft to be operated with a co-pilot, the holder of a pilot licence shall be entitled to be credited with not more than 50 per cent of the co-pilot flight time towards the total flight time required for a higher grade of pilot licence.\n(3) Notwithstanding subregulation (2), the Authority may authorise that flight time shall be credited in full towards the total flight time required, if the aircraft is equipped to be operated by a co-pilot and the aircraft is operated in a multi-crew operation.\n(4) When acting as a co-pilot of an aircraft certificated to be operated with a co-pilot, the holder of a pilot licence shall be entitled to be credited in full with the flight time towards the total time required for a higher grade of pilot licence.\n(5) When acting as a pilot-in-command under supervision, the holder of a pilot licence shall be entitled to be credited in full with the flight time towards the total flight time required for a higher grade of pilot licence."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART III General Requirements for Pilot Licences, Remote Pilot Licence and Ratings (regs 10-18)",
+      "section": "18",
+      "title": "Limitation of privileges of pilots aged over 60 years",
+      "content": "18. Limitation of privileges of pilots aged over 60 years\nA holder of a pilot licence shall not act as pilot-in-command of an aircraft engaged in international commercial air transport operations if the licence holder has attained his or her 60th birthday, or in the case of operations with more than one pilot where the other pilot is younger than 60 years of age, his or her 65th birthday."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART IV Student Pilot Licence (reg 19)",
+      "section": "19",
+      "title": "Student pilot licence",
+      "content": "19. Student pilot licence\n(1) The Authority shall set out the requirements and privileges for a student pilot and in setting out the privileges, the Authority shall ensure that such privileges do not permit a student pilot to constitute a hazard to air navigation.\n(2) A student pilot shall not fly solo unless he or she—\n( a ) is under the supervision of, or has the authority from an authorised flight instructor; and\n( b ) holds a current class 2 medical certificate.\n(3) A student pilot shall not fly solo in an aircraft on an international flight unless it is by special or general arrangement between Botswana and the Contracting State concerned."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART V Private Pilot Licence (regs 20-32)",
+      "section": "20",
+      "title": "Age requirements",
+      "content": "20. Age requirements\nAn applicant for a private pilot licence, appropriate to the aeroplane, airship, helicopter and powered-lift categories, shall be at least 17 years of age."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART V Private Pilot Licence (regs 20-32)",
+      "section": "21",
+      "title": "Knowledge requirements",
+      "content": "21. Knowledge requirements\nAn applicant for a private pilot licence shall demonstrate a level of knowledge, appropriate to the privileges granted to the holder of a private pilot licence and appropriate to the category of aircraft intended to be included in the licence, in the following subjects—\n( a ) air law—\n(i) rules and regulations relevant to the holder of a private pilot licence,\n(ii) rules of the air,\n(iii) altimeter setting procedures, and\n(iv) appropriate air traffic service practices and procedures;\n( b ) aircraft general knowledge—\n(i) principles of operation and functioning of engines, systems and instruments,\n(ii) operating limitations of the relevant category of aircraft and engines including the relevant operational information from the flight manual or other appropriate document,\n(iii) in the case of helicopters and powered-lifts, transmission (power trains), where applicable, and\n(iv) in the case of airships, physical properties and practical application of gases;\n( c ) flight performance, planning and loading, including—\n(i) the effects of loading and mass distribution on flight characteristics,\n(ii) the use and practical application of take-off, landing and other performance data,\n(iii) pre-flight and en route flight planning appropriate to private operations under visual flight rules,\n(iv) the preparation and filing of air traffic service flight plans,\n(v) the appropriate air traffic service procedures,\n(vi) position reporting procedures,\n(vii) altimeter setting procedures, and\n(viii) operations in areas of high-density traffic;\n( d ) human performance, including principles of threat and error management;\n( e ) meteorology, including—\n(i) the application of elementary aeronautical meteorology,\n(ii) the use of and procedures for obtaining meteorological information,\n(iii) altimetry, and\n(iv) hazardous weather conditions;\n( f ) the practical aspects of air navigation, dead-reckoning techniques and the use of aeronautical charts;\n( g ) operational procedures, including—\n(i) the application of threat and error management to operational performance,\n(ii) altimeter setting procedures,\n(iii) the use of aeronautical documentation such as Notice to Air Missions (NOTAM), aeronautical codes and abbreviations,\n(iv) appropriate precautionary and emergency procedures, including action taken to avoid hazardous weather, wake turbulence and operating hazards, and\n(v) in the case of helicopters and if applicable, powered-lifts, settling with power, ground resonance, retreating blade stall, dynamic roll over and safety procedures associated with flight in VMC;\n( h ) the principles of flight; and\n( i ) radiotelephony, including the—\n(i) communication procedures and phraseology as applied to visual flight rules operations, and\n(ii) action to be taken in case of communication failure."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART V Private Pilot Licence (regs 20-32)",
+      "section": "22",
+      "title": "Skills requirements",
+      "content": "22. Skills requirements\nAn applicant for a private pilot licence shall, as a pilot-in-command of an aircraft within appropriate category, demonstrate the ability to perform the procedures and manoeuvres, as may be specified by the Authority, with a degree of competency appropriate to the privileges granted to the holder of a private pilot licence and to—\n( a ) recognise and manage threats and errors;\n( b ) operate the aircraft within its limitations;\n( c ) complete all manoeuvres with smoothness and accuracy;\n( d ) exercise good judgement and airmanship;\n( e ) apply aeronautical knowledge; and\n( f ) maintain control of the aircraft at all times in a manner such that the successful outcome of a procedure or manoeuvre is assured."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART V Private Pilot Licence (regs 20-32)",
+      "section": "23",
+      "title": "Medical fitness",
+      "content": "23. Medical fitness\nAn applicant for a private pilot licence shall hold a current class 2 medical certificate."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART V Private Pilot Licence (regs 20-32)",
+      "section": "24",
+      "title": "Privileges of private pilot licence",
+      "content": "24. Privileges of private pilot licence\n(1) Subject to the requirements under these Regulations, a holder of a private pilot licence shall act, but not for remuneration, as a pilot-in-command or co-pilot of an aircraft, within the appropriate aircraft category, engaged in non-revenue flights.\n(2) Before exercising the privileges at night, the licence holder shall have received dual instruction in aircraft within the appropriate category of aircraft in night flying, including take-off, landing and navigation.\nB — Specific Requirements for Aeroplane Category"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART V Private Pilot Licence (regs 20-32)",
+      "section": "25",
+      "title": "Experience",
+      "content": "25. Experience\n(1) The applicant shall have completed not less than 40 hours of flight time during a course of approved training, as a pilot of aeroplanes appropriate to the class rating sought.\n(2) Where the Authority determines that experience as a pilot, under instruction, in a flight simulation training device is acceptable as part of the total flight time of the 40 hours, credit for such experience shall be limited to a maximum of 5 hours.\n(3) When the applicant has flight time as a pilot of aircraft in other categories, the Authority shall determine whether such experience is acceptable and, if so, the extent to which the flight time requirements of subregulation (1) can be reduced accordingly.\n(4) The applicant shall have completed in aeroplanes, not less than—\n( a ) 10 hours of solo flight, appropriate to the class rating sought, under the supervision of an authorised flight instructor; and\n( b ) 5 hours of solo cross country flight time with at least one solo cross country flight of a total of not less than 270 kilometres or 150 nautical miles, in the course of which full-stop landings at two different aerodromes shall be made."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART V Private Pilot Licence (regs 20-32)",
+      "section": "26",
+      "title": "Flight instruction",
+      "content": "26. Flight instruction\n(1) An applicant for a private pilot licence, with an aeroplane category rating, shall have received dual instruction in an aeroplane appropriate to the class rating applied for, from an authorised flight instructor.\n(2) The instructor shall ensure that the applicant has operational experience, to the level of performance required for a private pilot, in—\n( a ) recognising and managing threats and errors;\n( b ) pre-flight operations, including mass and balance determination, aeroplane inspection and servicing;\n( c ) aerodrome and traffic pattern operations, collision avoidance precautions and procedures;\n( d ) control of the aeroplane by external visual reference;\n( e ) flight at critically slow airspeeds, recognition of and recovery from incipient and full stalls;\n( f ) flight at critically high airspeeds, recognition of and recovery from spiral dives;\n( g ) normal and crosswind take-off and landing;\n( h ) maximum performance, being short field and obstacle clearance;\n( i ) take-off and short-field landings;\n( j ) flight by reference solely to instruments, including the completion of a level 180 degree turn;\n( k ) cross country flying using visual reference, dead reckoning and where available, radio navigation aids;\n( l ) emergency operations, including simulated aeroplane equipment malfunctions;\n( m ) operations to, from and transiting controlled aerodromes; compliance with air traffic service procedures; and\n( n ) communication procedures and phraseology.\nC — Specific Requirements for Helicopter Category"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART V Private Pilot Licence (regs 20-32)",
+      "section": "27",
+      "title": "Experience",
+      "content": "27. Experience\n(1) The applicant shall have completed not less than 40 hours of flight time, or 35 hours if completed during a course of approved training, as a pilot of helicopters.\n(2) The Authority shall determine whether experience as a pilot under instruction in a flight simulation training device is acceptable as part of the total flight time of 40 hours or 35 hours, as the case may be, and credit for such experience shall be limited to a maximum of 5 hours."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accredited medical conclusion",
+      "definition": "a conclusion reached by one or more medical experts acceptable to the Authority and in consultation with flight operations or other experts as necessary",
+      "source_provision": "s2"
+    },
+    {
+      "term": "adapted competency model",
+      "definition": "a group of competencies with their associated description and performance criteria adapted from an International Civil Aviation Organisation (ICAO) competency framework that an organisation uses to develop competency-based training and assessment for a given role",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical experience",
+      "definition": "the pilot time obtained in an aircraft or approved flight simulation training device that meets the training and flight time requirements of these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeroplane",
+      "definition": "a power-driven heavier-than-air aircraft, that derives its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft",
+      "definition": "a machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft category",
+      "definition": "the classification of an aircraft according to specified basic characteristics such as aeroplane, helicopter, glider or free balloon",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft certificated for single-pilot operation",
+      "definition": "a type of aircraft which the State of Registry has determined, during the certification process, may be operated safely with a minimum crew of one pilot",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft required to be operated with a co-pilot",
+      "definition": "a type of aircraft that is required to be operated with a co-pilot, as specified in the flight manual or by the air operator certificate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft type",
+      "definition": "all aircraft of the same basic design including all modifications thereto except those modifications which result in a change in handling or flight characteristics",
+      "source_provision": "s2"
+    },
+    {
+      "term": "airframe",
+      "definition": "the fuselage, booms, nacelles, cowlings, fairings, airfoil surfaces including rotors, but excluding propellers and rotating airfoils of a powerplant, and landing gear of an aircraft and their accessories and controls",
+      "source_provision": "s2"
+    },
+    {
+      "term": "airmanship",
+      "definition": "the consistent use of good judgement and well-developed knowledge, skills and attitudes to accomplish flight objectives",
+      "source_provision": "s2"
+    },
+    {
+      "term": "airship",
+      "definition": "a power-driven lighter-than-air aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appliance",
+      "definition": "an instrument, mechanism, equipment, part, apparatus, appurtenance or accessory, including communications equipment that is used or intended to be used in operating or controlling an aircraft in flight, and that is installed in or attached to the aircraft and is not part of an airframe, powerplant or propeller",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved maintenance organisation",
+      "definition": "an organisation approved by the Authority to perform specific aircraft maintenance activities including the inspection, overhaul, maintenance, repair or modification and release to service of an aircraft or aircraft component",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved training",
+      "definition": "training conducted under special curricula and supervision approved by the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Approved Training Organisation",
+      "definition": "an organisation as defined in the Civil Aviation (Approved Training Organisations) Regulations (Cap. 71:01 (Sub. Leg.))",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised instructor",
+      "definition": "a person who—\n( a ) holds a valid and current ground or flight instructor rating issued under these Regulations, for conducting ground training or flight training",
+      "source_provision": "s2"
+    },
+    {
+      "term": "balloon",
+      "definition": "a non-power-driven lighter-than-air aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "category I operation",
+      "definition": "a precision instrument approach and landing with a decision height not lower than 60 m (200 ft) and with either a visibility of not less than 800 m or Runway Visual Range (RVR) of not less than 550 m",
+      "source_provision": "s2"
+    },
+    {
+      "term": "category II operation",
+      "definition": "a precision instrument approach and landing with a decision height lower than 60 m (200 ft), but not lower than 30 m (100 ft) and an RVR of not less than 300 m",
+      "source_provision": "s2"
+    },
+    {
+      "term": "category III operation",
+      "definition": "a decision height lower than 30 m (100 ft) or no decision height and a runway visual range less than 300 m or no runway visual range limitations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certify as airworthy",
+      "definition": "to certify that an aircraft or parts thereof comply with current airworthiness requirements after maintenance has been performed on the aircraft or parts thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commercial air transport operation",
+      "definition": "an aircraft operation involving the transport of passengers, cargo or mail for remuneration or hire",
+      "source_provision": "s2"
+    },
+    {
+      "term": "competency",
+      "definition": "a dimension of human performance that is used to reliably predict successful performance on the job, whereby a competency is manifested and observed through behaviours that mobilise the relevant knowledge, skills and attitudes to carry out activities or tasks under specified conditions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "competency-based training and assessment",
+      "definition": "training and assessment that are characterised by a performance orientation, emphasis on standards of performance and their measurement, and the development of training to the specified performance standards",
+      "source_provision": "s2"
+    },
+    {
+      "term": "competency standard",
+      "definition": "a level of performance that is defined as acceptable when assessing whether or not competency has been achieved",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Contracting State",
+      "definition": "a State that is a signatory to the Convention on International Civil Aviation (Chicago Convention)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "co-pilot",
+      "definition": "a licensed pilot serving in any piloting capacity other than as pilot-in-command but excluding a pilot who is on board the aircraft for the sole purpose of receiving flight instruction",
+      "source_provision": "s2"
+    },
+    {
+      "term": "course",
+      "definition": "a programme of instruction to obtain a licence, rating, qualification, authorisation or current experience required under these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "credit",
+      "definition": "a recognition of alternative means or prior qualifications",
+      "source_provision": "s2"
+    },
+    {
+      "term": "critical engine",
+      "definition": "the engine whose failure would most adversely affect the performance or handling qualities of an aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cross country",
+      "definition": "a flight between a point of departure and a point of arrival following a pre-planned route using standard navigation procedures",
+      "source_provision": "s2"
+    },
+    {
+      "term": "detect and avoid",
+      "definition": "the capability to see, sense or detect conflicting traffic or other hazards and take the appropriate action",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dual instruction time",
+      "definition": "a flight time during which a person receives flight instruction from a properly authorised pilot on board the aircraft, or from a properly authorised remote pilot using the remote pilot station during a remotely piloted aircraft flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "engine",
+      "definition": "a unit used or intended to be used for aircraft propulsion which consists of at least components and equipment necessary for functioning and control, but excludes the propeller or rotors, where applicable",
+      "source_provision": "s2"
+    },
+    {
+      "term": "error",
+      "definition": "an action or inaction by an operational person that leads to deviations from the organisational or the operational person's intentions or expectations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "error management",
+      "definition": "the process of detecting and responding to errors with counter measures that reduce or eliminate the consequences of errors and mitigate the probability of further errors or undesired events",
+      "source_provision": "s2"
+    },
+    {
+      "term": "examiner",
+      "definition": "a person authorised by the Authority to conduct a pilot proficiency test, a practical test for a licence or rating, or a knowledge test under these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight crew member",
+      "definition": "a crew member charged with duties essential to the operation of an aircraft during a flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight plan",
+      "definition": "specified information provided to air traffic services units, relative to an intended flight or portion of a flight of an aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight procedures trainer",
+      "definition": "as defined under the flight simulation training device",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight simulation training device",
+      "definition": "any of the following three types of apparatus in which flight conditions are simulated on the ground, a—\n( a ) simulation flight trainer, which provides an accurate representation of the flight deck of a particular aircraft type or an accurate representation of the remotely piloted aircraft system (RPAS) to the extent that the mechanical, electrical, electronic, etc. aircraft systems control functions, the normal environment of flight crew members, and the performance and flight characteristics of that type of aircraft are realistically simulated",
+      "source_provision": "s2"
+    },
+    {
+      "term": "glider",
+      "definition": "a non-power-driven heavier-than-air aircraft, that derives its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "glider flight time",
+      "definition": "the total time occupied in flight, whether it is towed or not, from the moment the glider first moves for the purpose of taking off until the moment it comes to rest at the end of the flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "handover",
+      "definition": "the act of passing piloting control from one remote pilot station to another",
+      "source_provision": "s2"
+    },
+    {
+      "term": "heavier-than-air aircraft",
+      "definition": "an aircraft that derives its lift in flight chiefly from aerodynamic forces",
+      "source_provision": "s2"
+    },
+    {
+      "term": "helicopter",
+      "definition": "a heavier-than-air aircraft supported in flight, chiefly by the reactions of the air on one or more power-driven rotors on substantially vertical axes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "human performance",
+      "definition": "human capabilities and limitations which have an impact on the safety and efficiency of aeronautical operations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "IFR",
+      "definition": "the symbol used to designate the instrument flight rules",
+      "source_provision": "s2"
+    },
+    {
+      "term": "instrument approach procedure",
+      "definition": "a series of predetermined manoeuvres by reference to flight instruments with specified protection from obstacles from the initial approach fix, or where applicable, from the beginning of a defined arrival route to a point from which a landing can be completed and thereafter, and if a landing is not completed, to a position at which holding or en route obstacle clearance criterion applies",
+      "source_provision": "s2"
+    }
+  ]
+}

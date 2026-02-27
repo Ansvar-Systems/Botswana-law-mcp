@@ -1,0 +1,96 @@
+{
+  "id": "bw-act-tourism",
+  "type": "statute",
+  "title": "Tourism",
+  "title_en": "Tourism",
+  "short_name": "Tourism",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/tourism",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Tourism Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Committee\" means the Tourism Industry Licensing Committee established under section 3;\n\"Director\" means any person holding the public office of Director of Tourism;\n\"licence\" means a licence for a tourist enterprise issued under section 17;\n\"police officer\" includes an officer of the Botswana Police Service;\n\"tourist enterprise\" means an enterprise or activity specified in the Schedule, undertaken by a person, or a firm, for the purpose of, or to promote or facilitate, tourism in Botswana in return for financial reward."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Tourism Industry Licensing Committee",
+      "section": "3",
+      "title": "Establishment of Tourism Industry Licensing Committee",
+      "content": "3. Establishment of Tourism Industry Licensing Committee\nThere is hereby established a body to be known as the Tourism Industry Licensing Committee."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Tourism Industry Licensing Committee",
+      "section": "4",
+      "title": "Membership of Committee",
+      "content": "4. Membership of Committee\nThe Committee shall consist of the Director and five other members appointed by the Minister from persons in the public and private sector, who in his or her opinion are suitable and qualified to assist in the performance of the functions of the Committee and the execution of its duties."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Tourism Industry Licensing Committee",
+      "section": "5",
+      "title": "Director of Tourism as Chairperson of Committee",
+      "content": "5. Director of Tourism as Chairperson of Committee\nThe Director shall be the chairperson of the Committee and he or she may nominate any other member of the Committee to act as chairperson on any occasion when he or she is unable to attend meetings of the Committee."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Tourism Industry Licensing Committee",
+      "section": "6",
+      "title": "Powers and functions of Committee",
+      "content": "6. Powers and functions of Committee\n(1) The Committee shall have power—\n( a ) to determine whether or not a licence should be issued for any particular tourist enterprise;\n( b ) to decide whether or not to cancel or suspend a licence for good cause;\n( c ) to determine whether or not a licence should be amended or transferred.\n(2) For the purpose of licensing and monitoring tourist enterprises, the Director shall carry out, or cause to be carried out, such inspections of documents or building plans, or of buildings and sites, with or without the assistance of other officials, such as planners or health inspectors, as he or she may consider necessary, and shall make a report thereon to the Committee together with his or her recommendations."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Tourism Industry Licensing Committee",
+      "section": "7",
+      "title": "Tenure of office",
+      "content": "7. Tenure of office\nMembers of the Committee shall be appointed for periods of three years, but shall be eligible for re-appointment."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Tourism Industry Licensing Committee",
+      "section": "8",
+      "title": "Disqualification, removal, suspension, and resignation",
+      "content": "8. Disqualification, removal, suspension, and resignation\n(1) No person shall be appointed as a member of the Committee or be qualified to continue to hold office who—\n( a ) has, in terms of a law in force in any country—\n(i) been adjudged or otherwise declared bankrupt and has not been discharged; or\n(ii) made an assignment to, arrangement or composition with his or her creditors, which has not been rescinded or set aside;\n( b ) has within the period of 10 years immediately preceding the date of his or her appointment, been convicted—\n(i) of a criminal offence within Botswana; or\n(ii) outside Botswana, of an offence which if committed in Botswana, would have been a criminal offence,\nand sentenced by a court of competent jurisdiction to imprisonment for six months or more without the option of a fine, whether that sentence has been suspended or not, and for which he or she has not received a free pardon.\n(2) The Minister shall, in writing, suspend from office a member against whom criminal proceedings are instituted for an offence in respect of which a sentence of imprisonment may be imposed, and whilst that member is so suspended, he or she shall not carry out any duties or be entitled to any remuneration or allowances as a member of the Committee.\n(3) The Minister shall remove a member if the member—\n( a ) is absent without reasonable cause from three consecutive meetings of the Committee of which he or she has had notice;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Committee",
+      "definition": "the Tourism Industry Licensing Committee established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "any person holding the public office of Director of Tourism",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence for a tourist enterprise issued under section 17",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police officer",
+      "definition": "an officer of the Botswana Police Service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tourist enterprise",
+      "definition": "an enterprise or activity specified in the Schedule, undertaken by a person, or a firm, for the purpose of, or to promote or facilitate, tourism in Botswana in return for financial reward.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bw-act-commissions-of-inquiry",
+  "type": "statute",
+  "title": "Commissions of Inquiry",
+  "title_en": "Commissions of Inquiry",
+  "short_name": "Commissions of Inquiry",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/commissions-of-inquiry",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Commissions of Inquiry Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Power to issue Commission of Inquiry into any matter of public nature",
+      "content": "2. Power to issue Commission of Inquiry into any matter of public nature\nIt shall be lawful for the President, whenever he deems it advisable, to issue a commission appointing one or more commissioners, and authorising such commissioners, or any quorum of them therein mentioned, to inquire into the conduct of any officer in the public service of Botswana, the conduct or management of any department of the public service, or of any public or local institution or into any matter in which an inquiry would, in the opinion of the President, be for the public welfare."
+    }
+  ],
+  "definitions": []
+}

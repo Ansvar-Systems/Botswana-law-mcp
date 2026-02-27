@@ -1,0 +1,239 @@
+{
+  "id": "bw-act-local-government",
+  "type": "statute",
+  "title": "Local Government",
+  "title_en": "Local Government",
+  "short_name": "Local Government",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/local-government",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Local Government Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"administrative officer\" means an officer as defined under section 49 of the Interpretation Act (Cap. 01:04);\n\"administrative District\" means a district, city, town or township, prescribed in the Administrative Districts Act (Cap. 03:02);\n\"Chairperson\" means the political head of a District Council or Subordinate Authority elected under section 20(1);\n\"city\" means any town or township area conferred with the status of a city by the Minister under section 9;\n\"community\" means people living within an administrative district, city, town, village or ward, falling within the jurisdiction of a Council;\"\n\"council\" means any city council, town council or District Council duly established under section 3;\n\"Council Secretary\" means an administrative head of a District Council;\n\"Councillor\" means an elected or nominated member of Council or Subordinate Authority;\n\" Kgosana \" has the meaning assigned to it in the Bogosi Act (Cap. 41:01);\n\" Kgosi \" has the meaning assigned to it in the Bogosi Act;\n\"law enforcement office\" means an office established under section 51;\n\"law enforcement officer\" means an officer appointed under section 52;\n\"mayor\" means the political head of a city or town Council elected under section 20(1);\n\"member\" means both elected and nominated members of a Council or Subordinate Authority including ex-officio members;\n\"Moemela Kgosi\" has the meaning assigned to it in the Bogosi Act;\n\"presiding officer\" means a person who chairs a particular meeting of the Council or Subordinate Authority and leads the proceedings of that meeting;\n\"public service\" or \"public office\" or \"public officer\" have the same meaning as in the Constitution;\n\"Subordinate Authority\" means an institutional structure lower than a Council established by the Minister under section 7;\n\"township\" means a township as established under section 8;\n\"township authority\" means an authority established by regulations made under this Act to conduct the affairs of a township concerned and to perform such functions as may be specified in those regulations;\n\"town Clerk\" means an administrative head of an urban Council; and\n\"Valuation Tribunal\" means a Tribunal established by the Minister under section 41."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment of Councils and Subordinate Authorities",
+      "section": "3",
+      "title": "Establishment of Councils",
+      "content": "3. Establishment of Councils\nThe Minister may, by Order published in the Gazette , establish a Council in respect of such area as the Minister may consider appropriate."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment of Councils and Subordinate Authorities",
+      "section": "4",
+      "title": "Council for each Administrative District",
+      "content": "4. Council for each Administrative District\n(1) There shall be a Council for each Administrative District as established under section 3 and the Council shall consist of a Mayor or Chairperson, Deputy Mayor or Deputy Chairperson and members.\n(2) Notwithstanding the provisions of subsection (1), in establishing Councils, the Minister may not necessarily align administrative boundaries with tribal territories provided that he or she has consulted with the respective tribe."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment of Councils and Subordinate Authorities",
+      "section": "5",
+      "title": "Restructuring of Councils",
+      "content": "5. Restructuring of Councils\n(1) Subject to sections 3 and 13, the Minister shall after consultation with Council and the community, by Order published in the Gazette , subdivide or merge Councils for administrative expediency.\n(2) The Minister, after consultation with Council and the community, may constitute a new Council from a subdivision of a Council or a merger of two or more Councils.\n(3) Where a new Council is constituted in accordance with subsection (2), the Minister shall, by Order published in the Gazette , provide for the transfer of the assets and liabilities of the subdivided Council or merged Councils to the new Council established in place of the Council or Councils, as the case may be, and for the vesting of the assets and liabilities in the new Council.\n(4) Subject to the provisions of subsection (2), upon restructuring of the Council in accordance with the provision of subsection (1), all members holding office in an existing Council shall cease to hold office.\n(5) Subject to subsection (2) where a Council is restructured, the new office bearers shall be appointed in accordance with sections 20 to 22."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Establishment of Councils and Subordinate Authorities",
+      "section": "6",
+      "title": "Councils to be bodies corporate",
+      "content": "6. Councils to be bodies corporate\nA Council shall be a body corporate having the name and seal by which it is established and capable of suing and of being sued under the said name."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Establishment of Councils and Subordinate Authorities",
+      "section": "7",
+      "title": "Establishment of Subordinate Authorities",
+      "content": "7. Establishment of Subordinate Authorities\n(1) The Minister shall, after consultation with the respective Council and the community, by Order published in the Gazette , establish Subordinate Authorities.\n(2) The provisions of sections 19 to 21 shall apply to Subordinate Authorities."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Establishment of Councils and Subordinate Authorities",
+      "section": "8",
+      "title": "Declaration of township",
+      "content": "8. Declaration of township\n(1) The Minister shall, by Order published in the Gazette declare any place within any Administrative District, a township, considering mineral developments, agro-commercial or industrial developments and any other developments that may be carried out and shall define the boundaries of that township.\n(2) The Minister shall, in declaring a township under subsection (1), consult with the relevant District Council, Dikgosi and the community."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Establishment of Councils and Subordinate Authorities",
+      "section": "9",
+      "title": "Conferment of city status",
+      "content": "9. Conferment of city status\nThe Minister shall, by Order published in the Gazette , where he or she considers that it is proper and fitting to confer the status of a city on a town or township, declare that town or township a city which shall have all the ranks, liberties, privileges and immunities as are incidental to a city, and after consultation with the Council and the community, define the boundaries of that city."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART III Powers and Duties of Councils",
+      "section": "10",
+      "title": "General duties of Council",
+      "content": "10. General duties of Council\nIt shall be the duty of a Council to perform the functions it is required to perform and otherwise exercise its powers so as to secure and promote the health, safety, well-being, good order, security and good governance of the area for which it has been established."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART III Powers and Duties of Councils",
+      "section": "11",
+      "title": "Functions and general powers of Council",
+      "content": "11. Functions and general powers of Council\n(1) The Minister may, in the Order establishing a Council or a Subordinate Authority, and subject to the limitations and conditions as the Minister may consider appropriate, provide that the Council or the Subordinate Authority shall either be required to perform or may perform any of the functions set out in Schedule 1.\n(2) Where the Minister confers additional functions or removes any of the functions conferred upon a Council or a Subordinate Authority he or she shall consult with that Council or Subordinate Authority.\n(3) A Council may execute any of the functions conferred upon it through establishment of bodies, trusts, and any other organ that, that Council may consider appropriate for the discharge of its functions.\n(4) Subject to the provisions of this Act, a Council shall have power to do anything and enter into any transaction which in its opinion is calculated to facilitate the proper discharge of any function conferred or imposed upon it by or under this Act or any other law.\n(5) A Council may delegate any of its functions to the bodies under subsection (3) or to any other person in line with Government policies and may with reasons revoke or amend any delegation made under this section and may attach conditions to the delegation, including general or particular directions, as to the manner in which any delegated power is to be exercised.\n(6) A delegation under subsection (5) may include the power to sub-delegate."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART III Powers and Duties of Councils",
+      "section": "12",
+      "title": "Entry into contract",
+      "content": "12. Entry into contract\nA Council shall not enter into any contract for the supply of any goods or materials or the execution of any works or the provision of any services, for or to the Council except as prescribed under the Local Authorities Procurement and Asset Disposal Act (Cap. 42:11) or any other instrument prescribed by the Minister."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART IV Constitution of Councils and Subordinate Authorities",
+      "section": "13",
+      "title": "Constitution of Councils and Subordinate Authorities",
+      "content": "13. Constitution of Councils and Subordinate Authorities\n(1) A Council shall be constituted by the Minister, after consultation with the Community and shall consist of the number of elected or specially nominated members as may be provided in the Order establishing it.\n(2) The Minister may, after consultation with the community, by subsequent Order published in the Gazette , vary or amend an Order made under subsection (1).\n(3) The Minister shall appoint the following ex-officio members who shall not have voting rights or the right to be elected into committees but have all other rights enjoyed by members of Council—\n( a ) in respect of a Council—\n(i) an administrative officer who has special responsibilities relating to the development of the area,\n(ii) every Land Board chairperson within the Administration District,\n(iii) every member of Ntlo Ta Dikgosi designated or selected under subsection (1) or (2) of section 78 of the Constitution, and\n(iv) a Kgosi who resides within the headquarters of a District Council; and\n( b ) in respect of a Subordinate Authority—\n(i) an administrative officer who has special responsibilities relating to the development of the area,\n(ii) a Subordinate Land Board chairperson within the Subordinate Authority area,\n(iii) every member of Ntlo Ta Dikgosi selected under subsections (4) or (5) of section 78 of the Constitution within the Administrative District where they are selected, and\n(iv) a Kgosi or Moemela Kgosi from the area within which the Subordinate Authority headquarters is situated."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART IV Constitution of Councils and Subordinate Authorities",
+      "section": "14",
+      "title": "Holding of post in public service",
+      "content": "14. Holding of post in public service\nA member of a Council, other than an ex-officio member, shall not, during the period that he or she is a member of the Council, also hold any post in the public service."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART IV Constitution of Councils and Subordinate Authorities",
+      "section": "15",
+      "title": "Qualification for membership of Council",
+      "content": "15. Qualification for membership of Council\n(1) A person shall be qualified to become a member of a Council if that person is qualified to vote in any election, for members of the Council and does not possess the disqualifications for membership of the National Assembly referred to in section 62 of the Constitution.\n(2) Subject to subsection (1), the Order establishing a Council under section 3 may provide that for the purposes of this section a person shall not be considered to possess those disqualifications merely because that person has applied for or has been granted a passport issued by or under the authority of the Government of any country prescribed for that purpose in the Order."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART IV Constitution of Councils and Subordinate Authorities",
+      "section": "16",
+      "title": "Tenure of office of members",
+      "content": "16. Tenure of office of members\nEvery member of a Council, other than an ex-officio member shall, without prejudice to his or her re-election or re-nomination, cease to be a member of Council on the day appointed for the taking of any poll which may become necessary at any Local Government election."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART IV Constitution of Councils and Subordinate Authorities",
+      "section": "17",
+      "title": "Vacation of seats",
+      "content": "17. Vacation of seats\n(1) The seat of a member of a Council, other than an ex-officio member, shall become vacant—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "administrative officer",
+      "definition": "an officer as defined under section 49 of the Interpretation Act (Cap. 01:04)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "administrative District",
+      "definition": "a district, city, town or township, prescribed in the Administrative Districts Act (Cap. 03:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the political head of a District Council or Subordinate Authority elected under section 20(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "city",
+      "definition": "any town or township area conferred with the status of a city by the Minister under section 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "community",
+      "definition": "people living within an administrative district, city, town, village or ward, falling within the jurisdiction of a Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council",
+      "definition": "any city council, town council or District Council duly established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council Secretary",
+      "definition": "an administrative head of a District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Councillor",
+      "definition": "an elected or nominated member of Council or Subordinate Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Kgosana",
+      "definition": "assigned to it in the Bogosi Act (Cap. 41:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Kgosi",
+      "definition": "assigned to it in the Bogosi Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "law enforcement office",
+      "definition": "an office established under section 51",
+      "source_provision": "s2"
+    },
+    {
+      "term": "law enforcement officer",
+      "definition": "an officer appointed under section 52",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mayor",
+      "definition": "the political head of a city or town Council elected under section 20(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "both elected and nominated members of a Council or Subordinate Authority including ex-officio members",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Moemela Kgosi",
+      "definition": "assigned to it in the Bogosi Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "presiding officer",
+      "definition": "a person who chairs a particular meeting of the Council or Subordinate Authority and leads the proceedings of that meeting",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Subordinate Authority",
+      "definition": "an institutional structure lower than a Council established by the Minister under section 7",
+      "source_provision": "s2"
+    },
+    {
+      "term": "township",
+      "definition": "a township as established under section 8",
+      "source_provision": "s2"
+    },
+    {
+      "term": "township authority",
+      "definition": "an authority established by regulations made under this Act to conduct the affairs of a township concerned and to perform such functions as may be specified in those regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "town Clerk",
+      "definition": "an administrative head of an urban Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Valuation Tribunal",
+      "definition": "a Tribunal established by the Minister under section 41.",
+      "source_provision": "s2"
+    }
+  ]
+}

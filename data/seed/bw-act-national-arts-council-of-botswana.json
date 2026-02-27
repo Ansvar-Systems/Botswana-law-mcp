@@ -1,0 +1,115 @@
+{
+  "id": "bw-act-national-arts-council-of-botswana",
+  "type": "statute",
+  "title": "National Arts Council of Botswana",
+  "title_en": "National Arts Council of Botswana",
+  "short_name": "National Arts Council of Bo...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/national-arts-council-of-botswana",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "1. Short title and commencement\nThis Act may be cited as the National Arts Council of Botswana Act, and shall come into operation on such date as the Minister may, by Order published in the Gazette , appoint."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"arts\" includes all forms and traditions of literary arts, performing arts, visual arts and media arts;\n\"Board\" means the Board of the National Arts Council of Botswana established under section 6;\n\"Chairperson\" means the Chairperson of the Board;\n\"Chief Executive Officer\" means a person appointed as such under section 20;\n\"committee\" means a committee established by the Board under section 19;\n\"company\" has the meaning assigned to it under the Companies Act (Cap. 42:01);\n\"Council\" means the National Arts Council of Botswana established under section 3;\n\"culture\" includes the whole complex of distinctive, spiritual, material, intellectual and emotional features that characterise a society or social group and further includes not only the arts and letters, but also modes of life, the fundamental rights of the human being, value systems, traditions and beliefs;\n\"member\" means a member of the Board;\n\"resident in Botswana\" has the same meaning assigned to the term in the Income Tax Act (Cap. 52:01);\n\"Secretary of the Board\" means the officer appointed as such under section 21;\n\"society\" has the meaning assigned to it under the Societies Act (Cap.18:01); and\n\"trust\" has the meaning assigned to it in the Trust Property Control Act (Act No. 11 of 2018)."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment of Council and Board",
+      "section": "3",
+      "title": "Establishment of Council",
+      "content": "3. Establishment of Council\n(1) There is hereby established a Council to be known as the National Arts Council of Botswana.\n(2) The Council shall be a body corporate with a common seal, capable of suing and being sued in its corporate name, and, subject to the provisions of this Act, of performing such acts as bodies corporate may, by law, perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment of Council and Board",
+      "section": "4",
+      "title": "Objectives of Council",
+      "content": "4. Objectives of Council\nThe objectives of the Council shall be to—\n( a ) encourage the provision of workspaces, training and creative entrepreneurial skills development in the arts and culture sector;\n( b ) facilitate resource mobilisation through localised and international procurement of expert personnel in the creative industries, services and local creative products, distribution of local products and services to new markets and corporate financial investment in the arts and culture;\n( c ) mobilise funds and disburse funding for the arts in Botswana;\n( d ) facilitate programme development and implementation in academia to promote local arts and culture through scholarly documentation, research and archival undertakings;\n( e ) promote good corporate governance in the arts and culture sector through monitoring and evaluation of actions, policies and practices amongst all arts and culture stakeholders;\n( f ) facilitate cultural exchanges with other countries for the promotion and development of Botswana’s arts and culture internationally;\n( g ) advise the Government on matters relating to the arts and culture by fostering a culture of mentorship, coaching and consultancy in the creative industries;\n( h ) regulate the arts and culture sector and the creative industries by upholding and promoting the rights of all who practice in the arts and culture sector;\n( i ) provide a platform for advocacy towards protecting all works of creation, its owners, and to curb injustices that pertain to infringing upon the rights of those who practice in the arts, cultural and creative industries;\n( j ) prioritise creation or offering opportunities towards targeted groups such as the youth, women, children, disabled, orphans, the unemployed, and rural communities;\n( k ) organise, develop, promote and protect the diverse creative arts and cultures in Botswana;\n( l ) establish district arts council offices to cater for local arts and culture practitioners;\n( m ) recognise qualifying societies, companies, or trusts as arts and culture practitioners;\n( n ) enter into an agreement with any person, company, society, trust, national Government organisations or charitable organisation that is in line with its objectives and deliverables;\n( o ) liaise with regulatory institutions to ensure fair practice by all practitioners;\n( p ) encourage and facilitate commercialisation of arts and culture activities in partnership with relevant bodies of Government; and\n( q ) render technical support, advice and information to any person, organisation or institution promoting or developing the arts in Botswana."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment of Council and Board",
+      "section": "5",
+      "title": "Functions of Council",
+      "content": "5. Functions of Council\nThe functions of the Council shall be to—\n( a ) promote and protect diverse cultural and creative expressions;\n( b ) regulate the standards of cultural and creative expressions;\n( c ) provide funding to arts companies, organisations and artists through grants;\n( d ) stimulate a platform for artistic research, including practice-led research;\n( e ) promote cultural tourism and creative urban regeneration;\n( f ) create a platform for the emergence of artistic and cultural spaces both in urban and rural communities to facilitate growth on cultural productions and consumptions; and"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "arts",
+      "definition": "all forms and traditions of literary arts, performing arts, visual arts and media arts",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of the National Arts Council of Botswana established under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the Chairperson of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Executive Officer",
+      "definition": "a person appointed as such under section 20",
+      "source_provision": "s2"
+    },
+    {
+      "term": "committee",
+      "definition": "a committee established by the Board under section 19",
+      "source_provision": "s2"
+    },
+    {
+      "term": "company",
+      "definition": "assigned to it under the Companies Act (Cap. 42:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the National Arts Council of Botswana established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "culture",
+      "definition": "the whole complex of distinctive, spiritual, material, intellectual and emotional features that characterise a society or social group and further includes not only the arts and letters, but also modes of life, the fundamental rights of the human being, value systems, traditions and beliefs",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "resident in Botswana",
+      "definition": "assigned to the term in the Income Tax Act (Cap. 52:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Secretary of the Board",
+      "definition": "the officer appointed as such under section 21",
+      "source_provision": "s2"
+    },
+    {
+      "term": "society",
+      "definition": "assigned to it under the Societies Act (Cap.18:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trust",
+      "definition": "assigned to it in the Trust Property Control Act (Act No. 11 of 2018).",
+      "source_provision": "s2"
+    }
+  ]
+}

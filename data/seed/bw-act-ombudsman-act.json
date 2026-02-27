@@ -1,0 +1,113 @@
+{
+  "id": "bw-act-ombudsman-act",
+  "type": "statute",
+  "title": "Ombudsman Act",
+  "title_en": "Ombudsman Act",
+  "short_name": "Ombudsman Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/acts-on-notice/ombudsman-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "1. Short title and commencement\nThis Act may be cited as the Ombudsman Act, and shall come into operation on such date as the Minister may, by Order published in the Gazette , appoint."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires-\n\"Cabinet\" means the Cabinet established by section 44(1) of the Constitution;\n\"complainant\" includes a person who lodges a complaint on behalf of another person;\n\"complaint\" means a complaint made under Part IV of the Act;\n\"department of Government\" includes-\n( a ) all Ministries and entities of the Central Government, whether they are located outside or within Botswana;\n( b ) all parastatals, statutory organisations, local authorities; and\n( c ) any other entity which performs a public function;\n\"human right\" means a fundamental right or freedom provided for in the Constitution;\n\"Ombudsman\" means the Ombudsman appointed in terms of section 5;\n\"private entity\" means a voluntary organisation, non-governmental organisation, political party, charitable institution, society, association, company, partnership, club, trust or any other person or organisation which is not a public body; and\n\"repealed Act\" means the Ombudsman Act repealed under section 29."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThe provisions of this Act shall apply to a department of Government and to a private entity."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Continuation of Office of Ombudsman and Appointment of Ombudsman",
+      "section": "4",
+      "title": "Continuation of office of Ombudsman",
+      "content": "4. Continuation of office of Ombudsman\n(1) The office of the Ombudsman as established in the repealed Act shall continue to exist as if established under this Act.\n(2) The office of the Ombudsman shall consist of the Ombudsman, such Deputy Ombudsmen and other staff of the office as may be appointed.\n(3) The office of the Ombudsman shall be a public office and accordingly, the provisions of the Public Service Act (Cap. 26:01) shall apply with the necessary modifications to the office and the officers thereof."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Continuation of Office of Ombudsman and Appointment of Ombudsman",
+      "section": "5",
+      "title": "Appointment of Ombudsman",
+      "content": "5. Appointment of Ombudsman\n(1) The Ombudsman and the Deputy Ombudsman shall be appointed by the President, after consultation with the Leader of the Opposition in the National Assembly and the Speaker of the National Assembly.\n(2) A person shall not be qualified to be appointed Ombudsman or Deputy Ombudsman unless he or she is qualified to be appointed to the office of a Judge of the High Court.\n(3) Where the Ombudsman or a Deputy Ombudsman dies, resigns, ceases to hold office, is removed from office or is unable to perform the functions of his or her office, the President shall, after consultation with the Leader of the Opposition in the National Assembly and the Speaker of the National Assembly, appoint a person to act as the Ombudsman or a Deputy Ombudsman until the appointment of a substantive Ombudsman or a Deputy Ombudsman.\n(4) The Ombudsman appointed in terms of this section shall be the accounting officer."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Continuation of Office of Ombudsman and Appointment of Ombudsman",
+      "section": "6",
+      "title": "Disqualification for appointment as Ombudsman",
+      "content": "6. Disqualification for appointment as Ombudsman\nA person shall not be qualified to be appointed as an Ombudsman or a Deputy Ombudsman if he or she is a-\n( a ) holder of an office in a political party;\n( b ) candidate for election as a member of the National Assembly;\n( c ) member of the National Assembly;\n( d ) member of any local authority;\n( e ) member of Ntlo ya Dikgosi ; or\n( f ) holder of any other public office."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Continuation of Office of Ombudsman and Appointment of Ombudsman",
+      "section": "7",
+      "title": "Oath to be taken by Ombudsman",
+      "content": "7. Oath to be taken by Ombudsman\nAn Ombudsman, a Deputy Ombudsman or an officer of the office of the Ombudsman shall not enter upon the duties of his or her office unless he or she has taken and subscribed to such oath or affirmation in the form set out in the Schedule-\n( a ) in the case of the Ombudsman and a Deputy Ombudsman, before the President; and\n( b ) in the case of any other officer, before the Ombudsman."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Continuation of Office of Ombudsman and Appointment of Ombudsman",
+      "section": "8",
+      "title": "Tenure of office of Ombudsman",
+      "content": "8. Tenure of office of Ombudsman\nA person holding the office of Ombudsman shall vacate that office at the expiration of five years from the date of his or her appointment, and shall be eligible for re-appointment for only one further term of five years."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Continuation of Office of Ombudsman and Appointment of Ombudsman",
+      "section": "9",
+      "title": "Vacation of office",
+      "content": "9. Vacation of office"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Cabinet",
+      "definition": "the Cabinet established by section 44(1) of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "complainant",
+      "definition": "a person who lodges a complaint on behalf of another person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "complaint",
+      "definition": "a complaint made under Part IV of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "human right",
+      "definition": "a fundamental right or freedom provided for in the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Ombudsman",
+      "definition": "the Ombudsman appointed in terms of section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "private entity",
+      "definition": "a voluntary organisation, non-governmental organisation, political party, charitable institution, society, association, company, partnership, club, trust or any other person or organisation which is not a public body",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "the Ombudsman Act repealed under section 29.",
+      "source_provision": "s2"
+    }
+  ]
+}

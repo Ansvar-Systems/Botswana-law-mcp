@@ -1,0 +1,65 @@
+{
+  "id": "bw-sub-botswana-health-professions-subsidiary-legislation-previously-medical-dental-and-pharmacy",
+  "type": "statute",
+  "title": "Botswana Health Professions: Subsidiary Legislation(previously \"medical, Dental and Pharmacy\")",
+  "title_en": "Botswana Health Professions: Subsidiary Legislation(previously \"medical, Dental and Pharmacy\")",
+  "short_name": "Botswana Health Professions...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/botswana-health-professions-subsidiary-legislation-previously-medical-dental-and-pharmacy",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese regulations may be cited as the Botswana Health Professions (Professional Conduct) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these regulations—\n\"advertisement\" includes any advertisement contained in a publication or any advertisement broadcast on radio or television;\n\"lay assembly\" means an assembly of persons who are not practitioners;\n\"practitioner\" means a medical practitioner or a dentist;\n\"publications\" includes:\n( a ) any newspaper, book, periodical, pamphlet, poster, playing card, calendar or other printed matter;\n( b ) any writing or typescript which has in any manner been duplicated or exhibited or made available to the public or any section of the public;\n\"Special Committee\" means a Special Committee of the Medical Ethical Advisory Council appointed by the Council to conduct enquiries into the conduct of practitioners."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Acts of misconduct",
+      "content": "3. Acts of misconduct\n(1) Sound relationships between practitioners as colleagues are essential for furthering the public esteem and trustworthiness of the professions and therefore of the practitioners themselves.\n(2) The quality of a practitioners services is traditionally the justified means by which he should become professionally known. Competition is in the medico-scientific field and the disclosure of personal findings and views should take place only in the professional media.\n(3) Contravention of these regulations by a practitioner shall, for the purpose of section 14 of the Act, constitute improper or disgraceful conduct."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Advertisement",
+      "content": "4. Advertisement\n(1) No practitioner shall advertise himself or his professional services with a view to his (direct or indirect, immediate or eventual) professional gain, or permit such advertisement.\n(2) A practitioner may—\n( a ) notify other practitioners of any change of address, dissolution of partnership or commencement of practice;\n( b ) notify his patients of any change of address:\nProvided that such notification is enclosed in a sealed envelope and addressed to the other practitioner or patient as the case may be;\n( c ) publish in a telephone directory his—\n(i) name and the name of his partner;\n(ii) home address and the address of his surgery or consulting rooms; and\n(iii) telephone number; and\n(iv) registered speciality;\n( d ) in the case of a practitioner whose speciality has been registered, notify other medical practitioners of having commenced practice in his speciality, his address, qualifications and speciality:\nProvided that the communications themselves shall bear the name of the individual medical practitioner to whom they are addressed and shall be enclosed in a sealed envelope;\n( e ) affix on envelopes his name without his title or any qualification, and a return address in case of non-delivery;\n( f ) publish articles in professional journals and publish scientific books for use by the professions and students of medicine, dentistry, nursing and related professions indicating his name and professional qualifications;\n( g ) publish non-professional books and non-professional articles in the lay press under his own name without indication of professional qualifications and without the professional, title \"Dr.\"."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Exceptions to prohibition of advertisement",
+      "content": "5. Exceptions to prohibition of advertisement\n(1) Nothing in this section shall prohibit—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "advertisement",
+      "definition": "any advertisement contained in a publication or any advertisement broadcast on radio or television",
+      "source_provision": "s2"
+    },
+    {
+      "term": "lay assembly",
+      "definition": "an assembly of persons who are not practitioners",
+      "source_provision": "s2"
+    },
+    {
+      "term": "practitioner",
+      "definition": "a medical practitioner or a dentist",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Special Committee",
+      "definition": "a Special Committee of the Medical Ethical Advisory Council appointed by the Council to conduct enquiries into the conduct of practitioners.",
+      "source_provision": "s2"
+    }
+  ]
+}

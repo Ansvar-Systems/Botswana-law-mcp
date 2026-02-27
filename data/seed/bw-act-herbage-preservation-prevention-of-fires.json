@@ -1,0 +1,53 @@
+{
+  "id": "bw-act-herbage-preservation-prevention-of-fires",
+  "type": "statute",
+  "title": "Herbage Preservation (prevention of Fires)",
+  "title_en": "Herbage Preservation (prevention of Fires)",
+  "short_name": "Herbage Preservation (preve...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/herbage-preservation-prevention-of-fires",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Herbage Preservation (Prevention of Fires) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"boundary firebreak\" means a firebreak never less than six metres in width one edge of which, throughout the length of the firebreak, is contiguous to a land boundary;\n\"firebreak\" means a strip of land cleared of inflammable matter to prevent the spread of fire;\n\"Herbage Preservation Committee\" means the Principal Herbage Preservation Committee or a Subordinate Herbage Preservation Committee established by or under section 3;\n\"vegetation\" means growing or standing vegetation, and includes any tree or part thereof and any bush, shrub, brushwood, undergrowth, grass, crops or stubble."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment of Herbage Preservation Committees",
+      "content": "3. Establishment of Herbage Preservation Committees\n(1) There is hereby established a body called the Principal Herbage Preservation Committee which shall consist of such persons or body of persons as the Minister shall, by notice published in the Gazette , appoint.\n(2) The Minister may, by notice published in the Gazette , establish such number of bodies called Subordinate Herbage Preservation Committees as he thinks appropriate which shall each consist of such persons or body of persons as the Minister shall, by such notice, appoint.\n(3) The area of authority of the Principal Herbage Preservation Committee shall be the whole of Botswana and the area of authority of a Subordinate Herbage Preservation Committee shall be such area as the Minister shall, by order published in the Gazette , specify.\n(4) The Minister shall appoint a chairman of each Herbage Preservation Committee from among the members of that Committee.\n(5) The Principal Herbage Preservation Committee may give directions to a Subordinate Herbage Preservation Committee, or to such Committees generally, as to the carrying out of its or their functions under this Act and every such Committee to whom such directions have been given shall comply with those directions."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "boundary firebreak",
+      "definition": "a firebreak never less than six metres in width one edge of which, throughout the length of the firebreak, is contiguous to a land boundary",
+      "source_provision": "s2"
+    },
+    {
+      "term": "firebreak",
+      "definition": "a strip of land cleared of inflammable matter to prevent the spread of fire",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Herbage Preservation Committee",
+      "definition": "the Principal Herbage Preservation Committee or a Subordinate Herbage Preservation Committee established by or under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "vegetation",
+      "definition": "growing or standing vegetation, and includes any tree or part thereof and any bush, shrub, brushwood, undergrowth, grass, crops or stubble.",
+      "source_provision": "s2"
+    }
+  ]
+}

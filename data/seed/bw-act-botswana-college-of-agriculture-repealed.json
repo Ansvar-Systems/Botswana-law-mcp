@@ -1,0 +1,35 @@
+{
+  "id": "bw-act-botswana-college-of-agriculture-repealed",
+  "type": "statute",
+  "title": "Botswana College of Agriculture",
+  "title_en": "Botswana College of Agriculture",
+  "short_name": "Botswana College of Agricul...",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/botswana-college-of-agriculture-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "CHAPTER 57:02 BOTSWANA COLLEGE OF AGRICULTURE",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana College of Agriculture Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "CHAPTER 57:02 BOTSWANA COLLEGE OF AGRICULTURE",
+      "section": "2",
+      "title": "Establishment of College",
+      "content": "2. Establishment of College\n(1) There is hereby established the Botswana College of Agriculture, hereinafter referred to as \"the College\", which shall be a body corporate, with perpetual succession and a common seal, capable of suing and being sued in its corporate name.\n(2) The College shall have power, for any purpose which the Governing Council considers is necessary or expedient for or in connection with the exercise of its functions or the achievement of its objectives under this Act, to purchase or otherwise acquire any movable or immovable property, to sell, lease, mortgage or otherwise alienate or dispose of any such property, or to enter into contracts or other transactions and do and perform any other things or acts for or in connection with the proper performance of its duties."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "CHAPTER 57:02 BOTSWANA COLLEGE OF AGRICULTURE",
+      "section": "3",
+      "title": "Functions and objectives of College",
+      "content": "3. Functions and objectives of College\n(1) The objectives of the College shall be to provide education and training in the science and practice of agriculture, and such other allied and related subjects as the Governing Council may, from time to time, and subject to the provisions of section 7, decide.\n(2) For the purpose of achieving its objectives the College may, subject to the provisions of section 7,—\n( a ) establish such halls of residence, faculties, institutes, schools, departments or other academic units, whether in Gaborone or elsewhere, as the Governing Council may, from time to time, consider necessary or desirable;\n( b ) establish professorships, lectureships and other posts, whether academic or administrative, and grant fellowships, bursaries, exhibitions, scholarships, prizes and certificates as the Governing Council may, from time to time, consider necessary or desirable;\n( c ) conduct research on its own or in collaboration with other national or international organisations in the field of agriculture or related sciences;\n( d ) arrange symposia, workshops, seminars, conferences or similar activities in the field of agriculture or related sciences, and take whatever steps the Governing Council considers appropriate to stimulate and promote interest in agricultural and rural development;"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,121 @@
+{
+  "id": "bw-act-real-estate-professionals",
+  "type": "statute",
+  "title": "Real Estate Professionals",
+  "title_en": "Real Estate Professionals",
+  "short_name": "Real Estate Professionals",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/real-estate-professionals",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Real Estate Professionals Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Council\" means the Real Estate Advisory Council established under section 3;\n\"estate agent\" means a person engaged in the purchase, sale, letting or hiring of real estate as agent or broker for another person;\n\"property auctioneer\" means a person engaged in the auctioning of real estate;\n\"property manager\" means a person engaged in rent collection, management or administration of real estate;\n\"property valuer\" means a person engaged in the valuation and appraisal of real estate or any development potential thereon;\n\"real estate\" means immovable property together with any improvements thereon;\n\"Real Estate Institute of Botswana\" means the Real Estate Institute of Botswana registered under the Societies Act (Cap. 18:01);\n\"Register\" means the register of real estate professionals as provided for under section 16;\n\"registered professional\" means a person registered by the Council as—\n(i) an estate agent;\n(ii) a property auctioneer;\n(iii) a property manager; or\n(iv) a property valuer; and\n\"Registrar\" means the Registrar of real estate professionals appointed under section 15."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment of Council",
+      "section": "3",
+      "title": "Establishment of Council",
+      "content": "3. Establishment of Council\n(1) There is hereby established a Council to be known as the Real Estate Advisory Council.\n(2) The Council shall be a body corporate with perpetual succession and a common seal, capable of suing and being sued in its own name and, subject to the provisions of this Act, of performing such acts as bodies corporate may by law perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment of Council",
+      "section": "4",
+      "title": "Membership to the Council",
+      "content": "4. Membership to the Council\n(1) The Council shall consist of the following members who shall have been resident in Botswana for not less than 3 years—\n( a ) the Chairman;\n( b ) four persons appointed by the Minister of whom at least two shall be civil servants representing the Attorney-General's Chambers and the Minister respectively, and one an employee of a local authority;\n( c ) three members of the Real Estate Institute of Botswana who shall be elected by the Institute and appointed by the Minister; and\n( d ) two persons from the private sector who shall be nominated by the Real Estate Institute of Botswana and appointed by the Minister.\n(2) Notwithstanding subsection (1), the Minister may, where he is satisfied that it is in the public interest to do so, waive the number of years that a member shall have been resident in Botswana to qualify for appointment to the Council.\n(3) The Chairman and the Vice-Chairman shall be elected by the members from among their number and appointed by the Minister.\n(4) The appointments to the Council shall be published by notice in the Gazette ."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment of Council",
+      "section": "5",
+      "title": "Powers and functions of the Council",
+      "content": "5. Powers and functions of the Council\n(1) The Council shall be responsible for regulating the activities and conduct of registered real estate professionals in accordance with the functions and powers conferred under this Act.\n(2) Without prejudice to the generality of subsection (1), the Council shall—\n( a ) receive applications for admission to practice as registered professionals and decide upon those applications;\n( b ) maintain a register of registered professionals;\n( c ) determine the application fee, annual subscription and any other fees payable by registered professionals;\n( d ) recommend to the Minister, a tariff of fees and other allowances to be charged by registered real estate professionals, for professional and other services;\n( e ) endorse the field of practice in which a registered professional may engage, and endorse the certificate of practice accordingly;\n( f ) remove from the register the name of a person no longer entitled to practice;\n( g ) utilise the funds of the Council in any manner which may be necessary or expedient for the proper conduct of the functions of the Council;\n( h ) lend or invest any of its funds against suitable security;\n( i ) make rules for professional conduct and ethics to be binding on all registered professionals; and\n( j ) carry out decisions on any matter relating to the control or management of the affairs of the Council."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Establishment of Council",
+      "section": "6",
+      "title": "Seal of Council",
+      "content": "6. Seal of Council\n(1) The seal of the Council shall be such device as may be determined by the Council and shall be kept by the Chairman.\n(2) The affixing of the seal shall be authenticated by the Chairman and Vice-Chairman or any other person authorised by a resolution of the Council."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Establishment of Council",
+      "section": "7",
+      "title": "Tenure of office of members",
+      "content": "7. Tenure of office of members\n(1) The Chairman shall hold office for a period not exceeding three years and at the end thereof, he shall be eligible for re-appointment.\n(2) A member, other than the Chairman, shall hold office for a period not exceeding two years as may be specified in the notice appointing him.\n(3) In appointing members to the Council, the Minister shall specify their periods of appointment such that at any given time, two thirds of the old membership is retained.\n(4) A member shall be eligible for re-appointment."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Establishment of Council",
+      "section": "8",
+      "title": "Disqualification",
+      "content": "8. Disqualification\nA person shall not be appointed as a member or be qualified to continue to hold office who has—\n( a ) in terms of a law in force in any country—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Council",
+      "definition": "the Real Estate Advisory Council established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "estate agent",
+      "definition": "a person engaged in the purchase, sale, letting or hiring of real estate as agent or broker for another person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "property auctioneer",
+      "definition": "a person engaged in the auctioning of real estate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "property manager",
+      "definition": "a person engaged in rent collection, management or administration of real estate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "property valuer",
+      "definition": "a person engaged in the valuation and appraisal of real estate or any development potential thereon",
+      "source_provision": "s2"
+    },
+    {
+      "term": "real estate",
+      "definition": "immovable property together with any improvements thereon",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Real Estate Institute of Botswana",
+      "definition": "the Real Estate Institute of Botswana registered under the Societies Act (Cap. 18:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Register",
+      "definition": "the register of real estate professionals as provided for under section 16",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered professional",
+      "definition": "a person registered by the Council as—\n(i) an estate agent",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of real estate professionals appointed under section 15.",
+      "source_provision": "s2"
+    }
+  ]
+}

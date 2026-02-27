@@ -1,0 +1,414 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-aircraft-operations-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (aircraft Operations) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (aircraft Operations) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-aircraft-operations-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Aircraft Operations) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"accelerate-stop distance available (ASDA)\" means the length of the take-off run available plus the length of the stopway, if provided;\n\"aerodrome\" means a defined area on land or water, including any buildings, installations and equipment intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft;\n\"aerodrome operating minima\" means the limits of usability of an aerodrome for—\n( a ) take-off, expressed in terms of runway visual range or visibility and, if necessary, cloud conditions;\n( b ) landing in 2D instrument approach operations, expressed in terms of visibility or runway visual range, minimum descent altitude or height (MDA/H) and, if necessary, cloud conditions; and\n( c ) landing in 3D instrument approach operations, expressed in terms of visibility or runway visual range or decision altitude or height (DA/H) as appropriate to the type or category of the operation;\n\"aerodrome traffic zone\" means an airspace of defined dimensions established around an aerodrome for the protection of aerodrome traffic;\n\"aeronautical product\" means any aircraft, aircraft engine, propeller, or subassembly, appliance, material, part, or component to be installed thereon;\n\"aeroplane\" means a power-driven heavier-than-air aircraft, deriving its lift in flight mainly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight;\n\"aircraft\" means any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface;\n\"aircraft operating manual\" means a manual, acceptable to the Authority, containing normal, abnormal and emergency procedures, checklists, limitations, performance information, details of the aircraft systems and other material relevant to the operation of the aircraft;\n\"aircraft tracking\" means a process, established by the operator, that maintains and updates, at standardised intervals, a ground-based record of the four dimensional position of individual aircraft in flight;\n\"air operator certificate (AOC)\" means a certificate authorising an operator to carry out specified commercial air transport operations;\n\"air traffic control service\" means a service provided for the purpose of—\n( a ) preventing collisions—\n(i) between aircraft, or\n(ii) on a manoeuvring area between an aircraft and an obstruction; and\n( b ) expediting and maintaining an orderly flow of air traffic;\n\"air traffic control unit\" means a generic term meaning variously—\n( a ) an area control centre;\n( b ) an approach control unit; or\n( c ) an aerodrome control tower;\n\"air traffic service (ATS)\" means a generic term meaning variously, flight information service, alerting service, air traffic advisory service, air traffic control service (area control service, approach control service or aerodrome control service);\n\"Airworthiness Directive\" has the meaning assigned to it under the Civil Aviation (Airworthiness) Regulations (Cap. 71:01 (Sub. Leg.));\n\"airworthy\" means the status of an aircraft, engine, propeller, or part when it conforms to its approved design and is in a condition safe for operation;\n\"alternate aerodrome\" means an aerodrome to which an aircraft may proceed when it becomes either impossible or inadvisable to proceed to or to land at the aerodrome of intended landing, where the necessary services and facilities are available, where aircraft performance requirements can be met and which is operational at the expected time of use, and includes the following—\n( a ) take-off alternate – an alternate aerodrome at which an aircraft would be able to land should this become necessary shortly after take-off when it is not possible to use the aerodrome of departure;\n( b ) en route alternate – an alternate aerodrome at which an aircraft would be able to land in the event diversion becomes necessary while en route ; and\n( c ) destination alternate – an alternate aerodrome to which an aircraft would be able to land should it become either impossible or inadvisable to land at the aerodrome of intended landing;\n\"altimetry system error (ASE)\" means the difference between the altitude indicated by the altimeter display, assuming a correct altimeter barometric setting, and the pressure altitude corresponding to the undisturbed ambient pressure;\n\"appliance\" means any instrument, mechanism, equipment, part, apparatus, appurtenance, or accessory, including communications equipment, that is—\n( a ) used or intended to be used in operating or controlling an aircraft in flight;\n( b ) installed in or attached to the aircraft; and\n( c ) is not part of an airframe, powerplant, or propeller;\n\"cabin crew member\" means a crew member who performs, in the interest of safety of passengers, duties assigned by the operator or the pilot-in-command of the aircraft, but who shall not act as a flight crew member;\n\"category I operations (CAT I)\" means a precision instrument approach and landing with—\n( a ) a decision height not lower than 60 m (200 ft) and with either a visibility not less than 800 m; and\n( b ) a runway visual range not less than 550 m;\n\"category II operations (CAT II)\" means a precision instrument approach and landing with—\n( a ) a decision height lower than 60 m (200 ft) but not lower than 30 m (100 ft); and\n( b ) a runway visual range of not less than 300 m;\n\"category III operations (CAT III)\" means a precision instrument approach and landing with—\n( a ) CAT III A, a decision height lower than 30 m (100 ft) or no decision height; and a runway visual range not less than 175 m;\n( b ) CAT III B, a decision height lower than 15 m (50 ft) or no decision height and a runway visual range of not less than 175 m but less than 50 m; and\n( c ) CAT III C, no decision height and with no runway visual range limitations;\n\"check pilot\" means a pilot approved by the Authority who has the appropriate training, experience and demonstrated ability to evaluate and certify the knowledge and skills of other pilots;\n\"combined vision system (CVS)\" means a system to display images from a combination of an enhanced vision system (EVS) and a synthetic vision system (SVS);\n\"commercial air transport operation\" means an aircraft operation involving the transport of passengers, cargo or mail for remuneration or hire;\n\"contaminated runway\" means a significant portion of the runway surface area (whether in isolated areas or not) within the length and width being used is covered by one or more of the substances listed in the runway surface condition descriptors;\n\"co-pilot\" means a licensed pilot serving in any piloting capacity other than as pilot-in-command, but excluding a pilot who is on board the aircraft for the sole purpose of receiving flight instructions;\n\"crew member\" means a person assigned by an operator to duty on an aircraft during a flight duty period;\n\"crew resource management\" means a programme designed to improve the safety of flight operations by optimising the safe, efficient and effective use of human resources, hardware and information through improved crew communication and co-ordination;\n\"critical engine\" means an engine whose failure give the most adverse effect on the aircraft characteristics related to the case under consideration;\n\"critical phase of flight\" means those portions of operations involving taxiing, take-off and landing, and all flight operations below 10,000 ft, except a cruise flight;\n\"cruise relief pilot\" means a flight crew member who is assigned to perform pilot tasks during cruise flight, to allow the pilot-in-command or a co-pilot to obtain planned rest;\n\"dangerous goods\" means articles or substances which are capable of posing a risk to health, safety, property or the environment and which are shown in the list of dangerous goods in the Technical Instructions or which are classified according to those Technical Instructions;\n\"decision altitude (DA) or decision height (DH)\" means a specified altitude or height in a 3D instrument approach operation at which a missed approach must be initiated if the required visual reference to continue the approach has not been established;\n\"duty\" means any task that flight or cabin crew members are required by the operator to perform including, flight duty, administrative work, training, positioning and standby;\n\"duty period\" means a period which starts when a flight or cabin crew member is required by an operator to report for or to commence a duty and ends when that person is free from all duties;\n\"EDTO critical fuel\" means the fuel quantity necessary to fly to an en route alternate aerodrome considering, at the most critical point on the route, the most limiting system failure;\n\"EDTO significant system\" means an aeroplane system whose failure or degradation could adversely affect the safety particular to an EDTO flight, or whose continued functioning is specifically important to the safe flight and landing of an aeroplane during an EDTO diversion;\n\"emergency locator transmitter (ELT)\" means a generic term describing equipment which broadcast distinctive signals on designated frequencies and, depending on application, may be automatically activated by impact or be manually activated. An ELT may be any of the following—\n( a ) automatic fixed ELT (ELT(AF)) – an automatically activated ELT which is permanently attached to an aircraft;\n( b ) automatic portable ELT (ELT(AP)) – an automatically activated ELT which is rigidly attached to an aircraft but readily removable from the aircraft;\n( c ) automatic deployable ELT (ELT(AD)) – an ELT which is rigidly attached to an aircraft and which is automatically deployed and activated by impact, and, in some cases, also by hydrostatic sensors. Manual deployment is also provided; or\n( d ) survival ELT (ELT(S)) – an ELT which is removable from an aircraft, stowed so as to facilitate its ready use in an emergency, and manually activated by survivors;\n\"enhanced vision system (EVS)\" means a system to display electronic real-time images of the external scene achieved through the use of image sensors;\n\"electronic flight bag (EFB)\" means an electronic information system, comprised of equipment and applications for flight crew, which allows for the storing, updating, displaying and processing of EFB functions to support flight operations or duties;\n\"engine\" means a unit used or intended to be used for aircraft propulsion and consists of at least those components and equipment necessary for functioning and control, but excludes the propeller or rotors, if applicable;\n\"examiner\" means any person authorised by the Authority to conduct a proficiency test, a practical test for a licence or rating, or a knowledge test under these Regulations;\n\"extended diversion time operations (EDTO)\" means any operation by an aeroplane with two or more turbine engines where the diversion time to an en route alternate aerodrome is greater than the threshold time established by the Authority;\n\"fatigue\" means a physiological state of reduced mental or physical performance capability resulting from sleep loss, extended wakefulness, circadian phase or workload, mental or physical activity that can impair a person's alertness and ability to perform safety-related operational duties;\n\"final approach segment (FAS)\" means that segment of an instrument approach procedure in which alignment and descent for landing are accomplished;\n\"flight crew member\" means a licensed crew member charged with duties essential to the operation of an aircraft during a flight duty period;\n\"flight duty period\" means a period which commences when a flight or cabin crew member is required to report for duty that includes a light or a series of flights and which finishes when the aeroplane finally comes to rest and the engines are shut down at the end of the last flight on which he or she is a crew member;\n\"flight manual\" means a manual, associated with the certificate of "
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Regulations shall apply to the operation of aircraft by operators authorised to conduct international commercial air transport operations."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II General Operations Requirements for Aircraft Operations (regs 4-14)",
+      "section": "4",
+      "title": "Aircraft markings",
+      "content": "4. Aircraft markings\nA person shall not operate an aircraft registered in Botswana or a foreign-registered aircraft unless the aircraft displays the markings prescribed in the Civil Aviation (Aircraft Registration and Markings) Regulations (Cap. 71:01 (Sub. Leg.))."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II General Operations Requirements for Aircraft Operations (regs 4-14)",
+      "section": "5",
+      "title": "Aircraft airworthiness",
+      "content": "5. Aircraft airworthiness\n(1) A person shall not operate an aircraft unless the aircraft is airworthy.\n(2) Subject to subregulation (1), a pilot-in-command shall—\n( a ) determine whether an aircraft is in a condition for safe flight; and\n( b ) discontinue a flight when a mechanical, electrical, or structural defect occurs which makes it unairworthy."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II General Operations Requirements for Aircraft Operations (regs 4-14)",
+      "section": "6",
+      "title": "Special certificate of airworthiness",
+      "content": "6. Special certificate of airworthiness\nA person shall not operate an aircraft with a special certificate of airworthiness except as provided in the conditions issued with the certificate in accordance with the Civil Aviation (Airworthiness) Regulations."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II General Operations Requirements for Aircraft Operations (regs 4-14)",
+      "section": "7",
+      "title": "Aircraft instrument and equipment",
+      "content": "7. Aircraft instrument and equipment\nA person shall not operate an aircraft unless it is equipped with instruments and equipment appropriate to the type of flight operation conducted and the route being flown and in any case in compliance with the requirements of Civil Aviation (Equipment and Instruments) Regulations (Cap. 71:01 (Sub. Leg.))."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II General Operations Requirements for Aircraft Operations (regs 4-14)",
+      "section": "8",
+      "title": "Inoperative instruments and equipment",
+      "content": "8. Inoperative instruments and equipment\n(1) Subject to this regulation, a person shall not commence an aircraft flight with inoperative instruments.\n(2) A person shall not operate a multi-engine aircraft used to provide an air transport service with inoperative instruments and equipment installed unless the following conditions are met—\n( a ) an approved minimum equipment list for the aircraft is available;\n( b ) the Authority has issued operations specifications authorising operations in accordance with an approved minimum equipment list;\n( c ) the flight crew has direct access at all times prior to flight to all of the information contained in the approved minimum equipment list through printed or other means approved by the Authority in the operations specifications;\n( d ) records identifying the inoperative instruments and equipment are available to the pilot; and\n( e ) the aircraft is operated under all applicable conditions and limitations contained in the minimum equipment list and the operations specifications authorising use of the minimum equipment list.\n(3) The Authority may authorise flight operations with inoperative instruments and equipment installed in situations where no approved minimum equipment list is available and no minimum equipment list is required for the specific aircraft operation under these Regulations.\n(4) The inoperative instruments and equipment referred to in subregulation (2) shall not be—\n( a ) part of the visual flight rules day instruments and equipment prescribed in the Civil Aviation (Equipment and Instruments) Regulations;\n( b ) required on the aircraft's equipment list or the operations equipment list for the kind of flight operation being conducted;\n( c ) required by the Civil Aviation (Equipment and Instrument) Regulations for the specific kind of flight operation being conducted; or\n( d ) required to be operational by an Airworthiness Directive.\n(5) The Authority may authorise a person to operate an aircraft with inoperative instruments and equipment where such instruments and equipment are—\n( a ) determined by the pilot-in-command not to be a hazard to the aircraft's safe operation;\n( b ) deactivated and placarded \"inoperative\"; or\n( c ) removed from the aircraft, the cockpit control placarded and the maintenance recorded in accordance with the Civil Aviation (Airworthiness) Regulations.\n(6) Where deactivation of an inoperative instrument or equipment involves maintenance, it shall be accomplished and recorded in accordance with the Civil Aviation (Airworthiness) Regulations.\n(7) The following instruments and equipment shall not be included in the minimum equipment list referred to in subregulation (2)( a )—\n( a ) instruments and equipment that are either specifically or otherwise required by the certification airworthiness requirements and which are essential for safe operations under all operating conditions;\n( b ) instruments and equipment required for operable condition by an Airworthiness Directive, unless the Airworthiness Directive provides otherwise; and\n( c ) instruments and equipment required for specific operations.\n(8) Notwithstanding this regulation, an aircraft with inoperative instruments or equipment may be operated under a special flight permit issued under the Civil Aviation (Airworthiness) Regulations."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II General Operations Requirements for Aircraft Operations (regs 4-14)",
+      "section": "9",
+      "title": "Aircraft flight manual, marking and placard requirements",
+      "content": "9. Aircraft flight manual, marking and placard requirements\n(1) A person shall not operate a Botswana aircraft unless there is carried therein—\n( a ) the operator's operations manual, approved by the Authority;\n( b ) a current, approved aeroplane flight manual or rotorcraft flight manual containing performance data required these regulations and any other information necessary for the operation of the aeroplane within the terms of its certificate of airworthiness, unless such data is available in the operations manual;\n( c ) current and suitable charts to cover the route of the proposed flight and any route along which it is reasonable to expect that the flight may be diverted; and\n( d ) markings and placards which provide the pilot-in-command with the necessary limitations for safe operation.\n(2) A person shall not operate an aircraft within or over Botswana without complying with the operating limitations specified in the approved aircraft flight manual or rotorcraft flight manual, markings and placards, or as otherwise prescribed by the Authority.\n(3) A person operating an aircraft under these Regulations shall display in the aircraft all placards, listings, instrument markings or combination thereof, containing those operating limitations prescribed by the Authority for visual presentation.\n(4) An aircraft flight manual or rotorcraft flight manual shall be updated by implementing such changes directed by the Authority."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II General Operations Requirements for Aircraft Operations (regs 4-14)",
+      "section": "10",
+      "title": "Compliance with laws, regulations and procedures",
+      "content": "10. Compliance with laws, regulations and procedures\n(1) An air operator shall ensure that all employees comply with the laws, regulations and procedures of those States in which operations are conducted.\n(2) An air operator shall ensure that all pilots are familiar with the laws, regulations and procedures, pertinent to the performance of their duties, prescribed for the areas to be traversed, the aerodromes to be used and the air navigation facilities relating thereto.\n(3) An air operator shall ensure that flight crew members are familiar with such laws, regulations and procedures as are pertinent to the performance of their respective duties in the operation of the aircraft.\n(4) The air operator or a designated representative shall have responsibility for operational control.\n(5) Responsibility for operational control shall be delegated only to the pilot-in-command and to a flight operations officer or flight dispatcher if the operators approved method of control and supervision of flight operations requires the use of flight operations officer or flight dispatcher personnel.\n(6) If an emergency situation which endangers the safety of the aircraft or persons becomes known first to the flight operations officer or flight dispatcher, action by that person in accordance with regulation 39(4) shall include, where necessary, notification to the appropriate authorities of the nature of the situation without delay and requests for assistance, if required.\n(7) If an emergency situation which endangers the safety of the aircraft or persons necessitates the taking of action which involves a violation of local regulations or procedures, the pilot-in-command shall notify the appropriate local authority without delay.\n(8) If required by the State in which the incident occurs, the pilot-in-command shall submit—\n( a ) a report on any such violation to the appropriate local authority of such State;\n( b ) a copy of the report to the State of the Authority; and\n( c ) such report as soon as possible and normally within 10 days.\n(9) An operator shall ensure that a pilot-in-command has available on board, all the essential information concerning the search and rescue services in the area over which the aeroplane will be flown.\n(10) An operator shall ensure that flight crew members demonstrate the ability to speak and understand the language used for radiotelephony communications as specified in the Civil Aviation (Personnel Licensing) Regulations."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II General Operations Requirements for Aircraft Operations (regs 4-14)",
+      "section": "11",
+      "title": "Required aircraft and equipment inspections",
+      "content": "11. Required aircraft and equipment inspections\n(1) Unless otherwise authorised by the Authority, an operator shall not operate a Botswana aircraft unless the following inspections have been performed—\n( a ) an annual inspection within the preceding 12 months;\n( b ) a 100 hour inspection;\n( c ) an altimeter and pitot-static system inspection within the preceding 12 months;\n( d ) a transponder check within the preceding 12 months for transponder equipped aircraft; and\n( e ) an emergency locator transmitter check within the preceding 12 months for emergency locator transmitter-equipped aircraft.\n(2) An aircraft used to provide an air transport service maintained under a maintenance and inspection programme approved by the Authority shall not be required to have a current annual or a 100 hour inspection in its maintenance records."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II General Operations Requirements for Aircraft Operations (regs 4-14)",
+      "section": "12",
+      "title": "Documents to be carried on aircraft",
+      "content": "12. Documents to be carried on aircraft\n(1) A pilot shall not fly an aircraft unless the aircraft carries aircraft documents which are required to be carried on board an aircraft under the law of the State of Registry.\n(2) The documents to be carried in an aircraft are—\n( a ) on a flight, for the purpose of an air transport service—\n(i) the licence in force in respect of the aircraft radio station installed in the aircraft,\n(ii) the certificate of airworthiness in force in respect of the aircraft,\n(iii) the licences and certificates of members of the flight crew of the aircraft,\n(iv) one copy of the mass and balance documentation, if any, required with respect to the flight,\n(v) one copy of the certificate of release to service, if any, in force with respect to the aircraft,\n(vi) the journey logbook or technical log,\n(vii) part of the operations manual relevant to the operation conducted,\n(viii) the aircraft certificate of registration,\n(ix) voyage report,\n(x) passenger manifest,\n(xi) the cargo manifest, including special loads information,\n(xii) a certified true copy of the air operator certificate and a copy of the operations specifications relevant to the aeroplane type, issued in conjunction with the certificate, and when the certificate and the associated operations specifications are issued by the State of the air operator in a language other than English, an English translation shall be included,\n(xiii) a noise certification document or statement, where applicable,\n(xiv) an aeroplane flight manual or rotorcraft flight manual,\n(xv) a minimum equipment list,\n(xvi) a category II or III Manual, as applicable,\n(xvii) an operational flight plan,\n(xviii) a notice to airmen's (NOTAM) briefing documentation,\n(xix) meteorological information,\n(xx) the maps and charts required for the flight and possible diversions,\n(xxi) the forms for complying with the reporting requirements of the Authority and the air operator certificate holder,\n(xxii) a list of special situation passengers,\n(xxiii) a filed air traffic control flight plan,\n(xxiv) search and rescue information,\n(xxv) any other document which may be required by the Authority or States concerned with a flight,\n(xxvi) aircraft operating manual,\n(xxvii) checklist,\n(xxviii) identification plate,\n(xxix) aircraft performance limitations using current route, airport obstacles and runway analysis data, and\n(xxx) route guide;\n( b ) on a flight which includes passage over a territory of any country other than Botswana for the purpose of commercial air transport—\n(i) the documents specified in paragraph ( a ),\n(ii) a copy of the notified procedures to be followed by a pilot-in-command of an intercepted aircraft and the notified visual signals for use by intercepting and intercepted aircraft, and\n(iii) a general declaration;\n( c ) on a flight for the purpose of aerial work—\n(i) the licence in force in respect of the aircraft radio station installed in the aircraft,\n(ii) the certificate of airworthiness in force in respect of the aircraft,\n(iii) the licences and certificates of members of the flight crew of the aircraft,\n(iv) the technical log required by these Regulations,\n(v) one copy of the certificate of release to service, if any, in force with respect to the aircraft,\n(vi) an aircraft certificate of registration, and\n(vii) any other document required by the Authority;\n( d ) on a flight which includes passage over a territory of any country other than Botswana for the purpose of aerial work—\n(i) the documents specified in paragraphs ( a ) and ( c ), and\n(ii) a copy of the notified procedures to be followed by a pilot-in-command of an intercepted aircraft and the notified visual signals for use by intercepting and intercepted aircraft;\n( e ) on a flight which includes passage over a territory of any country other than Botswana for the purpose of general aviation—\n(i) the licence in force in respect of the aircraft radio station installed in the aircraft,\n(ii) the certificate of airworthiness in force in respect of the aircraft,\n(iii) the licences of members of the flight crew of the aircraft,\n(iv) a certificate of registration,\n(v) a copy of the notified procedures to be followed by a pilot-in-command of an intercepted aircraft and the notified visual signals for use by intercepting and intercepted aircraft,\n(vi) a journey logbook,\n(vii) if it carries passengers, a list of names, places of embarkation and destination, and\n(viii) if it carries cargo, a manifest and detailed declarations of the cargo; and\n( f ) for the purpose of a general aviation flight within Botswana—\n(i) the licence in force in respect of the aircraft radio station installed in the aircraft,\n(ii) the certificate of airworthiness in force in respect of the aircraft,\n(iii) the licences and certificates of members of the light crew of the aircraft,\n(iv) one copy of the certificate of release to service, if any, in force with respect to the aircraft,\n(v) the aircraft's certificate of registration,\n(vi) a noise certificate, if required,\n(vii) the aeroplane's flight manual or rotorcraft flight manual,\n(viii) a category II or III Manual, as applicable,\n(ix) a filed notice to airmen's briefing documentation,\n(x) the forms for complying with reporting requirements of the Authority,\n(xi) the filed air traffic control flight plan, and\n(xii) any other document required by the Authority."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II General Operations Requirements for Aircraft Operations (regs 4-14)",
+      "section": "13",
+      "title": "Production of documents or records",
+      "content": "13. Production of documents or records\n(1) A pilot-in-command shall, after being requested to do so by the Authority, produce for examination—\n( a ) the certificates of registration and airworthiness in force in respect of an aircraft;\n( b ) the licences and certificates of crew members, as applicable; and\n( c ) such other documents as required by regulation 12 to be on board the aircraft when in flight.\n(2) An operator of a Botswana aircraft shall, upon request by the Authority, produce any of the following documents or records—\n( a ) the licence in force in respect of the aircraft radio station installed in the aircraft;\n( b ) the certificate of airworthiness in force in respect of the aircraft;\n( c ) the certificate of registration in force with respect to the aircraft;\n( d ) the aircraft logbook, engine logbooks and variable pitch propeller logbooks required under these Regulations to be kept;\n( e ) the mass and balance documentation, if any, required to be preserved under these Regulations;\n( f ) any records of flight time, duty periods and rest periods which are required to be preserved under these Regulations, and such other documents and information in the possession or control of the operator, as the authorised person may require for the purpose of determining whether the records are complete and accurate;\n( g ) any operations manuals or other data required to be made available under these Regulations; and\n( h ) the record made by any flight recorder installed under the Civil Aviation (Equipment and Instruments) Regulations.\n(3) A licensee or person holding a certificate validated or converted under the Civil Aviation (Personnel Licensing) Regulations (Cap. 71:01 (Sub. Leg.)) shall, upon request by the Authority, produce his or her licence or certificate.\n(4) Every person required by the Civil Aviation (Personnel Licensing) Regulations to keep a personal flying logbook shall—\n( a ) keep such records for a period of not less than two years after the date of the last entry therein; and\n( b ) produce it to the Authority immediately, and in any case not later than 14 days after being requested to do so."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART II General Operations Requirements for Aircraft Operations (regs 4-14)",
+      "section": "14",
+      "title": "Preservation of documents",
+      "content": "14. Preservation of documents\n(1) Subject to subregulation (2), a person required by these Regulations to preserve any documents or records by reason of his or her being the operator of an aircraft shall, if he or she ceases to be the operator of the aircraft, continue to preserve the documents or records as if he or she has not ceased to be the operator, and in the event of his or her death the duty to preserve the documents or records shall fall upon his or her representative.\n(2) If an engine or variable pitch propeller is removed from the aircraft and installed in another aircraft operated by another person, the operator or his or her representative shall deliver to that person, upon demand, the logbook relating to that engine or propeller.\n(3) If any person in respect of whom a record has been kept by the operator in accordance with these Regulations becomes a flight crew member of an aircraft registered in Botswana, engaged in air transport services in Botswana and operated by another person, the operator or his or her representative shall deliver the records to that other person upon demand.\n(4) It shall be the duty of a person referred to under subregulations (2) and (3) to deal with the documents or records delivered to him or her as if he or she were the operator."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART III Aircraft Maintenance and Inspection Requirements (regs 15-25)",
+      "section": "15",
+      "title": "Aircraft maintenance requirements",
+      "content": "15. Aircraft maintenance requirements\n(1) An operator shall ensure that, in accordance with procedures acceptable to the Authority—\n( a ) each aeroplane it operates is maintained in an airworthy condition;\n( b ) the operational and emergency equipment necessary for an intended flight is serviceable; and\n( c ) the certificate of airworthiness of each aeroplane it operates remains valid.\n(2) An owner or operator shall not operate an aeroplane unless it is maintained and released to service by an organisation approved in accordance with the Civil Aviation (Approved Maintenance Organisations) Regulations (Cap. 71:01 (Sub. Leg.)), or under an equivalent system, either of which shall be acceptable to the Authority.\n(3) An operator shall not operate an aircraft for which—\n( a ) a manufacturer's maintenance manual; or\n( b ) any instructions for continued airworthiness,\nhas been issued that contains an airworthiness limitations section, unless the mandatory replacement times, inspection intervals and related procedures set out in Operations Specifications approved by the Authority under the Civil Aviation (Air Operator Certificate and Administration) Regulations (Cap. 71:01 (Sub. Leg.)) or in accordance with an inspection programme have been approved under regulation 18.\n(4) When the Authority accepts an equivalent system from the Contracting State, the person signing the maintenance release shall be licensed in accordance with Civil Aviation (Personnel Licensing) Regulations.\n(5) An operator shall employ a person or group of persons to ensure that all maintenance is carried out in accordance with its maintenance control manual."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART III Aircraft Maintenance and Inspection Requirements (regs 15-25)",
+      "section": "16",
+      "title": "Maintenance required",
+      "content": "16. Maintenance required\n(1) This regulation and regulations 17, 18 and 19 shall not apply to aircraft maintained in accordance with an approved maintenance programme as required under the Civil Aviation (Airworthiness) Regulations and the Civil Aviation (Air Operator Certificate and Administration) Regulations.\n(2) An owner or operator of an aircraft shall—\n( a ) have an aircraft inspected as prescribed in these Regulations, and discrepancies noted and the equipment repaired as prescribed under the Civil Aviation (Airworthiness) Regulations;\n( b ) repair, replace, remove, modify, overhaul or inspect any inoperative instruments or equipment at the next required inspection, except when permitted under the provisions of a minimum equipment list or configuration deviation list;\n( c ) ensure that a placard has been installed on the aircraft when listed discrepancies include inoperative instruments or equipment; and\n( d ) ensure that maintenance personnel make appropriate entries in the aircraft maintenance records indicating that the aircraft has been approved for return to service."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART III Aircraft Maintenance and Inspection Requirements (regs 15-25)",
+      "section": "17",
+      "title": "Inspections of aircraft used in air transport service",
+      "content": "17. Inspections of aircraft used in air transport service\n(1) Except as provided under subregulation (4), a person shall not provide an air transport service unless, within the preceding 12 months, the aircraft has had—\n( a ) an annual inspection in accordance with the Civil Aviation (Airworthiness) Regulations and has been approved for return to service by a person authorised under the Civil Aviation (Airworthiness) Regulations; or\n( b ) an inspection for the issue or renewal of an airworthiness certificate in accordance with the Civil Aviation (Airworthiness) Regulations.\n(2) Except as provided under subregulation (4), a person shall not operate an aircraft carrying any person, other than a member of the crew, for hire or reward or give flight instructions for hire unless within the preceding 100 hours of time in service, the aircraft has undergone an—\n( a ) annual or 100 hour inspection and has been approved for return to service in accordance with the Civil Aviation (Airworthiness) Regulations; or\n( b ) inspection for the issue or renewal of an airworthiness certificate in accordance with the Civil Aviation (Airworthiness) Regulations.\n(3) The 100 hour limitation referred to in subregulation (2) may be exceeded by not more than 10 hours while en route to reach a place where the inspection can be done and the excess time taken to reach a place where the inspection is to be done shall be included in computing of the next 100 hours of time in service.\n(4) The provisions of subregulations (1) and (2) shall not apply to—\n( a ) an aircraft exempted under section 46(2) of the Act;\n( b ) an aircraft subject to the requirements of regulation 18(1) and (6); or\n( c ) a turbine-powered rotorcraft when the operator selects to inspect that rotorcraft in accordance with regulation 18(6)."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART III Aircraft Maintenance and Inspection Requirements (regs 15-25)",
+      "section": "18",
+      "title": "Progressive inspection",
+      "content": "18. Progressive inspection\n(1) An owner or operator of an aircraft who intends to use a progressive inspection programme shall submit a written request to use the programme to the Authority, and shall—\n( a ) identify the following to supervise or conduct the progressive inspection—\n(i) a licensed aircraft maintenance engineer with appropriate type ratings in accordance with the Civil Aviation (Personnel Licensing) Regulations,\n(ii) an approved maintenance organisation appropriately rated in accordance with the Civil Aviation (Approved Maintenance Organisations) Regulations, or\n(iii) the manufacturer of the aircraft;\n( b ) provide a current inspection procedures manual available and readily understandable to the pilot and maintenance personnel containing, in detail—\n(i) an explanation of the progressive inspection, including the continuity of inspection responsibility, the making of reports, and the keeping of records and technical reference material,\n(ii) an inspection schedule, specifying the intervals in hours or days when routine and detailed inspections shall be performed and including instructions for exceeding an inspection interval by not more than 10 hours while en route and for changing an inspection interval because of service experience,\n(iii) sample routine and detailed inspection forms and instructions for their use, and\n(iv) sample reports and records and instructions for their use;\n( c ) provide enough housing and equipment for necessary disassembly and proper inspection of the aircraft; and\n( d ) provide appropriate current technical information for the aircraft.\n(2) The frequency and detail of the progressive inspection referred to in subregulation (1) shall provide for the complete inspection of the aircraft within each 12 months period and be consistent with the current manufacturer's recommendations, field service experience, and the kind of operation in which the aircraft is engaged.\n(3) A progressive inspection schedule shall ensure that at all times the aircraft remains airworthy, and shall conform to all aircraft specifications, type data sheets, airworthiness directives and other approved data acceptable to the Authority.\n(4) Where a progressive inspection is discontinued, an owner or an operator shall immediately notify the Authority, in writing, after which the first annual inspection under these Regulations will be due within 12 months after the last complete inspection of the aircraft under the progressive inspection and the 100 hour inspection under regulation 20(1)( a ) shall be due within 100 hours after that complete inspection.\n(5) A complete inspection of the aircraft, for the purpose of determining when the annual and 100 hour inspections are due, shall be a detailed inspection of the aircraft and all its components in accordance with the progressive inspection and a routine inspection of the aircraft, and a detailed inspection of several components shall not be considered to be a complete inspection.\n(6) An owner or operator of a turbojet multi-engine aeroplane, turbo propeller-powered multi-engine aeroplane or turbine-powered rotorcraft shall select and use the following programmes for inspection of the aircraft—\n( a ) a current inspection programme recommended by the manufacturer;\n( b ) a maintenance programme for that make and model of aircraft currently approved by the Authority for use by an air operator certificate holder; or\n( c ) any other inspection programme developed by the operator and approved by the Authority.\n(7) An owner or operator of an aircraft under subregulation (6) shall include, in the selected programme, the name and address of the person responsible for the scheduling of the inspections required by the programme, and provide a copy of the programme to the person performing inspection on the aeroplane.\n(8) The Authority shall not approve an aircraft for return to service unless the replacement times for life-limited parts specified in the aircraft specification-type data sheets are complied with and the aircraft, including airframe, engines, propellers, rotors, appliances, and survival and emergency equipment, is inspected in accordance with an inspection programme selected."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART III Aircraft Maintenance and Inspection Requirements (regs 15-25)",
+      "section": "19",
+      "title": "Changes to aircraft maintenance programmes",
+      "content": "19. Changes to aircraft maintenance programmes\n(1) Where the Authority finds that revisions to an approved inspection programme are necessary for the continued adequacy of the programme, the owner or operator of the aircraft shall, after notification by the Authority, make any changes necessary in the programme.\n(2) An owner or operator of an aircraft may petition the Authority, in writing, to reconsider the requirements contained in the notification, within 30 days after receiving such notification.\n(3) Except in the case of an emergency requiring immediate action in the interests of safety, the Authority shall take no action until it is able to make a final decision on the petition to reconsider the notification as submitted by the operator to the Authority."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART III Aircraft Maintenance and Inspection Requirements (regs 15-25)",
+      "section": "20",
+      "title": "Inspection of other aircraft",
+      "content": "20. Inspection of other aircraft\n(1) A person shall not operate an aircraft unless, within the preceding 12 months, the aircraft has been—\n( a ) inspected in accordance with the Civil Aviation (Airworthiness) Regulations and approved for return to service by an authorised person; and\n( b ) issued with a certificate of airworthiness by the Authority.\n(2) A person shall not use an aircraft to provide an air transport service unless within the preceding 100 hours of time in service the aircraft has been inspected in accordance with the performance rules of the Civil Aviation (Airworthiness) Regulations and approved for return to service by an authorised person."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART III Aircraft Maintenance and Inspection Requirements (regs 15-25)",
+      "section": "21",
+      "title": "Continuing airworthiness information",
+      "content": "21. Continuing airworthiness information\n(1) An operator of an aeroplane over 5,700 kg maximum certificated take-off mass or a helicopter over 3,175 kg maximum mass shall monitor and assess maintenance and operational experience with respect to continuing airworthiness and provide the information as prescribed by the Authority and report through the system specified in the Civil Aviation (Airworthiness) Regulations.\n(2) An operator of an aeroplane over 5,700 kg maximum certificated take-off mass or a helicopter over 3,175 kg maximum mass shall obtain and assess continuing airworthiness information and recommendations available from the organisation responsible for the type design and shall implement resulting actions considered necessary in accordance with a procedure acceptable to the Authority."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART III Aircraft Maintenance and Inspection Requirements (regs 15-25)",
+      "section": "22",
+      "title": "Continuing airworthiness records",
+      "content": "22. Continuing airworthiness records\n(1) An owner or air operator of an aircraft shall keep the following records—\n( a ) the total time in service (hours, calendar time and cycles, as appropriate) of the aeroplane and all life-limited components;\n( b ) the current status of compliance with all mandatory continuing airworthiness information;\n( c ) appropriate details of modifications and repairs;\n( d ) the time in service (hours, calendar time and cycles, as appropriate) since the last overhaul of the aeroplane or its components subject to a mandatory overhaul life;\n( e ) the current status of the aeroplane's compliance with the maintenance programme; and\n( f ) the detailed maintenance records to show that all requirements for the signing of a maintenance release have been met."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accelerate-stop distance available (ASDA)",
+      "definition": "the length of the take-off run available plus the length of the stopway, if provided",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome",
+      "definition": "a defined area on land or water, including any buildings, installations and equipment intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome operating minima",
+      "definition": "the limits of usability of an aerodrome for—\n( a ) take-off, expressed in terms of runway visual range or visibility and, if necessary, cloud conditions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome traffic zone",
+      "definition": "an airspace of defined dimensions established around an aerodrome for the protection of aerodrome traffic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical product",
+      "definition": "any aircraft, aircraft engine, propeller, or subassembly, appliance, material, part, or component to be installed thereon",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeroplane",
+      "definition": "a power-driven heavier-than-air aircraft, deriving its lift in flight mainly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft",
+      "definition": "any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft operating manual",
+      "definition": "a manual, acceptable to the Authority, containing normal, abnormal and emergency procedures, checklists, limitations, performance information, details of the aircraft systems and other material relevant to the operation of the aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft tracking",
+      "definition": "a process, established by the operator, that maintains and updates, at standardised intervals, a ground-based record of the four dimensional position of individual aircraft in flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air operator certificate (AOC)",
+      "definition": "a certificate authorising an operator to carry out specified commercial air transport operations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic control service",
+      "definition": "a service provided for the purpose of—\n( a ) preventing collisions—\n(i) between aircraft, or\n(ii) on a manoeuvring area between an aircraft and an obstruction",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic control unit",
+      "definition": "a generic term meaning variously—\n( a ) an area control centre",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic service (ATS)",
+      "definition": "a generic term meaning variously, flight information service, alerting service, air traffic advisory service, air traffic control service (area control service, approach control service or aerodrome control service)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Airworthiness Directive",
+      "definition": "assigned to it under the Civil Aviation (Airworthiness) Regulations (Cap. 71:01 (Sub. Leg.))",
+      "source_provision": "s2"
+    },
+    {
+      "term": "airworthy",
+      "definition": "the status of an aircraft, engine, propeller, or part when it conforms to its approved design and is in a condition safe for operation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "alternate aerodrome",
+      "definition": "an aerodrome to which an aircraft may proceed when it becomes either impossible or inadvisable to proceed to or to land at the aerodrome of intended landing, where the necessary services and facilities are available, where aircraft performance requirements can be met and which is operational at the expected time of use, and includes the following—\n( a ) take-off alternate – an alternate aerodrome at which an aircraft would be able to land should this become necessary shortly after take-off when it is not possible to use the aerodrome of departure",
+      "source_provision": "s2"
+    },
+    {
+      "term": "altimetry system error (ASE)",
+      "definition": "the difference between the altitude indicated by the altimeter display, assuming a correct altimeter barometric setting, and the pressure altitude corresponding to the undisturbed ambient pressure",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appliance",
+      "definition": "any instrument, mechanism, equipment, part, apparatus, appurtenance, or accessory, including communications equipment, that is—\n( a ) used or intended to be used in operating or controlling an aircraft in flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cabin crew member",
+      "definition": "a crew member who performs, in the interest of safety of passengers, duties assigned by the operator or the pilot-in-command of the aircraft, but who shall not act as a flight crew member",
+      "source_provision": "s2"
+    },
+    {
+      "term": "category I operations (CAT I)",
+      "definition": "a precision instrument approach and landing with—\n( a ) a decision height not lower than 60 m (200 ft) and with either a visibility not less than 800 m",
+      "source_provision": "s2"
+    },
+    {
+      "term": "category II operations (CAT II)",
+      "definition": "a precision instrument approach and landing with—\n( a ) a decision height lower than 60 m (200 ft) but not lower than 30 m (100 ft)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "category III operations (CAT III)",
+      "definition": "a precision instrument approach and landing with—\n( a ) CAT III A, a decision height lower than 30 m (100 ft) or no decision height",
+      "source_provision": "s2"
+    },
+    {
+      "term": "check pilot",
+      "definition": "a pilot approved by the Authority who has the appropriate training, experience and demonstrated ability to evaluate and certify the knowledge and skills of other pilots",
+      "source_provision": "s2"
+    },
+    {
+      "term": "combined vision system (CVS)",
+      "definition": "a system to display images from a combination of an enhanced vision system (EVS) and a synthetic vision system (SVS)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commercial air transport operation",
+      "definition": "an aircraft operation involving the transport of passengers, cargo or mail for remuneration or hire",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contaminated runway",
+      "definition": "a significant portion of the runway surface area (whether in isolated areas or not) within the length and width being used is covered by one or more of the substances listed in the runway surface condition descriptors",
+      "source_provision": "s2"
+    },
+    {
+      "term": "co-pilot",
+      "definition": "a licensed pilot serving in any piloting capacity other than as pilot-in-command, but excluding a pilot who is on board the aircraft for the sole purpose of receiving flight instructions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "crew member",
+      "definition": "a person assigned by an operator to duty on an aircraft during a flight duty period",
+      "source_provision": "s2"
+    },
+    {
+      "term": "crew resource management",
+      "definition": "a programme designed to improve the safety of flight operations by optimising the safe, efficient and effective use of human resources, hardware and information through improved crew communication and co-ordination",
+      "source_provision": "s2"
+    },
+    {
+      "term": "critical engine",
+      "definition": "an engine whose failure give the most adverse effect on the aircraft characteristics related to the case under consideration",
+      "source_provision": "s2"
+    },
+    {
+      "term": "critical phase of flight",
+      "definition": "those portions of operations involving taxiing, take-off and landing, and all flight operations below 10,000 ft, except a cruise flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cruise relief pilot",
+      "definition": "a flight crew member who is assigned to perform pilot tasks during cruise flight, to allow the pilot-in-command or a co-pilot to obtain planned rest",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dangerous goods",
+      "definition": "articles or substances which are capable of posing a risk to health, safety, property or the environment and which are shown in the list of dangerous goods in the Technical Instructions or which are classified according to those Technical Instructions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "decision altitude (DA) or decision height (DH)",
+      "definition": "a specified altitude or height in a 3D instrument approach operation at which a missed approach must be initiated if the required visual reference to continue the approach has not been established",
+      "source_provision": "s2"
+    },
+    {
+      "term": "duty",
+      "definition": "any task that flight or cabin crew members are required by the operator to perform including, flight duty, administrative work, training, positioning and standby",
+      "source_provision": "s2"
+    },
+    {
+      "term": "duty period",
+      "definition": "a period which starts when a flight or cabin crew member is required by an operator to report for or to commence a duty and ends when that person is free from all duties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "EDTO critical fuel",
+      "definition": "the fuel quantity necessary to fly to an en route alternate aerodrome considering, at the most critical point on the route, the most limiting system failure",
+      "source_provision": "s2"
+    },
+    {
+      "term": "EDTO significant system",
+      "definition": "an aeroplane system whose failure or degradation could adversely affect the safety particular to an EDTO flight, or whose continued functioning is specifically important to the safe flight and landing of an aeroplane during an EDTO diversion",
+      "source_provision": "s2"
+    },
+    {
+      "term": "emergency locator transmitter (ELT)",
+      "definition": "a generic term describing equipment which broadcast distinctive signals on designated frequencies and, depending on application, may be automatically activated by impact or be manually activated. An ELT may be any of the following—\n( a ) automatic fixed ELT (ELT(AF)) – an automatically activated ELT which is permanently attached to an aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "enhanced vision system (EVS)",
+      "definition": "a system to display electronic real-time images of the external scene achieved through the use of image sensors",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electronic flight bag (EFB)",
+      "definition": "an electronic information system, comprised of equipment and applications for flight crew, which allows for the storing, updating, displaying and processing of EFB functions to support flight operations or duties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "engine",
+      "definition": "a unit used or intended to be used for aircraft propulsion and consists of at least those components and equipment necessary for functioning and control, but excludes the propeller or rotors, if applicable",
+      "source_provision": "s2"
+    },
+    {
+      "term": "examiner",
+      "definition": "any person authorised by the Authority to conduct a proficiency test, a practical test for a licence or rating, or a knowledge test under these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "extended diversion time operations (EDTO)",
+      "definition": "any operation by an aeroplane with two or more turbine engines where the diversion time to an en route alternate aerodrome is greater than the threshold time established by the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fatigue",
+      "definition": "a physiological state of reduced mental or physical performance capability resulting from sleep loss, extended wakefulness, circadian phase or workload, mental or physical activity that can impair a person's alertness and ability to perform safety-related operational duties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "final approach segment (FAS)",
+      "definition": "that segment of an instrument approach procedure in which alignment and descent for landing are accomplished",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight crew member",
+      "definition": "a licensed crew member charged with duties essential to the operation of an aircraft during a flight duty period",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight duty period",
+      "definition": "a period which commences when a flight or cabin crew member is required to report for duty that includes a light or a series of flights and which finishes when the aeroplane finally comes to rest and the engines are shut down at the end of the last flight on which he or she is a crew member",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight manual",
+      "definition": "a manual, associated with the certificate of",
+      "source_provision": "s2"
+    }
+  ]
+}

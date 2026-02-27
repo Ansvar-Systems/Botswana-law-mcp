@@ -1,0 +1,138 @@
+{
+  "id": "bw-act-worker-s-compensation",
+  "type": "statute",
+  "title": "Worker&#039;s Compensation",
+  "title_en": "Worker&#039;s Compensation",
+  "short_name": "Worker&#039;s Compensation",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/worker-s-compensation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Worker's Compensation Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nUnless the context otherwise requires—\n\"accident\" means an accident arising out of and in the course of a worker's employment and resulting in personal injury;\n\"Commissioner\" means the Commissioner for Worker's Compensation appointed under section 4;\n\"compensation\" means compensation determined and payable under this Act;\n\"dependant\" of a worker means—\n( a ) a widow or widower who at the time of the accident was married, in accordance with either the customary or statute law, to the worker;\n( b ) where there is no widow or widower in terms of paragraph ( a ), a woman or man with whom the worker was at the time of the accident living as wife or husband;\n( c ) a child of the worker or of his spouse and includes a posthumous child, a step child, an adopted child and a child born out of wedlock;\n( d ) a parent of the worker or any person who was acting in the place of a parent; and\n( e ) a brother or sister, grandparent or grandchild; who was at the time of the accident wholly or partly financially dependent upon the worker;\n\"earnings\" means wages earned, the value of any food given by the employer, fuel or quarters supplied to the worker by the employer and any overtime payments, for overtime work not of an intermittent nature, or other special remuneration for work done, whether by way of bonus or otherwise;\n\"employer\" includes the Government, a local authority, a statutory corporation and any body or association of persons corporate or unincorporate, and the legal personal representative of a deceased employer, and, where the services of a worker are temporarily lent or let on hire to another person by the person with whom the worker has entered into a contract of employment or apprenticeship, the latter shall, for the purposes of this Act, be deemed to be the employer of the worker whilst he is working for that other person; and in relation to a person employed for the purposes of any game or recreation and engaged or paid through a club, the manager, or members of the managing committee of the club shall, for the purposes of this Act, be deemed to be the employer;\n\"insurer\" means any person carrying on insurance business within the meaning of that expression as defined in the Insurance Industry Act (Cap 46:01);\n\"Medical Board\" means the Medical Board appointed under section 6;\n\"partial incapacity\" means incapacity of a temporary nature caused by injury or occupational disease contracted, which reduces the earning capacity of a worker in any employment in which he was engaged at the time of the accident;\n\"permanent partial incapacity\" means incapacity of a permanent nature caused by injury or occupational disease contracted, which reduces the earning capacity of a worker in every employment which he was capable of undertaking at that time:\nProvided that every injury specified in the First Schedule, except such injury or combination of injuries in respect of which the percentage or aggregate percentage of the loss of earning capacity as specified in that Schedule against such injury or injuries amounts to 100 per cent or more, shall be deemed to result in permanent partial incapacity;\n\"scheduled disease\" means any disease specified in the Second Schedule;\n\"total incapacity\" means such incapacity whether of a temporary or permanent nature, caused by injury or occupational disease contracted, as incapacitates a worker for any employment which he was capable of undertaking at the time of the accident:\nProvided that permanent total incapacity shall be deemed to result from an injury or from any combination of injuries specified in the First Schedule where the percentage or aggregate percentage of the loss of earning capacity as specified in that Schedule against such injury or injuries amounts to 100 per cent or more;\n\"worker\" means any person who, either before or after the commencement of this Act, has entered into or works under a contract of employment or apprenticeship with an employer, whether by way of manual labour, clerical work or otherwise, and whether the contract is expressed orally, is in writing or is implied:\nProvided that the following persons shall be exempted from the definition of \"worker\"—\n( a ) any person to whom articles or materials are given out to be made up, cleaned, washed, altered, ornamented, finished or repaired or adapted for sale in his own home or on other premises not under the control or management of the person who gave out the materials or articles;\n( b ) any person who is given permission to win minerals, receiving a portion of the minerals won by him or the value thereof;\n( c ) a person who contracts to carry out works and who engages other persons to perform the work;\n( d ) any member of the employer's family living in the employer's house or the cartilage thereof; or\n( e ) any member of the class of persons declared in the regulations not to be workers for the purposes of this Act."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Application of Act",
+      "content": "3. Application of Act\n(1) This Act shall apply to any worker employed by the Government, any local authority or statutory corporation in the same way and to the same extent as if the employer were a private person.\n(2) Except for the purposes of section 38 relating to the conclusion of agreements as to the amount of compensation payable, and except where the context otherwise requires, a reference to a worker shall, where the worker is dead, include reference to his dependants, or to any person acting on his behalf under this Act.\n(3) The exercise and performance of the powers and duties of a local authority, a statutory corporation or any department of the Government shall, for the purposes of this Act, be treated as the trade or business of such authority, corporation or Government department.\n(4) If, in any proceedings for the recovery of compensation, it appears to the Commissioner that the contract of employment or apprenticeship under which the injured person was working at the time of the accident causing the injury was illegal or otherwise unenforceable, he may, if, having regard to all the circumstances of the case, thinks it proper to do so, deal with the matter as if the injured person at the material time had been a person working under a valid contract of service or apprenticeship and thereafter, for the purposes of this Act, the injured person shall be so deemed to be."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Commissioner of Worker's Compensation and Appointment of Medical Board",
+      "section": "4",
+      "title": "Appointment of Commissioner",
+      "content": "4. Appointment of Commissioner\nSubject to the laws governing the public service the Minister may appoint a public officer to be the Commissioner for Worker's Compensation."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Commissioner of Worker's Compensation and Appointment of Medical Board",
+      "section": "5",
+      "title": "Functions of Commissioner",
+      "content": "5. Functions of Commissioner\n(1) The Commissioner shall, subject to the control of the Minister, be responsible for the administration of this Act.\n(2) Without derogating from the generality of subsection (1) the functions and powers of the Commissioner shall be to—\n( a ) adjudicate upon claims for compensation and other matters requiring decision under this Act;\n( b ) determine whether any person, in terms of the contract of employment, is a worker or employer for the purposes of this Act;\n( c ) determine any question relating to the—\n(i) right of compensation;\n(ii) computation of the earnings of a worker;\n(iii) degree of incapacitation of a worker;\n(iv) amount of compensation payable; and\n(v) payment, revision, discontinuance or suspension of any compensation;\n( d ) determine whether any person is a dependant for the purposes of this Act, and, if so, the degree of dependency, and, where there is more than one dependant entitled to receive compensation, the allocation of compensation between dependants;\n( e ) require that money payable as compensation in a fatal case to a widow, widower or to minor children shall be paid in full to the Commissioner who may arrange payments in instalments in such amounts and at such periods as he may determine, or will arrange that such compensation is invested, applied or otherwise dealt with for the benefit of the widow, widower or children concerned;\n( f ) require that money payable as compensation to a worker in a case of permanent total incapacity, in circumstances where the Commissioner determines that such money would not be managed to the benefit of the worker and other beneficiaries, shall be paid in full to the Commissioner who may arrange payments in instalments in such amounts and at such periods as he may determine, or will arrange that such compensation is invested, applied or otherwise dealt with for the benefit of the worker and beneficiaries concerned;\n( g ) determine any question relating to the necessity for, or the character or sufficiency of any medical aid;\n( h ) collect, compile and maintain such statistics, information and records relating to the occurrence or causes of accidents and scheduled diseases, and the award and payment of compensation, as may be necessary or as the Minister may require;\n( i ) receive any moneys received from outside Botswana and payable as worker's compensation under the law of any other country to dependants within Botswana, and to determine any question relating to the dependants or the degree of dependency, and to distribute the moneys to the persons entitled to such moneys, in such manner as may be just;\n( j ) subject to the provisions of the Exchange Control Act (Cap. 55:03), transfer any moneys payable as compensation to a worker or his dependants outside Botswana, to the persons entitled to such moneys or to a competent authority concerned for payment to the persons so entitled;\n( k ) in cases of dispute determine the length of intervals for periodic payments in the case of temporary incapacity;\n( l ) perform any other duties or functions in relation to worker's compensation as the Minister may require.\n(3) In relation to proceedings conducted by the Commissioner under this Act, the Commissioner shall have all the powers of a magistrate to summon witnesses, to enforce attendance of witnesses, and to call for, require and to hear evidence and shall otherwise proceed according to any rules of procedure prescribed by the Minister.\n(4) Proceedings before the Commissioner shall not be open to the public and the Commissioner may exclude any persons who are not interested parties.\n(5) The Commissioner may delegate or assign any of his powers and functions under this section to labour officers appointed as such under section 4 of the Employment Act (Cap 47:01).\n(6) An appeal shall lie to the Commissioner against a decision of a labour officer in respect of any power or function delegated under subsection (5).\n(7) An appeal shall lie to the Minister in respect of any determination made by the Commissioner in relation to compensation under this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Commissioner of Worker's Compensation and Appointment of Medical Board",
+      "section": "6",
+      "title": "Appointment of the Medical Board",
+      "content": "6. Appointment of the Medical Board\nThe Minister may, following consultations with the Minister responsible for health, by Order, appoint a Medical Board consisting of—\n(i) three medical doctors one of whom shall be appointed as Chairperson by the Minister;\n(ii) one attorney; and\n(iii) one person qualified and experienced in a labour related profession."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Commissioner of Worker's Compensation and Appointment of Medical Board",
+      "section": "7",
+      "title": "Function of the Medical Board",
+      "content": "7. Function of the Medical Board\nThe primary function of the Medical Board shall be to determine medical disputes on degrees of incapacity and such other medical questions arising in relation to any claim for compensation."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART III Administrative Requirements",
+      "section": "8",
+      "title": "Requirements as to notice of accident",
+      "content": "8. Requirements as to notice of accident\n(1) Proceedings under this Act for the recovery of compensation for an injury shall not be maintainable unless notice of the injury has been given by or on behalf of the worker as soon as practicable after it has been incurred and before the worker has voluntarily left the employment in which he was injured, and unless the application for compensation with respect to such injury has been made within 12 months from the date it was incurred or, in the case of death, within 12 months from the time of death:\nProvided that—\n(i) the want of or any defect or inaccuracy in such notice shall not be a bar to the maintenance of such proceedings if the employer is proved to have had knowledge of the injury from any other source at or about the time it was incurred, or if it is found in the proceedings for settling the claim that the employer is not, or would not be, if a notice or an amended notice were then given and the hearing postponed, prejudiced in his defence by the want, defect or inaccuracy, or that such want, defect or inaccuracy was occasioned by mistake or other reasonable cause;\n(ii) the notice may be given, and the application may be made under, this section by a labour officer or such other officer as may be so empowered by the Commissioner on behalf of the worker;\n(iii) the failure to give notice or to make an application within the periods above specified shall not be a bar to the maintenance of such proceedings if it is proved that the failure was occasioned by mistake or other reasonable cause, including the error or mistake of any person advising or assisting the worker under this Act; or\n(iv) the failure to give notice or to make application within the periods above specified shall not be a bar to the maintenance of such proceedings, if it is proved that the employer has failed to comply with section 9(1).\n(2) Notice under this section may be given either orally or in writing to the employer, or, if there is more than one employer, to one of such employers, or to any foreman or other person under whose supervision the worker is employed, or to any person designated for the purpose by the employer, and shall specify the name and address of the person injured, and shall state in ordinary language the cause of the injury and the date on which and the place at which the accident occurred."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART III Administrative Requirements",
+      "section": "9",
+      "title": "Employers to report injuries and occupational diseases",
+      "content": "9. Employers to report injuries and occupational diseases\n(1) Every injury and disease arising out of and in the course of employment which—\n( a ) results in the death of a worker;\n( b ) results in, or is likely to result in, some degree of permanent incapacity to a worker; or\n( c ) results in incapacitating a worker from following his normal employment for more than three days;\nshall, within 17 days of the date when the injury is incurred or the disease diagnosed, be reported by the employer in the prescribed form and accompanied by the prescribed particulars to such officer as may be designated by the Commissioner for such purpose.\n(2) Any employer who fails without reasonable cause to comply with the requirements of subsection (1) shall be guilty of an offence and liable to a fine not exceeding P2000.\n(3) Failure by an employer to comply with the requirements of subsection (1) shall not be a bar to the institution or maintenance of proceedings by the worker concerned for compensation under this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accident",
+      "definition": "an accident arising out of and in the course of a worker's employment and resulting in personal injury",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "the Commissioner for Worker's Compensation appointed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "compensation",
+      "definition": "compensation determined and payable under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "earnings",
+      "definition": "wages earned, the value of any food given by the employer, fuel or quarters supplied to the worker by the employer and any overtime payments, for overtime work not of an intermittent nature, or other special remuneration for work done, whether by way of bonus or otherwise",
+      "source_provision": "s2"
+    },
+    {
+      "term": "employer",
+      "definition": "the Government, a local authority, a statutory corporation and any body or association of persons corporate or unincorporate, and the legal personal representative of a deceased employer, and, where the services of a worker are temporarily lent or let on hire to another person by the person with whom the worker has entered into a contract of employment or apprenticeship, the latter shall, for the purposes of this Act, be deemed to be the employer of the worker whilst he is working for that other person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "insurer",
+      "definition": "any person carrying on insurance business within the meaning of that expression as defined in the Insurance Industry Act (Cap 46:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Medical Board",
+      "definition": "the Medical Board appointed under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "partial incapacity",
+      "definition": "incapacity of a temporary nature caused by injury or occupational disease contracted, which reduces the earning capacity of a worker in any employment in which he was engaged at the time of the accident",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permanent partial incapacity",
+      "definition": "incapacity of a permanent nature caused by injury or occupational disease contracted, which reduces the earning capacity of a worker in every employment which he was capable of undertaking at that time:\nProvided that every injury specified in the First Schedule, except such injury or combination of injuries in respect of which the percentage or aggregate percentage of the loss of earning capacity as specified in that Schedule against such injury or injuries amounts to 100 per cent or more, shall be deemed to result in permanent partial incapacity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "scheduled disease",
+      "definition": "any disease specified in the Second Schedule",
+      "source_provision": "s2"
+    },
+    {
+      "term": "total incapacity",
+      "definition": "such incapacity whether of a temporary or permanent nature, caused by injury or occupational disease contracted, as incapacitates a worker for any employment which he was capable of undertaking at the time of the accident:\nProvided that permanent total incapacity shall be deemed to result from an injury or from any combination of injuries specified in the First Schedule where the percentage or aggregate percentage of the loss of earning capacity as specified in that Schedule against such injury or injuries amounts to 100 per cent or more",
+      "source_provision": "s2"
+    },
+    {
+      "term": "worker",
+      "definition": "any person who, either before or after the commencement of this Act, has entered into or works under a contract of employment or apprenticeship with an employer, whether by way of manual labour, clerical work or otherwise, and whether the contract is expressed orally, is in writing or is implied:\nProvided that the following persons shall be exempted from the definition of \"worker\"—\n( a ) any person to whom articles or materials are given out to be made up, cleaned, washed, altered, ornamented, finished or repaired or adapted for sale in his own home or on other premises not under the control or management of the person who gave out the materials or articles",
+      "source_provision": "s2"
+    }
+  ]
+}

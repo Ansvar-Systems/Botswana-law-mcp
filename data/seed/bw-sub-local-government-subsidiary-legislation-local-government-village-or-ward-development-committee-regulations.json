@@ -1,0 +1,49 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-local-government-village-or-ward-development-committee-regulations",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Local Government (village Or Ward Development Committee) Regulations",
+  "title_en": "Local Government : Subsidiary Legislation : Local Government (village Or Ward Development Committee) Regulations",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-local-government-village-or-ward-development-committee-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Local Government (Village or Ward Development Committee) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires\n\" Committee \" means a village or ward development committee established under regulation 3; and\n\" Umbrella Committee \" means a committee established under regulation 15."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment of Committee",
+      "content": "3. Establishment of Committee\nThere is hereby established a Committee to be known as the Village or Ward Development Committee."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Membership of Committee",
+      "content": "4. Membership of Committee\nThe Committee shall consist of"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Committee",
+      "definition": "a village or ward development committee established under regulation 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Umbrella Committee",
+      "definition": "a committee established under regulation 15.",
+      "source_provision": "s2"
+    }
+  ]
+}

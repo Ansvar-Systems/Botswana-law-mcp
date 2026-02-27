@@ -1,0 +1,50 @@
+{
+  "id": "bw-act-commissioners-of-oaths",
+  "type": "statute",
+  "title": "Commissioners of Oaths",
+  "title_en": "Commissioners of Oaths",
+  "short_name": "Commissioners of Oaths",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/commissioners-of-oaths",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Commissioners of Oaths Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Appointment of commissioners of oaths",
+      "content": "2. Appointment of commissioners of oaths\n(1) The Minister may appoint commissioners of oaths for Botswana who shall hold their commissions during the pleasure of the Minister.\n(2) The name and address of every person so appointed shall be notified by the Minister in the Gazette , and on the cancellation of any such appointment that fact shall be likewise notified."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Ex-officio commissioners of oaths",
+      "content": "3. Ex-officio commissioners of oaths\n(1) Any person holding, or lawfully acting in, any office specified in Part I or Part II of the Schedule shall, during his tenure thereof or while he is so acting and except when suspended from the functions thereof, be a commissioner of oaths for the area described in the second column of that Schedule in relation to the name of his office.\n(2) The Minister may, by statutory instrument, make an order amending Part II of the said Schedule by the addition thereto of any office whatsoever or deletion therefrom of any office mentioned in that Part, and by varying any area of jurisdiction prescribed therein, and by prescribing an area of jurisdiction in respect of any office so added."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Powers and jurisdiction of commissioners of oaths",
+      "content": "4. Powers and jurisdiction of commissioners of oaths\nA commissioner of oaths may, within the area in respect of which he is under this Act appointed or declared to be a commissioner of oaths, administer an oath on affidavit, or take a solemn or attested declaration whenever requested to do so; or whenever he, if he is also a member of the Botswana Police Force, considers it desirable that a statement on oath or solemn or attested declaration be obtained in connection with any alleged offence, and the person concerned is willing to make such a statement or declaration; or whenever statements on oath or solemn or attested declarations are required by any law in force in that area:\nProvided that he shall not administer an oath or take a solemn or attested declaration in respect of any matter in which he has not, or does not believe himself to have, jurisdiction, cognizance or authority."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Penalties for false statements in affidavits, etc.",
+      "content": "5. Penalties for false statements in affidavits, etc.\nAny person who, in an affidavit or solemn or attested declaration made before a person competent to administer the oath or take the declaration, makes a false statement corruptly or maliciously or knowing it to be false, shall be guilty of an offence and liable upon conviction to the penalties prescribed by law for the crime of perjury."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Regulations",
+      "content": "6. Regulations\nThe President may make regulations prescribing the form and manner in which oaths and declarations shall be taken, when not prescribed by any other law, and generally for the better carrying out of the objects and purposes of this Act."
+    }
+  ],
+  "definitions": []
+}

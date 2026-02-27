@@ -1,0 +1,64 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-selebi-phikwe-town-council-cemetery-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Selebi-phikwe Town Council (cemetery) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Selebi-phikwe Town Council (cemetery) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-selebi-phikwe-town-council-cemetery-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Selebi-Phikwe Town Council (Cemetery) Bye-laws*.\n*Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"adult\" means a person other than a child;\n\"caretaker\" means any person so designated by the council;\n\"cemetery\" means a cemetery established under the provision of bye-law 3;\n\"child\" means a person under the age of 10 years;\n\"memorial work\" means any gravestone, monument, cenotaph, tablet or monumental inscription and any work ancillary thereto."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment of cemeteries",
+      "content": "3. Establishment of cemeteries\nThe areas of land defined in the First Schedule are established as cemeteries for the purposes of these Bye-laws."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Burial in cemetery",
+      "content": "4. Burial in cemetery\nNo person shall bury or cause to be buried any body elsewhere within the council area than in a cemetery."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "adult",
+      "definition": "a person other than a child",
+      "source_provision": "s2"
+    },
+    {
+      "term": "caretaker",
+      "definition": "any person so designated by the council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cemetery",
+      "definition": "a cemetery established under the provision of bye-law 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child",
+      "definition": "a person under the age of 10 years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "memorial work",
+      "definition": "any gravestone, monument, cenotaph, tablet or monumental inscription and any work ancillary thereto.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "bw-act-printed-publications",
+  "type": "statute",
+  "title": "Printed Publications",
+  "title_en": "Printed Publications",
+  "short_name": "Printed Publications",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/printed-publications",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Printed Publications Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"editor\" includes the person or persons actually and finally responsible for the collation or inclusion in any newspaper of the contents thereof, whether such person or persons are expressly employed for such purposes or not;\n\"newspaper\" means any publication containing news, intelligence, reports of occurrences, or any remarks, observations or comments in relation to such news, intelligence or occurrences or to any other matters of public interest or any comments of a political nature relating to Botswana or persons or events therein, which is printed or published for sale or free distribution at regular or irregular intervals within Botswana;\n\"printed\" means produced by any process of reproduction;\n\"publication\" means a document which is or is intended to be published;\n\"published\" means issued for distribution, by sale or otherwise, to the public or any section thereof;\n\"Register\" means the Register of Newspapers established under section 4;\n\"Registrar\" means the Registrar of Newspapers appointed under section 3."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Appointment of Registrar",
+      "content": "3. Appointment of Registrar\nThe Minister shall, by notice published in the Gazette , appoint a public officer to be Registrar of Newspapers for the purposes of this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "editor",
+      "definition": "the person or persons actually and finally responsible for the collation or inclusion in any newspaper of the contents thereof, whether such person or persons are expressly employed for such purposes or not",
+      "source_provision": "s2"
+    },
+    {
+      "term": "newspaper",
+      "definition": "any publication containing news, intelligence, reports of occurrences, or any remarks, observations or comments in relation to such news, intelligence or occurrences or to any other matters of public interest or any comments of a political nature relating to Botswana or persons or events therein, which is printed or published for sale or free distribution at regular or irregular intervals within Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "printed",
+      "definition": "produced by any process of reproduction",
+      "source_provision": "s2"
+    },
+    {
+      "term": "publication",
+      "definition": "a document which is or is intended to be published",
+      "source_provision": "s2"
+    },
+    {
+      "term": "published",
+      "definition": "issued for distribution, by sale or otherwise, to the public or any section thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Register",
+      "definition": "the Register of Newspapers established under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of Newspapers appointed under section 3.",
+      "source_provision": "s2"
+    }
+  ]
+}

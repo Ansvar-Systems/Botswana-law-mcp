@@ -1,0 +1,102 @@
+{
+  "id": "bw-act-botswana-teaching-professionals-council",
+  "type": "statute",
+  "title": "Botswana Teaching Professionals Council",
+  "title_en": "Botswana Teaching Professionals Council",
+  "short_name": "Botswana Teaching Professio...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-teaching-professionals-council",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Teaching Professionals Council Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Appeals Committee\" means a committee established under section 39(1);\n\"Board\" means the Board of the Council established under section 6;\n\"Council\" means the Botswana Teaching Professionals Council established under section 3;\n\"Disciplinary Committee\" means a committee appointed under section 37(1);\n\"member\" means a member of the Board;\n\"Registrar\" means the Registrar appointed under section 18;\n\"school\" has the same meaning assigned to it under the Education Act (Cap. 58:01);\n\"teacher\" includes a tutor and any person registered in accordance with section 27 of this Act and qualifies to instruct an educational programme or provide professional counselling including professional therapy and educational psychology services, at school; and\n\"teaching licence\" means a licence to practice teaching, issued by the Council under section 30."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment of Botswana Teaching Professionals Council",
+      "section": "3",
+      "title": "Establishment of Botswana Teaching Professionals Council",
+      "content": "3. Establishment of Botswana Teaching Professionals Council\n(1) There is hereby established a Council to be known as the Botswana Teaching Professionals Council.\n(2) The Council shall be a body corporate with perpetual succession and a common seal, capable of suing and being sued in its own name and, subject to the provisions of this Act, perform such acts as bodies corporate may, by law perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment of Botswana Teaching Professionals Council",
+      "section": "4",
+      "title": "Seal of Council",
+      "content": "4. Seal of Council\n(1) The seal of the Council shall be such a device as may be determined by the Board and shall be kept by the Registrar.\n(2) The affixing of the seal shall be authenticated by the Registrar or any other person authorised in that capacity by the Board."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment of Botswana Teaching Professionals Council",
+      "section": "5",
+      "title": "Functions of Council",
+      "content": "5. Functions of Council\nThe Council shall—\n( a ) regulate the teaching profession;\n( b ) maintain professional and ethical standards for teachers, which include teaching knowledge, skills and competence;\n( c ) license teachers;\n( d ) advise on teacher training issues;\n( e ) advocate for the teaching profession;\n( f ) maintain a register of teachers;\n( g ) establish, publish, review and maintain a Code of Ethics for teachers;\n( h ) monitor adherence to the Code of Ethics under paragraph ( g );\n( i ) review and advise on professional standards of teachers;\n( j ) determine the grounds for refusal or withdrawal of registration where necessary;\n( k ) determine the criteria and procedures for registration;\n( l ) consider and decide on any application for registration;\n( m ) promote continuing education, training and professional development of teachers;\n( n ) establish panels to investigate and hear complaints against teachers;\n( o ) ensure a fair hearing is held in accordance with the procedure determined by the Board; and\n( p ) conduct research to inform quality teaching."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART III Constitution and Qualifications of Board",
+      "section": "6",
+      "title": "Establishment of Board",
+      "content": "6. Establishment of Board\n(1) There shall be a Board of the Council, which shall be the governing body of the Council and shall be responsible for the direction of the affairs and operations of the Council.\n(2) The Board shall consist of the following members appointed by the Minister—\n( a ) the Chairperson;\n( b ) three representatives from the existing registered and recognised teacher unions;\n( c ) one representative from special education needs;\n( d ) one representative from public school heads;\n( e ) one representative from private school heads;\n( f ) one representative from the Botswana Qualifications Authority established under the Botswana Qualifications Authority Act (Cap. 48:04);\n( g ) one representative from a registered private schools teacher association;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Appeals Committee",
+      "definition": "a committee established under section 39(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of the Council established under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Botswana Teaching Professionals Council established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Disciplinary Committee",
+      "definition": "a committee appointed under section 37(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar appointed under section 18",
+      "source_provision": "s2"
+    },
+    {
+      "term": "school",
+      "definition": "assigned to it under the Education Act (Cap. 58:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "teacher",
+      "definition": "a tutor and any person registered in accordance with section 27 of this Act and qualifies to instruct an educational programme or provide professional counselling including professional therapy and educational psychology services, at school",
+      "source_provision": "s2"
+    },
+    {
+      "term": "teaching licence",
+      "definition": "a licence to practice teaching, issued by the Council under section 30.",
+      "source_provision": "s2"
+    }
+  ]
+}

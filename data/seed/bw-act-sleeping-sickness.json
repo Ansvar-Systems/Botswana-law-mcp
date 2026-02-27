@@ -1,0 +1,49 @@
+{
+  "id": "bw-act-sleeping-sickness",
+  "type": "statute",
+  "title": "Sleeping Sickness",
+  "title_en": "Sleeping Sickness",
+  "short_name": "Sleeping Sickness",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/sleeping-sickness",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title and application",
+      "content": "1. Short title and application\n(1) This Act may be cited as the Sleeping Sickness Act.\n(2) The Minister may from time to time, by order published in the Gazette , apply this Act to such area or areas in Botswana as he shall deem expedient."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"cattle\" includes sheep and goats and the young of any sheep and goats;\n\"administrative officer\" includes any person to whom the administrative officer in charge of the district has delegated his powers subject to such restrictions as he may have imposed;\n\"document\" means any certificate, pass or permit issued under this Act or the regulations;\n\"examining officer\" means any medical officer appointed to carry out the duties imposed by this Act or by the regulations upon an examining officer, and includes any person whom such medical officer authorises to carry out any such duties;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "cattle",
+      "definition": "sheep and goats and the young of any sheep and goats",
+      "source_provision": "s2"
+    },
+    {
+      "term": "administrative officer",
+      "definition": "any person to whom the administrative officer in charge of the district has delegated his powers subject to such restrictions as he may have imposed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "document",
+      "definition": "any certificate, pass or permit issued under this Act or the regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "examining officer",
+      "definition": "any medical officer appointed to carry out the duties imposed by this Act or by the regulations upon an examining officer, and includes any person whom such medical officer authorises to carry out any such duties",
+      "source_provision": "s2"
+    }
+  ]
+}

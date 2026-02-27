@@ -1,0 +1,104 @@
+{
+  "id": "bw-act-cybercrime-and-computer-related-crimes",
+  "type": "statute",
+  "title": "Cybercrime and Computer Related Crimes",
+  "title_en": "Cybercrime and Computer Related Crimes",
+  "short_name": "Cybercrime and Computer Rel...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/cybercrime-and-computer-related-crimes",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Cybercrime and Computer Related Crimes Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"access\" means, in relation to any computer or computer system, to instruct, communicate with, store data in, retrieve data from, or otherwise make use of any of the resources of the computer or computer system;\n\"access code\" or \"password\" means any—\n( a ) data by which a computer service or computer or computer system is capable of being obtained, accessed or used; or\n( b ) means of gaining access to the whole or part of a computer or computer system;\n\"automatic processing\" includes the following operations, if carried out in whole or in part by automated means—\n( a ) the storage of data;\n( b ) the carrying out of logical or arithmetical operations on the data referred to in paragraph ( a ), including its alteration, era sure, retrieval or dissemination;\n\"Commissioner\" means the Commissioner of Police appointed by the President in terms of section 112 of the Constitution;\n\"computer data storage medium\" means any device, article or material from which data or information is capable of being stored or reproduced, with or without the aid of any other device or material;\n\"computer or computer system\" means an electronic, magnetic or optical device or a group of interconnected or related devices, including the internet, one or more of which, pursuant to a programme, performs the automatic processing of data;\n\"computer service\" includes data processing or the storage or retrieval of data;\n\"data\" means—\n( a ) any representation of facts, information or concepts in a form suitable for processing in a computer or computer system;\n( b ) any information recorded in a form in which it can be processed by equipment operating automatically in response to instructions given for that purpose; or\n( c ) any programme suitable to cause a computer or computer system to perform a function,\nand includes traffic data and subscriber information;\n\"device\" includes—\n( a ) a computer programme, code, software or application;\n( b ) a component of a computer or computer system, such as a graphic card, memory card, chip or processor;\n( c ) a computer data storage medium; or\n( d ) any input or output device;\n\"Director-General\" means the Director-General of the Directorate on Corruption and Economic Crime appointed by the President in terms of section 4 of the Corruption and Economic Crime Act (Cap. 08:05);\n\"electronic communication\" means the transfer of a sign, signal or data of any nature transmitted in whole or in part by an electrical, digital, magnetic, electromagnetic, optical, wire, wireless, radio, photo electronic or photo optical system or any other similar form;\n\"function\" includes the logic, control, arithmetic, deletion, storage and retrieval, and communication and telecommunication to, from or within a computer or computer system;\n\"funds\" means assets of every kind, whether corporeal or incorporeal, tangible or intangible, movable or immovable, however acquired, and legal documents in any form, including electronic or digital, evidencing title to or interest in such assets;\n\"hinder\" in relation to a computer or computer system includes—\n( a ) cutting the electricity supply to a computer or computer system;\n( b ) causing electromagnetic interference to a computer or computer system;\n( c ) corrupting a computer or computer system by any means;\n( d ) inputting, transmitting, damaging, deleting, suppressing, altering or modifying data; and\n( e ) impairing, by any means, the connectivity, infrastructure or support of a computer or computer system;\n\"information and communication service\" means any service involving the use of information and communication technology, including telecommunication services;\n\"information and communication technology\" means any technology employed in the collecting, storing, using or sending out of information, including any technology involving the use of a computer or computer system or a telecommunication system;\n\"intercept\" means the aural or other acquisition of the contents of any electronic, magnetic, optical or oral data communication during transmission, through the use of any device;\n\"interfere\" or \"interference\" includes—\n( a ) an action carried out by a person who is not himself or herself entitled to determine whether the interference of the kind in question should be made; or\n( b ) an action carried out by a person whose act causes the interference does not have consent, from any person who is so entitled, to the interference of the kind in question; and\n( c ) where the act in question, or any intended effect of it, is temporary or permanent;\n\"national emergency organisations\" include the police service, security forces, fire brigade, ambulance services, medical services, veterinary services and environmental disaster agencies, whether or not such organisations are owned and managed on a private or public basis;\n\"programme\" means an instruction or a set of instructions, expressed in words, codes, schemes or any other form, which is capable, when incorporated in a machine-readable medium, of causing a computer or computer system to achieve a particular task, result or function;\n\"property\" means money or any other movable, immovable, corporeal or incorporeal thing, whether located in Botswana or elsewhere, and includes any rights, securities and any interest in privileges and claims over that thing, as well as—\n( a ) any currency, whether or not the currency is legal tender in Botswana, and any bill, security, bond, negotiable instrument or any instrument capable of being negotiated which is payable to the bearer or endorsed \"payable to the bearer\", whether expressed in Botswana currency or otherwise;\n( b ) any balance held in Botswana currency or in any other currency in accounts with any bank which carries on business in Botswana or elsewhere;\n( c ) any balance held in any currency with a bank outside Botswana;\n( d ) any motor vehicle, ship, aircraft, boat, work of art, jewellery, precious metal or any other item of value;\n( e ) any right or interest in property;\n( f ) any funds or other assets, including all property and any interest, dividend or income on or value accruing to or generated by such funds or assets; and"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "password",
+      "definition": "any—\n( a ) data by which a computer service or computer or computer system is capable of being obtained, accessed or used",
+      "source_provision": "s2"
+    },
+    {
+      "term": "automatic processing",
+      "definition": "the following operations, if carried out in whole or in part by automated means—\n( a ) the storage of data",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "the Commissioner of Police appointed by the President in terms of section 112 of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "computer data storage medium",
+      "definition": "any device, article or material from which data or information is capable of being stored or reproduced, with or without the aid of any other device or material",
+      "source_provision": "s2"
+    },
+    {
+      "term": "computer or computer system",
+      "definition": "an electronic, magnetic or optical device or a group of interconnected or related devices, including the internet, one or more of which, pursuant to a programme, performs the automatic processing of data",
+      "source_provision": "s2"
+    },
+    {
+      "term": "computer service",
+      "definition": "data processing or the storage or retrieval of data",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director-General",
+      "definition": "the Director-General of the Directorate on Corruption and Economic Crime appointed by the President in terms of section 4 of the Corruption and Economic Crime Act (Cap. 08:05)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electronic communication",
+      "definition": "the transfer of a sign, signal or data of any nature transmitted in whole or in part by an electrical, digital, magnetic, electromagnetic, optical, wire, wireless, radio, photo electronic or photo optical system or any other similar form",
+      "source_provision": "s2"
+    },
+    {
+      "term": "function",
+      "definition": "the logic, control, arithmetic, deletion, storage and retrieval, and communication and telecommunication to, from or within a computer or computer system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "funds",
+      "definition": "assets of every kind, whether corporeal or incorporeal, tangible or intangible, movable or immovable, however acquired, and legal documents in any form, including electronic or digital, evidencing title to or interest in such assets",
+      "source_provision": "s2"
+    },
+    {
+      "term": "information and communication service",
+      "definition": "any service involving the use of information and communication technology, including telecommunication services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "information and communication technology",
+      "definition": "any technology employed in the collecting, storing, using or sending out of information, including any technology involving the use of a computer or computer system or a telecommunication system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "intercept",
+      "definition": "the aural or other acquisition of the contents of any electronic, magnetic, optical or oral data communication during transmission, through the use of any device",
+      "source_provision": "s2"
+    },
+    {
+      "term": "programme",
+      "definition": "an instruction or a set of instructions, expressed in words, codes, schemes or any other form, which is capable, when incorporated in a machine-readable medium, of causing a computer or computer system to achieve a particular task, result or function",
+      "source_provision": "s2"
+    },
+    {
+      "term": "property",
+      "definition": "money or any other movable, immovable, corporeal or incorporeal thing, whether located in Botswana or elsewhere, and includes any rights, securities and any interest in privileges and claims over that thing, as well as—\n( a ) any currency, whether or not the currency is legal tender in Botswana, and any bill, security, bond, negotiable instrument or any instrument capable of being negotiated which is payable to the bearer or endorsed \"payable to the bearer\", whether expressed in Botswana currency or otherwise",
+      "source_provision": "s2"
+    }
+  ]
+}

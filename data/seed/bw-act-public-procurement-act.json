@@ -1,0 +1,352 @@
+{
+  "id": "bw-act-public-procurement-act",
+  "type": "statute",
+  "title": "Public Procurement",
+  "title_en": "Public Procurement",
+  "short_name": "Public Procurement",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/public-procurement-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Public Procurement Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires-\n\"Accounting Officer\" means a person who is responsible for the administration and day-to-day management of the affairs of a procuring entity, and any other person, who may be designated as such by the Minister under this Act;\n\"any combination thereof, however classified\" means, in relation to works, services and supplies, a turnkey project or any arrangement in this genre, which may include management, maintenance, testing, commissioning or training;\n\"Authority\" means the Public Procurement Regulatory Authority continued under section 6;\n\"bid\" means a written offer in the form determined by an instruction, in response to an invitation for the procurement of works, services or supplies to submit an offer, including an unsolicited bid;\n\"bidder\" means a contractor who responds to an invitation to bid by submitting an offer in procurement proceedings;\n\"bidding package\" includes an invitation to tender, solicitation documents, a statement of requirements or any other documents inviting bidders to participate in procurement proceedings, including documents inviting potential bidders for pre-qualification;\n\"Board\" means the Public Procurement Regulatory Authority Board established under section 12;\n\"Chief Executive Officer\" means the Chief Executive Officer of the Authority appointed under section 26;\n\"citizen contractor\" means a natural person or an incorporated company wholly owned and controlled by persons who are citizens of Botswana;\n\"code of conduct\" means a code of conduct of contractors provided for under section 99;\n\"common use items\" includes works, services or supplies that are usable by a procuring entity irrespective of type or category, and items as may be prescribed;\n\"competent authority\" means a person, body of persons, organ or agency competent to take action as may be referred to or directed to it by the Authority, or any other person authorised, under this Act;\n\"consultancy services\" means activities of an intellectual and advisory nature that do not lead to a measurable physical output and include design, supervision, training, advisory, auditing, software development and similar services;\n\"contract\" means an agreement between a procuring entity and a contractor resulting from the application of the appropriate and approved procurement procedures and proceedings, and concluded in pursuance of a bid award decision;\n\"contractor\" or \"service provider\" means a natural person or an incorporated body licensed by a competent authority to undertake works, services, supplies or any combination thereof, however classified;\n\"Contractors' Register\" means a Contractors' Register kept and maintained by the Authority in accordance with Part XIII;\n\"cooling-off period\" means the period which starts from the time of the publication of an award decision to a bidder for a period provided under section 104(1)( a );\n\"day\" means a day of the week other than Saturday, Sunday or a public holiday under the Public Holidays Act (Cap. 03:07);\n\"Department\" means a public entity, extra ministerial body or a subdivision of the central Government, including state-owned entities, local authorities, Land Boards, parastatals, schools and hospitals that derive their regular funding from the Consolidated Fund;\n\"emergency\" means a natural disaster, epidemic, pandemic, riot, war, fire, flood or any other situation that may result in the threat to-\n( a ) life; or\n( b ) health, welfare or safety of the public,\nwhich requires immediate action;\n\"eProcurement\" means the process of procurement using electronic medium;\n\"Evaluation Committee\" means an ad hoc committee set up by the Accounting Officer to review and evaluate proposals submitted in response to an invitation to bid and make selection recommendation;\n\"framework contract\" means a contractual arrangement which allows a procuring entity to procure goods, services or works that are needed continuously or repeatedly at an agreed price over an agreed period of time through placement of orders as and when the need arises;\n\"immediate family member\" has the same meaning assigned to it under the Corruption and Economic Crime Act (Cap. 08:05);\n\"industry standards\" means best practices, and include practices and standards which-\n( a ) are safe and environmentally friendly;\n( b ) are innovative and increase efficiency;\n( c ) save time and costs;\n( d ) relate to materials, processes, methods, designs, equipment, products, services and practices; and\n( e ) are defined and coded by internationally recognised contractors' associations and professional bodies in the concerned fields;\n\"integrity agreement\" means an agreement between a procuring entity and a contractor which regulates ethical behaviour and integrity during a bidding process and execution of a contract;\n\"local authority\" means a city council, town council, township authority, district council, sub-district council or an administrative authority;\n\"local contractor\" means a contractor whose operation is based in Botswana, irrespective of the contractor's nationality or domicile;\n\"member\" means a member of the Board;\n\"model structure\" means a structure that is provided by the Authority for standardisation to ensure that-\n( a ) a procuring entity has the appropriate structure according to its capacity and matters it handles; and\n( b ) proper segregation of duties is in place;\n\"National Archives and Records Services\" has the same meaning assigned to it under the National Archives and Records Services Act (Cap. 59:04);\n\"National eProcurement System\" means the end-to-end electronic procurement system established under section 55;\n\"pre-qualification\" means a screening process designed to ensure that invitations to bid are confined to capable contractors;\n\"procurement\" means the acquisition in the public interest by any means, including purchase, rental, lease, hire-purchase, licence, tenancy, franchise, auction, reverse auction, public private partnership, of any type of works, services or supplies of any combination thereof, however classified, and includes management, maintenance, testing, training and commissioning;\n\"procurement agent\" means a natural person or an incorporated company engaged by a procuring entity to perform or carry out a procurement activity on behalf of the procuring entity in accordance with the provisions of this Act;\n\"procurement practitioner\" means any person or a procurement personnel who provides input in whatsoever form or contribution, in part or in full, or has been or will be involved in the process of public procurement, directly or indirectly;\n\"procuring entity\" means any Ministry or Department duly authorised to engage in public procurement, and includes-\n( a ) all entities of the central and local Government, and local authority which are involved in public procurement, whether they are located abroad or within Botswana;\n( b ) every public body, unless specifically exempted from the application of this Act by the Minister, under section 3; and\n( c ) any other body or entity that is the recipient of public funds and uses the said funds for public procurement purposes;\n\"public body\" means any office, organisation, establishment or body created by or under any enactment or under powers conferred by any enactment; or any organisation, trust, company or body where public moneys are used and includes-\n( a ) any Ministry or Department;\n( b ) a local authority;\n( c ) land board;\n( d ) statutory body; and\n( e ) a company registered under the Companies Act (Cap. 42:01) being a company in which the Government or an agency of the Government through holding of shares or otherwise, is in a position to direct the operations of that company;\n\"public funds\" means monetary resources appropriated to a procuring entity through budgetary processes, and includes the Consolidated Fund provided under the Public Finance Management Act, grant, loan and credit put at the disposal of the procuring entity by a local or foreign donor, and revenue generated by such procuring entity;\n\"Public Oversight Agencies\" means the Auditor-General's Office, the Directorate on Corruption and Economic Crime, the Financial Intelligence Agency, Competition and Consumer Protection Authority, the office of the Ombudsman and any other institution charged with the responsibility to oversee the activities of other Departments;\n\"public private partnership\" has the same meaning assigned to it under the Public Finance Management Act;\n\"registered contractor\" means a contractor registered by the Authority in accordance with this Act;\n\"repealed Act\" means the Public Procurement and Asset Disposal Act repealed under section 151;\n\"retroactive approval\" means a formal approval of a bid or invitation to tender made effective or operative as of a date prior to a procurement process;\n\"reverse auction\" means a purchasing technique utilised by a procuring entity to select a successful submission, which involves the presentation by a supplier or contractor of a successively lowered bid during a scheduled period of time and the evaluation of the bids;\n\"sensitive procurement\" means procurement of highly sensitive works, services, supplies and properties, or any combination thereof, however classified, which may require confidentiality or secrecy;\n\"services\" means all services, other than works and supplies, including banking services, insurance coverage services, travel services, cleaning services, and includes consultancy services, management, maintenance and commissioning;\n\"specifications\" means the national standards specifications, and includes-\n( a ) a generic or functional description of the qualities required of a procurement item;\n( b ) the relevant industry standards of approaching and executing the assignment in question; and\n( c ) the appropriate good practice tests that are to be used to verify the specified quality and performance of the procured item before delivery, on delivery, during installation and in the course of operation as applicable and the use of which shall be mandatory in all bidding packages;\n\"supplies\" means goods, raw materials, products, equipment or objects of any kind and description in solid, liquid or gaseous form, and in the form of electricity, as well as services incidental to the provision of such supplies;\n\"Tender Notice\" means any invitation to eligible contractors to submit written offers to provide works, services and supplies, or any combination thereof, however classified;\n\"Tribunal\" means the Public Procurement Tribunal established under section 114;\n\"unsolicited bid\" means a proposal that demonstrates substantial, technical or financial innovation, or meets an unidentified need submitted to a procuring entity for consideration in the absence of an invitation by the procuring entity; and\n\"works\" means any work associated with the construction, reconstruction, demolition, repair or renovation of a building or structure, on the surface or underground, on or under water, and includes the preparation, excavation, erection, assembly, installation, testing and commissioning of any plant, equipment or materials, decoration and finishing, as well as services incidental to or independent of the foregoing works such as drilling, mapping, satellite photography, seismic investigations, similar services, and any combination thereof, however classified, provided pursuant to a contract."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Application of Act in public procurement",
+      "content": "3. Application of Act in public procurement\nThis Act shall apply to-\n( a ) a Department;\n( b ) a public body, parastatal and statutory body, except where exempted by the Minister by Order published in the Gazette ;\n( c ) the procurement of assets acquired through-\n(i) purchase,\n(ii) rental,\n(iii) lease,\n(iv) hire-purchase,\n(v) licence,\n(vi) tenancy, or\n(vii) franchise;\n( d ) the procurement of all works, services, supplies, or any combination thereof, however classified; and\n( e ) the sensitive procurement of works, services, supplies, or any combination thereof, however classified."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary",
+      "section": "4",
+      "title": "Application of Act in public private partnership",
+      "content": "4. Application of Act in public private partnership\n(1) This Act shall apply to an approved procurement activity under a public private partnership.\n(2) The Minister may prescribe a structural arrangement, procedure and processes relating to a procurement activity under a public private partnership under this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART I Preliminary",
+      "section": "5",
+      "title": "Conflict with other laws",
+      "content": "5. Conflict with other laws\nIn the event of any conflict or inconsistency between the provisions of this Act and any other law on public procurement, the provisions of this Act shall take precedence."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Establishment of Public Procurement Regulatory Authority and Board",
+      "section": "6",
+      "title": "Continuation of Authority",
+      "content": "6. Continuation of Authority\n(1) The Public Procurement and Asset Disposal Board established under section 10 of the repealed Act repealed under this Act is hereby continued under the new name of the Public Procurement Regulatory Authority and shall continue as if established under this Act.\n(2) The Authority shall be a body corporate capable of suing and being sued in its own name and, subject to the provisions of this Act, of performing such acts as bodies corporate may, by law, perform including to-\n( a ) acquire and sell such movable and immovable property as may be necessary for the efficient operation of the Authority; and\n( b ) enter into such contracts as may be required under the seal, and for the efficient operation, of the Authority."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Establishment of Public Procurement Regulatory Authority and Board",
+      "section": "7",
+      "title": "Objectives of Authority",
+      "content": "7. Objectives of Authority\n(1) The Authority shall be responsible for the implementation and enforcement of this Act.\n(2) Notwithstanding the generality of subsection (1), the Authority shall-\n( a ) set standards and practices for the public procurement system;\n( b ) regulate and control the public procurement system;\n( c ) ensure the application of fair, equitable, competitive, transparent, accountable, efficient, non-discriminatory, honest, value for money and public confidence in procurement standards and practices;\n( d ) monitor and enforce compliance with this Act and any relevant law by a procuring entity;\n( e ) monitor the performance of a procuring entity in procurement activity; and\n( f ) provide and support capacity building of all procuring entities and stakeholders in the procurement system."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Establishment of Public Procurement Regulatory Authority and Board",
+      "section": "8",
+      "title": "Functions of Authority",
+      "content": "8. Functions of Authority\n(1) Notwithstanding the generality of subsection (2), the Authority shall-\n( a ) monitor, assess, review and report on the performance of the public procurement system to the Minister and advise on desirable changes;\n( b ) issue standardised bidding documents to a procuring entity;\n( c ) issue a model structure for a procuring entity taking into account the separation of duties, efficiency, transparency, good corporate governance, and any other principle of public procurement;\n( d ) conduct periodic inspections of the records and proceedings of a procuring entity to ensure compliance with this Act;\n( e ) institute periodically, in respect of any procurement-\n(i) a procurement audit during a tender process,\n(ii) a contract audit in the course of execution of an awarded tender,\n(iii) a performance audit after the completion of a contract, and\n(iv) an investigation at any stage of a procurement process;\n( f ) develop and maintain a system for the publication of annual performance plans, data on public procurement opportunities, awards and any other information of public interest as may be determined by the Authority;\n( g ) advise the Government and any entity that falls within the scope of this Act on the procurement principles and practices;\n( h ) register, monitor and discipline contractors, and keep and maintain an up-to-date Contractors' Register;\n( i ) undertake research and conduct surveys, nationally and internationally, on procurement matters;\n( j ) issue a code of conduct, guidelines, standards, directives, procedures, instructions and manuals for the implementation of this Act;\n( k ) promote the training and professional development of any person engaged in public procurement in accordance with this Act, including contractors, to ensure adherence to ethical standards;\n( l ) ensure the implementation of a preference and reservation scheme by a procuring entity in respect of a procurement matter that falls within the scope of this Act;\n( m ) determine the policies relating to, and terms and conditions of service of the employees of the Authority;\n( n ) determine the financial arrangements and any ancillary management issue relating to the Authority;\n( o ) issue administrative sanctions and enforcement procedures, as may be prescribed, to ensure compliance with the provisions of this Act; and\n( p ) carry out any other functions as are conferred by the law.\n(2) The Authority shall periodically, and in consultation with a procuring entity, contractor and Public Oversight Agencies, make recommendations to the Minister on any policy matter the Government may adopt involving public procurement."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Establishment of Public Procurement Regulatory Authority and Board",
+      "section": "9",
+      "title": "Functions of Authority in professionalisation of procurement personnel",
+      "content": "9. Functions of Authority in professionalisation of procurement personnel\n(1) The Authority shall establish and setup an appropriate structure to regulate and register procurement personnel, and oversee any other matter relating to the professionalisation of procurement personnel.\n(2) Notwithstanding the generality of subsection (1), the Authority shall-\n( a ) establish, develop and implement a public procurement professional training program;\n( b ) establish, monitor and publish standards for a procurement professional;\n( c ) undertake accreditation and registration of a procurement practitioner;\n( d ) establish requirements for, and monitoring of, continuous professional education or development programs;\n( e ) establish, publish and review a code of professional conduct and ethics for public procurement practitioners which shall be consistent with international best practice;\n( f ) determine practical training requirements for the purpose of registration of a procurement practitioner;\n( g ) inquire into any professional misconduct of any procurement practitioner, either on its own initiative or at the request of any person for violation or breach of a code of professional conduct and ethics, rules and standards;\n( h ) determine the appropriate entry category and qualification requirement for registration as a procurement practitioner;\n( i ) debar, de-register, take disciplinary measures or suspend a procurement practitioner for a breach of code of professional conduct and ethics; and\n( j ) perform such other functions as may be necessary for the professionalisation of procurement personnel under this Act.\n(3) The Authority may delegate its functions in professionalisation under this section to any self-regulatory body that it may determine."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II Establishment of Public Procurement Regulatory Authority and Board",
+      "section": "10",
+      "title": "Powers of Authority",
+      "content": "10. Powers of Authority\n(1) The Authority shall, in the exercise of its functions in accordance with sections 8 and 9, have the power to-\n( a ) require any information, document, record or report in respect of any aspect of a public procurement process where a breach, wrongdoing, mismanagement or collusion has been alleged, reported or proven against any procuring entity or bidder, or against any entity outside of Government which has been a beneficiary of a Government contribution for a procurement activity;\n( b ) summon a witness, call for the production of books of accounts, plans, documents and examine a witness and any party concerned under oath;\n( c ) commission or undertake an investigation; and\n( d ) request for any professional or technical assistance from any appropriate body or person in Botswana or elsewhere.\n(2) The Authority shall not incur any liability towards a procuring entity or any other entity or person interested in a tender under review or investigation under this section.\n(3) Notwithstanding anything contrary provided for in any other written law, the Authority may, after conducting an investigation referred to under subsection (1)( c ) and it is reasonably satisfied that there is a contravention of any provision of this Act, take any remedial action as may be prescribed.\n(4) The Authority shall in its Annual Performance Evaluation Report include-\n( a ) the complaints investigated and its findings;\n( b ) its recommendations on the corrective measures to be taken in each case;\n( c ) the response and action taken by the-\n(i) respective competent authority,\n(ii) procuring entity, and\n(iii) Public Oversight Agencies;\n( d ) any other remedial measures taken; and\n( e ) the performance of the Authority in relation to its other functions under this Act."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II Establishment of Public Procurement Regulatory Authority and Board",
+      "section": "11",
+      "title": "Delegation of functions and powers of Authority",
+      "content": "11. Delegation of functions and powers of Authority\n(1) The Authority may, in writing, delegate any of its functions or powers to a-"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Accounting Officer",
+      "definition": "a person who is responsible for the administration and day-to-day management of the affairs of a procuring entity, and any other person, who may be designated as such by the Minister under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Public Procurement Regulatory Authority continued under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bid",
+      "definition": "a written offer in the form determined by an instruction, in response to an invitation for the procurement of works, services or supplies to submit an offer, including an unsolicited bid",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bidder",
+      "definition": "a contractor who responds to an invitation to bid by submitting an offer in procurement proceedings",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bidding package",
+      "definition": "an invitation to tender, solicitation documents, a statement of requirements or any other documents inviting bidders to participate in procurement proceedings, including documents inviting potential bidders for pre-qualification",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Public Procurement Regulatory Authority Board established under section 12",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Executive Officer",
+      "definition": "the Chief Executive Officer of the Authority appointed under section 26",
+      "source_provision": "s2"
+    },
+    {
+      "term": "citizen contractor",
+      "definition": "a natural person or an incorporated company wholly owned and controlled by persons who are citizens of Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "code of conduct",
+      "definition": "a code of conduct of contractors provided for under section 99",
+      "source_provision": "s2"
+    },
+    {
+      "term": "common use items",
+      "definition": "works, services or supplies that are usable by a procuring entity irrespective of type or category, and items as may be prescribed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "competent authority",
+      "definition": "a person, body of persons, organ or agency competent to take action as may be referred to or directed to it by the Authority, or any other person authorised, under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consultancy services",
+      "definition": "activities of an intellectual and advisory nature that do not lead to a measurable physical output and include design, supervision, training, advisory, auditing, software development and similar services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contract",
+      "definition": "an agreement between a procuring entity and a contractor resulting from the application of the appropriate and approved procurement procedures and proceedings, and concluded in pursuance of a bid award decision",
+      "source_provision": "s2"
+    },
+    {
+      "term": "service provider",
+      "definition": "a natural person or an incorporated body licensed by a competent authority to undertake works, services, supplies or any combination thereof, however classified",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Contractors' Register",
+      "definition": "a Contractors' Register kept and maintained by the Authority in accordance with Part XIII",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cooling-off period",
+      "definition": "the period which starts from the time of the publication of an award decision to a bidder for a period provided under section 104(1)( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "day",
+      "definition": "a day of the week other than Saturday, Sunday or a public holiday under the Public Holidays Act (Cap. 03:07)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Department",
+      "definition": "a public entity, extra ministerial body or a subdivision of the central Government, including state-owned entities, local authorities, Land Boards, parastatals, schools and hospitals that derive their regular funding from the Consolidated Fund",
+      "source_provision": "s2"
+    },
+    {
+      "term": "emergency",
+      "definition": "a natural disaster, epidemic, pandemic, riot, war, fire, flood or any other situation that may result in the threat to-\n( a ) life",
+      "source_provision": "s2"
+    },
+    {
+      "term": "eProcurement",
+      "definition": "the process of procurement using electronic medium",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Evaluation Committee",
+      "definition": "an ad hoc committee set up by the Accounting Officer to review and evaluate proposals submitted in response to an invitation to bid and make selection recommendation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "framework contract",
+      "definition": "a contractual arrangement which allows a procuring entity to procure goods, services or works that are needed continuously or repeatedly at an agreed price over an agreed period of time through placement of orders as and when the need arises",
+      "source_provision": "s2"
+    },
+    {
+      "term": "immediate family member",
+      "definition": "assigned to it under the Corruption and Economic Crime Act (Cap. 08:05)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "industry standards",
+      "definition": "best practices, and include practices and standards which-\n( a ) are safe and environmentally friendly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "integrity agreement",
+      "definition": "an agreement between a procuring entity and a contractor which regulates ethical behaviour and integrity during a bidding process and execution of a contract",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local authority",
+      "definition": "a city council, town council, township authority, district council, sub-district council or an administrative authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local contractor",
+      "definition": "a contractor whose operation is based in Botswana, irrespective of the contractor's nationality or domicile",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "model structure",
+      "definition": "a structure that is provided by the Authority for standardisation to ensure that-\n( a ) a procuring entity has the appropriate structure according to its capacity and matters it handles",
+      "source_provision": "s2"
+    },
+    {
+      "term": "National Archives and Records Services",
+      "definition": "assigned to it under the National Archives and Records Services Act (Cap. 59:04)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "National eProcurement System",
+      "definition": "the end-to-end electronic procurement system established under section 55",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pre-qualification",
+      "definition": "a screening process designed to ensure that invitations to bid are confined to capable contractors",
+      "source_provision": "s2"
+    },
+    {
+      "term": "procurement",
+      "definition": "the acquisition in the public interest by any means, including purchase, rental, lease, hire-purchase, licence, tenancy, franchise, auction, reverse auction, public private partnership, of any type of works, services or supplies of any combination thereof, however classified, and includes management, maintenance, testing, training and commissioning",
+      "source_provision": "s2"
+    },
+    {
+      "term": "procurement agent",
+      "definition": "a natural person or an incorporated company engaged by a procuring entity to perform or carry out a procurement activity on behalf of the procuring entity in accordance with the provisions of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "procurement practitioner",
+      "definition": "any person or a procurement personnel who provides input in whatsoever form or contribution, in part or in full, or has been or will be involved in the process of public procurement, directly or indirectly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "procuring entity",
+      "definition": "any Ministry or Department duly authorised to engage in public procurement, and includes-\n( a ) all entities of the central and local Government, and local authority which are involved in public procurement, whether they are located abroad or within Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public body",
+      "definition": "any office, organisation, establishment or body created by or under any enactment or under powers conferred by any enactment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public funds",
+      "definition": "monetary resources appropriated to a procuring entity through budgetary processes, and includes the Consolidated Fund provided under the Public Finance Management Act, grant, loan and credit put at the disposal of the procuring entity by a local or foreign donor, and revenue generated by such procuring entity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Public Oversight Agencies",
+      "definition": "the Auditor-General's Office, the Directorate on Corruption and Economic Crime, the Financial Intelligence Agency, Competition and Consumer Protection Authority, the office of the Ombudsman and any other institution charged with the responsibility to oversee the activities of other Departments",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public private partnership",
+      "definition": "assigned to it under the Public Finance Management Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered contractor",
+      "definition": "a contractor registered by the Authority in accordance with this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "the Public Procurement and Asset Disposal Act repealed under section 151",
+      "source_provision": "s2"
+    },
+    {
+      "term": "retroactive approval",
+      "definition": "a formal approval of a bid or invitation to tender made effective or operative as of a date prior to a procurement process",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reverse auction",
+      "definition": "a purchasing technique utilised by a procuring entity to select a successful submission, which involves the presentation by a supplier or contractor of a successively lowered bid during a scheduled period of time and the evaluation of the bids",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sensitive procurement",
+      "definition": "procurement of highly sensitive works, services, supplies and properties, or any combination thereof, however classified, which may require confidentiality or secrecy",
+      "source_provision": "s2"
+    },
+    {
+      "term": "services",
+      "definition": "all services, other than works and supplies, including banking services, insurance coverage services, travel services, cleaning services, and includes consultancy services, management, maintenance and commissioning",
+      "source_provision": "s2"
+    },
+    {
+      "term": "specifications",
+      "definition": "the national standards specifications, and includes-\n( a ) a generic or functional description of the qualities required of a procurement item",
+      "source_provision": "s2"
+    },
+    {
+      "term": "supplies",
+      "definition": "goods, raw materials, products, equipment or objects of any kind and description in solid, liquid or gaseous form, and in the form of electricity, as well as services incidental to the provision of such supplies",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Tender Notice",
+      "definition": "any invitation to eligible contractors to submit written offers to provide works, services and supplies, or any combination thereof, however classified",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Tribunal",
+      "definition": "the Public Procurement Tribunal established under section 114",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unsolicited bid",
+      "definition": "a proposal that demonstrates substantial, technical or financial innovation, or meets an unidentified need submitted to a procuring entity for consideration in the absence of an invitation by the procuring entity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "works",
+      "definition": "any work associated with the construction, reconstruction, demolition, repair or renovation of a building or structure, on the surface or underground, on or under water, and includes the preparation, excavation, erection, assembly, installation, testing and commissioning of any plant, equipment or materials, decoration and finishing, as well as services incidental to or independent of the foregoing works such as drilling, mapping, satellite photography, seismic investigations, similar services, and any combination thereof, however classified, provided pursuant to a contract.",
+      "source_provision": "s2"
+    }
+  ]
+}

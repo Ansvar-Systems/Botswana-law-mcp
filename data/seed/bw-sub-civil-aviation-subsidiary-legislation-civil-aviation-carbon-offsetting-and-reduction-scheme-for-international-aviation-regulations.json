@@ -1,0 +1,49 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-carbon-offsetting-and-reduction-scheme-for-international-aviation-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (carbon Offsetting and Reduction Scheme for International Aviation) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (carbon Offsetting and Reduction Scheme for International Aviation) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-carbon-offsetting-and-reduction-scheme-for-international-aviation-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Carbon Offsetting and Reduction Scheme for International Aviation) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"international flight\" means the operation of an aircraft from take-off at an aerodrome of a contracting State or its territories, and landing at an aerodrome of another contracting State or its territories; and\n\"operator\" means a person engaged in or offering to engage in an aircraft operation."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Duties of operators",
+      "content": "3. Duties of operators\nAn operator of an international flight which directly or indirectly impacts climate change shall comply with the carbon offsetting and reduction scheme for international aviation requirements set out in the Schedule."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Offences and penalties",
+      "content": "4. Offences and penalties\nA person who contravenes these Regulations shall be liable to a fine not exceeding P50 000, or to imprisonment for a term not exceeding six months, or to both."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "international flight",
+      "definition": "the operation of an aircraft from take-off at an aerodrome of a contracting State or its territories, and landing at an aerodrome of another contracting State or its territories",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operator",
+      "definition": "a person engaged in or offering to engage in an aircraft operation.",
+      "source_provision": "s2"
+    }
+  ]
+}

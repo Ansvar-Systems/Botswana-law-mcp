@@ -1,0 +1,129 @@
+{
+  "id": "bw-act-economic-inclusion-act",
+  "type": "statute",
+  "title": "Economic Inclusion",
+  "title_en": "Economic Inclusion",
+  "short_name": "Economic Inclusion",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/economic-inclusion-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Economic Inclusion Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise provides—\n\"citizen owned enterprise\" means an enterprise wholly owned by a targeted citizen or jointly by targeted citizens;\n\"Coordinator\" means the Coordinator of the Office appointed under section 5;\n\"economic empowerment\" means the capacitation of a targeted person to participate, contribute and benefit from economic growth processes;\n\"empowerment\" means any practice, scheme or programme aimed at enhancing and promoting economic empowerment;\n\"fronting\" means obtaining an economic empowerment initiative, programme or scheme benefit to enable another person, who would otherwise not qualify to obtain such an empowerment benefit;\n\"graduation model\" means gradual reduction of support while developing entrepreneurial culture;\n\"medium enterprise\" has the same meaning assigned to it under the Industrial Development Act (Cap. 43:01);\n\"micro enterprise\" has the same meaning assigned to it under the Industrial Development Act;\n\"non-state actor\" means any other entity other than that owned by the State;\n\"Office\" means the Economic Empowerment Office established under section 4;\n\"professional body\" means an organisation with individual members practising a profession or occupation in which the organisation maintains an oversight over the knowledge, skills, conduct and practice of that profession or occupation;\n\"public body\" means any office, organisation, establishment or body created by or under any enactment or under powers conferred by any enactment; or any organisation, trust, company or body where public moneys are used, and includes—\n( a ) any Ministry or Department;\n( b ) a local authority;\n( c ) land board;\n( d ) statutory body; and\n( e ) a company registered under the Companies Act (Cap. 42:01) being a company in which the Government or an agency of the Government through holding of shares or otherwise, is in a position to direct the operations of that company; and\n\"targeted citizen\" means a citizen whose access to economic resources has been constrained by various factors as may be prescribed by the Minister from time to time."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThis Act shall apply to all sectors of the economy, the State and its related State-owned entities and agencies (public body), and any private sector employer that plays a significant role in economic empowerment."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Institutional Framework",
+      "section": "4",
+      "title": "Establishment of Economic Empowerment Office",
+      "content": "4. Establishment of Economic Empowerment Office\n(1) There is hereby established an Economic Empowerment Office which shall direct the action of State ministries, agencies or entities in relation to economic empowerment initiatives.\n(2) The Office shall consist of a Coordinator and such other staff, as may be necessary for the proper performance of the functions of the Office.\n(3) The Office shall be a public office and accordingly, the provisions of the Public Service Act (Cap. 26:01) shall, with such modifications as may be necessary, apply to the Coordinator and to his or her staff."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Institutional Framework",
+      "section": "5",
+      "title": "Appointment of Coordinator",
+      "content": "5. Appointment of Coordinator\n(1) There shall be a Coordinator who shall be appointed by the Minister on such terms and conditions as the Minister may determine.\n(2) A person appointed as a Coordinator shall hold office for a five year renewable term or until he or she attains the age of 60 years, whichever is the earlier.\n(3) The Coordinator shall be responsible for the direction and administration of the Office."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Institutional Framework",
+      "section": "6",
+      "title": "Functions of Economic Empowerment Office",
+      "content": "6. Functions of Economic Empowerment Office\nThe Office shall be responsible for—\n( a ) the promotion of the economic empowerment of targeted citizens;\n( b ) overseeing and coordinating implementation of the relevant existing economic empowerment laws, policies, initiatives and programmes;\n( c ) ensuring an integrated, coordinated and uniform approach to economic empowerment;\n( d ) ensuring the promotion and facilitation of ownership of income generating activities and assets by targeted citizens;\n( e ) strengthening the ability of a targeted citizen to own, manage and control a private sector enterprise and productive assets;\n( f ) ensuring designation of types of businesses that may be operated by targeted citizens, jointly or in partnerships with foreign owned businesses;\n( g ) ensuring funding for economic empowerment laws, policies, initiatives and programmes;\n( h ) monitoring and measuring implementation of economic empowerment laws, policies, initiatives and programmes;\n( i ) developing and maintaining a comprehensive database on every targeted citizen owned enterprise, targeted citizen and groups of citizens or co-operatives;\n( j ) ensuring a well maintained sector and multi-sector economic empowerment information management systems and intensive information dissemination;\n( k ) developing and supervising an effective mechanism for monitoring trends of economic empowerment activities and for evaluating impact or results;\n( l ) ensuring compliance, fostering accountability as well as ensuring ease of monitoring and evaluation of economic empowerment laws, policies, initiatives and programmes;\n( m ) facilitating enforcement of the economic empowerment laws, policies, initiatives and programmes;\n( n ) continuously reviewing the economic empowerment laws, policies, initiatives and programmes, and advising on required changes to related laws, policies, initiatives and programmes; and\n( o ) advising on any relevant training to be provided to a targeted citizen."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Institutional Framework",
+      "section": "7",
+      "title": "Directions by Minister",
+      "content": "7. Directions by Minister\nThe Minister may give the Coordinator directions of a general or specific nature regarding the exercise of his or her powers in the performance of his or her functions, which directions shall not be inconsistent with this Act, and the Coordinator shall give effect to any such directions."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "citizen owned enterprise",
+      "definition": "an enterprise wholly owned by a targeted citizen or jointly by targeted citizens",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Coordinator",
+      "definition": "the Coordinator of the Office appointed under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "economic empowerment",
+      "definition": "the capacitation of a targeted person to participate, contribute and benefit from economic growth processes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "empowerment",
+      "definition": "any practice, scheme or programme aimed at enhancing and promoting economic empowerment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fronting",
+      "definition": "obtaining an economic empowerment initiative, programme or scheme benefit to enable another person, who would otherwise not qualify to obtain such an empowerment benefit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "graduation model",
+      "definition": "gradual reduction of support while developing entrepreneurial culture",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medium enterprise",
+      "definition": "assigned to it under the Industrial Development Act (Cap. 43:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "micro enterprise",
+      "definition": "assigned to it under the Industrial Development Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "non-state actor",
+      "definition": "any other entity other than that owned by the State",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Office",
+      "definition": "the Economic Empowerment Office established under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "professional body",
+      "definition": "an organisation with individual members practising a profession or occupation in which the organisation maintains an oversight over the knowledge, skills, conduct and practice of that profession or occupation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public body",
+      "definition": "any office, organisation, establishment or body created by or under any enactment or under powers conferred by any enactment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "targeted citizen",
+      "definition": "a citizen whose access to economic resources has been constrained by various factors as may be prescribed by the Minister from time to time.",
+      "source_provision": "s2"
+    }
+  ]
+}

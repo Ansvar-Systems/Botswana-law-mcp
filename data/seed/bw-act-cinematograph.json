@@ -1,0 +1,107 @@
+{
+  "id": "bw-act-cinematograph",
+  "type": "statute",
+  "title": "Cinematograph",
+  "title_en": "Cinematograph",
+  "short_name": "Cinematograph",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/cinematograph",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Cinematograph Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"admitted\" means admitted whether on payment or gratuitously;\n\"Board\" means the Board of Censors established by section 10;\n\"certificate of approval\" means a certificate issued by the Board under section 15;\n\"cinema\" means any building, premises or place at which films are publicly exhibited, whether for one or more performances;\n\"exhibit\" means give or make, or cause or permit to be given or made, or take part or assist in the giving or making of any exhibition;\n\"exhibition\" means the projection of a film or other optical effect by means of a cinematograph or similar apparatus;\n\"film\" means a cinematograph film, and includes any commentary (whether spoken and whether the person speaking appears in the film or not), and any music or other sound effect, associated with the film, and any part of a film;\n\"licensing authority\" means a licensing authority appointed under section 18;\n\"making of a film\" means the acts of photographing, performing or otherwise taking part in or arranging any scenes or episodes for the purpose of the production of a film;\n\"poster\" means any poster or other advertisement advertising a film or exhibition;\n\"public exhibition\" and \"public performance\" mean, respectively an exhibition and a performance to which the public are admitted, whether on payment or gratuitously."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Making of Films",
+      "section": "3",
+      "title": "No film to be made without filming permit",
+      "content": "3. No film to be made without filming permit\n(1) Subject to the provisions of section 9, no film shall be made within Botswana for public exhibition or sale either within or outside Botswana except under and in accordance with the terms and conditions of a filming permit issued by the Minister under this Part.\n(2) Where any film is made in contravention of subsection (1), the producer, proprietor, promoter and photographer thereof, and every other person engaged in the making of the film, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Making of Films",
+      "section": "4",
+      "title": "Application for filming permits",
+      "content": "4. Application for filming permits\nEvery application for a filming permit shall be made to the Minister in writing and shall be accompanied by a full description of the scenes in, and the full text of the spoken parts (if any) of, the entire film which is to be made, notwithstanding that part of the film is made or to be made outside Botswana:\nProvided that the Minister may, in his discretion in any particular case, accept an application notwithstanding that it is not accompanied by such description and text if he has been given such other information as he requires for the determination of the application."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Making of Films",
+      "section": "5",
+      "title": "Filming permits",
+      "content": "5. Filming permits\n(1) The Minister may issue a filming permit for which application has been made to him under this Act, or may issue it subject to the condition that a person appointed for the purpose by him shall be present at the making of the film, and to such other conditions as he may think fit.\n(2) Before granting a filming permit, the Minister may require the applicant to enter into a bond, with or without sureties in such sum (not exceeding P500) as the Minister may require, to ensure that the film, so far as it is made, is made in accordance with—\n( a ) the conditions (if any) contained in the filming permit; and\n( b ) the description, text and other information supplied to the Minister, with any alterations and additions for which permission has been granted under section 6."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Making of Films",
+      "section": "6",
+      "title": "Alterations and additions to films",
+      "content": "6. Alterations and additions to films"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "admitted",
+      "definition": "admitted whether on payment or gratuitously",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of Censors established by section 10",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate of approval",
+      "definition": "a certificate issued by the Board under section 15",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cinema",
+      "definition": "any building, premises or place at which films are publicly exhibited, whether for one or more performances",
+      "source_provision": "s2"
+    },
+    {
+      "term": "exhibit",
+      "definition": "give or make, or cause or permit to be given or made, or take part or assist in the giving or making of any exhibition",
+      "source_provision": "s2"
+    },
+    {
+      "term": "exhibition",
+      "definition": "the projection of a film or other optical effect by means of a cinematograph or similar apparatus",
+      "source_provision": "s2"
+    },
+    {
+      "term": "film",
+      "definition": "a cinematograph film, and includes any commentary (whether spoken and whether the person speaking appears in the film or not), and any music or other sound effect, associated with the film, and any part of a film",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensing authority",
+      "definition": "a licensing authority appointed under section 18",
+      "source_provision": "s2"
+    },
+    {
+      "term": "making of a film",
+      "definition": "the acts of photographing, performing or otherwise taking part in or arranging any scenes or episodes for the purpose of the production of a film",
+      "source_provision": "s2"
+    },
+    {
+      "term": "poster",
+      "definition": "any poster or other advertisement advertising a film or exhibition",
+      "source_provision": "s2"
+    }
+  ]
+}

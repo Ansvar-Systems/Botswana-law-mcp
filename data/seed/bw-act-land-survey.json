@@ -1,0 +1,174 @@
+{
+  "id": "bw-act-land-survey",
+  "type": "statute",
+  "title": "Land Survey",
+  "title_en": "Land Survey",
+  "short_name": "Land Survey",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/land-survey",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Land Survey Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act unless the context otherwise requires—\n\"approve\" , in relation to the Director and to any general plan or diagram, means the signing of such general plan or diagram in order to signify that the requirements of this Act have been complied with in regard to such general plan or diagram;\n\"Council\" means the Land Surveyors' Council established under section 4;\n\"Deeds Registry\" means the deeds registry established under section 3 of the Deeds Registry Act (Cap. 33:02);\n\"diagram\" means a document containing geometrical, numerical and verbal representations of a piece of land, which has been signed by a land surveyor and which has been approved or certified by the Director or other officer empowered under this Act so to approve or certify a diagram and includes a diagram or copy thereof prepared in the Director's office and approved or certified as aforesaid or a document which has, at any time prior to the commencement of this Act, been accepted as a diagram in the Deeds Registry; but does not include a diagram attached to or issued with a certificate of occupation to land situate in the District of Ghanzi;\n\"Director\" means the Director of Surveys and Lands;\n\"general plan\" means a plan representing the relative positions and dimensions of five or more pieces of land, which has been signed by a land surveyor and which has been approved or certified as a general plan by the Director or other officer empowered under this Act to do so and includes a general plan or a copy thereof in the Director's office and approved or certified as aforesaid or a general plan which has, at anytime prior to the commencement of this Act, been accepted as a general plan in the Deeds Registry;\n[ 9 of 2011, s. 3(a). ]\n\"land surveyor\" means a person recognised as such for the purposes of this Act;\n\"member\" means a member of the Council appointed under section 4A;\n[ 9 of 2011, s. 3(b). ]\n\"owner\" , in relation to land, means the person registered in the Deeds Registry as the owner of such land and includes the liquidator of a company or the representative recognised by law of any owner who has died, become insolvent, assigned his estate, is a minor or of unsound mind or is otherwise under disability where such liquidator or representative is acting within the powers conferred on him by law; and includes the person in whom the ownership of land is vested by statute and the allottee of land held under provisional title and in process of alienation by the State;\n\"public place\" means any street, road, avenue, path, lane, sanitary lane, thoroughfare, square, park, recreation ground, public sports ground, public aerodrome or open space shown on a general plan and all land (other than lots shown on a general plan) the control whereof is vested, to the entire exclusion of the owner, in either the State or a local authority;\n\"reference mark\" means a survey mark of permanent construction placed in a township, village or settlement to form one of a system of such marks for the purpose of basing the survey or resurvey of the pieces of land in such township, village or settlement thereon or connecting such survey or resurvey thereto;\n\"Registrar\" means the Registrar of Deeds;\n\"registration\" , in relation to any land, means a registration of any real right in or to such land in accordance with the provisions of the law relating to the registration of deeds, and \"registered\" shall have a corresponding meaning;\n\"secondary triangulation\" or \"tertiary triangulation\" means a triangulation which in the opinion of the Director is of the order of a secondary or tertiary triangulation, as the case may be, according to the classification generally recognised in surveying in Southern Africa;\n\" subdivision\" means the division of any land, other than buildings, into two or more parts;\n[ 9 of 2011, s. 3(b). ]\n\"the court\" means the High Court of Botswana or any judge thereof;\n\"township, village or settlement\" means a group of pieces of land which are used for residential, industrial, agricultural, horticultural or similar purposes or are intended or destined or likely to be used for any such purpose;\n\"unit of land measure\" has the meaning assigned to it under section 47."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Director of Surveys and Lands",
+      "content": "3. Director of Surveys and Lands\n(1) There shall be a Director of Surveys and Lands for Botswana.\n(2) Subject to the provisions of this Act, the Director shall—\n( a ) supervise and control the survey and charting of land for purposes of registration in the Deeds Registry;\n( b ) take charge of and preserve all records appertaining to surveys of land which, prior to the commencement of this Act, were preserved as records of Botswana in the office of the Surveyor-General for the Province of the Cape of Good Hope of the Republic of South Africa, or which hereafter may become records of his office;\n( c ) examine all general plans and diagrams of surveys of land before any registration of such land is effected in the Deeds Registry, and approve all such plans and diagrams if he is satisfied that such surveys have been properly carried out;\n( d ) on the diagram of any piece of land—\n(i) define the geometrical figure representing any portion of such land the transfer whereof has been registered in the Deeds Registry, and deduct the numerical extent of such portion;\n(ii) define the geometrical figure representing any portion thereof for which a certificate of township title or a certificate of registered title has been issued under the provisions of the law relating to the registration of deeds, and deduct the numerical extent of such portion;\n( e ) cancel or amend in accordance with the provisions of any law any general plan or diagram found to be incorrect;\n( f ) prepare, certify and issue, at the request of any person and on payment by such person of such fees as may be prescribed, copies of diagrams and other documents filed in his office which are available to the public, and copies of general plans and diagrams registered in the Deeds Registry;\n( g ) compile and amend from time to time such maps as may be required by the Government,\nand generally exercise all such powers and perform all such duties as are by any law conferred or imposed upon him.\n(3) Any officer employed in the Director's office who is a land surveyor may, if deputed by the Director, do any act or thing which may lawfully be done under this Act or any other law by such Director and any other officer employed in the Director's office may, if deputed by the Director, do any act or thing which may lawfully be done under subsection (2)( d ) and ( g )."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary",
+      "section": "4",
+      "title": "Land Surveyors' Council",
+      "content": "4. Land Surveyors' Council\n(1) There is hereby established a Council, to be known as the Land Surveyors' Council, which shall consist of the following members—\n( a ) the Director who shall be the Chairperson of the Council;\n( b ) two land surveyors from the Surveys and Mapping Department appointed by the Minister;\n( c ) two land surveyors from the land boards appointed by the Minister; and\n( d ) two land surveyors from the private sector, elected by the Botswana Surveying and Mapping Association and appointed by the Minister.\n[ 9 of 2011, s. 4. ]\n(2) Every member shall take an oath of affirmation in the form prescribed.\n[ 9 of 2011, s. 4. ]\n(3) The Council may, through its Chairperson, continue to function although not meeting and every act so performed during such time shall be approved, in writing, by a majority of its members.\n[ 9 of 2011, s. 4. ]\n(4) Notice of an appointment of a member shall be published in the Gazette .\n[ 9 of 2011, s. 4. ]"
+    },
+    {
+      "provision_ref": "s4A",
+      "chapter": "PART I Preliminary",
+      "section": "4A",
+      "title": "Minister's power to appoint members required to be elected",
+      "content": "4A. Minister's power to appoint members required to be elected\n(1) The Minister shall appoint a member where the Botswana Surveying and Mapping Association fails, neglects or refuses to elect a member—\n( a ) within 21 days of notification by the Minister to elect a member; or\n( b ) within the period referred to in section 4D to fill a vacancy in terms thereof.\n[ 9 of 2011, s. 4. ]\n(2) A member appointed under—\n( a ) subsection (1)( a ) shall hold office for such period, not exceeding two years, as the Minister may determine; and\n( b ) subsection (1)( b ) shall hold office in accordance with section 4D, and shall be deemed to have been duly elected to the Council.\n[ 9 of 2011, s. 4. ]"
+    },
+    {
+      "provision_ref": "s4B",
+      "chapter": "PART I Preliminary",
+      "section": "4B",
+      "title": "Tenure of office",
+      "content": "4B. Tenure of office\n(1) A member shall hold office for such period, not exceeding three years, as may be specified in the notice appointing him.\n[ 9 of 2011, s. 4. ]\n(2) On the expiry of a member's term of office, he shall continue to hold office until a successor has been elected or a period of three months has elapsed, whichever occurs first.\n[ 9 of 2011, s. 4. ]\n(3) Notwithstanding the provisions of subsection (1), the Chairperson shall hold office for a period of three years.\n[ 9 of 2011, s. 4. ]\n(4) A member whose term of office expires shall be eligible for re-appointment as a member.\n[ 9 of 2011, s. 4. ]"
+    },
+    {
+      "provision_ref": "s4C",
+      "chapter": "PART I Preliminary",
+      "section": "4C",
+      "title": "Disqualification, removal and resignation",
+      "content": "4C. Disqualification, removal and resignation\n(1) No person shall be appointed or elected as a member or be qualified to continue to hold office as a member who has—\n( a ) in terms of a law in force in any country—\n(i) been adjudged or otherwise declared bankrupt or insolvent and has not been discharged, or\n(ii) made an assignment, arrangement or composition with his creditors, which has not been rescinded or set aside; or\n( b ) within a period of 10 years immediately preceding the date of his proposed appointment, been convicted—\n(i) in Botswana, of a criminal offence;\n(ii) outside Botswana, of an offence which if committed in Botswana, would have been a criminal offence, and sentenced by a court of competent jurisdiction to imprisonment for six months or more without the option of a fine, whether that sentence has been suspended or not, and for which he has not received a free pardon.\n[ 9 of 2011, s. 4. ]\n(2) The Council may, by notice in writing, remove a member from office where the member\n( a ) is absent without reasonable cause from three consecutive meetings of the Council of which he has had notice;\n( b ) is inefficient;\n( c ) has been found to be physically or mentally incapable of performing his duties efficiently, and his medical doctor has issued a certificate to that effect; or\n( d ) has failed to comply with the provisions of section 5C.\n[ 9 of 2011, s. 4. ]\n(3) A member may resign from office by giving 30 days notice in writing to the Chairperson.\n[ 9 of 2011, s. 4. ]\n(4) The office of a member shall become vacant after—\n( a ) a period of 30 days from the date a ruling against the member is made on all appeals made in respect of charges levelled against him under subsection (1)( b );\n( b ) a period of 30 days has elapsed from the date the member has given notice in writing to the Chairperson under subsection (3), of his intention to resign;\n( c ) a period of 30 days has elapsed from the date the member is given notice in writing by the Chairperson to vacate office; or\n( d ) the member is summarily dismissed by the Council on the grounds of contravening a provision of this Act or for misconduct under subsection (2)( d ).\n[ 9 of 2011, s. 4. ]\n(5) For purposes of subsection (2), \"misconduct\" includes any act done without reasonable excuse by a member which—\n( a ) amounts to failure to perform in a proper manner any duty imposed on him as a member;\n( b ) is prejudicial to the efficient conduct of the Council; or\n( c ) tends to bring the Council into disrepute.\n[ 9 of 2011, s. 4. ]"
+    },
+    {
+      "provision_ref": "s4D",
+      "chapter": "PART I Preliminary",
+      "section": "4D",
+      "title": "Filling of Vacancy",
+      "content": "4D. Filling of Vacancy\n(1) The Minister shall, on being notified by the Council in writing of a death or vacation of office of a member appointed by the Minister, appoint, within such period as may be specified in the notice, being not less than 60 days from the date of the notification, a member to fill the vacancy, and the member so appointed shall hold office for the remainder of the period for which the former member would, but for his death or the vacation of his office, have continued in office.\n[ 9 of 2011, s. 4. ]\n(2) Subsection (1) shall not apply where the remainder of the period for which the member whose office has been vacated would otherwise have held office is less than six months.\n[ 9 of 2011, s. 4. ]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART I Preliminary",
+      "section": "5",
+      "title": "Functions of Council",
+      "content": "5. Functions of Council\n(1) The functions of the Council are—\n( a ) to set and carry out such tests and examinations as are prescribed in section 7(2);\n( b ) to register land surveyors;\n( c ) to hear disciplinary allegations, and carry out disciplinary proceedings where necessary, against a land surveyor for professional misconduct; and\n( d ) to perform such other functions as may be assigned.\n[ 9 of 2011, s. 5. ]\n(2) For the purpose of carrying out the provisions of subsection (1)( a ) the Council may, from time to time, appoint a maximum of three examiners and invigilators as may be necessary.\n[ 9 of 2011, s. 5. ]\n(3) The Council shall prescribe the following procedures for the purposes of subsection (1)( c )—\n( a ) hearing a disciplinary allegation;\n( b ) carrying out disciplinary proceedings;\n( c ) the penalty which may be awarded by the Council for professional misconduct; and\n( e ) any other procedure that the Council may consider appropriate.\n[ 9 of 2011, s. 5. ]"
+    },
+    {
+      "provision_ref": "s5A",
+      "chapter": "PART I Preliminary",
+      "section": "5A",
+      "title": "Election of Vice Chairperson",
+      "content": "5A. Election of Vice Chairperson\n(1) At the first meeting of the Council, the members shall elect, from among their number, a Vice Chairperson who shall hold office for such period, being not less than 12 months, as the Council may from time to time determine unless he ceases to be a member.\n[ 9 of 2011, s. 5. ]\n(2) On the expiry of the term of office of the Chairperson or Vice Chairperson or where the Chairperson or Vice Chairperson vacates his office as such, a new Chairperson or Vice Chairperson shall be elected by the members from among their number at the next meeting of the Council or as soon thereafter as may be convenient.\n[ 9 of 2011, s. 5. ]\n(3) The Chairperson or Vice Chairperson may vacate his office as such even though he remains a member.\n[ 9 of 2011, s. 5. ]\n(4) The Vice Chairperson shall, whenever the Chairperson is absent or unable to carry out his functions, exercise the functions of the Chairperson during the period that the Chairperson is absent or unable to act as Chairperson.\n[ 9 of 2011, s. 5. ]"
+    },
+    {
+      "provision_ref": "s5B",
+      "chapter": "PART I Preliminary",
+      "section": "5B",
+      "title": "Meetings of Council",
+      "content": "5B. Meetings of Council\n(1) Subject to the provisions of this Act, the Council shall regulate its own proceedings.\n[ 9 of 2011, s. 5. ]\n(2) The Council shall meet at such times and places as may be necessary for the performance of its duties.\n[ 9 of 2011, s. 5. ]\n(3) Upon giving notice in writing of not less than 14 days, a meeting of the Council may be called by the Chairperson and shall be called if not less than one half of the members so request in writing.\n[ 9 of 2011, s. 5. ]\n(4) Where the urgency of any particular matter does not permit the giving of notice in accordance with subsection (3), a special meeting may be called upon giving a shorter notice.\n[ 9 of 2011, s. 5. ]\n(5) The quorum at any meeting of the Council shall be four members including the Chairperson.\n[ 9 of 2011, s. 5. ]\n(6) There shall preside, at any meeting of the Council—\n( a ) the Chairperson;\n( b ) in the absence of the Chairperson, the Vice Chairperson; or\n( c ) in the absence of the Chairperson and Vice Chairperson, such member as the members present may elect from among their number for the purposes of the meeting.\n[ 9 of 2011, s. 5. ]\n(7) A decision of the Council on any question shall be by a majority of the members present and voting at the meeting and, in the event of an equality of votes, the person presiding shall have a casting vote in addition to that persons deliberative vote.\n[ 9 of 2011, s. 5. ]\n(8) The Council may invite any person whose presence it considers necessary, to attend and participate in the deliberations of a meeting of the Council, but such person shall have no vote.\n[ 9 of 2011, s. 5. ]\n(9) The provisions of sections 5C, 5D and 5E shall, with the necessary modifications, apply to a person invited by the Council under subsection (8).\n[ 9 of 2011, s. 5. ]"
+    },
+    {
+      "provision_ref": "s5C",
+      "chapter": "PART I Preliminary",
+      "section": "5C",
+      "title": "Disclosure of interest",
+      "content": "5C. Disclosure of interest\n(1) Where a member is present at a meeting of the Council at which meeting a matter which is the subject of consideration is one in which he is directly or indirectly interested in a private capacity, the member shall, as soon as practicable after the commencement of the meeting, disclose such interest and shall not take part in any consideration or discussion of, or vote on any question touching upon, such matter."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Council",
+      "definition": "the Land Surveyors' Council established under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Deeds Registry",
+      "definition": "the deeds registry established under section 3 of the Deeds Registry Act (Cap. 33:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "diagram",
+      "definition": "a document containing geometrical, numerical and verbal representations of a piece of land, which has been signed by a land surveyor and which has been approved or certified by the Director or other officer empowered under this Act so to approve or certify a diagram and includes a diagram or copy thereof prepared in the Director's office and approved or certified as aforesaid or a document which has, at any time prior to the commencement of this Act, been accepted as a diagram in the Deeds Registry",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the Director of Surveys and Lands",
+      "source_provision": "s2"
+    },
+    {
+      "term": "general plan",
+      "definition": "a plan representing the relative positions and dimensions of five or more pieces of land, which has been signed by a land surveyor and which has been approved or certified as a general plan by the Director or other officer empowered under this Act to do so and includes a general plan or a copy thereof in the Director's office and approved or certified as aforesaid or a general plan which has, at anytime prior to the commencement of this Act, been accepted as a general plan in the Deeds Registry",
+      "source_provision": "s2"
+    },
+    {
+      "term": "land surveyor",
+      "definition": "a person recognised as such for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Council appointed under section 4A",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public place",
+      "definition": "any street, road, avenue, path, lane, sanitary lane, thoroughfare, square, park, recreation ground, public sports ground, public aerodrome or open space shown on a general plan and all land (other than lots shown on a general plan) the control whereof is vested, to the entire exclusion of the owner, in either the State or a local authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reference mark",
+      "definition": "a survey mark of permanent construction placed in a township, village or settlement to form one of a system of such marks for the purpose of basing the survey or resurvey of the pieces of land in such township, village or settlement thereon or connecting such survey or resurvey thereto",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of Deeds",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tertiary triangulation",
+      "definition": "a triangulation which in the opinion of the Director is of the order of a secondary or tertiary triangulation, as the case may be, according to the classification generally recognised in surveying in Southern Africa",
+      "source_provision": "s2"
+    },
+    {
+      "term": "subdivision",
+      "definition": "the division of any land, other than buildings, into two or more parts",
+      "source_provision": "s2"
+    },
+    {
+      "term": "the court",
+      "definition": "the High Court of Botswana or any judge thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "township, village or settlement",
+      "definition": "a group of pieces of land which are used for residential, industrial, agricultural, horticultural or similar purposes or are intended or destined or likely to be used for any such purpose",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unit of land measure",
+      "definition": "assigned to it under section 47.",
+      "source_provision": "s2"
+    }
+  ]
+}

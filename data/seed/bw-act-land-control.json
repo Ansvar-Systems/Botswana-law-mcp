@@ -1,0 +1,62 @@
+{
+  "id": "bw-act-land-control",
+  "type": "statute",
+  "title": "Land Control",
+  "title_en": "Land Control",
+  "short_name": "Land Control",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/land-control",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Land Control Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act unless the context otherwise requires—\n\"agricultural land\" means land other than tribal land or land within a township;\n\"controlled transaction\" means one of the transactions specified in section 3(1) other than that specified in section 3(3);\n\"land\" includes any estate, interest or right in land;\n\"mortgage\" includes charge or bond;\n\"private company\" means a private company within the meaning of the Companies Act (Cap. 42:01);\n\"registrar\" means any person charged with the registration of dealings in land under any written law, or, in relation to shares in a company, the person keeping the register of shares in that company;\n\"share\" means a share or debenture within the meaning of the Companies Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "agricultural land",
+      "definition": "land other than tribal land or land within a township",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled transaction",
+      "definition": "one of the transactions specified in section 3(1) other than that specified in section 3(3)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "land",
+      "definition": "any estate, interest or right in land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mortgage",
+      "definition": "charge or bond",
+      "source_provision": "s2"
+    },
+    {
+      "term": "private company",
+      "definition": "a private company within the meaning of the Companies Act (Cap. 42:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registrar",
+      "definition": "any person charged with the registration of dealings in land under any written law, or, in relation to shares in a company, the person keeping the register of shares in that company",
+      "source_provision": "s2"
+    },
+    {
+      "term": "share",
+      "definition": "a share or debenture within the meaning of the Companies Act.",
+      "source_provision": "s2"
+    }
+  ]
+}

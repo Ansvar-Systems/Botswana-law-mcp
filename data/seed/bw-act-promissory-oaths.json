@@ -1,0 +1,50 @@
+{
+  "id": "bw-act-promissory-oaths",
+  "type": "statute",
+  "title": "Promissory Oaths",
+  "title_en": "Promissory Oaths",
+  "short_name": "Promissory Oaths",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/promissory-oaths",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Promissory Oaths Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Oaths to be taken",
+      "content": "2. Oaths to be taken\n(1) Any person who assumes any office referred to in the first column of the First Schedule shall, before entering upon the duties of that office, take and subscribe to the oath or oaths mentioned in relation thereto in the second column of the said Schedule.\n(2) The oath or oaths shall be tendered by and subscribed before the person mentioned in relation thereto in the third column of the said Schedule or, where that person cannot conveniently act, before another person designated by the President."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "President may require oath of allegiance or Cabinet oath to be taken",
+      "content": "3. President may require oath of allegiance or Cabinet oath to be taken\n(1) The President may require any public officer to take and subscribe the oath of allegiance and may require any person attending a meeting of the Cabinet to take and subscribe to the Cabinet oath.\n(2) The oaths shall be in the forms set out in the Second Schedule and shall be tendered by and subscribed before a person designated by the President."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Forms of oaths",
+      "content": "4. Forms of oaths\nThe oaths mentioned in the First Schedule shall be in the forms set out in the Second Schedule."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Affirmation allowed in lieu of oath",
+      "content": "5. Affirmation allowed in lieu of oath\nWhen any person is required by or under this Act to take any oath, that person may, instead of taking the oath, make a solemn affirmation in the form of the oath hereby appointed, substituting the words \"solemnly, sincerely and truly declare and affirm\" for the word \"swear\" and omitting the words \"So help me God\"."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Reference to oath or affirmation of allegiance in other laws",
+      "content": "6. Reference to oath or affirmation of allegiance in other laws\nWhere in any other written law reference is made to the oath or affirmation of allegiance then that reference shall be deemed to be to the oath of allegiance in the form set out in the Second Schedule or, as the case may be, to an affirmation in the equivalent form as determined in accordance with section 5."
+    }
+  ],
+  "definitions": []
+}

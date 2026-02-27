@@ -1,0 +1,50 @@
+{
+  "id": "bw-sub-mines-and-minerals-subsidiary-legislation",
+  "type": "statute",
+  "title": "Mines and Minerals: Subsidiary Legislation",
+  "title_en": "Mines and Minerals: Subsidiary Legislation",
+  "short_name": "Mines and Minerals: Subsidi...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/mines-and-minerals-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Mines and Minerals (Prospecting and Leasing Charges) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Prospecting charges",
+      "content": "2. Prospecting charges\nCharges in respect of prospecting licences referred to in section 72 of the Act shall be paid to the State annually in advance at the office of the Commissioner in the amount of P48 per square kilometre or part thereof per year:\nProvided that—\n(i) where a charge in respect of a mining right is required to be paid for a period which is less than one year calculated from the anniversary of the date when the charge for that right first became payable, the charge for such period shall be abated proportionately;\n(ii) in the event of a mining right lapsing during the annual period in respect of which the charge has been paid, the person who held such right when it lapsed shall be entitled to refund of a proportionate part of such charge."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Mining lease charges in case of land in tribal territory",
+      "content": "3. Mining lease charges in case of land in tribal territory\nThe mining lease charges payable in accordance with section 73 of the Act in the case of land in a tribal territory to the district council within the area of which such land is situated shall be—\n( a ) P12 per square kilometre or part thereof per month in respect of land situated within a precious stone security area declared under the provisions of the Precious and Semi-Precious Stones (Protection) Act (Cap. 66:03), in respect of which a state grant of a mining lease has been issued;\n( b ) P6 per square kilometre or part thereof per month in respect of—\n(i) land in respect of which a state grant or a mining lease has been issued but which is not within a precious stone security area; and\n(ii) land within a precious stone protection area."
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Mines and Minerals (Health, Mortality and Labour Returns) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Rendering of returns",
+      "content": "2. Rendering of returns\nEvery employer of persons employed in mining or quarrying or in operations involving the treatment of ore or rock shall render to the Mining Commissioner in respect of every month, on or before the first day of the second succeeding month, a health and mortality return in Form 1 or 2 set out in the Schedule and a labour return in Form 3 or 4 set out in the Schedule."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Penalties",
+      "content": "3. Penalties\nAny person contravening these Regulations shall be guilty of an offence and liable on conviction to a fine not exceeding P250 or, in default of payment, to imprisonment for a term not exceeding three months, or to both."
+    }
+  ],
+  "definitions": []
+}

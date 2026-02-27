@@ -1,0 +1,194 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-certification-of-air-navigation-services-providers-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (certification of Air Navigation Services Providers) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (certification of Air Navigation Services Providers) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-certification-of-air-navigation-services-providers-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary Provisions (regs 1-4)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Certification of Air Navigation Services Providers) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary Provisions (regs 1-4)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations unless the context otherwise requires—\n\"advisory space\" means an air space of defined dimensions or designated route within which air traffic advisory service is available;\n\"aerodrome\" means a defined area on land or water (including any buildings, installations and equipment) intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft;\n\"aeronautical information service (AIS)\" means a service established within the defined area of coverage responsible for the provision of aeronautical data and aeronautical information necessary for the safety, regularity and efficiency of air navigation;\n\"aeronautical service providers\" means a service established within the defined area of coverage responsible for the provision of aeronautical data and aeronautical information necessary for the safety, regularity and efficiency of air navigation;\n\"aircraft\" means any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface;\n\"air navigation services\" means one or more of the following services provided for air navigation—\n( a ) air traffic services;\n( b ) instrument flight procedure design (IFPD) services;\n( c ) AIS;\n( d ) aeronautical cartographic services;\n( e ) aeronautical telecommunication services; and\n( f ) meteorological service for air navigation;\n\"air navigation services facility\" means any facility used, available for use, or designed for use in aid of navigation of aircraft, including airports, landing fields, any structures, mechanisms, lights, beacons, marks, communicating systems, or other instruments or devices used or useful as an aid to the safe taking-off, navigation, and landing of aircraft and any combination of such facilities;\n\"air navigation services provider\" means an independent entity established for the purpose of providing one or more of the air navigation services in terms of these Regulations;\n\"air traffic\" means all aircraft in flight or operating on the manoeuvring area of an aerodrome;\n\"air traffic control service\" means a service provided for the purpose of—\n( a ) preventing collisions—\n(i) between aircraft, or\n(ii) on the manoeuvring area between aircraft and obstructions; or\n( b ) expediting and maintaining an orderly flow of air traffic;\n\"air traffic control unit\" means a generic term meaning an area control centre, an approach control unit or aerodrome control tower;\n\"air traffic service\" means a generic term meaning a flight information service, an alerting service, an air traffic control service, area control service, approach control service or aerodrome control service;\n\"approach control service\" means air traffic control service for arriving or departing controlled flights;\n\"authorised person\" means any person authorised by the Authority either generally or in relation to a particular case or class of cases and any reference to an authorised person includes reference to the holder for the time being of an office designated by the Authority;\n\"certificate\" means the certificate for the provision of Air Navigation Services issued by the Authority under Part II of these Regulations;\n\"designated service provider\" means a person or organisation designated by the Authority to provide services in accordance with these Regulations;\n\"factory acceptance test\" means a formal test and inspection work process that is performed on the system or facility at the factory to ensure that the system or facility is fully functional as per specifications prior to delivery site;\n\"manoeuvring area\" means a part of an aerodrome that is used for take-off, landing and taxiing of aircraft, excluding aprons;\n\"Manual of Air Navigation Service Operations\" means a manual that sets forth the policies, procedures, processes and methods used in the provision of services by an air navigation service provider with a high degree of safety;\n\"printed communications\" means communications which automatically provide a permanent printed record at each terminal of a circuit of all messages which pass over such circuit;\n\"quality management\" means co-ordinated activities to direct and control an organisation with regard to quality;\n\"rescue\" means an operation to retrieve a person in distress, provide for his or her medical or other needs and deliver the person to a place of safety;\n\"Safety Management System (SMS)\" means a systematic approach to managing safety, including the necessary organisational structures, accountabilities, policies and procedures;\n\"search\" means an operation normally co-ordinated by a rescue co-ordination centre or rescue sub-centre using available personnel and facilities to locate persons in distress;\n\"search and rescue service\" means the performance of distress monitoring, communication, co-ordination and search and rescue functions, initial medical assistance or medical evacuation, through the use of public and private resources, including co-operating aircraft, vessels and other craft and installations; and\n\"site acceptance test\" means a formal test and inspection work process that is performed on the system or facility at the site to ensure that the system or facility is fully functional as per specifications after installation."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary Provisions (regs 1-4)",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Regulations shall apply to the provision of air navigation services within designated airspaces and at aerodromes."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary Provisions (regs 1-4)",
+      "section": "4",
+      "title": "Provision of air navigation services",
+      "content": "4. Provision of air navigation services\nA person designated to provide air navigation services may provide any of the following services in accordance with these Regulations and the relevant Regulations—\n( a ) air traffic services;\n( b ) aeronautical telecommunication services;\n( c ) aeronautical search and rescue services;\n( d ) AIS;\n( e ) aeronautical cartographic services;\n( f ) instrument flight procedures design; or\n( g ) meteorological service for air navigation."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Certification of Air Navigation Services Providers (regs 5-18)",
+      "section": "5",
+      "title": "Requirements for provision of air navigation services",
+      "content": "5. Requirements for provision of air navigation services\nA person shall not be an air navigation services provider unless—\n( a ) he or she holds a certificate issued under these Regulations; and\n( b ) the services are provided in accordance with—\n(i) the requirements specified under these Regulations or any other relevant regulations, and\n(ii) the procedures specified in the service providers' Manual of Air Navigation Service Operations."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Certification of Air Navigation Services Providers (regs 5-18)",
+      "section": "6",
+      "title": "Application for certificate",
+      "content": "6. Application for certificate\n(1) A person who wishes to be an air navigation services provider shall make an application to the Authority for a certificate in Form A set out in the Schedule.\n(2) An application made under subregulation (1) shall be accompanied by—\n( a ) a non-refundable fee of P5 000;\n( b ) the applicant's Manual of Air Navigation Service Operations provided under these Regulations for approval;\n( c ) a written statement setting out the services and locations at which the air navigation services shall be provided;\n( d ) the safety management system manual;\n( e ) the quality management system manual;\n( f ) the procedures undertaken to meet the requirements of the Civil Aviation (Security) Regulations;\n( g ) a written statement on financial capability to provide the air navigation services; and\n( h ) the insurance policy in force in relation to the air navigation services provided."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Certification of Air Navigation Services Providers (regs 5-18)",
+      "section": "7",
+      "title": "Issuance of certificate",
+      "content": "7. Issuance of certificate\n(1) The Authority shall, before issuing a certificate, be satisfied that—\n( a ) the personnel of the applicant are adequate in number and have the necessary competency to provide the service;\n( b ) the Manual of Air Navigation Service Operations prepared and submitted with the application contains all the relevant information;\n( c ) the facilities, services and equipment to be used by an applicant are established in accordance with these Regulations;\n( d ) the operating procedures to be used by an applicant make satisfactory provision for the safety of aircraft;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "advisory space",
+      "definition": "an air space of defined dimensions or designated route within which air traffic advisory service is available",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome",
+      "definition": "a defined area on land or water (including any buildings, installations and equipment) intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical information service (AIS)",
+      "definition": "a service established within the defined area of coverage responsible for the provision of aeronautical data and aeronautical information necessary for the safety, regularity and efficiency of air navigation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical service providers",
+      "definition": "a service established within the defined area of coverage responsible for the provision of aeronautical data and aeronautical information necessary for the safety, regularity and efficiency of air navigation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft",
+      "definition": "any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air navigation services",
+      "definition": "one or more of the following services provided for air navigation—\n( a ) air traffic services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air navigation services facility",
+      "definition": "any facility used, available for use, or designed for use in aid of navigation of aircraft, including airports, landing fields, any structures, mechanisms, lights, beacons, marks, communicating systems, or other instruments or devices used or useful as an aid to the safe taking-off, navigation, and landing of aircraft and any combination of such facilities",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air navigation services provider",
+      "definition": "an independent entity established for the purpose of providing one or more of the air navigation services in terms of these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic",
+      "definition": "all aircraft in flight or operating on the manoeuvring area of an aerodrome",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic control service",
+      "definition": "a service provided for the purpose of—\n( a ) preventing collisions—\n(i) between aircraft, or\n(ii) on the manoeuvring area between aircraft and obstructions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic control unit",
+      "definition": "a generic term meaning an area control centre, an approach control unit or aerodrome control tower",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic service",
+      "definition": "a generic term meaning a flight information service, an alerting service, an air traffic control service, area control service, approach control service or aerodrome control service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approach control service",
+      "definition": "air traffic control service for arriving or departing controlled flights",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised person",
+      "definition": "any person authorised by the Authority either generally or in relation to a particular case or class of cases and any reference to an authorised person includes reference to the holder for the time being of an office designated by the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate",
+      "definition": "the certificate for the provision of Air Navigation Services issued by the Authority under Part II of these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "designated service provider",
+      "definition": "a person or organisation designated by the Authority to provide services in accordance with these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "factory acceptance test",
+      "definition": "a formal test and inspection work process that is performed on the system or facility at the factory to ensure that the system or facility is fully functional as per specifications prior to delivery site",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manoeuvring area",
+      "definition": "a part of an aerodrome that is used for take-off, landing and taxiing of aircraft, excluding aprons",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Manual of Air Navigation Service Operations",
+      "definition": "a manual that sets forth the policies, procedures, processes and methods used in the provision of services by an air navigation service provider with a high degree of safety",
+      "source_provision": "s2"
+    },
+    {
+      "term": "printed communications",
+      "definition": "communications which automatically provide a permanent printed record at each terminal of a circuit of all messages which pass over such circuit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quality management",
+      "definition": "co-ordinated activities to direct and control an organisation with regard to quality",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rescue",
+      "definition": "an operation to retrieve a person in distress, provide for his or her medical or other needs and deliver the person to a place of safety",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Safety Management System (SMS)",
+      "definition": "a systematic approach to managing safety, including the necessary organisational structures, accountabilities, policies and procedures",
+      "source_provision": "s2"
+    },
+    {
+      "term": "search",
+      "definition": "an operation normally co-ordinated by a rescue co-ordination centre or rescue sub-centre using available personnel and facilities to locate persons in distress",
+      "source_provision": "s2"
+    },
+    {
+      "term": "search and rescue service",
+      "definition": "the performance of distress monitoring, communication, co-ordination and search and rescue functions, initial medical assistance or medical evacuation, through the use of public and private resources, including co-operating aircraft, vessels and other craft and installations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "site acceptance test",
+      "definition": "a formal test and inspection work process that is performed on the system or facility at the site to ensure that the system or facility is fully functional as per specifications after installation.",
+      "source_provision": "s2"
+    }
+  ]
+}

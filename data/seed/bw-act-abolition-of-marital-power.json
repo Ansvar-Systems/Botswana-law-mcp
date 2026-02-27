@@ -1,0 +1,60 @@
+{
+  "id": "bw-act-abolition-of-marital-power",
+  "type": "statute",
+  "title": "Abolition of Marital Power",
+  "title_en": "Abolition of Marital Power",
+  "short_name": "Abolition of Marital Power",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/abolition-of-marital-power",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Abolition of Marital Power Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"court\" means a magistrate's court or the High Court; and\n\"joint estate\" means the estate of a husband and wife married in community of property."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Application of the Act",
+      "content": "3. Application of the Act\nThis Act shall not apply to customary and religious marriages."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Abolition of Marital Power",
+      "section": "4",
+      "title": "Abolition of marital power",
+      "content": "4. Abolition of marital power\n(1) Subject to the provisions of this Act—\n( a ) the common law rule in terms of which a husband acquires the marital power over the person and property of his wife is hereby abolished; and\n( b ) the marital power which a husband had over the person and property of his wife immediately before the commencement of this Act is hereby abolished.\n(2) The abolition of the marital power under subsection (1)( b ) shall not affect the legal consequences of any act done, omission or fact existing before such abolition."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Abolition of Marital Power",
+      "section": "5",
+      "title": "Effect of abolition of marital power",
+      "content": "5. Effect of abolition of marital power"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "court",
+      "definition": "a magistrate's court or the High Court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "joint estate",
+      "definition": "the estate of a husband and wife married in community of property.",
+      "source_provision": "s2"
+    }
+  ]
+}

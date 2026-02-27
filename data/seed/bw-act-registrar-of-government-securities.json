@@ -1,0 +1,32 @@
+{
+  "id": "bw-act-registrar-of-government-securities",
+  "type": "statute",
+  "title": "Registrar of Government Securities",
+  "title_en": "Registrar of Government Securities",
+  "short_name": "Registrar of Government Sec...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/registrar-of-government-securities",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Registrar of Government Securities Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"company\" includes—\n( a ) any association incorporated or registered under any law in force in Botswana;\n( b ) any association which is incorporated or registered outside Botswana but carries on business or has an office or place of business in Botswana;\n( c ) any body corporate established and incorporated by any law in force in Botswana or by any law in force in any country outside Botswana;\n( d ) any international organisation of which Botswana is a member;\n\"financial year\" means any period of 12 months ending on the 31st day of March;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "financial year",
+      "definition": "any period of 12 months ending on the 31st day of March",
+      "source_provision": "s2"
+    }
+  ]
+}

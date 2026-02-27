@@ -1,0 +1,38 @@
+{
+  "id": "bw-sub-domestic-violence-subsidiary-legislation",
+  "type": "statute",
+  "title": "Domestic Violence: Subsidiary Legislation",
+  "title_en": "Domestic Violence: Subsidiary Legislation",
+  "short_name": "Domestic Violence: Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/domestic-violence-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Domestic Violence Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application for an order",
+      "content": "2. Application for an order\n(1) An application made in terms of section 7(1) of the Act shall be in Form 1 set out in the Schedule.\n(2) An application referred to in subregulation (1) shall be accompanied by a draft order in Form 2 set out in the Schedule.\n(3) Where an application is brought on behalf of an applicant by another person in terms of section 7(6) of the Act, the affidavit referred to in section 7(2) shall set out—\n( a ) the occupation of the person and capacity in which such person brings the application; and\n( b ) except in cases excluded by the provisions of section 7(5) of the Act, the written consent of the applicant."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Notice to applicant",
+      "content": "3. Notice to applicant\nThe person referred to in section 7(6) of the Act and any other person making an application on behalf of an applicant shall—\n( a ) issue to an applicant a written notice which contains the information provided in Form 3;\n( b ) read the notice or cause the notice to be read, and if reasonably possible, be in the official language of the applicants choice;\n( c ) inquire from an applicant whether he or she—\n(i) understands the contents of the notice, and\n(ii) requires further information concerning the relief available in terms of the Act; and\n( d ) on request by an applicant, further explain to the best of his or her ability—\n(i) any part of the notice which the applicant does not understand, and\n(ii) the relief available to the applicant in terms of the Act."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Variation and revocation of an order",
+      "content": "4. Variation and revocation of an order\nAn application to vary or set aside an order in terms of section 13 of the Act shall be in Form 4 set out in the Schedule."
+    }
+  ],
+  "definitions": []
+}

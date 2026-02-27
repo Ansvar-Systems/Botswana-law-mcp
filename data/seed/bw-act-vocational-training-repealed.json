@@ -1,0 +1,120 @@
+{
+  "id": "bw-act-vocational-training-repealed",
+  "type": "statute",
+  "title": "Vocational Training",
+  "title_en": "Vocational Training",
+  "short_name": "Vocational Training",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/vocational-training-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Vocational Training Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act, unless the context otherwise requires—\n\"apprentice\" means an employee bound by a contract of apprenticeship;\n\"Authority\" means the Botswana Training Authority established under section 3;\n\"Board\" means the Board of the Authority established under section 5;\n\"Chief Executive Officer\" means the chief executive officer of the Authority appointed under section 16;\n\"equivalences of vocational qualifications\" means the same value of awards among various qualifications within the vocational training system being developed;\n\"Framework\" means the Botswana National Vocational Qualifications Framework established under section 20;\n\"Fund\" means the Vocational Training Fund established under section 21;\n\"levy\" means a training levy imposed under section 24;\n\"national internship programme\" means a programme which provides opportunities for experiential training by employers for graduate interns for a period of time specified by the Minister;\n[4 of 2012, s. 2(a).]\n\"retooling\" means to retrain and re-organise for the purposes of updating and improving skills;\n[4 of 2012, s. 2(a).]\n\"technician level\" means a training level leading to qualifications higher than those specified in the Framework under section 20;\n\"trainees\" means employees enrolled in and undergoing an approved programme in vocational training;\n\"training institution\" means a private or public centre, organisation, employer or person, providing vocational training; and\n\"vocational training\" means provision of skills, knowledge and attitudes up to certain specified levels of qualification below the technician level.\n(2) For the purposes of section 21 of the Act, the national internship programme and retooling shall be deemed to be vocational training.\n[4 of 2012, s. 2(b).]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment, Constitution and Membership of Botswana Training Authority",
+      "section": "3",
+      "title": "Establishment of Botswana Training Authority",
+      "content": "3. Establishment of Botswana Training Authority\nThere is hereby established a training authority to be known as the Botswana Training Authority which shall be a body corporate with a common seal, capable of suing and being sued and subject to the provisions of this Act, of performing such acts as bodies corporate may, by law, perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment, Constitution and Membership of Botswana Training Authority",
+      "section": "4",
+      "title": "Principal objectives of Authority",
+      "content": "4. Principal objectives of Authority\nThe principal objectives of the Authority shall be to—\n( a ) co-ordinate vocational training activities in order to achieve better integration and harmonisation of the vocational training system being developed;\n( b ) monitor and evaluate the performance of the vocational training system being developed in order to ensure the successful performance of all training activities; and\n( c ) advise on policy related issues of vocational training."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment, Constitution and Membership of Botswana Training Authority",
+      "section": "5",
+      "title": "Establishment of Board",
+      "content": "5. Establishment of Board\n(1) There is hereby established a Board to exercise the powers and functions of the Authority which shall be composed of twenty members consisting of—\n( a ) one person appointed by the Minister, subject to subsection (2), as the chairperson of the Board;\n( b ) six persons appointed by the Minister representing the Government;\n( c ) three persons appointed by the Minister having a particular expertise in vocational training;\n( d ) ten persons to be appointed by the Minister upon being nominated as follows—\n(i) 4 members nominated by organisations for the time being representing employers;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "apprentice",
+      "definition": "an employee bound by a contract of apprenticeship",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Botswana Training Authority established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of the Authority established under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Executive Officer",
+      "definition": "the chief executive officer of the Authority appointed under section 16",
+      "source_provision": "s2"
+    },
+    {
+      "term": "equivalences of vocational qualifications",
+      "definition": "the same value of awards among various qualifications within the vocational training system being developed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Framework",
+      "definition": "the Botswana National Vocational Qualifications Framework established under section 20",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Fund",
+      "definition": "the Vocational Training Fund established under section 21",
+      "source_provision": "s2"
+    },
+    {
+      "term": "levy",
+      "definition": "a training levy imposed under section 24",
+      "source_provision": "s2"
+    },
+    {
+      "term": "national internship programme",
+      "definition": "a programme which provides opportunities for experiential training by employers for graduate interns for a period of time specified by the Minister",
+      "source_provision": "s2"
+    },
+    {
+      "term": "retooling",
+      "definition": "to retrain and re-organise for the purposes of updating and improving skills",
+      "source_provision": "s2"
+    },
+    {
+      "term": "technician level",
+      "definition": "a training level leading to qualifications higher than those specified in the Framework under section 20",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trainees",
+      "definition": "employees enrolled in and undergoing an approved programme in vocational training",
+      "source_provision": "s2"
+    },
+    {
+      "term": "training institution",
+      "definition": "a private or public centre, organisation, employer or person, providing vocational training",
+      "source_provision": "s2"
+    },
+    {
+      "term": "vocational training",
+      "definition": "provision of skills, knowledge and attitudes up to certain specified levels of qualification below the technician level.\n(2) For the purposes of section 21 of the Act, the national internship programme and retooling shall be deemed to be vocational training.\n[4 of 2012, s. 2(b).]",
+      "source_provision": "s2"
+    }
+  ]
+}

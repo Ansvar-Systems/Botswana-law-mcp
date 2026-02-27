@@ -1,0 +1,44 @@
+{
+  "id": "bw-sub-rent-control-subsidiary-legislation",
+  "type": "statute",
+  "title": "Rent Control: Subsidiary Legislation",
+  "title_en": "Rent Control: Subsidiary Legislation",
+  "short_name": "Rent Control: Subsidiary Le...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/rent-control-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Rent Control Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Secretary of Tribunal",
+      "content": "2. Secretary of Tribunal\nThere shall be a Secretary of the Tribunal (hereinafter referred to as \"the Secretary\") who shall be appointed by the Minister from among members of the public service."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Appointments to Tribunal and its postal address to be published in Gazette",
+      "content": "3. Appointments to Tribunal and its postal address to be published in Gazette\nThe Secretary shall, by notice published in the Gazette , notify—\n( a ) the appointment of every person to be the Chairman or otherwise a member or Secretary of the Tribunal and the termination of every such appointment; and\n( b ) the postal address of the Tribunal."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Applications for assessment and reassessment of controlled rent",
+      "content": "4. Applications for assessment and reassessment of controlled rent\nEvery application to the Tribunal under section 5 of the Act for the ascertainment and certification of the controlled rent of premises or under section 9 of the Act for the reassessment of the controlled rent shall—\n( a ) be in such form as the Minister may require for the particular purpose;\n( b ) be addressed to the Secretary and delivered by hand to his office or sent by post to the postal address of the Tribunal; and\n( c ) be accompanied by the appropriate fee set out in the Schedule."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Procedure of Tribunal",
+      "content": "5. Procedure of Tribunal\n(1) On receipt of an application under section 5 or 9 of the Act, the Secretary shall in writing forthwith inform the other party to the application that it has been made.\n(2) Where the application is made by the tenant under section 5(2) of the Act, the Secretary shall require the landlord to provide him in writing, within such reasonable period of time as the Secretary shall specify, with all such information in the landlord's possession or that he may reasonably be expected to obtain as the Tribunal is required to have in order to assess the controlled rent in accordance with the Schedule to the Act.\n(3) Before the commencement of the Tribunal's investigation of the application, the Secretary shall place before the Tribunal any information provided by the landlord in compliance with a requirement made under subregulation (2) and any other material information in the Secretary's possession.\n(4) Any information placed before the Tribunal under subregulation (3) shall be fully disclosed to both parties to the application and may be admitted or challenged by either of them at the investigation of the application.\n(5) Any person who fails, without reasonable excuse, to comply with a requirement made under subregulation (2) shall be guilty of an offence and liable to a fine not exceeding P50; and in any prosecution for such a failure the court shall presume the absence of a reasonable excuse on the part of the person charged unless the contrary is proved."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-town-council-public-sewers-regulations",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Town Council (public Sewers) Regulations",
+  "title_en": "Local Government : Subsidiary Legislation : Town Council (public Sewers) Regulations",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-town-council-public-sewers-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Town Council (Public Sewers) Regulations.\n*Originally made under the Township Act now repealed, these Regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In these Regulations, unless the context otherwise requires\n\"authorised officer\" means a person authorised by a council to inspect public sewers or pipes or drains connected therewith;\n\"council\" means a city or town council established under the Act;\n\"drainage installation\" means a system of drains, pipes and sewers used for the sewerage of a building, including any fitting, appliance or equipment connected thereto;\n\"foul water\" means water contaminated by soil water, waste water or trade effluent;\n\"latrine\" includes a privy, a urinal, an earth-closet or a water-closet;\n\"owner\" , in relation to immovable property, means the person or his agent receiving the rent or profits for any land or premises from the occupier thereof or a person who occupies or holds land in accordance with the terms of an agreement;\n\"public sewer\" means any piped sewer, ditch or watercourse for the passage of foul water constructed or maintained by or vested in a local authority or the Minister for the time being responsible for local government and lands;\n\"sewer\" or \"drain\" means a pipe conveying foul water forming part of the sewerage or drainage installation of a building, including any pipe connecting a drain to a public sewer;\n\"soil water\" means water containing excreted matter, whether human or animal;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "a person authorised by a council to inspect public sewers or pipes or drains connected therewith",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council",
+      "definition": "a city or town council established under the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "drainage installation",
+      "definition": "a system of drains, pipes and sewers used for the sewerage of a building, including any fitting, appliance or equipment connected thereto",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foul water",
+      "definition": "water contaminated by soil water, waste water or trade effluent",
+      "source_provision": "s2"
+    },
+    {
+      "term": "latrine",
+      "definition": "a privy, a urinal, an earth-closet or a water-closet",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public sewer",
+      "definition": "any piped sewer, ditch or watercourse for the passage of foul water constructed or maintained by or vested in a local authority or the Minister for the time being responsible for local government and lands",
+      "source_provision": "s2"
+    },
+    {
+      "term": "drain",
+      "definition": "a pipe conveying foul water forming part of the sewerage or drainage installation of a building, including any pipe connecting a drain to a public sewer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "soil water",
+      "definition": "water containing excreted matter, whether human or animal",
+      "source_provision": "s2"
+    }
+  ]
+}

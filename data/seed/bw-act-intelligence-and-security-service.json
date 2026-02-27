@@ -1,0 +1,135 @@
+{
+  "id": "bw-act-intelligence-and-security-service",
+  "type": "statute",
+  "title": "Intelligence and Security Service",
+  "title_en": "Intelligence and Security Service",
+  "short_name": "Intelligence and Security S...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/intelligence-and-security-service",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Intelligence and Security Service Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"classified information\" means information of such a sensitive nature and value that the unauthorised publication or disclosure thereof would lead to a security risk being posed to the State;\n\"Committee\" means the Central Intelligence Committee established by section 25(1);\n\"Community\" means the National Intelligence Community established by section 27(1);\n\"Council\" means the Intelligence and Security Council established by section 29;\n\"Deputy Director General\" means the Deputy Director General of the Directorate;\n\"director\" means a director of any of the divisions of the Directorate established under section 8(3);\n\"Director General\" means the Director General of the Directorate;\n\"Directorate\" means the Directorate of Intelligence and Security established by section 4;\n\"immediate family\" means the spouse and children who are under the age of 21 years;\n\"intelligence\" means information which relates to or may be relevant to any internal or external threat or potential threat to national security in any field;\n\"members of staff of the Directorate\" means the Director General, the Deputy Director General, directors, officers and support staff;\n\"ministerial intelligence\" means information which relates to any function concerning national security which by or under any law has been entrusted to any Government ministry, department or agency and which information may be required by that ministry, department or agency in the performance of any of its functions;\n\"officer\" means an officer of the Directorate;\n\"Parliamentary Committee\" means the Intelligence and Security Parliamentary Committee established under section 38;\n\"security clearance\" means an authorisation entitling a person to have access to information of a determined sensitivity or classification;\n\"security vetting investigation\" means a systematic procedure used to examine and appraise a person to determine his or her security competence, including the continued monitoring of that person;\n\"support staff\" means members of the Community who are not officers of the Directorate, but who are under the direction of the Director General, performing such duties as are provided for in this Act;\n\"threat to national security\" means—\n( a ) any activity relating to espionage, sabotage, terrorism or subversion, or intention to engage in any such activity directed against, or detrimental to the interest of Botswana and includes any other activity performed in conjunction with any activity relating to espionage, sabotage, terrorism or subversion, but does not include any lawful advocacy, protest or dissent not performed in conjunction with any such activity;\n( b ) any activity directed at undermining, or directed at or intended to bring about the destruction or overthrow of, the constitutionally established system of the Government of Botswana by unlawful means;\n( c ) any threat or act of violence or unlawful harm that is directed at or intended to achieve, bring about or promote any constitutional, political, industrial, social or economic objective or change in Botswana and includes any conspiracy, incitement or attempt to commit any such act or threat; and\n( d ) any foreign-influenced activity within or related to Botswana that—\n(i) is detrimental to the interest of Botswana, and\n(ii) is clandestine or deceptive or involves any threat to the State or its citizens or any other person lawfully resident in Botswana."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nUnless the context otherwise requires, this Act applies to all members of staff of the Directorate."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Directorate of Intelligence and Security",
+      "section": "4",
+      "title": "Establishment and composition of Directorate",
+      "content": "4. Establishment and composition of Directorate\n(1) There is established, under the Office of the President, a Directorate to be known as the Directorate of Intelligence and Security.\n(2) The Directorate shall comprise—\n( a ) a Director General;\n( b ) a Deputy Director General;\n( c ) directors; and\n( d ) such other officers and support staff as are referred to in section 10."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Directorate of Intelligence and Security",
+      "section": "5",
+      "title": "Functions of Directorate",
+      "content": "5. Functions of Directorate\n(1) Subject to subsection (3), the functions of the Directorate are to—\n( a ) investigate, gather, co-ordinate, evaluate, correlate, interpret, disseminate and store information, whether inside or outside Botswana, for the purposes of—\n(i) detecting and identifying any threat or potential threat to national security,\n(ii) advising the President and the Government of any threat or potential threat to national security,\n(iii) taking steps to protect the security interests of Botswana whether political, military or economic;\n( b ) gather ministerial intelligence at the request of any Government ministry, department or agency and, without delay, to evaluate and transmit as appropriate to that ministry, department or agency, such intelligence and any other intelligence at the disposal of the Directorate which constitutes ministerial intelligence;\n( c ) regulate, in co-operation with any Government ministry, department or agency entrusted with any aspect of the maintenance of national security, the flow of intelligence and security, and the co-ordination between the Directorate and that ministry, department or agency of functions relating to such intelligence;\n( d ) advise Government, public bodies and statutory bodies on the protection of vital installations and classified documents;\n( e ) carry out security vetting investigations for the security clearance of persons who have or may have access to any sensitive or classified information;\n( f ) make recommendations to the President in connection with—\n(i) policies concerning intelligence and security,\n(ii) intelligence and security priorities, and\n(iii) security measures in Government ministries, departments or agencies;\n( g ) provide personal protection to the former President, the former President's immediate family, the President, the President's immediate family, the Vice-President, the Vice-President's immediate family, visiting dignitaries and such other persons as the President may determine; and\n( h ) subject to any other written law, perform such other duties and functions as may, from time to time, be determined by the President to be in the national interest."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "classified information",
+      "definition": "information of such a sensitive nature and value that the unauthorised publication or disclosure thereof would lead to a security risk being posed to the State",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Committee",
+      "definition": "the Central Intelligence Committee established by section 25(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Community",
+      "definition": "the National Intelligence Community established by section 27(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Intelligence and Security Council established by section 29",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Deputy Director General",
+      "definition": "the Deputy Director General of the Directorate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "director",
+      "definition": "a director of any of the divisions of the Directorate established under section 8(3)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director General",
+      "definition": "the Director General of the Directorate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Directorate",
+      "definition": "the Directorate of Intelligence and Security established by section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "immediate family",
+      "definition": "the spouse and children who are under the age of 21 years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "intelligence",
+      "definition": "information which relates to or may be relevant to any internal or external threat or potential threat to national security in any field",
+      "source_provision": "s2"
+    },
+    {
+      "term": "members of staff of the Directorate",
+      "definition": "the Director General, the Deputy Director General, directors, officers and support staff",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ministerial intelligence",
+      "definition": "information which relates to any function concerning national security which by or under any law has been entrusted to any Government ministry, department or agency and which information may be required by that ministry, department or agency in the performance of any of its functions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer",
+      "definition": "an officer of the Directorate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Parliamentary Committee",
+      "definition": "the Intelligence and Security Parliamentary Committee established under section 38",
+      "source_provision": "s2"
+    },
+    {
+      "term": "security clearance",
+      "definition": "an authorisation entitling a person to have access to information of a determined sensitivity or classification",
+      "source_provision": "s2"
+    },
+    {
+      "term": "security vetting investigation",
+      "definition": "a systematic procedure used to examine and appraise a person to determine his or her security competence, including the continued monitoring of that person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "support staff",
+      "definition": "members of the Community who are not officers of the Directorate, but who are under the direction of the Director General, performing such duties as are provided for in this Act",
+      "source_provision": "s2"
+    }
+  ]
+}

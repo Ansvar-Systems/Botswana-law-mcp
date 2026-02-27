@@ -1,0 +1,64 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-jwaneng-town-council-nuisance-control-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Jwaneng Town Council (nuisance Control) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Jwaneng Town Council (nuisance Control) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-jwaneng-town-council-nuisance-control-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Jwaneng Town Council (Nuisance Control) Bye-Laws."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"Abatement notice\" means a written legal communication to a violator requiring the stoppage of a nuisance with immediate effect or placing restrictions on when and how long an activity can occur or place other restrictions as necessary;\n\"musical instrument\" includes a wireless, loudspeaker, record player, amplifier or any similar device;\n\"noise licence\" means the written permission issued by the Council, with or without conditions;\n\"nuisance\" means any disturbance that materially interferes with another persons enjoyment of his or her own home or habitation and it may be experienced by one person or group of persons in a neighbourhood; and\n\"undesignated area\" means an area designated by the Council as an area where the issue of a noise licence is likely to cause disturbance or nuisance to the premises in the neighbourhood."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Nuisance prohibited",
+      "content": "3. Nuisance prohibited\n(1) A person shall not make, cause or allow to be made any disturbance which causes nuisance in the enjoyment of anothers premises or neighbourhood.\n(2) In determining whether an activity causes nuisance the following factors may be considered\n( a ) the time of day;\n( b ) duration;\n( c ) location;\n( d ) frequency;\n( e ) loudness; and\n( f ) type of noise or disturbance.\n(3) The following activities may constitute a nuisance\n( a ) noise;\n( b ) odour;\n( c ) smoke from bonfires; or\n( d ) any other activity which may be deemed by the Council to be falling within sub-bye-law (1)."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Restriction on operating sound systems",
+      "content": "4. Restriction on operating sound systems"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Abatement notice",
+      "definition": "a written legal communication to a violator requiring the stoppage of a nuisance with immediate effect or placing restrictions on when and how long an activity can occur or place other restrictions as necessary",
+      "source_provision": "s2"
+    },
+    {
+      "term": "musical instrument",
+      "definition": "a wireless, loudspeaker, record player, amplifier or any similar device",
+      "source_provision": "s2"
+    },
+    {
+      "term": "noise licence",
+      "definition": "the written permission issued by the Council, with or without conditions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nuisance",
+      "definition": "any disturbance that materially interferes with another persons enjoyment of his or her own home or habitation and it may be experienced by one person or group of persons in a neighbourhood",
+      "source_provision": "s2"
+    },
+    {
+      "term": "undesignated area",
+      "definition": "an area designated by the Council as an area where the issue of a noise licence is likely to cause disturbance or nuisance to the premises in the neighbourhood.",
+      "source_provision": "s2"
+    }
+  ]
+}

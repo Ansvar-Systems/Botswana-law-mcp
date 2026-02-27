@@ -1,0 +1,121 @@
+{
+  "id": "bw-act-national-clearance-and-settlement-systems",
+  "type": "statute",
+  "title": "National Clearance and Settlement Systems",
+  "title_en": "National Clearance and Settlement Systems",
+  "short_name": "National Clearance and Sett...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/national-clearance-and-settlement-systems",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the National Clearance and Settlement Systems Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"bilateral netting\" means an arrangement to net obligations between two parties, where the obligations covered by the arrangement may arise from financial contracts, transfer instructions or both;\n\"Central Bank\" means the Bank of Botswana as defined in the Bank of Botswana Act (Cap. 55:01);\n\"Central Bank system\" means a system established and operated by the Central Bank in terms of section 7 for the discharge of settlement obligations between participants in the system;\n\"clearing\" means the process of transmitting, reconciling and, in some cases, confirming transfer instructions regarding funds, securities or other financial instruments prior to settlement, including the netting of instructions and the establishment of final positions for settlement, and \"clearance\" shall be construed accordingly;\n\"clearance and settlement system\" means a system that facilitates the presenting and exchanging of transfer instructions regarding funds, securities or other financial instruments and the settlement of those transfer instructions between participants in the system;\n\"clearing system\" means a set of procedures—\n( a ) used by financial institutions to present and exchange information relating to the transfer of funds, securities or other financial instruments to other financial institutions through a centralised system or at a single location; and\n( b ) that include a mechanism for the calculation of participant's positions on a bilateral or multilateral basis with a view to facilitate the settlement of their obligations on net basis;\n\"financial institution\" means—\n( a ) a person licenced under section 3 of the Banking Act (Cap. 46:04) to transact banking business in Botswana; or\n( b ) a broker-dealer, insurance company, investment scheme, central securities depository or pension fund;\n\"funds\" means legal tender in terms of sections 23 of the Bank of Botswana Act (Cap. 55:01), cheque, bank draft, banker's acceptance, or an instruction for the electronic movement of funds through a financial intermediary, a recognised system or the Central Bank system;\n\"gross settlement\" means the settlement of transfer instructions on an instruction-by-instruction basis;\n\"management body\" in relation to a recognised payment system, means a body which represents participants in the system and organises, and manages their participation in the system;\n\"multilateral netting\" means an arrangement among three or more parties to net their obligations, where—\n( a ) obligations covered by the arrangement may arise from financial contracts, transfer instructions or both; and\n( b ) the multilateral netting of obligations normally takes place in the context of a multilateral net settlement system;\n\"netting\" means an agreed off setting of positions or obligations by participants in a clearance and settlement system, which has the effect of reducing a large number of individual positions or obligations to a smaller number of positions and may be conducted on a bilateral or a multilateral basis;\n\"obligation\" means a duty imposed by contract or law that may arise from the clearing of transfer instructions through a clearing system or the submission of a transfer instruction to a settlement system;\n\"recognised system\" means a system recognised by the Central Bank that facilitates the clearance or settlement of transfer instructions regarding funds, securities or other financial instruments;\n\"settlement\" means an act of discharging obligations by transferring funds, securities or financial instruments between two or more parties;\n\"settlement system\" means a system used to facilitate the settlement of transfer instructions regarding payments, securities or other financial instruments;\n\"systemic risk\" means the risk of failure by one participant in a clearance and settlement system, or in financial markets generally, to meet its required obligation resulting in other participants or financial institutions being unable to meet their obligations (including settlement obligations in a clearance and settlement system) when due;\n\"transfer\" means the sending of funds, securities or other financial instruments or a right relating to those funds, securities or other financial instruments from one party to another party by—\n( a ) conveyance of funds or physical instruments;\n( b ) accounting entries on the books of a financial intermediary; or\n( c ) book-entry movement of funds or physical instruments through a recognised system or the Central Bank system; and\n\"transfer instruction\" means an order or electronic message requesting the movement of funds, securities or other financial instruments or a right relating to those funds, securities or other financial instruments from one party to another party."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Clearance and Settlement Systems",
+      "section": "3",
+      "title": "Recognition of clearance and settlement systems",
+      "content": "3. Recognition of clearance and settlement systems"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "bilateral netting",
+      "definition": "an arrangement to net obligations between two parties, where the obligations covered by the arrangement may arise from financial contracts, transfer instructions or both",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Central Bank",
+      "definition": "the Bank of Botswana as defined in the Bank of Botswana Act (Cap. 55:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Central Bank system",
+      "definition": "a system established and operated by the Central Bank in terms of section 7 for the discharge of settlement obligations between participants in the system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clearing",
+      "definition": "the process of transmitting, reconciling and, in some cases, confirming transfer instructions regarding funds, securities or other financial instruments prior to settlement, including the netting of instructions and the establishment of final positions for settlement, and \"clearance\" shall be construed accordingly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clearance and settlement system",
+      "definition": "a system that facilitates the presenting and exchanging of transfer instructions regarding funds, securities or other financial instruments and the settlement of those transfer instructions between participants in the system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clearing system",
+      "definition": "a set of procedures—\n( a ) used by financial institutions to present and exchange information relating to the transfer of funds, securities or other financial instruments to other financial institutions through a centralised system or at a single location",
+      "source_provision": "s2"
+    },
+    {
+      "term": "funds",
+      "definition": "legal tender in terms of sections 23 of the Bank of Botswana Act (Cap. 55:01), cheque, bank draft, banker's acceptance, or an instruction for the electronic movement of funds through a financial intermediary, a recognised system or the Central Bank system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "gross settlement",
+      "definition": "the settlement of transfer instructions on an instruction-by-instruction basis",
+      "source_provision": "s2"
+    },
+    {
+      "term": "multilateral netting",
+      "definition": "an arrangement among three or more parties to net their obligations, where—\n( a ) obligations covered by the arrangement may arise from financial contracts, transfer instructions or both",
+      "source_provision": "s2"
+    },
+    {
+      "term": "netting",
+      "definition": "an agreed off setting of positions or obligations by participants in a clearance and settlement system, which has the effect of reducing a large number of individual positions or obligations to a smaller number of positions and may be conducted on a bilateral or a multilateral basis",
+      "source_provision": "s2"
+    },
+    {
+      "term": "obligation",
+      "definition": "a duty imposed by contract or law that may arise from the clearing of transfer instructions through a clearing system or the submission of a transfer instruction to a settlement system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "recognised system",
+      "definition": "a system recognised by the Central Bank that facilitates the clearance or settlement of transfer instructions regarding funds, securities or other financial instruments",
+      "source_provision": "s2"
+    },
+    {
+      "term": "settlement",
+      "definition": "an act of discharging obligations by transferring funds, securities or financial instruments between two or more parties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "settlement system",
+      "definition": "a system used to facilitate the settlement of transfer instructions regarding payments, securities or other financial instruments",
+      "source_provision": "s2"
+    },
+    {
+      "term": "systemic risk",
+      "definition": "the risk of failure by one participant in a clearance and settlement system, or in financial markets generally, to meet its required obligation resulting in other participants or financial institutions being unable to meet their obligations (including settlement obligations in a clearance and settlement system) when due",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transfer",
+      "definition": "the sending of funds, securities or other financial instruments or a right relating to those funds, securities or other financial instruments from one party to another party by—\n( a ) conveyance of funds or physical instruments",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transfer instruction",
+      "definition": "an order or electronic message requesting the movement of funds, securities or other financial instruments or a right relating to those funds, securities or other financial instruments from one party to another party.",
+      "source_provision": "s2"
+    }
+  ]
+}

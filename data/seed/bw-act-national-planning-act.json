@@ -1,0 +1,84 @@
+{
+  "id": "bw-act-national-planning-act",
+  "type": "statute",
+  "title": "National Planning Act",
+  "title_en": "National Planning Act",
+  "short_name": "National Planning Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/national-planning-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the National Planning Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Advisory Council\" means the National Planning Commission Advisory Council established under section 6;\n\"Commission\" means the National Planning Commission established under section 3;\n\"Commissioner General\" means the Commissioner General appointed under section 16;\n\"long term development plan\" means a plan implemented in a period of more than five years but is not a national vision;\n\"macro-economic outline\" means a framework that outlines the broad economic situation that must be taken into account when developing the national development plan, including the broad policy environment and strategy for the plan, describing the country’s development prospects in terms of gross domestic product (GDP) growth;\n\"medium term development plan\" means a plan implemented in a period of two to five years;\n\"member\" means a member of the National Planning Commission Advisory Council appointed under section 6;\n\"national development plan\" means a national development plan developed and implemented under section 21;\n\"national vision\" means a framework that defines a national development agenda over an extended period, as may be specified in that framework;\n\"planning period\" means the national development planning period in section 21; and\n\"short term development plan\" means a plan implemented in a period of up to 12 months."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Advisory Council",
+      "definition": "the National Planning Commission Advisory Council established under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commission",
+      "definition": "the National Planning Commission established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner General",
+      "definition": "the Commissioner General appointed under section 16",
+      "source_provision": "s2"
+    },
+    {
+      "term": "long term development plan",
+      "definition": "a plan implemented in a period of more than five years but is not a national vision",
+      "source_provision": "s2"
+    },
+    {
+      "term": "macro-economic outline",
+      "definition": "a framework that outlines the broad economic situation that must be taken into account when developing the national development plan, including the broad policy environment and strategy for the plan, describing the country’s development prospects in terms of gross domestic product (GDP) growth",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medium term development plan",
+      "definition": "a plan implemented in a period of two to five years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the National Planning Commission Advisory Council appointed under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "national development plan",
+      "definition": "a national development plan developed and implemented under section 21",
+      "source_provision": "s2"
+    },
+    {
+      "term": "national vision",
+      "definition": "a framework that defines a national development agenda over an extended period, as may be specified in that framework",
+      "source_provision": "s2"
+    },
+    {
+      "term": "planning period",
+      "definition": "the national development planning period in section 21",
+      "source_provision": "s2"
+    },
+    {
+      "term": "short term development plan",
+      "definition": "a plan implemented in a period of up to 12 months.",
+      "source_provision": "s2"
+    }
+  ]
+}

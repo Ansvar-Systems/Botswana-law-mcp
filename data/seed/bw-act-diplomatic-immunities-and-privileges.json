@@ -1,0 +1,42 @@
+{
+  "id": "bw-act-diplomatic-immunities-and-privileges",
+  "type": "statute",
+  "title": "Diplomatic Immunities and Privileges",
+  "title_en": "Diplomatic Immunities and Privileges",
+  "short_name": "Diplomatic Immunities and P...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/diplomatic-immunities-and-privileges",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Diplomatic Immunities and Privileges Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART II Diplomatic Privileges and Immunities",
+      "section": "2",
+      "title": "Application of Vienna Convention",
+      "content": "2. Application of Vienna Convention\n(1) Subject to section 3 of this Act, the Articles set out in the First Schedule (being the Articles of the Vienna Convention on Diplomatic Relations signed in 1961) shall have the force of law in Botswana and shall for that purpose be construed in accordance with the following provisions of this section.\n(2) In those Articles—\n\"agents of the receiving State\" shall be construed as including any police officer and any person exercising a power of entry to any premises under any written law;\n\"national of the receiving State\" shall be construed as meaning a citizen of Botswana;\n\"Ministry for Foreign Affairs or such other ministry as may be agreed\" shall be construed as meaning the department of the Minister responsible for external affairs.\n(3) For the purposes of Article 32 a waiver by the head of the mission of any State or any person for the time being performing his functions shall be deemed to be a waiver by that State.\n(4) Articles 35, 36 and 40 shall be construed as granting any privilege or immunity which they require to be granted.\n(5) The references in Articles 37 and 38 to the extent to which any privileges and immunities are admitted by the receiving State and to additional privileges and immunities that may be granted by the receiving State shall be construed as referring respectively to the extent to which any privileges and immunities may be specified by the President by order published in the Gazette and to any additional privileges and immunities that may be so specified."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Diplomatic Privileges and Immunities",
+      "section": "3",
+      "title": "Restriction of privileges and immunities",
+      "content": "3. Restriction of privileges and immunities\nIf it appears to the President that the privileges and immunities accorded to a mission of Botswana in the territory of any State, or to persons connected with that mission, are less than those conferred by this Act on the mission of that State or on persons connected with that mission, the President may by order published in the Gazette withdraw such of the privileges and immunities so conferred from the mission of that State or from such persons connected with it as appears to the President to be proper."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART III Privileges and Immunities of International Organisations",
+      "section": "4",
+      "title": "Immunities, privileges and capacities of certain international organisations and persons connected therewith",
+      "content": "4. Immunities, privileges and capacities of certain international organisations and persons connected therewith\n(1) This section shall apply to any organisation of which one or more sovereign powers or the government or governments thereof are members, designated by the President by order published in the Gazette :\nProvided that the President may by order published in the Gazette apply this section to the International Committee of the Red Cross.\n(2) The President, may by order published in the Gazette-\n( a ) provide that any organisation to which this section applies (hereinafter referred to as \"the organisation\") shall, to such extent as may be specified in the order, have the immunities and privileges set out in Part I of the Second Schedule, and shall also have the legal capacities of a body corporate;\n( b ) confer upon—\n(i) any persons who are representatives (whether of governments or not) on any organ of the organisation or are members of any committee of the organisation or of an organ thereof;\n(ii) such number of officers of the organisation as may be specified in the order, being the holders of such high offices in the organisation as may be so specified; and\n(iii) such persons employed on missions on behalf of the organisation as may be so specified,\nto such extent as may be specified in the order, the immunities and privileges set out in Part II of the Second Schedule;\n( c ) confer upon such other classes of officers and servants of the organisation as may be specified in the order, to such extent as may be so specified, the immunities and privileges set out in Part III of the Second Schedule,\nand Part IV of the Second Schedule shall have effect for the purpose of extending to the staffs of such representatives and members as are mentioned in paragraph ( b )(i) of this subsection and to the families of officers of the organisation any immunities and privileges conferred on the representatives, members or officers under that paragraph, except in so far as the operation of the said Part IV is excluded by the order conferring the immunities and privileges:\nProvided that the order shall be so framed as to secure that there are not conferred on any person any immunities or privileges greater in extent than those which, at the time of the making of the order, are required to be conferred on that person in order to give effect to any international agreement in that behalf and that no immunity or privilege is conferred upon any person as the representative of the Botswana Government or as a member of the staff of such a representative.\n(3) The reference to the officers and servants of the organisation in subsection (2)( c ) shall be deemed to extend to the contractors to such organisation and their employees if any international agreement in that behalf so requires.\n(4) For the purposes of this section, an agreement between an organisation of the nature described in subsection (1) and the Government of Botswana shall be deemed to be an international agreement."
+    }
+  ],
+  "definitions": []
+}

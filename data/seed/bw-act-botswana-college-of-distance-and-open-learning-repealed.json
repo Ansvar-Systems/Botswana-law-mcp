@@ -1,0 +1,78 @@
+{
+  "id": "bw-act-botswana-college-of-distance-and-open-learning-repealed",
+  "type": "statute",
+  "title": "Botswana College of Distance and Open Learning",
+  "title_en": "Botswana College of Distance and Open Learning",
+  "short_name": "Botswana College of Distanc...",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/botswana-college-of-distance-and-open-learning-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana College of Distance and Open Learning Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Board\" means the Board of the College appointed under section 4;\n\"Chairperson\" means the Chairperson of the Board appointed under section 4;\n\"College\" means the Botswana College of Distance and Open Learning established under section 3;\n\"Director\" means the Chief Executive of the College appointed under section 14;\n\"distance learning\" means a mode of delivering education to persons situated at a distance from the College, without such persons necessarily attending classes;\n\"member\" means a member of the Board appointed under section 4;\n\"regional centres\" means designated places within the country for providing support services to the students of the College."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment of College",
+      "section": "3",
+      "title": "Establishment of College",
+      "content": "3. Establishment of College\n(1) There is hereby established a college to be known as the Botswana College of Distance and Open Learning.\n(2) The College shall be a body corporate with perpetual succession and a common seal, capable of suing and being sued in its own name and, subject to the provisions of this Act, of performing such acts as bodies corporate may by law perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment of College",
+      "section": "4",
+      "title": "Board of Governors",
+      "content": "4. Board of Governors\n(1) There shall be a Board appointed by the Minister to carry out the powers and functions of the College.\n(2) The Board shall consist of 13 members appointed as follows—\n( a ) 10 members nominated by their respective organisations as follows—\n(i) two persons to represent the Ministry of Education;\n(ii) a representative of the Directorate of Public Service Management;\n(iii) a representative of the Botswana Training Authority;\n(iv) a representative of the Ministry of Labour and Home Affairs;\n(v) a representative of the Ministry of Finance and Development Planning;\n(vi) a representative of the Botswana Federation of Trade Unions;\n(vii) a representative of the Centre for Continuing Education;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Board of the College appointed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the Chairperson of the Board appointed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "College",
+      "definition": "the Botswana College of Distance and Open Learning established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the Chief Executive of the College appointed under section 14",
+      "source_provision": "s2"
+    },
+    {
+      "term": "distance learning",
+      "definition": "a mode of delivering education to persons situated at a distance from the College, without such persons necessarily attending classes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board appointed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regional centres",
+      "definition": "designated places within the country for providing support services to the students of the College.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "bw-act-nurses-and-midwives",
+  "type": "statute",
+  "title": "Nurses and Midwives",
+  "title_en": "Nurses and Midwives",
+  "short_name": "Nurses and Midwives",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/nurses-and-midwives",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Nurses and Midwives Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Council\" means the Nursing and Midwifery Council of Botswana established under section 3;\n\"enrolled nurse\" means a person who has completed such period of training in practical nursing, and passed such examinations in such courses of instruction as may be determined by the Council for enrolled nurses;\n\"midwife\" means a person who has completed a programme of training and passed such examinations in the practice of midwifery as may be determined by the Council;\n\"nurse\" means a person who has completed a programme of basic, generalised nursing education and passed such examinations in the practice of nursing as may be determined by the Council;\n\"nurse administrator\" means a nurse who has also completed a programme of training and passed such examinations in nursing administration as may be determined by the Council for nurse administrators;\n\"nurse educator\" means a nurse who has also completed a programme of training and passed such examinations in nursing education as may be determined by the Council for nurse educators;\n\"nurse-midwife\" means a nurse who has completed such periods of training in nursing and also in midwifery, and passed such examinations as may be determined by the Council for nurses and for midwives;\n\"nurse specialist\" means a nurse who has also completed a programme of post-graduate training in a particular field of nursing and has passed such examinations as may be determined by the Council for nurse specialists;\n\"registered\" means registered in the appropriate register referred to in section 8."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment of Council",
+      "content": "3. Establishment of Council\n(1) There is hereby established a body to be known as the Nursing and Midwifery Council of Botswana, which shall consist of the following persons—\n( a ) the President of the Nurses Association of Botswana;\n( b ) one member appointed by the Minister from among the various health services;\n( c ) one member appointed by the Minister to represent the general public; and"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Council",
+      "definition": "the Nursing and Midwifery Council of Botswana established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "enrolled nurse",
+      "definition": "a person who has completed such period of training in practical nursing, and passed such examinations in such courses of instruction as may be determined by the Council for enrolled nurses",
+      "source_provision": "s2"
+    },
+    {
+      "term": "midwife",
+      "definition": "a person who has completed a programme of training and passed such examinations in the practice of midwifery as may be determined by the Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nurse",
+      "definition": "a person who has completed a programme of basic, generalised nursing education and passed such examinations in the practice of nursing as may be determined by the Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nurse administrator",
+      "definition": "a nurse who has also completed a programme of training and passed such examinations in nursing administration as may be determined by the Council for nurse administrators",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nurse educator",
+      "definition": "a nurse who has also completed a programme of training and passed such examinations in nursing education as may be determined by the Council for nurse educators",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nurse-midwife",
+      "definition": "a nurse who has completed such periods of training in nursing and also in midwifery, and passed such examinations as may be determined by the Council for nurses and for midwives",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nurse specialist",
+      "definition": "a nurse who has also completed a programme of post-graduate training in a particular field of nursing and has passed such examinations as may be determined by the Council for nurse specialists",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered",
+      "definition": "registered in the appropriate register referred to in section 8.",
+      "source_provision": "s2"
+    }
+  ]
+}

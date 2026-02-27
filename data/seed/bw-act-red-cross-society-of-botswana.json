@@ -1,0 +1,37 @@
+{
+  "id": "bw-act-red-cross-society-of-botswana",
+  "type": "statute",
+  "title": "Red Cross Society of Botswana",
+  "title_en": "Red Cross Society of Botswana",
+  "short_name": "Red Cross Society of Botswana",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/red-cross-society-of-botswana",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Red Cross Society of Botswana Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Branch\" means the Branch of the British Red Cross Society which was in operation in Botswana immediately before the coming into operation of this Act;\n\"Council\" means the Council of the Society constituted in accordance with the provisions of section 7;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Branch",
+      "definition": "the Branch of the British Red Cross Society which was in operation in Botswana immediately before the coming into operation of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Council of the Society constituted in accordance with the provisions of section 7",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-lobatse-town-council-day-care-centre-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Lobatse Town Council (day-care Centre) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Lobatse Town Council (day-care Centre) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-lobatse-town-council-day-care-centre-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (by-laws 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Lobatse Town Council (Day-Care Centre) Bye-laws*.\n*Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (by-laws 1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"baby care centre\" means a place for the care, education and supervision of children below the age of two and half years;\n\"Council\" means the Lobatse Town Council;\n\"day-care centre\" means a place for the care, education and supervision of children below the age of six which includes a baby care centre; and\n\"infectious disease\" includes diphtheria, cerebrospinal meningitis, whooping cough, measles, mumps, German measles (rubella), chicken pox, scabies, ringworm of scalp or body, and typhoid fever."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Licensing/Registration of Day-Care Centres (bye-laws 3-6)",
+      "section": "3",
+      "title": "Registration of day-care centres",
+      "content": "3. Registration of day-care centres\n(1) A person shall not operate a day-care centre without the prior approval of, and registration, by the Council.\n(2) An application to operate a day-care centre shall be made to the Council in Form 1 as set out in the Schedule and shall provide such information as the Council may require and, in particular\n( a ) details of the premises intended to be used; and\n( b ) the names and qualifications of all teachers and assistants to be employed at the day-care centre.\n(3) Where the Council is satisfied that the proposed day-care centre meets all the requirements of these Bye-laws, it may, on payment of a fee of P300, register a profit making day-care centre, and on payment of a fee P150, register a non profit making day-care centre and issue the applicant a registration licence as set out in Form 2 of the Schedule."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Licensing/Registration of Day-Care Centres (bye-laws 3-6)",
+      "section": "4",
+      "title": "Duration and renewal of registration licence",
+      "content": "4. Duration and renewal of registration licence\n(1) A registration licence shall be valid for a period of 12 months from the date of issue."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "baby care centre",
+      "definition": "a place for the care, education and supervision of children below the age of two and half years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Lobatse Town Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "day-care centre",
+      "definition": "a place for the care, education and supervision of children below the age of six which includes a baby care centre",
+      "source_provision": "s2"
+    },
+    {
+      "term": "infectious disease",
+      "definition": "diphtheria, cerebrospinal meningitis, whooping cough, measles, mumps, German measles (rubella), chicken pox, scabies, ringworm of scalp or body, and typhoid fever.",
+      "source_provision": "s2"
+    }
+  ]
+}

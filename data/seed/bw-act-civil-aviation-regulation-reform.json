@@ -1,0 +1,64 @@
+{
+  "id": "bw-act-civil-aviation-regulation-reform",
+  "type": "statute",
+  "title": "Civil Aviation Regulation (reform)",
+  "title_en": "Civil Aviation Regulation (reform)",
+  "short_name": "Civil Aviation Regulation (...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/acts-on-notice/civil-aviation-regulation-reform",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "1. Short title and commencement\nThis Act may be cited as the Civil Aviation Regulation (Reform) Act, and shall come into operation on such date as the Minister may, by Order published in the Gazette , appoint."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires —\n\"Air Botswana\" means Air Botswana as registered under the Companies Act (Cap. 42:01);\n\"air transport licence\" means a licence issued by the Regulator, granting an operator the authority to carry passengers, mail or cargo, by air, for hire or reward, on such scheduled air transport services, and subject to such conditions, as may be specified in the licence;\n\"closing date\" means the date when all or part of Air Botswana's equity is first owned by a person other than the Government;\n\"exclusivity period\" means the period commencing on the closing date and ending on the fifth anniversary of the closing date;\n\"IATA\" means the International Air Transport Association;\n\"Independent Regulator\" means the independent body responsible for the economic regulation of civil aviation, that may be established;\n\"licensee\" means the holder of an air transport licence;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Air Botswana",
+      "definition": "Air Botswana as registered under the Companies Act (Cap. 42:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air transport licence",
+      "definition": "a licence issued by the Regulator, granting an operator the authority to carry passengers, mail or cargo, by air, for hire or reward, on such scheduled air transport services, and subject to such conditions, as may be specified in the licence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "closing date",
+      "definition": "the date when all or part of Air Botswana's equity is first owned by a person other than the Government",
+      "source_provision": "s2"
+    },
+    {
+      "term": "exclusivity period",
+      "definition": "the period commencing on the closing date and ending on the fifth anniversary of the closing date",
+      "source_provision": "s2"
+    },
+    {
+      "term": "IATA",
+      "definition": "the International Air Transport Association",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Independent Regulator",
+      "definition": "the independent body responsible for the economic regulation of civil aviation, that may be established",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "the holder of an air transport licence",
+      "source_provision": "s2"
+    }
+  ]
+}

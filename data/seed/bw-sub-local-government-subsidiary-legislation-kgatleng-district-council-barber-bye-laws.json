@@ -1,0 +1,54 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-kgatleng-district-council-barber-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Kgatleng District Council (barber) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Kgatleng District Council (barber) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-kgatleng-district-council-barber-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-Laws may be cited as the Kgatleng District Council (Barber) Bye-Laws*.\n*Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-Laws, unless the context otherwise requires\n\"authorised official\" means any person authorised by the Council for the purpose of giving effect to these Bye-Laws;\n\"barber\" means a person who, in a fixed place of business carries on the business of cutting, trimming or shaving hair particularly men's hair or beards;\n\"Council\" means the Kgatleng District Council."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application for licence",
+      "content": "3. Application for licence\n(1) No person shall carry on a business of a barber within the Council area unless\n( a ) such person is duly licensed; and\n( b ) the premises upon which the business is being carried on are licensed."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Licence required to carry on business of barber",
+      "content": "4. Licence required to carry on business of barber\n(1) Any person wishing to operate a business as a barber shall make an application as set out in the First Schedule, to the Council, supplying such information in relation thereto as the Council may require, which information shall include\n( a ) the number, identity and qualifications (or experience) of the barbers to be employed; and\n( b ) the number of apprentices to be employed.\n(2) The Council may, if it is satisfied that the requirements of these Bye-Laws are met, and on payment of a fee of P20, issue a barber licence as set out in the Second Schedule, which shall be valid until 31st\"/> December of the year of issue."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised official",
+      "definition": "any person authorised by the Council for the purpose of giving effect to these Bye-Laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "barber",
+      "definition": "a person who, in a fixed place of business carries on the business of cutting, trimming or shaving hair particularly men's hair or beards",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Kgatleng District Council.",
+      "source_provision": "s2"
+    }
+  ]
+}

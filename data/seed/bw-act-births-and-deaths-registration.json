@@ -1,0 +1,63 @@
+{
+  "id": "bw-act-births-and-deaths-registration",
+  "type": "statute",
+  "title": "Births and Deaths Registration",
+  "title_en": "Births and Deaths Registration",
+  "short_name": "Births and Deaths Registration",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/births-and-deaths-registration",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Introductory",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Births and Deaths Registration Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Introductory",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"authorised person\" means, in relation to births or still-births, a Chief or administrative officer, and in relation to deaths, an administrator of the deceased's estate;\n[ 16 of 1998, s. 2. ]\n\"birth\" means the issuing forth from the mother at any time of a child who, at any time after being wholly expelled from the mother, breathes or shows any other sign of life, or the issuing forth from the mother of a child, whether dead or alive, after the expiration of the twenty-eighth week of pregnancy;\n\"married\" means lawfully married, whether or not such marriage was celebrated within or outside Botswana, and includes marriage under any system of customary law where the marriage is recognised as being a valid customary marriage under the law of Botswana;\n\"next of kin\" means a spouse, parent, or child of a person in respect of whom a certificate is issued under the provisions of this Act.\n[ 16 of 1998, s. 2. ]\n\"register\" means the Births Register or the Deaths Register, as the case may be, maintained by the Registrar in accordance with section 4 or any register of births or deaths, as the case may be, in the custody of the Registrar which was kept under any law in force at any time before this Act came into operation by which provision was made for the registration of births and deaths;\n\"Registrar\" means the Registrar of Births and Deaths appointed under section 3;\n\"still-born\" and \"still-birth\" shall apply to any child who has issued forth from the mother after the expiration of the twenty-eighth week of pregnancy and did not, at any time after being wholly expelled from the mother, breath or show any other sign of life."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Introductory",
+      "section": "3",
+      "title": "Appointment of Registrar and District Registrars",
+      "content": "3. Appointment of Registrar and District Registrars\n(1) The Minister may, by notice published in the Gazette appoint, for the purposes of this Act, any officer in the public service as Registrar of Births and Deaths who shall be custodian of all notices of births and deaths and of all returns, registers and records of any birth or death in Botswana.\n(2) The Minister may appoint—\n( a ) such number of District Registrars as the Minister may deem necessary to exercise, subject to the directions of the Registrar, such of the functions of the Registrar, as the Registrar may direct from time to time; and\n( b ) such number of Registration Officers as the Minister may deem necessary who shall discharge such of the functions of the Registrar under this Act, as the Registrar may, from time to time direct.\n[ 16 of 1998, s. 3. ]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Introductory",
+      "section": "4",
+      "title": "Registers and registration",
+      "content": "4. Registers and registration"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "birth",
+      "definition": "the issuing forth from the mother at any time of a child who, at any time after being wholly expelled from the mother, breathes or shows any other sign of life, or the issuing forth from the mother of a child, whether dead or alive, after the expiration of the twenty-eighth week of pregnancy",
+      "source_provision": "s2"
+    },
+    {
+      "term": "married",
+      "definition": "lawfully married, whether or not such marriage was celebrated within or outside Botswana, and includes marriage under any system of customary law where the marriage is recognised as being a valid customary marriage under the law of Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "next of kin",
+      "definition": "a spouse, parent, or child of a person in respect of whom a certificate is issued under the provisions of this Act.\n[ 16 of 1998, s. 2. ]\n\"register\" means the Births Register or the Deaths Register, as the case may be, maintained by the Registrar in accordance with section 4 or any register of births or deaths, as the case may be, in the custody of the Registrar which was kept under any law in force at any time before this Act came into operation by which provision was made for the registration of births and deaths",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of Births and Deaths appointed under section 3",
+      "source_provision": "s2"
+    }
+  ]
+}

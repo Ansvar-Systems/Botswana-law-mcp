@@ -1,0 +1,38 @@
+{
+  "id": "bw-sub-extradition-subsidiary-legislation",
+  "type": "statute",
+  "title": "Extradition: Subsidiary Legislation",
+  "title_en": "Extradition: Subsidiary Legislation",
+  "short_name": "Extradition: Subsidiary Leg...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/extradition-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Extradition (Designated Commonwealth Countries) Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Designation of Commonwealth countries",
+      "content": "2. Designation of Commonwealth countries\nAll Commonwealth countries are hereby declared designated countries for the purposes of the Act."
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Extradition (Republic of South Africa) Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application of Part II of the Act in the case of the Republic of South Africa",
+      "content": "2. Application of Part II of the Act in the case of the Republic of South Africa\nSo long as the Extradition Treaty between the Republic of Botswana and the Republic of South Africa, in respect of which instruments of ratification were exchanged on the 8th April, 1969, and the terms of which are recited in the Schedule hereto, remains in force, Part II of the Extradition Act, shall apply in the case of the Republic of South Africa, subject to the undermentioned conditions, exceptions or qualifications—\n( a ) the crimes which shall be deemed to be extradition crimes for the purposes of this Order and the Act shall be such as are specified in Article 2 of the Treaty;\n( b ) Articles 4, 5 and 9 of the Treaty shall have effect notwithstanding anything contained in or omitted from Part II of the Act."
+    }
+  ],
+  "definitions": []
+}

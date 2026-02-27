@@ -1,0 +1,100 @@
+{
+  "id": "bw-act-botswana-examinations-council",
+  "type": "statute",
+  "title": "Botswana Examinations Council",
+  "title_en": "Botswana Examinations Council",
+  "short_name": "Botswana Examinations Council",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-examinations-council",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Examinations Council Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"authorised officer\" means a person so designated under section 17;\n\"Board\" means the Board established under section 4 of the Act;\n[ 21 of 2019, s. 2(a). ]\n\"candidate\" means a person enrolled by the Council for purposes of sitting for an examination;\n\"Chairman\" ...\n[ 21 of 2019, s. 2(b). ]\n\"Chairperson\" means chairperson of the Board appointed under section 4.\n[ 21 of 2019, s. 2(a). ]\n\"Chief Executive Officer\" means the Chief Executive Officer of the Council appointed under section 14;\n[ 21 of 2019, s. 2(a). ]\n\"committee\" means a committee of the Board appointed under section 12;\n[ 21 of 2019, s. 2(d). ]\n\"Council\" means the Botswana Examinations Council established under section 3;\n\"examination centre\" means a school, college, educational establishment, facility or an institution registered and accredited by the Council for the entry and registration of candidates to be examined by the Council under this Act;\n[ 21 of 2019, s. 2(a). ]\n\"examination malpractice\" means an act which contravenes examination regulations;\n\"Executive Secretary\" ...\n[ 21 of 2019, s. 2(c). ]\n\"member\" means a member of the Board appointed under section 4; and\n[ 21 of 2019, s. 2(e). ]\n\"technical and vocational education and training\" means an education, training and learning programme which provides knowledge, skills and competencies relevant for employment or self-employment.\n[ 21 of 2019, s. 2(a). ]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment of Examinations Council",
+      "section": "3",
+      "title": "Establishment of Council",
+      "content": "3. Establishment of Council\n(1) There is hereby established the Botswana Examinations Council.\n(2) The Council shall be a body corporate with perpetual succession and a common seal, capable of suing and being sued in its own name and, subject to the provisions of this Act, of performing such acts as bodies corporate may by law perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment of Examinations Council",
+      "section": "4",
+      "title": "Constitution and qualifications of Board of Council",
+      "content": "4. Constitution and qualifications of Board of Council\n(1) There is hereby established a Board of the Council which shall—\n( a ) be the governing body of the Council; and\n( b ) perform such functions as may be conferred on it under this Act.\n[ 21 of 2019, s. 3. ]\n(2) The Board shall consist of 7 members, appointed by the Minister from amongst persons whom the Minister considers qualified by reason of their competence, knowledge and experience in the following areas—\n( a ) curriculum and educational measurement and evaluation;\n( b ) educational research;\n( c ) education and training;\n( d ) finance and audit;\n( e ) human resource management or related field;\n( f ) law; and\n( g ) law enforcement.\n[ 21 of 2019, s. 3. ]\n(3) The Chief Executive Officer shall be an ex-officio member of the Board.\n[ 21 of 2019, s. 3. ]\n(4) The Minister shall appoint the Chairperson of the Board and the Vice-Chairperson shall be elected by members from amongst their number.\n[ 21 of 2019, s. 3. ]\n(5) The Minister may appoint other persons to sit on the Board as alternates to the substantive members of the Board appointed under subsection (2) excluding the Chairperson.\n[ 21 of 2019, s. 3. ]\n(6) The alternate members appointed by the Minister under subsection (5) shall be appointed, if the Minister is satisfied that such persons meet the requirements for qualifications for members set out under subsection (2).\n[ 21 of 2019, s. 3. ]\n(7) The Minister shall, by notice in the Gazette, publish the appointment of members and their alternates, specifying the dates of their appointment and the period for which they are appointed to the office of the Board.\n[ 21 of 2019, s. 3. ]"
+    },
+    {
+      "provision_ref": "s4A",
+      "chapter": "PART II Establishment of Examinations Council",
+      "section": "4A",
+      "title": "Directions by Minister",
+      "content": "4A. Directions by Minister\n(1) The Minister may give the Board directions of a general or specific nature regarding the exercise of its powers and the performance of its functions under this Act.\n[ 21 of 2019, s. 4. ]\n(2) The directions given under subsection (1) shall not be inconsistent with this Act or with the contractual or other obligations of the Council.\n[ 21 of 2019, s. 4. ]\n(3) The Board shall give effect to the directions given to it under this section."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "a person so designated under section 17",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board established under section 4 of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "candidate",
+      "definition": "a person enrolled by the Council for purposes of sitting for an examination",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "chairperson of the Board appointed under section 4.\n[ 21 of 2019, s. 2(a). ]\n\"Chief Executive Officer\" means the Chief Executive Officer of the Council appointed under section 14",
+      "source_provision": "s2"
+    },
+    {
+      "term": "committee",
+      "definition": "a committee of the Board appointed under section 12",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Botswana Examinations Council established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "examination centre",
+      "definition": "a school, college, educational establishment, facility or an institution registered and accredited by the Council for the entry and registration of candidates to be examined by the Council under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "examination malpractice",
+      "definition": "an act which contravenes examination regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board appointed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "technical and vocational education and training",
+      "definition": "an education, training and learning programme which provides knowledge, skills and competencies relevant for employment or self-employment.\n[ 21 of 2019, s. 2(a). ]",
+      "source_provision": "s2"
+    }
+  ]
+}

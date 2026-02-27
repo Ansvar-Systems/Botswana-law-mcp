@@ -1,0 +1,143 @@
+{
+  "id": "bw-act-botswana-qualifications-authority",
+  "type": "statute",
+  "title": "Botswana Qualifications Authority",
+  "title_en": "Botswana Qualifications Authority",
+  "short_name": "Botswana Qualifications Aut...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-qualifications-authority",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Qualifications Authority Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"accreditation\" means a process of ensuring that education and training providers, and any programme of education and training offered, conform to any quality assurance standards set by the Authority;\n\"Authority\" means the Botswana Qualifications Authority established under section 3(1);\n\"awarding body\" means an organisation, recognised by the Authority, which awards accredited qualifications;\n\"Board\" means the Board of the Authority;\n\"Chairperson\" means the Chairperson of the Authority;\n\"Chief Executive Officer\" means the Chief Executive Officer of the Authority appointed as such under section 18;\n\"code of practice\" means the code of practice issued by the Authority under section 30;\n\"education and training provider\" means a person or entity that provides or organises a programme of education and training, including the provision of professional development services;\n\"general education\" means all formal, informal and non-formal education and training other than tertiary education;\n\"higher education\" means any studies undertaken beyond the level of secondary education, but excluding technical and vocational education and training (TVET);\n\"member\" means a member of the Board appointed under section 5(2);\n\"national credit and qualifications framework\" means an instrument developed under section 4(2)( d ) for the classification of qualifications according to a set of criteria, for specified levels of learning achieved;\n\"part qualification\" means an assessed unit of learning that is registered by the Authority as part of a qualification, including a module and a unit standard;\n\"quality assurance\" means input and output factors, processes and procedures for ensuring that a qualifications system, including qualifications, assessment and programme delivery, meet such standards as are determined by the Authority;\n\"repealed Act\" means the Vocational Training Act (Cap. 47:04) repealed under section 32;\n\"technical and vocational education and training (TVET)\" means an education, training and learning programme which provides knowledge, skills and competencies relevant for employment or self-employment;\n\"tertiary education\" means a programme which is offered beyond the level of senior secondary, education, including technical and vocational education and training (TVET), through to advanced research qualifications, which have been accredited by the Authority or by a competent authority in the country from which the programme is offered;\n\"unit standard\" means a statement of the outcome of any learning assessed, the type and quality of evidence that represents performance worthy of an award of credits and the context in which that evidence should be demonstrated;\n\"work-based learning programme\" means an instructional programme that deliberately uses a work-place as a site for student learning, and which is formal, structured and strategically organised to link learning in the work-place to institutionally-based learning experiences; and\n\"work-place learning\" means skills training and development that is provided at the work-place for employees, including informal skills training and development, on-the-job training and vocational and technical training which is not offered by a tertiary institution."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment and Functions of Botswana Qualifications Authority",
+      "section": "3",
+      "title": "Continuation of establishment of Authority",
+      "content": "3. Continuation of establishment of Authority\n(1) The Authority known as the Botswana Training Authority established under section 3 of the repealed Act, is hereby continued under the new name of the Botswana Qualifications Authority, and shall continue to exist as if established under this Act.\n(2) The Authority shall be a body corporate with perpetual succession and a common seal, capable of suing and being sued in its own name and, subject to the provisions of this Act, performing such acts as bodies corporate, may by law, do or perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment and Functions of Botswana Qualifications Authority",
+      "section": "4",
+      "title": "Objectives and functions of Botswana Qualifications Authority",
+      "content": "4. Objectives and functions of Botswana Qualifications Authority\n(1) The objectives of the Authority shall be to provide for and maintain a national credit and qualifications framework and to co-ordinate the education, training and skills development quality assurance system.\n(2) Without derogating from the generality of subsection (1), the Authority shall—\n( a ) be responsible for all qualifications, from early childhood to tertiary level;\n( b ) design, develop and implement a common quality assurance platform, and regulate compliance therewith;\n( c ) register and validate qualifications and part qualifications, and ensure their relevance to social and economic needs;\n( d ) develop, implement and maintain an overarching national credit and qualifications framework;\n( e ) set teaching and learning standards for education and training providers;\n( f ) develop policy and criteria for work-based teaching, work-place learning and work-based learning programmes, the recognition of prior learning (RPL) and the credit accumulation and transfer system (CATS);\n( g ) ensure international recognition for the national qualifications system and the international comparability of qualifications;\n( h ) develop standards for the recognition of external qualifications;\n( i ) evaluate and register local and external qualifications;\n( j ) maintain a national database of qualifications;\n( k ) maintain a national database of assessors, moderators, education and training providers and learners;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accreditation",
+      "definition": "a process of ensuring that education and training providers, and any programme of education and training offered, conform to any quality assurance standards set by the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Botswana Qualifications Authority established under section 3(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "awarding body",
+      "definition": "an organisation, recognised by the Authority, which awards accredited qualifications",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the Chairperson of the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Executive Officer",
+      "definition": "the Chief Executive Officer of the Authority appointed as such under section 18",
+      "source_provision": "s2"
+    },
+    {
+      "term": "code of practice",
+      "definition": "the code of practice issued by the Authority under section 30",
+      "source_provision": "s2"
+    },
+    {
+      "term": "education and training provider",
+      "definition": "a person or entity that provides or organises a programme of education and training, including the provision of professional development services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "general education",
+      "definition": "all formal, informal and non-formal education and training other than tertiary education",
+      "source_provision": "s2"
+    },
+    {
+      "term": "higher education",
+      "definition": "any studies undertaken beyond the level of secondary education, but excluding technical and vocational education and training (TVET)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board appointed under section 5(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "national credit and qualifications framework",
+      "definition": "an instrument developed under section 4(2)( d ) for the classification of qualifications according to a set of criteria, for specified levels of learning achieved",
+      "source_provision": "s2"
+    },
+    {
+      "term": "part qualification",
+      "definition": "an assessed unit of learning that is registered by the Authority as part of a qualification, including a module and a unit standard",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quality assurance",
+      "definition": "input and output factors, processes and procedures for ensuring that a qualifications system, including qualifications, assessment and programme delivery, meet such standards as are determined by the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "the Vocational Training Act (Cap. 47:04) repealed under section 32",
+      "source_provision": "s2"
+    },
+    {
+      "term": "technical and vocational education and training (TVET)",
+      "definition": "an education, training and learning programme which provides knowledge, skills and competencies relevant for employment or self-employment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tertiary education",
+      "definition": "a programme which is offered beyond the level of senior secondary, education, including technical and vocational education and training (TVET), through to advanced research qualifications, which have been accredited by the Authority or by a competent authority in the country from which the programme is offered",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unit standard",
+      "definition": "a statement of the outcome of any learning assessed, the type and quality of evidence that represents performance worthy of an award of credits and the context in which that evidence should be demonstrated",
+      "source_provision": "s2"
+    },
+    {
+      "term": "work-based learning programme",
+      "definition": "an instructional programme that deliberately uses a work-place as a site for student learning, and which is formal, structured and strategically organised to link learning in the work-place to institutionally-based learning experiences",
+      "source_provision": "s2"
+    },
+    {
+      "term": "work-place learning",
+      "definition": "skills training and development that is provided at the work-place for employees, including informal skills training and development, on-the-job training and vocational and technical training which is not offered by a tertiary institution.",
+      "source_provision": "s2"
+    }
+  ]
+}

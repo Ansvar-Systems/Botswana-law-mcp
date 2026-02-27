@@ -1,0 +1,125 @@
+{
+  "id": "bw-act-botswana-geoscience-institute",
+  "type": "statute",
+  "title": "Botswana Geoscience Institute",
+  "title_en": "Botswana Geoscience Institute",
+  "short_name": "Botswana Geoscience Institute",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-geoscience-institute",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Geoscience Institute Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"authorised officer\" means a person authorised by the Minister to exercise powers conferred by section 34;\n\"Board\" means the Board of the Institute established under section 6;\n\"Chairperson\" means the Chairperson of the Board;\n\"Chief Executive Officer\" means the Chief Executive Officer of the Institute appointed under section 22;\n\"discovery\" means a technological or scientific discovery, including the discovery of a mineral deposit;\n\"geochemical survey\" means a survey involving the chemical analysis of systematically collected samples of rock, soil, stream sediments, plants or water for mineral and groundwater exploration;\n\"geohazards\" means—\n( a ) a geological state or an incipient geological condition that has the potential to develop further into a situation leading to harm, damage or uncontrolled risk;\n( b ) phenomena that are related to geological and environmental conditions and involve long term and short term geological processes which range in magnitude from relatively small to large scale features and may affect the local and regional socio-economy; and\n( c ) areas characterised by potential life threatening geological condition in Botswana, including dolomite land, undermined areas, areas of potential slope stability problems and areas prone to potential severe seismicity and flood-line areas;\n\"geoscientific information\" includes geotechnical information, exploration, mining, hydrogeology, geochemistry, geophysics, engineering geology, economic geology, geochronology, geomagnetism, geotechnical investigations, seismology, geohazards and environmental geology;\n\"geotechnical survey\" means a ground survey to establish sub-surface conditions to obtain information on and analysis of the physical properties of soils, rocks and ground water levels;\n\"Institute\" means the Botswana Geoscience Institute established under section 3;\n\"member\" means a member of the Board;\n\"minerals permit area\" has the meaning assigned to it under the Mines and Minerals Act (Cap. 66:01);\n\"mining area\" has the meaning assigned to it under the Mines and Minerals Act;\n\"prospecting licence\" has the meaning assigned to it under the Mines and Minerals Act;\n\"retention area\" has the meaning assigned to it under the Mines and Minerals Act;\n\"Secretary\" means the Secretary to the Board, appointed under section 24; and\n\"senior staff&rsquo; means any employee of the Institute who holds a position which is designated as such by the Board."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment and functions of Botswana Geoscience Institute (3-14)",
+      "section": "3",
+      "title": "Establishment of Institute",
+      "content": "3. Establishment of Institute\n(1) There is hereby established a body to be known as the Botswana Geoscience Institute.\n(2) The Institute shall be a body corporate capable of suing and being sued in its own name and, subject to the provisions of this Act, of performing such acts as bodies corporate may, by law, perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment and functions of Botswana Geoscience Institute (3-14)",
+      "section": "4",
+      "title": "Functions of Institute",
+      "content": "4. Functions of Institute\n(1) The Institute shall be responsible for research in the field of geosciences, providing specialised geoscientific services and promoting the search for, and exploration of any mineral in Botswana.\n(2) Notwithstanding the generality of subsection (1), the Institute shall—\n( a ) advance the geoscientific knowledge of Botswana by geothematic survey, long term monitoring, effective data management and high quality applied research through—\n(i) geoscience information updates including digitisation and web delivery enabling of data,\n(ii) rapid map revisions to geological mapping based on satellite imagery, interpretation of airborne geophysics, geochronology and anomaly ground truthing field base surveys,\n(iii) systematic geochemical survey for mineral exploration and environmental baseline purposes,\n(iv) national resource assessment and estimate of mineral resource, petroleum and gas potential,\n(v) strategic aquifer mapping and underground modeling,\n(vi) thematic mapping,\n(vii) national geotechnical indicators in response to expanding towns and villages,\n(viii) regional impacts of mining, including water extraction or kimberlitic dewatering,\n(ix) seismicity risk reduction assessment, or\n(x) geohazards related to extra-terrestrial events risk reduction assessment;\n( b ) undertake geoscientific research, related technological development and disseminate geoscientific research findings;\n( c ) compile and develop a comprehensive and integrated collection of knowledge and information of geology, geochemistry, geophysics, engineering geology, economic geology, geochronology, geotechnical investigations, seismology, geohazards, environmental geology and other related disciplines;\n( d ) act as an advisory body in respect of geohazards related to infrastructure and development;\n( e ) provide specialised geoscientific services;\n( f ) conduct geotechnical surveys;\n( g ) promote public understanding of geoscience;\n( h ) demonstrate the importance of geoscience to resource and environmental issues; and\n( i ) do all such things as appear to be necessary, desirable or expedient to carry out its functions."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment and functions of Botswana Geoscience Institute (3-14)",
+      "section": "5",
+      "title": "Seal of Institute",
+      "content": "5. Seal of Institute\n(1) The seal of the Institute shall be such device as may be determined by the Board and shall be kept by the Chief Executive Officer.\n(2) The affixing of the seal shall be authenticated by the signature of the Chief Executive Officer.\n(3) In the absence of the Chief Executive Officer, the person performing the functions of the Chief Executive Officer shall authenticate the seal in his or her place.\n(4) The Chief Executive Officer may, in writing, delegate to another employee his or her power to authenticate the seal.\n(5) A document issued by the Institute and sealed with the seal of the Institute which seal is authenticated in the manner provided by this section shall be received and taken to be a true instrument without further proof unless the contrary is shown."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "a person authorised by the Minister to exercise powers conferred by section 34",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of the Institute established under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the Chairperson of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Executive Officer",
+      "definition": "the Chief Executive Officer of the Institute appointed under section 22",
+      "source_provision": "s2"
+    },
+    {
+      "term": "discovery",
+      "definition": "a technological or scientific discovery, including the discovery of a mineral deposit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "geochemical survey",
+      "definition": "a survey involving the chemical analysis of systematically collected samples of rock, soil, stream sediments, plants or water for mineral and groundwater exploration",
+      "source_provision": "s2"
+    },
+    {
+      "term": "geoscientific information",
+      "definition": "geotechnical information, exploration, mining, hydrogeology, geochemistry, geophysics, engineering geology, economic geology, geochronology, geomagnetism, geotechnical investigations, seismology, geohazards and environmental geology",
+      "source_provision": "s2"
+    },
+    {
+      "term": "geotechnical survey",
+      "definition": "a ground survey to establish sub-surface conditions to obtain information on and analysis of the physical properties of soils, rocks and ground water levels",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Institute",
+      "definition": "the Botswana Geoscience Institute established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "minerals permit area",
+      "definition": "assigned to it under the Mines and Minerals Act (Cap. 66:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mining area",
+      "definition": "assigned to it under the Mines and Minerals Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prospecting licence",
+      "definition": "assigned to it under the Mines and Minerals Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "retention area",
+      "definition": "assigned to it under the Mines and Minerals Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Secretary",
+      "definition": "the Secretary to the Board, appointed under section 24",
+      "source_provision": "s2"
+    }
+  ]
+}

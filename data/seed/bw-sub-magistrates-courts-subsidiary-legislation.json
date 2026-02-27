@@ -1,0 +1,38 @@
+{
+  "id": "bw-sub-magistrates-courts-subsidiary-legislation",
+  "type": "statute",
+  "title": "Magistrates&#039; Courts: Subsidiary Legislation",
+  "title_en": "Magistrates&#039; Courts: Subsidiary Legislation",
+  "short_name": "Magistrates&#039; Courts: S...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/magistrates-courts-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Increased Jurisdiction Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Increased jurisdiction",
+      "content": "2. Increased jurisdiction\nChief Magistrates, Senior Magistrates and Magistrates Grade I shall have power to try all offences contrary to the Penal Code (Cap. 08:01), other than offences contrary to sections 34 to 38, 42, 53, 62 to 65, 200, 202, 208, 217 to 219, 222 and 224, and attempts to commit such offences."
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Magistrates' Grade II (Increased Powers of Punishment) Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Increased powers of punishment",
+      "content": "2. Increased powers of punishment\nMagistrates Grade II are hereby authorised to award sentences of imprisonment up to and including 5 years or to impose fines up to and including P10,000, or both."
+    }
+  ],
+  "definitions": []
+}

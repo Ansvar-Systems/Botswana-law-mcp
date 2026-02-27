@@ -1,0 +1,92 @@
+{
+  "id": "bw-act-arbitration",
+  "type": "statute",
+  "title": "Arbitration",
+  "title_en": "Arbitration",
+  "short_name": "Arbitration",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/arbitration",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Arbitration Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"arbitration\" means any proceedings held pursuant to a submission;\n\"arbitrator\" means any person acting as such pursuant to a submission;\n\"Court\" means the High Court;\n\"official referee\" means any referee appointed by the Court in terms of any general rule of Court without reference to any particular matter;\n\"special referee\" means any particular person appointed to be a referee in any particular matter;\n\"submission\" means a written agreement, wherever made, to submit present or future differences to arbitration, whether an arbitrator is named therein or not;\n\"umpire\" means any person acting as such pursuant to a submission."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II References by Consent out of Court",
+      "section": "3",
+      "title": "Authority of arbitrators and umpires to be irrevocable",
+      "content": "3. Authority of arbitrators and umpires to be irrevocable\nThe authority of an arbitrator or umpire appointed by or by virtue of a submission shall, unless a contrary intention is expressed in the submission, be irrevocable except by leave of the Court or a judge thereof."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II References by Consent out of Court",
+      "section": "4",
+      "title": "Submission to include provisions in Schedule",
+      "content": "4. Submission to include provisions in Schedule\nA submission, unless a contrary intention is expressed therein, shall be deemed to include the provisions set forth in the Schedule, so far as they are applicable to the reference under the submission."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II References by Consent out of Court",
+      "section": "5",
+      "title": "Reference to an official referee",
+      "content": "5. Reference to an official referee\nWhere a submission provides that the reference shall be to an official referee, any official referee to whom application is made shall, subject to any order of Court (or a judge), hear and determine the matters agreed to be referred."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II References by Consent out of Court",
+      "section": "6",
+      "title": "Staying of legal proceedings",
+      "content": "6. Staying of legal proceedings\n(1) If any party to a submission, or any person claiming through or under him, commences any legal proceedings in any court against any other party to the submission, or any person claiming through or under him, in respect to any matter agreed to be referred, any party to such legal proceedings may at any time after appearance, and before delivering any pleadings or taking any other steps in the proceedings, apply to that court to stay the proceedings, and that court, if satisfied that there is no sufficient reason why the matter should not be referred in accordance with the submission, and that the applicant was, at the time when the proceedings were commenced, and still remains, ready and willing to do all things necessary to the proper conduct of the arbitration, may make an order staying the proceedings subject to such terms and conditions as may be just.\n(2) The provisions of subsection (1) shall, in the case of the death or insolvency of any party to which it might apply, apply mutatis mutandis to the executor or trustee in the insolvency of such party.\n(3) The death or insolvency of a party to a submission shall not be deemed to revoke such submission."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "arbitration",
+      "definition": "any proceedings held pursuant to a submission",
+      "source_provision": "s2"
+    },
+    {
+      "term": "arbitrator",
+      "definition": "any person acting as such pursuant to a submission",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Court",
+      "definition": "the High Court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "official referee",
+      "definition": "any referee appointed by the Court in terms of any general rule of Court without reference to any particular matter",
+      "source_provision": "s2"
+    },
+    {
+      "term": "special referee",
+      "definition": "any particular person appointed to be a referee in any particular matter",
+      "source_provision": "s2"
+    },
+    {
+      "term": "submission",
+      "definition": "a written agreement, wherever made, to submit present or future differences to arbitration, whether an arbitrator is named therein or not",
+      "source_provision": "s2"
+    },
+    {
+      "term": "umpire",
+      "definition": "any person acting as such pursuant to a submission.",
+      "source_provision": "s2"
+    }
+  ]
+}

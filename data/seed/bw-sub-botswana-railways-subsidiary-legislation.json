@@ -1,0 +1,74 @@
+{
+  "id": "bw-sub-botswana-railways-subsidiary-legislation",
+  "type": "statute",
+  "title": "Botswana Railways: Subsidiary Legislation",
+  "title_en": "Botswana Railways: Subsidiary Legislation",
+  "short_name": "Botswana Railways: Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/botswana-railways-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-Laws may be cited as the Botswana Railways Bye-Laws."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-Laws, unless the context otherwise requires—\n\"the Act\" means the Botswana Railways Act, 1989;\n\"authorised officer\" means any officer or employee appointed, transferred or seconded to Botswana Railways in accordance with section 10 of the Act, any police officer in the execution of his duty, or any other person specially authorised by the Board of Management of the Botswana Railways;\n\"Botswana Railways\" means the Botswana Railways Organisation established under section 3 of the Act;\n\"the railway\" means the railways and railway premises of Botswana Railways, and includes stations, approaches to stations and railway reserves;\n\"Tariff Book\" means the official railway publication (or publications) containing the conditions for conveyance and carriage of goods and passengers on Botswana Railways, and the table of tariffs and fares, including excess fares, therefor and which is available for inspection by the public at railway stations and goods depots;\n\"ticket\" means a ticket or document issued by or on the authority of the Botswana Railways, for the conveyance of any passenger, animal or article on the railway, or any platform ticket or vehicle or bicycle parking ticket, and includes any warrant, voucher or other authority in exchange for or on production of which a ticket for the conveyance of any passenger may be issued;\n\"vehicle\" means any railway vehicle on the railway, and includes any compartment of such vehicle."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Access to the railway",
+      "content": "3. Access to the railway\nAny authorised officer may, for good cause, refuse access to the railway to any person, and any person who disregards or refuses to obey any such refusal by an authorised officer shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Offences in connection with the use of the railway",
+      "content": "4. Offences in connection with the use of the railway\n(1) Any person found on the railway who is unable to establish satisfactorily to an authorised officer that he has legitimate business entitling him to be there, or who is not genuinely in the act of crossing the railway at an authorised crossing point, shall be guilty of an offence.\n(2) Any person who passes a ticket barrier or enters a vehicle without being in possession of a valid ticket or other authority entitling him to so pass or enter shall be guilty of an offence:\nProvided that at a location where there are no ticket issuing facilities a person shall not be guilty of an offence under this sub-bye-law if he so passes or enters for the purpose of travelling on the railway, and is in possession of adequate funds to enable him to pay to an authorised officer the correct fare for the journey.\n(3)( a ) A ticket shall not be used for a purpose other than that for which it was issued, and, unless permitted by an authorised officer, shall not be used for a type of travel or a class of accommodation other than that for which it was issued."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Act",
+      "definition": "the Botswana Railways Act, 1989",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised officer",
+      "definition": "any officer or employee appointed, transferred or seconded to Botswana Railways in accordance with section 10 of the Act, any police officer in the execution of his duty, or any other person specially authorised by the Board of Management of the Botswana Railways",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Botswana Railways",
+      "definition": "the Botswana Railways Organisation established under section 3 of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "the railway",
+      "definition": "the railways and railway premises of Botswana Railways, and includes stations, approaches to stations and railway reserves",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Tariff Book",
+      "definition": "the official railway publication (or publications) containing the conditions for conveyance and carriage of goods and passengers on Botswana Railways, and the table of tariffs and fares, including excess fares, therefor and which is available for inspection by the public at railway stations and goods depots",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ticket",
+      "definition": "a ticket or document issued by or on the authority of the Botswana Railways, for the conveyance of any passenger, animal or article on the railway, or any platform ticket or vehicle or bicycle parking ticket, and includes any warrant, voucher or other authority in exchange for or on production of which a ticket for the conveyance of any passenger may be issued",
+      "source_provision": "s2"
+    },
+    {
+      "term": "vehicle",
+      "definition": "any railway vehicle on the railway, and includes any compartment of such vehicle.",
+      "source_provision": "s2"
+    }
+  ]
+}

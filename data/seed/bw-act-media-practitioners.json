@@ -1,0 +1,117 @@
+{
+  "id": "bw-act-media-practitioners",
+  "type": "statute",
+  "title": "Media Practitioners",
+  "title_en": "Media Practitioners",
+  "short_name": "Media Practitioners",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/media-practitioners",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Media Practitioners Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Appeals Committee\" means the Appeals Committee appointed under section 15;\n\"chairperson\" means the chairperson of the Executive Committee;\n\"committee\" means a committee appointed by the Council under section 23;\n\"Complaints Committee\" means the Complaints Committee established under section 11;\n\"Council\" means the Media Council established under section 3;\n\"Executive Committee\" means the governing body of the Council elected under section 18(2);\n\"media practitioner\" means a person engaged in the writing, editing or transmitting of news and information to the public, and includes a broadcaster under the Broadcasting Act (Cap. 72:04), a journalist, editor or publisher of a publication and the manager or proprietor of a publication or broadcasting station;\n\"member\" means a member of the Council but excludes an associate member;\n\"notice\" includes an instrument made by statutory instrument;\n\"publication\" includes all print, broadcast and electronic information which is published;\n\"published\" means issued for distribution, by sale or otherwise; and\n\"publisher\" means a media institution or a person who is responsible for the production of a publication."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment and Membership of the Council",
+      "section": "3",
+      "title": "Establishment of Council",
+      "content": "3. Establishment of Council\n(1) There shall be a Council, to be known as the Media Council.\n(2) The Council shall be a body corporate with perpetual succession, capable of suing and being sued in its own name.\n(3) The Council shall have a common seal and may hold, acquire and dispose of any movable or immovable property."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment and Membership of the Council",
+      "section": "4",
+      "title": "Independence of Council",
+      "content": "4. Independence of Council\nThe Council shall operate without any political or other bias or interference, and shall be wholly independent and separate from the government, any political party or any other body."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment and Membership of the Council",
+      "section": "5",
+      "title": "Objects of Council",
+      "content": "5. Objects of Council\nThe objects of the Council are—\n( a ) to preserve media freedom;\n( b ) to uphold standards of professional conduct and promote good ethical standards and discipline among media practitioners;\n( c ) to promote the observance of media ethics in accordance with the Code of Ethics issued by the Council under section 9(1);\n( d ) to promote public awareness of the rights and responsibilities of media practitioners, through such outreach programmes as may be established;\n( e ) to establish links with similar organisations within and outside Botswana;\n( f ) to monitor the activities of media practitioners;\n( g ) to receive complaints directed against media practitioners;\n( h ) to bring together media practitioners and other media stakeholders in Botswana, with a view to exchanging information, sharing ideas and dealing with any challenges facing the development of the media industry;\n( i ) to register and accredit resident media practitioners;\n( j ) to issue accredited resident media practitioners with identity cards;\n( k ) to maintain a media register;\n( l ) to seek financial and other assistance for the operations of the Council;\n( m ) to sponsor training in media work and advise on matters pertaining to the education and training of media practitioners; and\n( n ) to undertake such research into the performance of the media as may be consistent with the furtherance of the Councils objectives."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Establishment and Membership of the Council",
+      "section": "6",
+      "title": "Registration and accreditation of resident media practitioners",
+      "content": "6. Registration and accreditation of resident media practitioners\n(1) A resident media practitioner shall be registered and accredited by the Executive Committee."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Appeals Committee",
+      "definition": "the Appeals Committee appointed under section 15",
+      "source_provision": "s2"
+    },
+    {
+      "term": "chairperson",
+      "definition": "the chairperson of the Executive Committee",
+      "source_provision": "s2"
+    },
+    {
+      "term": "committee",
+      "definition": "a committee appointed by the Council under section 23",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Complaints Committee",
+      "definition": "the Complaints Committee established under section 11",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Media Council established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Executive Committee",
+      "definition": "the governing body of the Council elected under section 18(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "media practitioner",
+      "definition": "a person engaged in the writing, editing or transmitting of news and information to the public, and includes a broadcaster under the Broadcasting Act (Cap. 72:04), a journalist, editor or publisher of a publication and the manager or proprietor of a publication or broadcasting station",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Council but excludes an associate member",
+      "source_provision": "s2"
+    },
+    {
+      "term": "notice",
+      "definition": "an instrument made by statutory instrument",
+      "source_provision": "s2"
+    },
+    {
+      "term": "publication",
+      "definition": "all print, broadcast and electronic information which is published",
+      "source_provision": "s2"
+    },
+    {
+      "term": "published",
+      "definition": "issued for distribution, by sale or otherwise",
+      "source_provision": "s2"
+    },
+    {
+      "term": "publisher",
+      "definition": "a media institution or a person who is responsible for the production of a publication.",
+      "source_provision": "s2"
+    }
+  ]
+}

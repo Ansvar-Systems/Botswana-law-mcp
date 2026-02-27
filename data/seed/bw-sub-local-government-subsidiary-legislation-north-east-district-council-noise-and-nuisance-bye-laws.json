@@ -1,0 +1,38 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-north-east-district-council-noise-and-nuisance-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : North East District Council (noise and Nuisance) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : North East District Council (noise and Nuisance) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-north-east-district-council-noise-and-nuisance-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the North East District Council (Noise and Nuisance) Bye-laws*.\n*Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"District Council\" means the North East District Council."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Prohibition of noises and nuisances",
+      "content": "3. Prohibition of noises and nuisances\nA person shall not\n( a ) operate or cause to be operated any wireless, musical instrument, loudspeaker, record player, amplifier or similar device to the annoyance of the occupants of any premises in the neighbourhood;\n( b ) continue to make any loud noise or disturbance either by shouting, screaming or yelling, or by blowing a horn or any device or by beating any drum or other device so as to annoy, disturb or interfere with the rest or peace of the inhabitants of the neighbourhood, after having been requested to desist by any member of the Botswana Police Service, any person authorised by the District Council or any person so annoyed, disturbed or inconvenienced;\n( c ) continue to ring any bell or sound any horn or blow any whistle or use any noisy device or shout in any market square, street, park or public place for the purpose of attracting customers, or hawk, sell or distribute any article or thing whatsoever, to the annoyance, disturbance, or inconvenience of any person who uses such market square, street, park or public place, after having been requested to desist by any member of the Botswana Police Service, any person authorised by the District Council or any person so annoyed, disturbed or inconvenienced;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "District Council",
+      "definition": "the North East District Council.",
+      "source_provision": "s2"
+    }
+  ]
+}

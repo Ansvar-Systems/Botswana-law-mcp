@@ -1,0 +1,74 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-gaborone-city-council-parking-grounds-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Gaborone City Council (parking Grounds) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Gaborone City Council (parking Grounds) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-gaborone-city-council-parking-grounds-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Gaborone City Council (Parking Grounds) Bye-laws."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"authorised person\" means a person authorised by the Council to supervise or control parking grounds;\n\"Council\" means the Gaborone City Council;\n\"impound area\" means any place, whether privately or publicly owned or controlled, where the Council may park a vehicle seized or impounded in terms of these bye-laws;\n\"law enforcement officer\" means a person appointed by the Council as such under section 52(1) of the Act;\n\"parking bay\" means an area demarcated as such upon the surface of a parking ground within which a vehicle is to be parked in terms of these bye-Jaws;\n\"parking ground\" means any area of land or any building set aside by the Council as a parking ground for the parking of vehicles by members of the public;\n\"parking device\" means a device for registering and visibly recording, in exchange for the right to park, a vehicle in a parking ground for a limited amount of time, upon insertion of a coin or other prescribed method of payment, and includes any post or fixture to which the device is attached;\n\"parking period\" means that period, including a period reflected on a parking meter, on any one day during which a vehicle is permitted to park in a parking ground, parking bay or as indicated by a road traffic sign;\n\"pay and display machine\" means a machine installed at a pay and display parking ground for the sale of tickets on which the following are reflected\n( a ) the date or day of issue of the ticket;\n( b ) the amount paid for the ticket;\n( c ) the departure time; and\n( d ) the machine code number;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised person",
+      "definition": "a person authorised by the Council to supervise or control parking grounds",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Gaborone City Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "impound area",
+      "definition": "any place, whether privately or publicly owned or controlled, where the Council may park a vehicle seized or impounded in terms of these bye-laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "law enforcement officer",
+      "definition": "a person appointed by the Council as such under section 52(1) of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "parking bay",
+      "definition": "an area demarcated as such upon the surface of a parking ground within which a vehicle is to be parked in terms of these bye-Jaws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "parking ground",
+      "definition": "any area of land or any building set aside by the Council as a parking ground for the parking of vehicles by members of the public",
+      "source_provision": "s2"
+    },
+    {
+      "term": "parking device",
+      "definition": "a device for registering and visibly recording, in exchange for the right to park, a vehicle in a parking ground for a limited amount of time, upon insertion of a coin or other prescribed method of payment, and includes any post or fixture to which the device is attached",
+      "source_provision": "s2"
+    },
+    {
+      "term": "parking period",
+      "definition": "that period, including a period reflected on a parking meter, on any one day during which a vehicle is permitted to park in a parking ground, parking bay or as indicated by a road traffic sign",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pay and display machine",
+      "definition": "a machine installed at a pay and display parking ground for the sale of tickets on which the following are reflected\n( a ) the date or day of issue of the ticket",
+      "source_provision": "s2"
+    }
+  ]
+}

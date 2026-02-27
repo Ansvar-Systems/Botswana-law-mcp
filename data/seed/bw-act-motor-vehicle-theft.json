@@ -1,0 +1,59 @@
+{
+  "id": "bw-act-motor-vehicle-theft",
+  "type": "statute",
+  "title": "Motor Vehicle Theft",
+  "title_en": "Motor Vehicle Theft",
+  "short_name": "Motor Vehicle Theft",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/motor-vehicle-theft",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Motor Vehicle Theft Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"motor vehicle\" means any vehicle designed or adapted for propulsion or haulage on a road by means of mechanical or electrical power without the aid of rails, and includes any trailer;\n\"motor dealer\" means any person who deals by way of business in motor vehicles or trailers, including a manufacturer and a repairer or panel-beater of such vehicles, and in relation to a scrapyard for motor vehicles or parts thereof, or where any such vehicles or parts are found, means the owner or person in charge of such scrapyard;\n\"offensive weapon\" means any article made or adapted for use for causing injury to the person, or intended by any person having it with him for such use by him, and includes, but is not limited to, a firearm, a spear, an axe, a hatchet, a club and a knife;\n\"police officer\" includes a special constable and a member of the Reserve Force;\n\"receive\" shall have the meaning assigned to that expression in section 317 of the Penal Code (Cap. 08:01);\n\"steal\" shall have the meaning assigned to that expression in section 264 of the Penal Code (Cap. 08:01)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Theft of motor vehicles",
+      "content": "3. Theft of motor vehicles\n(1) Any person who steals a motor vehicle, or receives a motor vehicle knowing or having reason to believe it to be a stolen vehicle, shall be guilty of an offence and, notwithstanding the provisions of any other written law, shall be liable for a first offence to imprisonment for not less than five years or more than ten years without the option of a fine, and for a second or subsequent offence to imprisonment for not less than seven years or more than fourteen years without the option of a fine.\n(2) Where, for the purpose of stealing a motor vehicle, or in the course of stealing a motor vehicle, violence or the threat of violence is used, the penalty shall be imprisonment for not less than ten years or more than fifteen years without the option of a fine, and if the violence used or threatened involves the use of a firearm or other offensive weapon the penalty shall be imprisonment for not less than twelve years or more than twenty years without the option of a fine.\n(3) A person charged under subsection (1) may be convicted of the offence of stealing a motor vehicle or of receiving a motor vehicle notwithstanding that the person stated in the charge to be the owner of the vehicle is wrongly named as the owner of the vehicle.\n(4) Any person who procures, incites, hires, directs or instigates another person to contravene the provisions of subsection (1) shall be guilty of an offence and liable to the same penalties as the person who contravenes those provisions.\n(5) Any sentence imposed in respect of an offence under this section shall be consecutive to and not concurrent with any other sentence imposed on the same accused person, and no sentence or any part of any sentence imposed in respect of an offence under this section shall be suspended."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Presumptions",
+      "content": "4. Presumptions\nIn any proceedings, where it is proved to the satisfaction of the court that a person—\n( a ) was found in possession of a motor vehicle reasonably suspected of being stolen;\n( b ) was found in possession of a motor vehicle of which the engine or chassis numbers, or the registration marks or numbers, or other identification marks have been altered, disfigured, obliterated or tampered with in any manner;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "motor vehicle",
+      "definition": "any vehicle designed or adapted for propulsion or haulage on a road by means of mechanical or electrical power without the aid of rails, and includes any trailer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "motor dealer",
+      "definition": "any person who deals by way of business in motor vehicles or trailers, including a manufacturer and a repairer or panel-beater of such vehicles, and in relation to a scrapyard for motor vehicles or parts thereof, or where any such vehicles or parts are found, means the owner or person in charge of such scrapyard",
+      "source_provision": "s2"
+    },
+    {
+      "term": "offensive weapon",
+      "definition": "any article made or adapted for use for causing injury to the person, or intended by any person having it with him for such use by him, and includes, but is not limited to, a firearm, a spear, an axe, a hatchet, a club and a knife",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police officer",
+      "definition": "a special constable and a member of the Reserve Force",
+      "source_provision": "s2"
+    }
+  ]
+}

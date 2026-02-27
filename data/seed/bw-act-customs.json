@@ -1,0 +1,440 @@
+{
+  "id": "bw-act-customs",
+  "type": "statute",
+  "title": "Customs",
+  "title_en": "Customs",
+  "short_name": "Customs",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/customs",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Customs Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise provides—\n\"advance binding ruling\" means a written decision provided by Commissioner General to an applicant prior to importation of goods covered by the applicant that sets forth the treatment that shall be provided to the goods at the time of importation, based upon the facts presented by the applicant;\n\"ATA or CPD carnet\" means an internationally accepted document that may in terms of the Convention on Temporary Admission be—\n( a ) used in Botswana as a customs declaration for clearance of goods, excluding means of transport, identified in the document for the temporary admission procedure;\n( b ) covered by a guarantee for duties and taxes that may be payable on goods;\n\"Botswana\" means the Republic of Botswana, including its territorial waters and air space;\n\"clearance\" means the accomplishment of the customs formalities necessary to allow goods to be placed under a customs procedure;\n\"Common Customs Area\" has the same meaning assigned to it under the Botswana Trade Commission Act (Cap. 42:14);\n\"duties and taxes\" means customs duties and other duties and taxes or various charges collected on or in connection with the importation of goods, with the exception of the fees and charges which are limited to the approximate cost of the service rendered or those which are collected by Revenue Service on behalf of another entity;\n\"goods\" means—\n( a ) merchandise, articles, products, supplies, commodities, substances, documents;\n( b ) paper money and coin of a country that is designated as legal tender and customarily used and accepted as a medium of exchange in the country of issuance;\n( c ) a bearer negotiable instrument intended to enable the person to whom it is issued to obtain paper money or coin or a right to credit or balance at a bank or with another person; or\n( d ) any other thing capable of being transported;\n\"goods in free circulation\" means goods which can be disposed of without customs restrictions;\n\"office of departure\" means a customs office at which a customs transit operation commences;\n\"office of destination\" means a customs office at which a customs transit operation is terminated;\n\"outright export\" means a customs procedure applicable to goods in free circulation that leave Botswana and that are intended to remain definitively outside Botswana;\n\"postal service\" has the same meaning assigned to it under the Botswana Postal Services Act;\n\"Revenue Service\" has the same meaning assigned to it under the Botswana Unified Revenue Service Act (Cap. 72:01);\n\"SACU\" means the Southern African Customs Union;\n\"stores\" means goods taken on board an aircraft or cross-border train, whether in Botswana or elsewhere, exclusively for the purpose of meeting the reasonable needs for the next journey of the aircraft or train, including stopovers, and includes goods intended to be used—\n( a ) as provision for passengers and crew on board an aircraft or train during the journey;\n( b ) for the operation of the aircraft or train during the journey;\n( c ) for the maintenance of the aircraft or train during the journey; or\n( d ) as items for sale on board an aircraft or train to passengers and crew;\n\"transport-unit\" means—\n( a ) a container having an internal volume of one-cubic metre or more, including demountable bodies;\n( b ) road vehicles, including trailers and semi-trailers;\n( c ) railway coaches or wagons;\n( d ) lighters, barges and other vessels; and\n( e ) an aircraft; and\n\"WTO\" means the World Trade Organisation."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Territorial application",
+      "content": "3. Territorial application\nThis Act shall apply to goods imported into, transiting through or exported from Botswana."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary",
+      "section": "4",
+      "title": "Application of this Act in relation to SACU member states",
+      "content": "4. Application of this Act in relation to SACU member states\n(1) This Act shall apply to all goods imported into Botswana from a SACU member state and to all goods destined for export from Botswana to a SACU member state, subject to any rules as may be prescribed.\n(2) Unless otherwise provided in the SACU Agreement, no import duty shall be payable on goods in free circulation in a SACU member state if the goods imported into Botswana are—\n( a ) cleared for use in Botswana or for a customs procedure; or\n( b ) for tax purposes, regarded as cleared for use in Botswana."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "5",
+      "title": "Powers and duties of Commissioner General",
+      "content": "5. Powers and duties of Commissioner General\nThe Commissioner General shall—\n( a ) administer and enforce this Act;\n( b ) establish and maintain administrative, financial, technological, electronic and communicative systems and procedures necessary for the implementation and enforcement of this Act;\n( c ) co-ordinate and consult with other Government agencies to establish the most effective methods of working together and sharing information in order to simplify and facilitate the requirements of national legislation;\n( d ) conclude Memoranda of Understanding with other Government agencies, trade entities or other institutions to enhance the enforcement of customs and other relevant legislation;\n( e ) co-operate with other customs administrations and seek to conclude mutual administrative assistance agreements to enhance customs controls and simplify customs requirements; and\n( f ) determine the conditions and category of customs officers who shall have the power to carry out an arrest for the purpose of implementation and enforcement of this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "6",
+      "title": "Identification of customs officers",
+      "content": "6. Identification of customs officers\nThe Commissioner General shall—\n( a ) provide customs officers with identity cards, which they are required to exhibit in the exercise of their duties under this Act and upon request;\n( b ) determine the official uniform of customs officers; and\n( c ) designate those customs officers who shall wear the uniform."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "7",
+      "title": "Ethics",
+      "content": "7. Ethics\n(1) The Revenue Service shall have a code of conduct for customs officers and employees.\n(2) A customs officer or employee of the Revenue Service shall while employed by the Revenue Service not serve as—\n( a ) a director or employee of a company registered or licensed in terms of this Act; or\n( b ) a consultant to a company registered or licensed in terms of this Act.\n(3) A customs officer or employee of the Revenue Service shall have no direct or indirect proprietary or financial interest in a company registered or licensed in terms of this Act.\n(4) A customs officer or employee of the Revenue Service shall not—\n( a ) own or operate, in whole or in part, any place used as a customs warehouse or customs controlled area; or\n( b ) enter into any contract or agreement for the lease or use of any place with a view to its subsequent use as a customs warehouse or customs controlled area."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "8",
+      "title": "Customs controls",
+      "content": "8. Customs controls\nA customs officer may carry out all the customs controls it deems necessary on goods, including means of transport, and on persons that enter or leave Botswana, regardless of whether the goods or means of transport is liable to duties and taxes."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "9",
+      "title": "Types of customs controls",
+      "content": "9. Types of customs controls\nCustoms controls referred to in this Act include—\n( a ) conducting audit-based controls;\n( b ) examination of goods;\n( c ) verifying information, declarations, reports, applications, documents or communications;\n( d ) searching means of transport;\n( e ) inspecting baggage and other goods carried by a person;\n( f ) search of a person;\n( g ) carrying out official investigations; or\n( h ) any other similar activities for the purpose of enforcing this Act."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "10",
+      "title": "Use of risk management",
+      "content": "10. Use of risk management\nCustoms controls, other than random checks, shall be based on risk management techniques, which include risk analysis and risk criteria."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "11",
+      "title": "Audit-based customs controls",
+      "content": "11. Audit-based customs controls\n(1) A customs officer may inspect any data and documents relating to the operations of the import, export, movement or storage of goods—\n( a ) after releasing the goods in order to ascertain the accuracy of the particulars contained in the customs declaration; or\n( b ) prior to commercial operations involving such goods.\n(2) A customs officer may examine goods and take samples where it is possible for them to do so.\n(3) Customs controls may be carried out at the premises of—\n( a ) the holder of the goods or his or her representative;\n( b ) any other person directly or indirectly involved in operations at the premises in a business capacity; or\n( c ) any other person in possession of the goods, data or documents for business purposes."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "12",
+      "title": "Right to inspect goods, means of transport, etc.",
+      "content": "12. Right to inspect goods, means of transport, etc.\nA customs officer may carry out an inspection of goods, means of transport and persons for the purposes of application and enforcement of this Act with respect to the goods."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "13",
+      "title": "Right to stop and interview",
+      "content": "13. Right to stop and interview\n(1) Notwithstanding the generality of section 12, a customs officer may at any time, stop or interview a person and request the person to produce goods, information, accounts, documents or records in his or her possession with respect to the goods.\n(2) A customs officer may take any action, including the use of force, as may be deemed necessary, to stop a person who refuses to stop.\n(3) A customs officer may require a person to appear before him or her at a time and place determined by the officer and may question the person, either alone or in the presence of another person, as the officer may deem fit, with respect to any matter dealt with in this Act.\n(4) For the purpose of the prevention, investigation and repression of offences under this Act, a customs officer may verify the identity of persons entering or leaving Botswana or who are within a customs controlled area."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "14",
+      "title": "Right to stop and search means of transport",
+      "content": "14. Right to stop and search means of transport\n(1) A customs officer may stop and board any means of transport in Botswana to search the means of transport or any person found thereon and remain on the means of transport in pursuance of his or her duties under this Act.\n(2) If a means of transport, or a place, hatch, safe, chest, box, package or container thereon is locked and is not opened upon demand, a customs officer may open the means of transport, place, hatch, safe, chest, box, package or container by any means necessary in the circumstances.\n(3) A customs officer shall have the power to—\n( a ) mark goods before offloading the goods;\n( b ) lock up, seal, mark or otherwise secure goods on board a means of transport, including any apparatus; and\n( c ) demand from the person in charge of the means of transport the production of information, accounts, documents or records with respect to the goods.\n(4) A person in charge of a means of transport shall not—\n( a ) wilfully open, break, obliterate or alter a lock, seal or mark placed upon goods on board by a customs officer; or\n( b ) remove goods which have been locked, sealed, marked or otherwise secured,\nunless the person proves, to the satisfaction of a customs officer that it was necessary for him or her to have done the act in question.\n(5) A customs officer may erect a roadblock in order to carry out customs controls, in compliance with this Act.\n(6) A customs officer may use all appropriate devices to immobilise a means of transport when the persons in charge of the means of transport does not stop on the order of the customs officer."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "15",
+      "title": "Right of access to areas, premises and facilities",
+      "content": "15. Right of access to areas, premises and facilities\n(1) A customs officer may—\n( a ) at any time and without previous notification, have unlimited access to any area, premises or facility;\n( b ) search any area, premises or facility as he or she deems necessary;\n( c ) require a person at an area, premises or facility to produce information, accounts, documents, records or goods which relate to any matter dealt with under this Act;\n( d ) examine any information, accounts, documents, records, or goods in any area, premises or facility;\n( e ) require from a person referred to under paragraph ( c ) an explanation of an entry in the information, accounts, documents or records; and\n( f ) in the presence of and after due notification to the person in any area, premises or facility, take samples of goods or make copies of the information, accounts, documents or records with respect to the goods.\n(2) A person or an employee of the person whose business occupies or uses an area, premises or facility shall furnish such assistance as may be required by the customs officer for entering the area, premises or facility and for the exercise of customs powers.\n(3) A customs officer may lock up, seal, mark, fasten or otherwise secure an area, premises, or facility, and any goods or means of transport found in an area, premises or facility, if he or she has reason to believe that a breach of this Act has been or is likely to be committed."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "16",
+      "title": "Request for information",
+      "content": "16. Request for information\n(1) A customs officer may request to be furnished with information, accounts, documents and records relating to goods that are the subject of customs formalities by—\n( a ) a declarant of goods;\n( b ) an importer or exporter of the goods;\n( c ) a person who—\n(i) is liable for duties and taxes that are payable on the goods, or\n(ii) has paid duties and taxes on goods;\n( d ) the owner of the goods that are imported or exported; or\n( e ) any other person involved in an activity regulated under this Act.\n(2) Any person who—\n( a ) knowingly submits false or fraudulent information; or\n( b ) forges any information, accounts or documents,\nfor purposes of evading of duties or taxes, commits an offence and shall be liable to a fine not exceeding P1 000 000 or to imprisonment for a term not exceeding five years, or to both or to treble the value of the goods in respect of the offence, whichever is greater and the goods and the container in respect of which the offence is committed shall be liable to forfeiture."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "17",
+      "title": "Search of persons",
+      "content": "17. Search of persons\n(1) A customs officer may search a person only in exceptional circumstances where the customs officer has reasonable grounds to suspect that the person is concealing goods, information, documents or records in respect of which a breach of this Act is being or is likely to be committed.\n(2) A customs officer may, subject to subsection (1) and to the extent necessary in the circumstances, conduct—\n( a ) a search of any goods a person may have in his or her possession;\n( b ) a frisk search of the person; or\n( c ) an external bodily search of the person, which may include the use of mechanical or electrical imaging or electronic equipment which can produce an indication that such person is concealing a prohibited substance or any goods in his or her body.\n(3) A child may be searched in terms of subsection (2)—\n( a ) in the presence of that child&rsquo;s parent or guardian; or\n( b ) if the child is travelling without a parent or guardian, person who is responsible for such child during travel.\n(4) A personal search under this section shall be carried out by a customs officer of the same gender as the person being searched, except in the case of a concern for immediate threat to the customs officer or public safety.\n(5) A person being subjected to an external bodily search may request the presence of another person during the search.\n(6) A customs officer may take such action on a person who refuses to be searched, including the use of force to the extent necessary in the circumstances to search the person."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "18",
+      "title": "Internal bodily search",
+      "content": "18. Internal bodily search\n(1) When a customs officer has, after conducting an external bodily search, reasonable grounds to suspect that a person is internally concealing goods or if the person admits to internally concealing such goods, the officer may detain the person and arrange for an internal bodily search to be conducted.\n(2) An internal bodily search under subsection (1) shall be performed at a place equipped for such bodily search and under the supervision of a registered medical practitioner.\n(3) Any removal of goods or contraband from a person under this section shall be conducted—\n( a ) by a registered medical practitioner at a place equipped for the carrying out of such medical procedures; and\n( b ) with the written consent of the person to be subjected to such removal."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "19",
+      "title": "Reporting of personal searches",
+      "content": "19. Reporting of personal searches\nThe results of any search under this Act shall be recorded in an official report indicating—\n( a ) the actions carried out;\n( b ) the persons present;\n( c ) the results of the search; and\n( d ) if applicable, the results of an examination provided by the registered medical practitioner."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "20",
+      "title": "Right to detain or seize goods, etc.",
+      "content": "20. Right to detain or seize goods, etc.\n(1) A customs officer may detain any goods, means of transport, information, accounts, documents, records, at any place for the purpose of establishing compliance with this Act.\n(2) If any goods, means of transport, information, accounts, documents, records, or currency are liable to forfeiture, a customs officer may seize such goods, means of transport, information, accounts, documents, records or currency."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "21",
+      "title": "Duty to comply with demands of customs officer",
+      "content": "21. Duty to comply with demands of customs officer\n(1) A person shall comply with any requirement of a customs officer in the exercise of his or her duties, unless the person can show good cause that is deemed valid by the customs officer.\n(2) A person shall not obstruct a customs officer in the exercise of his or her duties.\n(3) Any person who hinders or obstructs a customs officer in the execution of his or her duties under this Act commits an offence and shall be liable to a fine not exceeding P200 000 or to imprisonment for a term not exceeding one year, or to both."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "22",
+      "title": "No right to compensation",
+      "content": "22. No right to compensation\nA person shall not be entitled to compensation for any loss or damage arising out of a bona fide action of a customs officer under this Part."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "23",
+      "title": "Disclosure of confidential information",
+      "content": "23. Disclosure of confidential information\n(1) A customs officer, an employee of the Revenue Service, a person contracted by the Revenue Service to work otherwise than as an employee, a person designated to carry out the provisions of this Act or a person, upon termination of employment, shall not disclose, exchange or allow access to any information relating to any person, firm or business acquired in the performance of their duties, unless authorised or required to do so—\n( a ) for the purposes of this Act;\n( b ) in connection with legal proceedings;\n( c ) by the consent, in writing, of the person that will be affected by the disclosure; or\n( d ) by a law enforcement agency of Botswana or any other Government agency as provided for in a memorandum of understanding.\n(2) Notwithstanding subsection (1), the Commissioner General may, in accordance with an international convention or agreement in respect of customs co-operation to which Botswana is a party, disclose or exchange, or authorise a customs officer to disclose or exchange information relating to a person or business acquired by the customs officer in the performance of his or her duties under this Act.\n(3) Any person, including a third party, to whom such information is disclosed or exchanged shall use the information only for the purpose for which it was disclosed or exchanged."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "24",
+      "title": "Co-operation between Government agencies",
+      "content": "24. Co-operation between Government agencies\n(1) Where, in respect of the same goods, controls other than customs controls, are to be performed by competent Government agencies other than the Revenue Service, the Revenue Service shall, in close co-operation with those other agencies, endeavour to have those controls, wherever possible, performed at the same time and place as customs controls, with the Revenue Service having the co-ordinating role in achieving this.\n(2) In the framework of customs controls, the Revenue Service and other competent Government agencies may, in order to facilitate the processing of goods moved between Botswana and other territories, and to minimise risk and combat fraud, exchange with other customs administrations and competent agencies data received in the context of the movement or storage of goods, and the results of any control."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART II Powers and Duties of Commissioner General",
+      "section": "25",
+      "title": "Authority to participate in controlled deliveries",
+      "content": "25. Authority to participate in controlled deliveries\n(1) For the purposes of—\n( a ) ascertaining the commission of an offence under this Act with regard to the import, export, transit or possession of narcotic drugs and psychotropic substances, contraband and other prohibited items;\n( b ) identifying the perpetrators, sponsors and accomplices of the offences under paragraph ( a ) as well as those who participated in any way; and\n( c ) seizing goods subject to a customs offence,\na customs officer may, after determining whether or not to inform an officer of the Botswana Police Service, monitor the delivery of the items under the conditions determined by the Commissioner General.\n(2) Subject to subsection (1), a customs officer shall not be held criminally liable if he or she—\n( a ) acquires, possesses, transports or delivers narcotic drugs and psychotropic substances, contraband or other prohibited items; or\n( b ) makes available the means that enable a person who is in possession of these items to commit a customs offence, as well as means of transport, storage and communication.\n(3) Subsections (1) and (2) shall also apply to—\n( a ) substances that are used for the illicit manufacture of narcotic drugs and psychotropic substances as well as equipment used for their manufacture; and\n( b ) the production of other contraband and prohibited items.\n(4) A customs officer who carries out the actions referred to in subsections (1) and (2) shall not be criminally liable in relation to the funds that are the proceeds of the offences, provided that he or she reports such funds to the Commissioner General."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART III General Provisions - A – Right to representation",
+      "section": "26",
+      "title": "Representation before Revenue Service",
+      "content": "26. Representation before Revenue Service\n(1) A person may represent himself or herself before the Revenue Service or designate an agent to act on his or her behalf.\n(2) A person and his or her agent shall have the same rights before the Revenue Service, and shall be treated equally in the accomplishment of customs formalities.\n(3) An agent shall—\n( a ) be established in Botswana; and\n( b ) meet the relevant requirements and obligations required under this Act."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature",
+      "section": "27",
+      "title": "Information to be made readily available",
+      "content": "27. Information to be made readily available\nThe Revenue Service shall ensure that all information of general application pertaining to customs is readily available to any interested person on the Revenue Service website and by any other manner as may be determined by the Commissioner General."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation",
+      "section": "28",
+      "title": "Revocation or modification of decision",
+      "content": "28. Revocation or modification of decision\n(1) A decision favourable to a person concerned may be revoked by the Revenue Service if it was taken on the basis of incorrect or incomplete information and where—\n( a ) the person knew or should reasonably have known that the information submitted was inaccurate or incomplete; and\n( b ) the decision would not have been taken on the basis of accurate and complete information.\n(2) A decision favourable to a person concerned may be revoked by the Revenue Service where—\n( a ) its recipient does not conform to an obligation, if any, imposed upon him or her as a result of the decision; or\n( b ) the Revenue Service discovers that the decision was made in error."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings",
+      "section": "29",
+      "title": "Advance binding ruling",
+      "content": "29. Advance binding ruling\n(1) The Revenue Service shall, upon an application by an importer, exporter or any interested person, issue an advance binding ruling regarding—\n( a ) the tariff classification of goods;\n( b ) the origin of goods in accordance with applicable rules of origin;\n( c ) a customs valuation;\n( d ) whether goods are subject to a duty exemption;\n( e ) drawback, quotas or fees; or\n( f ) any other matter as may be prescribed.\n(2) Notwithstanding subsection (1), an advance binding ruling shall not be issued where—\n( a ) the request concerns a completed transaction; or\n( b ) the transaction is pending before courts."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings",
+      "section": "30",
+      "title": "Binding effect of ruling",
+      "content": "30. Binding effect of ruling\nAn advance binding ruling shall bind the Revenue Service with the recipient of the ruling for the respective determination of the particular goods or matter stated in the ruling."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings",
+      "section": "31",
+      "title": "Exception to issuance of advance binding ruling",
+      "content": "31. Exception to issuance of advance binding ruling\nAn advance binding ruling shall not be issued by the Revenue Service where the request—\n( a ) concerns a current or completed customs transaction;\n( b ) presents questions or transactions that are hypothetical in nature;\n( c ) presents a question that is pending before a court; or\n( d ) is the subject of an appeal."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings",
+      "section": "32",
+      "title": "Validity period",
+      "content": "32. Validity period\n(1) An advance binding ruling shall be valid for a period of three years from the date of its issue.\n(2) An advance binding ruling shall cease to be valid when—\n( a ) in a case of a tariff ruling following a modification of the Tariff Nomenclature—\n(i) it is no longer in conformity with this Act,\n(ii) it becomes incompatible with the interpretation of the Tariff Nomenclature, or\n(iii) it is revoked or modified; or\n( b ) in a case concerning origin following a decision by Commissioner General, or an agreement concluded—\n(i) it is not in conformity with the legal measures so established,\n(ii) it becomes incompatible on an international level with the Agreement on Rules of Origin of the WTO or with the explanatory notes or opinions on origin adopted for the interpretation of that Agreement, or\n(iii) it is revoked.\n(3) A recipient of an advance binding ruling that ceases to be valid may continue to benefit from the ruling for a period of three months after the date of publication or notification, in the case where the recipient has concluded, on the basis of the advance binding ruling and before the adoption of the measures in question, firm and definitive contracts relative to the purchase or the sale of goods to which the ruling relates."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping",
+      "section": "33",
+      "title": "Record keeping",
+      "content": "33. Record keeping\n(1) A person carrying business in Botswana shall keep records, documents and accounts relating to the business in such form and manner as may be prescribed.\n(2) The information under subsection (1) shall be kept for a period of five years.\n(3) The Commissioner General may, subject to such conditions as he or she may determine, allow a person referred to in subsection (1) to retain, in lieu of any information, accounts, documents and records—\n( a ) an electronic version of the information, accounts, documents and records; or\n( b ) an authenticated copy of the information, accounts, documents and records."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping",
+      "section": "34",
+      "title": "Request for information, accounts, records, etc.",
+      "content": "34. Request for information, accounts, records, etc.\n(1) The Commissioner General shall, with respect to goods, request to be furnished with information, accounts, documents and records within a period as may be determined by the Commissioner General by—\n( a ) a declarant of the goods;\n( b ) an importer or exporter of the goods;\n( c ) the owner of the goods;\n( d ) a person liable to pay duties and taxes;\n( e ) any other person as may be determined by the Revenue Service; or\n( f ) the transporter of the goods.\n(2) The Commissioner General may, subject to any conditions he or she may specify, allow a person to produce, in lieu of information, accounts, documents and records required to be furnished in terms of subsection (1), an electronic version or an authenticated copy thereof, and the electronic version or copy shall have all the effects of the original information, accounts, documents and records concerned.\n(3) Any person who fails to comply with subsection (1) commits an offence and shall be liable to a fine not exceeding P1 000 000 or treble the value of the goods in respect of such offence, whichever is greater, and the goods and the container in respect of which the offence is committed shall be liable to forfeiture."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions",
+      "section": "35",
+      "title": "Prohibited goods",
+      "content": "35. Prohibited goods\n(1) Goods shall be prohibited where their import or export is against—\n( a ) public order;\n( b ) public security;\n( c ) public morality;\n( d ) public health;\n( e ) the protection of national treasures;\n( f ) the protection of intellectual property;\n( g ) the protection of consumers;\n( h ) combating money laundering, combating financing of terrorism and combating proliferation of arms of war or NBC weapon; and\n[ S.I. 135/2018. ]\n( i ) any other interest as may be prescribed.\n(2) Goods shall be restricted where their import or export is conditional upon compliance with specific conditions or formalities restricting the import or export of the goods, other than the obligation to present the goods to Revenue Service and lodge a customs declaration.\n(3) Except as otherwise provided for in this Act, goods that are prohibited shall not be cleared for any customs procedure.\n(4) For the purposes of this section—\n( a ) \"arms of war\" has the same meaning assigned to it under the Arms and Ammunition Act (Cap. 24:01);\n( b ) \"NBC\" has the same meaning assigned to it under the Counter-Terrorism Act (Cap. 08:08);\n( c ) \"proliferation\" has the same meaning assigned to it under the Financial Intelligence Act (Cap. 08:07).\n[ S.I. 135/2018. ]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions",
+      "section": "36",
+      "title": "Additional cases of prohibited or restricted goods",
+      "content": "36. Additional cases of prohibited or restricted goods\nThe Minister may, by Notice published in the Gazette , specify goods that are prohibited or subject to restrictions in accordance with any other applicable legislation."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions",
+      "section": "37",
+      "title": "Actions by customs officer",
+      "content": "37. Actions by customs officer\nA customs officer may, in accordance with this Part or any other legislation in force, while the goods are under customs control—\n( a ) detain any restricted goods subject to their compliance with the applicable conditions or formalities; or\n( b ) seize any prohibited goods."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions - G – Marking of goods",
+      "section": "38",
+      "title": "Marking to indicate origin",
+      "content": "38. Marking to indicate origin\n(1) Any foreign product, whether natural or manufactured, shall not be imported into or transit Botswana if it bears either on itself or on packing, cases, packages, envelopes, bands or labels, a mark of manufacture or trade, a name, a sign or any indication likely to make the ultimate purchaser believe—\n( a ) that they have been manufactured in Botswana; or\n( b ) that they originate from Botswana.\n(2) Any foreign product, whether natural or manufactured, acquired in a place with the same name as a place in Botswana, shall bear—\n( a ) the name of the country of origin or manufacture, along with the name of such place; and\n( b ) the word \"Imported\" in visible characters.\n(3) Any foreign product that does not meet the requirements specified in subsections (1) and (2) shall be prohibited from importation, exportation, entry into a customs warehouse, transit and free circulation within Botswana."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions - G – Marking of goods",
+      "section": "39",
+      "title": "Other marking requirements",
+      "content": "39. Other marking requirements\nAny foreign product, whether natural or manufactured, shall comply with obligations imposed by this Act regarding labelling of the product, and any such goods that do not comply shall be prohibited from importation, exportation, entry into a customs warehouse, transit, and free circulation within Botswana."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions - G – Marking of goods - H – Prohibitions relative to protection of intellectual property rights",
+      "section": "40",
+      "title": "Application for suspension of release of goods",
+      "content": "40. Application for suspension of release of goods\n(1) A holder of an intellectual property right who has valid reasons to suspect that the importation or exportation of goods with counterfeit or pirate marks, which his or her right, is envisaged or infringes in progress, may apply to the Revenue Service for the suspension of release of the goods.\n(2) An applicant under subsection (1) shall—\n( a ) submit an application to the Revenue Service;\n( b ) provide adequate evidence to satisfy the Revenue Service that there appears to be an infringement of the right holder&rsquo;s intellectual property right; and\n( c ) supply a sufficiently detailed description of the goods in question to facilitate the determination of the alleged infringement."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions - G – Marking of goods - H – Prohibitions relative to protection of intellectual property rights",
+      "section": "41",
+      "title": "Suspension of release of suspected goods by Revenue Service",
+      "content": "41. Suspension of release of suspected goods by Revenue Service\n(1) The Revenue Service shall determine whether there are reasonable grounds to suspect that the goods to be imported or exported infringe the right holder&rsquo;s intellectual property rights.\n(2) If, upon inspection of the goods that are the subject of an application under section 40, the Revenue Service is satisfied that there may be an infringement of a right holder&rsquo;s intellectual property, it shall—\n( a ) suspend the release of such goods;\n( b ) notify the intellectual property right holder of the suspension; and\n( c ) notify the applicant of the reasons for the suspension."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions - G – Marking of goods - H – Prohibitions relative to protection of intellectual property rights",
+      "section": "42",
+      "title": "Provision of guarantee for suspension",
+      "content": "42. Provision of guarantee for suspension\nThe Revenue Service shall require the intellectual property right holder, at the time of presenting the application for suspension of release of suspected goods under section 40, to—\n( a ) indemnify the Revenue Service against any liability that may arise from actions, proceedings, claims or demands that may be made or taken against the Commissioner General in providing the required assistance; and\n( b ) provide a guarantee sufficient to pay any costs or expenses incurred by, and any charges due to, the Commissioner General in providing the required assistance."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions - G – Marking of goods - H – Prohibitions relative to protection of intellectual property rights",
+      "section": "43",
+      "title": "Revenue Service right to act",
+      "content": "43. Revenue Service right to act\n(1) The Revenue Service shall, of its own initiative, suspend the release of goods for which it has evidence that an intellectual property right may be infringed.\n(2) If, in accordance with subsection (1), the Revenue Service suspends the release of suspected infringing goods, the Revenue Service shall notify—\n( a ) the applicant;\n( b ) the right holder; and\n( c ) the Companies and Intellectual Property Authority established under the Companies and Intellectual Property Authority Act (Cap. 42:13)."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions - G – Marking of goods - H – Prohibitions relative to protection of intellectual property rights",
+      "section": "44",
+      "title": "Duration of suspension",
+      "content": "44. Duration of suspension\n(1) A holder of an intellectual property right may institute proceedings leading to a decision on the merits of the claim before the courts.\n(2) If, within 14 days after the holder of an intellectual property right was notified of the suspension, the Revenue Service is not informed by the holder of the intellectual property right that proceedings have been instituted leading to a decision on the merits of the case, the Revenue Service may—\n( a ) for reasons deemed valid by Revenue Service extend the period of suspension of release of the goods; or\n( b ) release the goods, provided that all other conditions for importation or exportation have been met.\n(3) Notwithstanding subsection (2), in the case of perishable goods that cannot be stored for a long period, the period of suspension of release shall be no longer than three days.\n(4) The time limit referred to in subsection (2) may be extended by the Revenue Service in appropriate cases for an additional 14 days.\n(5) In the event of a suspension ordered by a court, the time limit referred to in subsections (2), (3) and (4) shall be determined by that court.\n(6) If proceedings leading to a decision on the merits of the case have been initiated, the declarant may request a review, including a right to be heard, with a view to deciding, within a reasonable period, whether these measures shall be modified, revoked or confirmed."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions - G – Marking of goods - H – Prohibitions relative to protection of intellectual property rights",
+      "section": "45",
+      "title": "Right to inspect",
+      "content": "45. Right to inspect\nWithout prejudice to the protection of confidential information, the Revenue Service may allow the holder of an intellectual property right and the declarant to inspect the goods for the purpose of determining the merits of their respective claims."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions - G – Marking of goods - H – Prohibitions relative to protection of intellectual property rights",
+      "section": "46",
+      "title": "Provision of information",
+      "content": "46. Provision of information\nWhere the proceedings instituted by a holder of the intellectual property right have determined that the goods in question are infringing goods, the Revenue Service shall, at the right holder&rsquo;s request, inform the right holder of the names and addresses of the importer, the exporter, the consignee, and the consignor of the quantity of the goods."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions - G – Marking of goods - H – Prohibitions relative to protection of intellectual property rights",
+      "section": "47",
+      "title": "Disposal of infringing goods",
+      "content": "47. Disposal of infringing goods\n(1) Notwithstanding the other rights of action open to a holder of an intellectual property right and subject to the declarant&rsquo;s right to appeal, once a determination has been made by the Companies and Intellectual Property Authority that the goods are infringing goods, the Revenue Service shall dispose of the goods in accordance with this Act.\n(2) The Revenue Service shall not allow the re-exportation of goods in the same State with counterfeit trademarks or their placement under another customs procedure, other than in exceptional circumstances."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions - G – Marking of goods - H – Prohibitions relative to protection of intellectual property rights",
+      "section": "48",
+      "title": "Liability",
+      "content": "48. Liability\nThe Revenue Service shall not be liable for any action taken or not taken in good faith in regard to suspension of the release of suspected infringing goods."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions - G – Marking of goods - H – Prohibitions relative to protection of intellectual property rights",
+      "section": "49",
+      "title": "De minimis imports",
+      "content": "49. De minimis imports\nThe provisions of this Part shall not apply to small quantities of goods of a non-commercial nature contained in a traveller&rsquo;s personal baggage or sent in small consignments."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "PART III General Provisions - A – Right to representation - B – Information of general nature - C – Decisions relative to application of customs legislation - D – Advance binding rulings - E – Record keeping - F – Prohibitions and restrictions - G – Marking of goods - H – Prohibitions relative to protection of intellectual property rights - I – External trade, foreign exchange and external financial relationships",
+      "section": "50",
+      "title": "Application of external trade",
+      "content": "50. Application of external trade"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "advance binding ruling",
+      "definition": "a written decision provided by Commissioner General to an applicant prior to importation of goods covered by the applicant that sets forth the treatment that shall be provided to the goods at the time of importation, based upon the facts presented by the applicant",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ATA or CPD carnet",
+      "definition": "an internationally accepted document that may in terms of the Convention on Temporary Admission be—\n( a ) used in Botswana as a customs declaration for clearance of goods, excluding means of transport, identified in the document for the temporary admission procedure",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Botswana",
+      "definition": "the Republic of Botswana, including its territorial waters and air space",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clearance",
+      "definition": "the accomplishment of the customs formalities necessary to allow goods to be placed under a customs procedure",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Common Customs Area",
+      "definition": "assigned to it under the Botswana Trade Commission Act (Cap. 42:14)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "duties and taxes",
+      "definition": "customs duties and other duties and taxes or various charges collected on or in connection with the importation of goods, with the exception of the fees and charges which are limited to the approximate cost of the service rendered or those which are collected by Revenue Service on behalf of another entity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "goods in free circulation",
+      "definition": "goods which can be disposed of without customs restrictions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "office of departure",
+      "definition": "a customs office at which a customs transit operation commences",
+      "source_provision": "s2"
+    },
+    {
+      "term": "office of destination",
+      "definition": "a customs office at which a customs transit operation is terminated",
+      "source_provision": "s2"
+    },
+    {
+      "term": "outright export",
+      "definition": "a customs procedure applicable to goods in free circulation that leave Botswana and that are intended to remain definitively outside Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "postal service",
+      "definition": "assigned to it under the Botswana Postal Services Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Revenue Service",
+      "definition": "assigned to it under the Botswana Unified Revenue Service Act (Cap. 72:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "SACU",
+      "definition": "the Southern African Customs Union",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stores",
+      "definition": "goods taken on board an aircraft or cross-border train, whether in Botswana or elsewhere, exclusively for the purpose of meeting the reasonable needs for the next journey of the aircraft or train, including stopovers, and includes goods intended to be used—\n( a ) as provision for passengers and crew on board an aircraft or train during the journey",
+      "source_provision": "s2"
+    },
+    {
+      "term": "WTO",
+      "definition": "the World Trade Organisation.",
+      "source_provision": "s2"
+    }
+  ]
+}

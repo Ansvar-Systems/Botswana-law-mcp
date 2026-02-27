@@ -1,0 +1,44 @@
+{
+  "id": "bw-sub-town-and-country-planning-subsidiary-legislation",
+  "type": "statute",
+  "title": "Town and Country Planning: Subsidiary Legislation",
+  "title_en": "Town and Country Planning: Subsidiary Legislation",
+  "short_name": "Town and Country Planning: ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/town-and-country-planning-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Town Planning Scheme Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Preparation of Town Planning Scheme",
+      "content": "2. Preparation of Town Planning Scheme\nEach city or town council specified in the Schedule to this Order shall prepare a city or town planning scheme with reference to all land situate within the area of such city or township as defined under the provisions of the Townships Act, and shall submit the scheme to the Board."
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Town and Country Planning (Declaration of Planning Areas) Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Declaration of planning areas",
+      "content": "2. Declaration of planning areas\nEach of the areas of land in Botswana specified in the first column of the Schedule is hereby declared to be a planning area and shall, for the purposes of the Act, be known by the name specified in the corresponding entry in the second column of the Schedule."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Applicant for planning permission entitled to copy of relevant map on payment of current fee",
+      "content": "3. Applicant for planning permission entitled to copy of relevant map on payment of current fee\n(1) The Director of Town and Regional Planning shall, on written application being made to him for that purpose and on payment of the current fee, provide every prospective applicant for permission for any development in a planning area with a copy of the relevant map specified in the Schedule on which the boundaries of the planning area are delineated.\n(2) The Minister shall, from time to time, fix the fee to be paid for the provision of a copy of the relevant map under this paragraph."
+    }
+  ],
+  "definitions": []
+}

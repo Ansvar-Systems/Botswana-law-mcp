@@ -1,0 +1,434 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-remotely-piloted-aircraft-systems-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (remotely Piloted Aircraft Systems) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (remotely Piloted Aircraft Systems) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-remotely-piloted-aircraft-systems-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Remotely Piloted Aircraft Systems) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these regulations unless the context otherwise requires—\n\"accident\" means an occurrence associated with the operation of an aircraft which, in the case of a manned aircraft, takes place between the time any person boards the aircraft with the intention of flight until such time as all such persons have disembarked, or in the case of an unmanned aircraft, takes place between the time the aircraft is ready to move with the purpose of flight until such time as it comes to rest at the end of the flight and the primary propulsion system is shut down, in which—\n( a ) a person is fatally or seriously injured as a result of—\n(i) being in the aircraft;\n(ii) direct contact with any part of the aircraft, including parts which have become detached from the aircraft; or\n(iii) direct exposure to jet blast, except when the injuries are from natural causes, self-inflicted or inflicted by other persons, or when the injuries are to stowaways hiding outside the areas normally available to the passengers and crew; or\n( b ) the aircraft sustains damage or structural failure which—\n(i) adversely affects the structural strength, performance or flight characteristics of the aircraft; and\n(ii) would normally require major repair or replacement of the affected component, except for engine failure or damage, when the damage is limited to a single engine (including its cowlings or accessories), to propellers, wing tips, antennas, probes, vanes, tires, brakes, wheels, fairings, panels, landing gear doors, windscreens, the aircraft skin (such as small dents or puncture holes), or for minor damages to main rotor blades, tail rotor blades, landing gear, and those resulting from hail or bird strike (including holes in the radome); or\n( c ) the aircraft is missing or is completely inaccessible—\n\"aerodrome\" means a defined area on land or water (including any buildings, installations and equipment) intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft;\n\"aerodrome codes\" means aerodrome reference code specified in the Civil Aviation (Aerodromes) Regulations;\n\"aircraft\" means any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface;\n\"appropriate authority\" means the authority having jurisdiction over the area in which the aircraft concerned is operated;\n\"autonomous aircraft\" means an unmanned aircraft that does not allow pilot intervention in the management of the flight;\n\"Automatic dependent surveillance-broadcast (ADS-B)\" means by which aircraft, aerodrome vehicles and other objects can automatically transmit or receive data such as identification, position and additional data, as appropriate, in a broadcast mode via a data link;\n\"autonomous operation\" means an operation during which a remotely piloted aircraft is operating without pilot intervention in the management of the flight;\n\"Beyond Visual Line-of-Sight\" means an operation in which the remote pilot cannot maintain direct unaided visual contact with the remotely piloted aircraft;\n\"C2 Link\" means the data link between the remotely piloted aircraft and the remote pilot station for the purposes of managing the flight;\n\"C2 Link Communication Service Provider (C2CSP)\" means an entity which provides a portion of, or all of, the C2 Link service for the operation of Remotely Piloted Aircraft System(s) (RPAS);\n\"C2 Link coverage area\" means the area in which the C2 Link service can be received including the area where Quality of Service Delivered (QoSD) does not meet the Quality of Service Required (QoSR);\n\"C2 Link interruption\" means any temporary situation where the C2 Link is unavailable, discontinuous, introduces too much delay, or has inadequate integrity; but where the lost C2 Link decision lime has not been exceeded;\n\"C2 Link log\" means a record of the activities related to the C2 Link;\n\"C2 Link service\" means a communication service providing the C2 Link;\n\"C2 Link service area\" means the area within the C2 Link coverage area where the C2 Link QoSD meets the QoSR;\n\"C2 Link specification\" means the minimum performance to be achieved by the C2 Link equipment in conformity with the applicable airworthiness system design requirements;\n\"commercial operation\" means any operation of an RPA, in return for is any operation of an aircraft, in return for remuneration or other valuable consideration, which is available to the public or, when not made available to the public, which is performed under a contract between an operator and a customer, where the latter has no control over the operator;\n\"communication link\" means a digital or analogue data link to transfer voice or data between the remote crew, air traffic control, airspace users and other data users;\n\"continuing airworthiness\" means the set of processes by which an aircraft, remote pilot station, engine, propeller or part complies with the applicable airworthiness requirements and remains in a condition for safe operation throughout its operating life;\n\"controlled airspace\" means an airspace of defined dimensions within which air traffic control service is provided in accordance with the airspace classification;\n\"dangerous goods\" means articles or substances which are capable of posing risk to health, safety, property or the environment and which are shown in the list of dangerous goods of the Technical Instructions or which are classified according to those instructions;\n\"DATA link\" means the direct or indirect communication link from the remotely piloted aircraft (RPA);\n\"detect and avoid\" means the capability to see, sense or detect conflicting traffic or other hazards and take the appropriate action;\n\"Extended Visual Line-of-Sight\" means an operation below 400 feet above ground level in which an observer, maintains direct and unaided visual contact with the remotely piloted aircraft at a distance not exceeding 1000 m from the pilot;\n\"fireproof\" means the capacity to withstand the application of heat by a flame for a period of 15 minutes;\n\"Fully Autonomous Operation\" means an operation during which an unmanned aircraft is operating without intervention in the management of the flight by on-board computers;\n\"handover\" means the act of passing piloting control from one remote pilot station to another;\n\"incident\" means an occurrence, other than an accident, associated with the operation of an aircraft which affect or could affect the safety of operation;\n\"lost C2 link decision state\" means the state of the RPAS in which a C2 Link interruption has occurred, but the duration of which does not exceed the lost C2 Link decision time;\n\"lost C2 link decision time\" means the maximum length of time permitted before declaring a lost C2 Link state during which the C2 Link performance is not sufficient to allow the remote pilot to actively manage the flight in a safe and timely manner appropriate to the airspace and operational conditions;\n\"lost C2 link state\" means the state of the RPAS in which the C2 Link performance has degraded, as a result of a C2 Link interruption that is longer than the lost C2 Link decision time, to a point where it is not sufficient to allow the remote pitot to actively manage the flight in a safe and timely manner;\n\"maintenance\" means the performance of tasks required to ensure the continuing airworthiness of an aircraft, including any one or combination of overhaul, inspection, replacement, defect rectification and the embodiment of a modification or repair;\n\"Notional Civil Aviation Security Committee (NCASC)\" means the Committee established by the Aviation Security Act;\n\"nominal C2 link state\" means the state of the RPAS when the C2 Link performance is sufficient to allow the remote pilot to actively manage the flight of the Remotely Piloted Aircraft (RPA) in a safe and timely manner appropriate to the airspace and operational conditions;\n\"operational control\" means the exercise of authority over the initiation, continuation, diversion or termination of a flight in the interest of the safety of the aircraft and the regularity and efficiency of the flight;\n\"operations manual\" means a manual containing procedures, instructions and guidance for use by operational personnel in the execution of their duties;\n\"operations specifications\" means the Authorizations, conditions and limitations associated with the RPAS operator certificate and subject to the conditions in the operations manual;\n\"operator\" means a person, organization or enterprise engaged in or offering in engage in RPAS operation;\n\"Payload\" means all the elements of an remotely piloted aircraft system (RPAS) that are not necessary for flight but that are carried for the purpose of fulfilling specific mission objectives;\n\"Private operation\" means the use of an remotely piloted aircraft (RPA) for an individual's personal and private purposes where there is no commercial outcome;\n\"prohibited area\" means an airspace of defined dimensions, within which the flight of aircraft is prohibited;\n\"Quality of Service (QoS)\" means the totality of the characteristics of an entity that bear on its ability to satisfy stated and implied needs;\n\"Quality of Service Delivered (QoSD)\" means a statement of the QoS achieved or delivered to the RPAS operator by the C2CSP;\n\"Quality of Service Experienced (QoSE)\" means a statement expressing the QoS that the remote pilot believes they have experienced;\n\"Quality of Service Required (QoSR)\" means a statement of the QoS requirements of the RPAS operator to the C2CSP;\n\"Radio Line-of-Sight\" means a direct electronic point-to-point contact between a transmitter and receiver;\n\"Restricted Visual Line-of-Sight\" means an operation within 500 m of the remote pilot and below the height of the highest obstacle within 300 m of the remotely piloted aircraft (RPA), in which the remote pilot maintains direct unaided visual contact with the RPA to manage its flight and meet separation and collision avoidance responsibilities;\n\"remote crew member\" means a crew member charged with duties essential to the operation of a RPAS during a flight duty period;\n\"remote cruise relief pilot\" means a remote flight crew member who is assigned to perform remote pilot tasks during cruise flight, to allow the remote pilot-in-command to obtain planned rest;\n\"remote flight crew member\" means a licensed crew member charged with duties essential to the operation of a RPAS during a flight duty period;\n\"remote pilot\" means a person charged by the operator with duties essential to the operation of a remotely piloted aircraft and who manipulates the flight controls, as appropriate, during flight time;\n\"remote pilot-in-command\" means the remote pilot designated by the operator as being in command and charged with the safe conduct of a flight;\n\"Remote pilot station\" means the component of the RPAS containing the equipment used to pilot the remotely piloted aircraft;\n\"Remotely Piloted Aircraft (RPA)\" means an unmanned aircraft which is piloted from a remote pilot station;\n\"Remotely Piloted Aircraft System (RPAS)\" means a remotely piloted aircraft, its associated remote pilot station, the required command and control links and any other components as specified in the type design;\n\"RPAS operating manual\" means a manual, acceptable to the State of the Operator, containing normal, abnormal and emergency procedures, checklists, limitations, performance information, details of the RPA and each associated RPS model and other material relevant to the operation of the RPAS;\n\"Required Communication Performance (RCP)\" means a statement of the performance requirements for operational communication in support of specific ATM functions;\n\"Required Communication Performance type (RCP type)\" means a label (e.g. RCP 240) that represents the values assigned to RCP parameters for communication transaction time, continuity, availability and integrity;\n\"rest period\" means a continuous and defined period of time, s"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese regulations shall apply to all persons operating or maintaining a RPAS registered in Botswana wherever they may be and any RPAS operating in Botswana."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "4",
+      "title": "Categorization or classification of RPAS",
+      "content": "4. Categorization or classification of RPAS\n(1) RPAS shall be categorized or classified by weight and usage.\n(2) There shall be three classes of RPAS, namely—\n( a ) Class 1: that weigh 5 kilograms and below including any payload carried by the RPAS;\n( b ) Class 2: that weigh more than 5 kilograms but less than 25 kilograms including any payload carried by the RPAS; and\n( c ) Class 3: that weigh 25 kilograms and above including any payload carried by the RPAS.\n(3) There shall be three categories of RPAS namely—\n( a ) Category A: utilised for recreational and sports purposes only;\n( b ) Category B: utilised for private activities excluding recreational and sports purposes; and\n( c ) Category C: utilised for commercial activities\nCat. A Recreational and Sports\nCat. B Private\nCat. C Commercial\nClass 1 0 - 5kgs\nIA\n1B\n1C\nClass 2 5 - 25kgs\n2A\n2B\n2C\nClass 3 25kgs and above\nNote: can be Authorized but shall have to comply with airworthiness certification, continuing airworthiness, operations, instruments, pilot licensing and Air Traffic Management.\n3B\n3C"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "5",
+      "title": "Eligibility for ownership of RPAS",
+      "content": "5. Eligibility for ownership of RPAS\nA person shall be eligible to own a RPAS if he or she is—\n( a ) a citizen of Botswana;\n( b ) lawfully resident in Botswana;\n( c ) a company incorporated in Botswana under the Companies Act and having its principal place of business in Botswana, or\n( d ) the Government of the Republic of Botswana."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "6",
+      "title": "Permit to import and export",
+      "content": "6. Permit to import and export\n(1) A person shall not import a RPAS or a component of the RPAS unless obtained from Authorized supplier or vendor Authorized by the Authority.\n(2) A person who intends to export a Botswana registered RPAS shall notify the Authority in writing and obtain a deregistration certificate."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "7",
+      "title": "Registration of RPAS",
+      "content": "7. Registration of RPAS\n(1) A person shall not operate a remotely piloted aircraft within Botswana unless the remotely piloted aircraft has been registered by the Authority and a certificate of registration has been issued in accordance with these Regulations.\n(2) A remotely piloted aircraft shall acquire Botswana nationality when registered under these Regulations.\n(3) The Authority shall, where it is satisfied that an RPA meets the requirements for registration, register the RPA and issue a certificate of registration to the person in whose names the RPA is registered.\n(4) The Authority shall establish and implement a system for registration and identification of a RPAS in Botswana.\n(5) An RPA shall not be registered or continue to be registered in Botswana if it appears to the Authority that—\n( a ) the RPA is registered outside Botswana and that such registration does not cease by operation of law upon the RPA being registered in Botswana;\n( b ) an unqualified person holds any legal or beneficial interest by way of ownership or to any share in the RPA;\n( c ) the RPA could more suitably be registered in some other State;\n( d ) it would be inexpedient in the public interest for the RPA to be or to continue to be registered in Botswana; or\n( e ) the applicant or any person who holds any legal or beneficial interest by way of ownership or to any share in the RPA has been convicted of an aviation safety or security related offence."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "8",
+      "title": "Application for registration",
+      "content": "8. Application for registration\n(1) An owner of RPA shall submit an application for registration of RPA to the Authority.\n(2) An owner of RPA shall submit to the Authority—\n( a ) an application Form set out in the Schedule to these Regulations about the remotely piloted aircraft and contact information for the remotely piloted aircraft owner;\n( b ) evidence of ownership (such as a bill of sale);\n( e ) the registration fee as set out in the Fees Schedule;\n( d ) documents required for security vetting; and\n( e ) any other documents as required by the Authority."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "9",
+      "title": "RPAS register",
+      "content": "9. RPAS register\nThe Authority shall establish and maintain a remotely piloted aircraft register containing the following particulars—\n( a ) the number of the certificate;\n( b ) the registration mark assigned to remotely piloted aircraft by the Authority;\n( e ) the name of the manufacturer and the manufacturer's designation of the remotely piloted aircraft;\n( d ) the serial number of the remotely piloted aircraft;\n( e ) the name and address of the owner;\n( f ) entry date; and\n( g ) the use or conditions with regard to which remotely piloted aircraft is registered."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "10",
+      "title": "Certificate of registration",
+      "content": "10. Certificate of registration\n(1) The Authority shall register a remotely piloted aircraft by assigning registration number and issue to the owner where the applicant meets the registration requirements, a certificate of registration in the Sixth Schedule, which shall include the particulars specified in the Civil Aviation (National and Registration Marks) Regulations and the date on which the certificate was issued.\n(2) The certificate of registration issued under sub-regulation (1) shall not be transferable.\n(3) An RPA certificate of registration shall be carried by the operator of RPA at all times during the operation of the RPA.\n(4) A registered owner or operator shall present a certificate of registration for inspection upon request from the Authority."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "11",
+      "title": "Change of registration or ownership particulars",
+      "content": "11. Change of registration or ownership particulars\n(1) A person who is the registered owner of an RPAS shall notify the Authority in writing within 14 days—\n( a ) before the change in the particulars which were furnished to the Authority at the time of making application for the registration of the RPAS;\n( b ) of the destruction of the RPAS or its permanent withdrawal from use; and\n( c ) in the case of the RPAS registered in pursuance of regulation 7(3), the termination of the lease, charter or hire-purchase agreement.\n(2) A person who becomes an owner of the RPAS registered in Botswana shall inform the Authority in writing.\n(3) The Authority may, where it appears necessary or appropriate, or for purposes of updating the register correct or amend the particulars entered on the register.\n(4) For purposes of this regulation a reference to the registered owner of the RPAS includes, in the case of a deceased person, a reference to his or her legal representative and in the case of a body corporate which has been dissolved, its successor."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "12",
+      "title": "Identification plate number required",
+      "content": "12. Identification plate number required\nAn owner or operator of an RPAS shall affix to each remotely piloted aircraft registered in Botswana an identification plate number which shall be—\n( a ) * engraved or stamped with the nationality and registration marks, names and address of the registered owner;\n( b ) ** made of stainless steel or other fireproof material of suitable physical properties; and\n( c ) *** secured to the RPA in a prominent position."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "13",
+      "title": "De-registration",
+      "content": "13. De-registration\n(1) The Authority may de-register the registration of a RPAS under the following circumstances—\n( a ) upon application of the RPAS owner; or\n( b ) upon destruction of the RPAS or its permanent withdrawal from use.\n(2) The Authority shall, before de-registering the RPAS, require the registered owner to—\n( a ) return to the Authority the certificate of RPAS registration;\n( b ) settle any liens or encumbrances attached to the RPAS;\n( c ) remove all nationality and registration marks assigned to the RPAS; and\n( d ) comply with any such other conditions as the Authority may specify."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "14",
+      "title": "Airworthiness of RPAS",
+      "content": "14. Airworthiness of RPAS\n(1) An RPAS owner or operator shall ensure that all its components are in working order and in accordance with the manufacturers' user manual.\n(2) The Authority may require a RPAS of a certain class and category with a type certificate to obtain a certificate of airworthiness.\n(3) Where a certificate of airworthiness is required, the application shall be made in accordance with the procedure specified by the Authority.\n(4) The Authority may, where the applicant meets all the requirements of this regulation, issue a certificate of airworthiness for the RPAS in Form E as specified in Fifth Schedule.\n(5) An RPAS certificate of airworthiness shall be valid for a period of 12 months from the date of issue, or such shorter duration as may be specified by the Authority, unless suspended or revoked.\n(6) An application for renewal of an RPAS certificate of airworthiness shall be made in accordance with the procedure established by the Authority."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "15",
+      "title": "Maintenance of RPAS",
+      "content": "15. Maintenance of RPAS\nAn owner or operator of an RPAS shall—\n( a ) maintain the RPAS in a condition for safe operation;\n( b ) inspect the RPAS prior to flight to determine that the system is in a condition for safe operation; and\n( c ) keep a log book of all the checks performed before and after each flight operation."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "16",
+      "title": "Inspection, testing, and demonstration of compliance",
+      "content": "16. Inspection, testing, and demonstration of compliance\n(1) The Authority shall have unrestricted access to—\n( a ) a remote pilot license with a remotely piloted aircraft rating;\n( b ) a certificate of registration for the RPAS being operated; and\n( c ) any other document, record, or report required to be kept by a remote pilot or owner of a remotely piloted aircraft under these Regulations.\n(2) A remote pilot, or owner of a RPAS shall, upon request, allow the Authority to make oversight activities of the RPAS, the remote pilot, and facilities and equipment, to determine compliance with these Regulations."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART I Preliminary Provisions",
+      "section": "17",
+      "title": "Suspension or revocation",
+      "content": "17. Suspension or revocation\n(1) The Authority may, in the interest of safety and security revoke or suspend a certificate, approval, Authorization, exemption or such other document of a person who contravenes any provision of these Regulations.\n(2) The Authority may, if it considers it to be in the public interest, suspend provisionally, pending further investigation, any license, certificate, approval, permission, exemption. Authorization or such other document issued, granted or having effect under these Regulations.\n(3) The Authority may, upon the completion of an investigation which has shown sufficient ground to its satisfaction and if it considers it to be in the public interest, revoke, suspend, or vary any license, certificate, approval, permission, exemption. Authorization or other document issued or granted under these Regulations."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accident",
+      "definition": "an occurrence associated with the operation of an aircraft which, in the case of a manned aircraft, takes place between the time any person boards the aircraft with the intention of flight until such time as all such persons have disembarked, or in the case of an unmanned aircraft, takes place between the time the aircraft is ready to move with the purpose of flight until such time as it comes to rest at the end of the flight and the primary propulsion system is shut down, in which—\n( a ) a person is fatally or seriously injured as a result of—\n(i) being in the aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome",
+      "definition": "a defined area on land or water (including any buildings, installations and equipment) intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome codes",
+      "definition": "aerodrome reference code specified in the Civil Aviation (Aerodromes) Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft",
+      "definition": "any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appropriate authority",
+      "definition": "the authority having jurisdiction over the area in which the aircraft concerned is operated",
+      "source_provision": "s2"
+    },
+    {
+      "term": "autonomous aircraft",
+      "definition": "an unmanned aircraft that does not allow pilot intervention in the management of the flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Automatic dependent surveillance-broadcast (ADS-B)",
+      "definition": "by which aircraft, aerodrome vehicles and other objects can automatically transmit or receive data such as identification, position and additional data, as appropriate, in a broadcast mode via a data link",
+      "source_provision": "s2"
+    },
+    {
+      "term": "autonomous operation",
+      "definition": "an operation during which a remotely piloted aircraft is operating without pilot intervention in the management of the flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Beyond Visual Line-of-Sight",
+      "definition": "an operation in which the remote pilot cannot maintain direct unaided visual contact with the remotely piloted aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "C2 Link",
+      "definition": "the data link between the remotely piloted aircraft and the remote pilot station for the purposes of managing the flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "C2 Link Communication Service Provider (C2CSP)",
+      "definition": "an entity which provides a portion of, or all of, the C2 Link service for the operation of Remotely Piloted Aircraft System(s) (RPAS)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "C2 Link coverage area",
+      "definition": "the area in which the C2 Link service can be received including the area where Quality of Service Delivered (QoSD) does not meet the Quality of Service Required (QoSR)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "C2 Link interruption",
+      "definition": "any temporary situation where the C2 Link is unavailable, discontinuous, introduces too much delay, or has inadequate integrity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "C2 Link log",
+      "definition": "a record of the activities related to the C2 Link",
+      "source_provision": "s2"
+    },
+    {
+      "term": "C2 Link service",
+      "definition": "a communication service providing the C2 Link",
+      "source_provision": "s2"
+    },
+    {
+      "term": "C2 Link service area",
+      "definition": "the area within the C2 Link coverage area where the C2 Link QoSD meets the QoSR",
+      "source_provision": "s2"
+    },
+    {
+      "term": "C2 Link specification",
+      "definition": "the minimum performance to be achieved by the C2 Link equipment in conformity with the applicable airworthiness system design requirements",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commercial operation",
+      "definition": "any operation of an RPA, in return for is any operation of an aircraft, in return for remuneration or other valuable consideration, which is available to the public or, when not made available to the public, which is performed under a contract between an operator and a customer, where the latter has no control over the operator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "communication link",
+      "definition": "a digital or analogue data link to transfer voice or data between the remote crew, air traffic control, airspace users and other data users",
+      "source_provision": "s2"
+    },
+    {
+      "term": "continuing airworthiness",
+      "definition": "the set of processes by which an aircraft, remote pilot station, engine, propeller or part complies with the applicable airworthiness requirements and remains in a condition for safe operation throughout its operating life",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled airspace",
+      "definition": "an airspace of defined dimensions within which air traffic control service is provided in accordance with the airspace classification",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dangerous goods",
+      "definition": "articles or substances which are capable of posing risk to health, safety, property or the environment and which are shown in the list of dangerous goods of the Technical Instructions or which are classified according to those instructions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "DATA link",
+      "definition": "the direct or indirect communication link from the remotely piloted aircraft (RPA)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "detect and avoid",
+      "definition": "the capability to see, sense or detect conflicting traffic or other hazards and take the appropriate action",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Extended Visual Line-of-Sight",
+      "definition": "an operation below 400 feet above ground level in which an observer, maintains direct and unaided visual contact with the remotely piloted aircraft at a distance not exceeding 1000 m from the pilot",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fireproof",
+      "definition": "the capacity to withstand the application of heat by a flame for a period of 15 minutes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Fully Autonomous Operation",
+      "definition": "an operation during which an unmanned aircraft is operating without intervention in the management of the flight by on-board computers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "handover",
+      "definition": "the act of passing piloting control from one remote pilot station to another",
+      "source_provision": "s2"
+    },
+    {
+      "term": "incident",
+      "definition": "an occurrence, other than an accident, associated with the operation of an aircraft which affect or could affect the safety of operation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "lost C2 link decision state",
+      "definition": "the state of the RPAS in which a C2 Link interruption has occurred, but the duration of which does not exceed the lost C2 Link decision time",
+      "source_provision": "s2"
+    },
+    {
+      "term": "lost C2 link decision time",
+      "definition": "the maximum length of time permitted before declaring a lost C2 Link state during which the C2 Link performance is not sufficient to allow the remote pilot to actively manage the flight in a safe and timely manner appropriate to the airspace and operational conditions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "lost C2 link state",
+      "definition": "the state of the RPAS in which the C2 Link performance has degraded, as a result of a C2 Link interruption that is longer than the lost C2 Link decision time, to a point where it is not sufficient to allow the remote pitot to actively manage the flight in a safe and timely manner",
+      "source_provision": "s2"
+    },
+    {
+      "term": "maintenance",
+      "definition": "the performance of tasks required to ensure the continuing airworthiness of an aircraft, including any one or combination of overhaul, inspection, replacement, defect rectification and the embodiment of a modification or repair",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Notional Civil Aviation Security Committee (NCASC)",
+      "definition": "the Committee established by the Aviation Security Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nominal C2 link state",
+      "definition": "the state of the RPAS when the C2 Link performance is sufficient to allow the remote pilot to actively manage the flight of the Remotely Piloted Aircraft (RPA) in a safe and timely manner appropriate to the airspace and operational conditions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operational control",
+      "definition": "the exercise of authority over the initiation, continuation, diversion or termination of a flight in the interest of the safety of the aircraft and the regularity and efficiency of the flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operations manual",
+      "definition": "a manual containing procedures, instructions and guidance for use by operational personnel in the execution of their duties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operations specifications",
+      "definition": "the Authorizations, conditions and limitations associated with the RPAS operator certificate and subject to the conditions in the operations manual",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operator",
+      "definition": "a person, organization or enterprise engaged in or offering in engage in RPAS operation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Payload",
+      "definition": "all the elements of an remotely piloted aircraft system (RPAS) that are not necessary for flight but that are carried for the purpose of fulfilling specific mission objectives",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Private operation",
+      "definition": "the use of an remotely piloted aircraft (RPA) for an individual's personal and private purposes where there is no commercial outcome",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prohibited area",
+      "definition": "an airspace of defined dimensions, within which the flight of aircraft is prohibited",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Quality of Service (QoS)",
+      "definition": "the totality of the characteristics of an entity that bear on its ability to satisfy stated and implied needs",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Quality of Service Delivered (QoSD)",
+      "definition": "a statement of the QoS achieved or delivered to the RPAS operator by the C2CSP",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Quality of Service Experienced (QoSE)",
+      "definition": "a statement expressing the QoS that the remote pilot believes they have experienced",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Quality of Service Required (QoSR)",
+      "definition": "a statement of the QoS requirements of the RPAS operator to the C2CSP",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Radio Line-of-Sight",
+      "definition": "a direct electronic point-to-point contact between a transmitter and receiver",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Restricted Visual Line-of-Sight",
+      "definition": "an operation within 500 m of the remote pilot and below the height of the highest obstacle within 300 m of the remotely piloted aircraft (RPA), in which the remote pilot maintains direct unaided visual contact with the RPA to manage its flight and meet separation and collision avoidance responsibilities",
+      "source_provision": "s2"
+    },
+    {
+      "term": "remote crew member",
+      "definition": "a crew member charged with duties essential to the operation of a RPAS during a flight duty period",
+      "source_provision": "s2"
+    },
+    {
+      "term": "remote cruise relief pilot",
+      "definition": "a remote flight crew member who is assigned to perform remote pilot tasks during cruise flight, to allow the remote pilot-in-command to obtain planned rest",
+      "source_provision": "s2"
+    },
+    {
+      "term": "remote flight crew member",
+      "definition": "a licensed crew member charged with duties essential to the operation of a RPAS during a flight duty period",
+      "source_provision": "s2"
+    },
+    {
+      "term": "remote pilot",
+      "definition": "a person charged by the operator with duties essential to the operation of a remotely piloted aircraft and who manipulates the flight controls, as appropriate, during flight time",
+      "source_provision": "s2"
+    },
+    {
+      "term": "remote pilot-in-command",
+      "definition": "the remote pilot designated by the operator as being in command and charged with the safe conduct of a flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Remote pilot station",
+      "definition": "the component of the RPAS containing the equipment used to pilot the remotely piloted aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Remotely Piloted Aircraft (RPA)",
+      "definition": "an unmanned aircraft which is piloted from a remote pilot station",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Remotely Piloted Aircraft System (RPAS)",
+      "definition": "a remotely piloted aircraft, its associated remote pilot station, the required command and control links and any other components as specified in the type design",
+      "source_provision": "s2"
+    },
+    {
+      "term": "RPAS operating manual",
+      "definition": "a manual, acceptable to the State of the Operator, containing normal, abnormal and emergency procedures, checklists, limitations, performance information, details of the RPA and each associated RPS model and other material relevant to the operation of the RPAS",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Required Communication Performance (RCP)",
+      "definition": "a statement of the performance requirements for operational communication in support of specific ATM functions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Required Communication Performance type (RCP type)",
+      "definition": "a label (e.g. RCP 240) that represents the values assigned to RCP parameters for communication transaction time, continuity, availability and integrity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rest period",
+      "definition": "a continuous and defined period of time, s",
+      "source_provision": "s2"
+    }
+  ]
+}

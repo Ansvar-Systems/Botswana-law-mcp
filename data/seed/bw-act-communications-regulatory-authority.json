@@ -1,0 +1,376 @@
+{
+  "id": "bw-act-communications-regulatory-authority",
+  "type": "statute",
+  "title": "Communications Regulatory Authority",
+  "title_en": "Communications Regulatory Authority",
+  "short_name": "Communications Regulatory A...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/communications-regulatory-authority",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Communications Regulatory Authority Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Advisory Panel\" means the panel of persons appointed under section 81;\n\"agreement\" means an agreement between a postal operator with a sender of any item to provide postal services;\n\"authorised officer\" means an employee of the Authority duly authorised by the Board, the Chief Executive or other person as may be determined by the Authority;\n\"Authority\" means the Communications Regulatory Authority established under section 3;\n\"Board\" means the Board of the Botswana Communications Regulatory Authority established under section 4;\n\"broadcasting\" means the process whereby the output signal of a broadcasting organisation is taken from the point of origin, being the point where such signal is made available in its final format, and is conveyed to any broadcast target area by means of electronic communications;\n\"broadcasting equipment\" means any equipment used for transmitting and receiving broadcasting services including monitors, set top boxes and receivers;\n\"broadcasting service\" means a service which consists in the broadcasting of television or sound material including subscription management services to the public or sections of the public or the subscribers to such service;\n\"broadcasting system\" means a network of broadcasting equipment which is used or capable of being used to provide broadcasting services;\n\"Chairperson\" means the Chairperson of the Board;\n\"commercial broadcasting service\" means a broadcasting service operating for profit and available to the public free of charge or through a subscription;\n\"communications sector\" means the aggregate regulated telecommunication, broadcasting and postal sphere of activity in terms of this Act;\n\"communications services\" includes the regulated telecommunication, broadcasting and postal services in terms of this Act;\n\"Competition Authority\" means the competition body established under the Competition Act (Cap. 46:09);\n\"conveyance\" means all activities of a postal operator, including collection, transport, sorting and delivery necessary to ensure that a postal item is delivered to the address as indicated by the sender;\n\"electronic communication\" means the emission, transmission or reception of information, including voice, sound, data, text, video, animation, visual images, moving images and pictures, signals or a combination thereof by means of magnetic, radio or other electronic waves, optical, electromagnetic system or any agency whether with or without the aid of tangible conduct, but does not include content service;\n\"express and courier postal services\" means postal services with value added delivery of addressed postal items directly to the addressee, either in terms of speed or extra services;\n\"franking machine\" means a machine for making impressions on postal articles to denote payment of postage and includes any meter and any franking or date stamping die used in connection with postal franking;\n\"general conditions\" means the general terms and conditions for the provision of postal services by a postal operator to govern the agreement;\n\"information\" means any managerial, personnel, financial, technical, scientific, marketing, commercial, legal (but excluding any legal documents which are subject to legal professional privilege), product and service records in whatever format such records may be held;\n\"information and communication technologies\" means the technologies including computers, telecommunications, postal and audio visual systems, that enable the collection, processing, transportation and delivery of information and communications services to users;\n\"insured postal item\" means a postal item insured against loss or damage in which event a compensation equal to the admitted value declared by the sender shall be paid by a Postal operator offering these services to the sender;\n\"interconnection services\" means services provided by a public postal operator to another postal operator with the aim of sharing its Postal network and so reducing the costs of the network used for the provision of the universal postal services;\n\"international reply coupon\" means a pre-paid postal mark issued under the UPU-Acts which coupon can be acquired from the public postal operator and is accepted in any post office of a UPU-member state in exchange for postage stamps in that country in a value which suffices in order to send an international surface letter or an air letter the weight of which does not exceed 50 grams;\n\"item of correspondence\" means a postal item in a written or in any other physical medium to be conveyed by a postal operator to the address indicated by the sender on the item itself or on its wrapping;\n\"member\" means a member of the Board;\n\"net turnover\" means the total amounts invoiced to users and all sums otherwise receivable by the licensee or its service providers in respect of the provision of licensed services; after the deduction of—\n(i) any applicable sales or other operators indirect taxes,\n(ii) any amounts payable to other operators for services rendered, and\n(iii) any amounts in relation to the sale or lease entered into:\nProvided that due regard shall be made for any duplication in the calculation of the amounts;\n\"network interconnection\" means the linking of two or more electronic communications networks, electronic communications services, broadcasting services, physically or logically, but does not include terminal equipment;\n\"numbering system\" means a system using distinguishing numbers or letters by which connection between different terminal telecommunications equipment points can be established through the use of a telecommunications system;\n\"P.O. Box\" means space capacity at a postal service point made available by the public postal operator or a postal operator authorised under this Act to provide this service to a postal customer, in which box the postal items addressed to the holder of the box under an assigned P.O. number will be deposited;\n\"postal address\" means an address in the form of a P.O. Box number provided by the public postal operator, under which an addressee can collect his or her postal items at a postal service point;\n\"postal item\" means any physical mail item conveyed through a postal network;\n\"postal money order\" means a services based upon UPU-Acts for facilitating the payment of a sum of money from the remitter to the payee through the postal service point;\n\"postal network\" means the network of postal service points and other facilities of a postal operator, such as the transport routes;\n\"postal operator\" means a provider of postal services;\n\"postal package\" means a packet with an individual weight of a maximum of two kilograms conveyed through a postal network;\n\"postal parcel\" means an item of a certain size and weight over two kilograms conveyed through a postal network;\n\"postal services\" means all the services related to the process of collection, transport, sorting and delivery of postal items and includes courier services;\n\"postal service point\" means any physical facility designated for the provision of certain postal services;\n\"pre-mailing services\" means a services consisting of the provision of addressing, printing, mail insertion or pre-sorting services of postal items before conveying them through a postal network;\n\"Private Bag\" means a postal bag designated for the collection of high volumes of mail to be picked up by the addressee at a postal service point;\n\"public postal operator\" means a postal operator designated as such by the Minister under section 67;\n\"radio\" means the conveyance of one or more channels of audio, video or data information by means of an electromagnetic wave most usually propagated in space, having a frequency below 3000 GHz;\n\"reserved postal services\" means that part of the universal postal services that are exclusively provided by the public postal operator as part of universal postal services;\n\"regulated sector\" means any sphere of activity within the telecommunications, broadcasting and postal service sectors which includes the installation of telecommunications networks; the installation and operation of radio- communication equipment; the provision of postal services; the converging of electronic technologies and the provision of internet services;\n\"regulated supplier\" means any supplier of goods or services in the regulated sectors whose activities fall within the scope to be regulated by the Authority;\n\"senior officer\" means a member of the Authority's management or as may be determined by the Board;\n\"service licence\" means a licence to provide telecommunications, wireless or postal service issued under this Act;\n\"service provider\" means any person who provides telecommunications, broadcasting or postal service;\n\"stamp\" means a postage, or imprinted stamp, or imprinted mark issued by a postal operator to serve as evidence of payment of the applicable tariff for the conveyance, including marks of specially licensed franking machines;\n\"state broadcaster\" means a Government department designated as a\nprovider of broadcasting services;\n\"street letter box\" means any posting box placed at public roads or at postal service points with the purpose of the collection of postal items by the public postal operator;\n\"subscription management service\" means provision of service operated to enable consumption of a subscription broadcasting service;\n\"telecommunications equipment\" means any equipment which is used for conveying, transmitting or receiving, through the agency of electric, magnetic, electro-magnetic, electro-chemical or electro-mechanical energy, or through the agency of radio waves, of—\n( a ) speech, music or other sounds;\n( b ) visual images;\n( c ) signals capable of being interpreted as, or capable of being converted to, sounds, images or other data; and\n( d ) signals serving for the actuation or control of machinery or apparatus;\n\"telecommunications service\" means the emission, transmission or reception of information, including voice, sound, data, internet and electronic communication, text, video, animation, visual images, moving images and pictures, signal or a combination thereof by means of magnetism, radio or other electronic waves, optical, electromagnetic system whether with or without the aid of tangible conduct, but does not include content service, and includes any service ancillary thereto such as—\n( a ) the installation, maintenance, adjustment, repair, alteration, removal, relocation or replacement of telecommunications equipment related to a telecommunications system; and\n( b ) any directory information service, but does not include a broadcasting service;\n\"telecommunications system\" means a network of telecommunications equipment which is used or capable of being used to provide a telecommunications service and includes a radio communication system;\n\"telecommunications system operator\" means the person responsible for the technical operation and maintenance of a telecommunications system;\n\"television\" means the conveyance of visual information, together with one or more channels of associated audio or suitably encoded textual information, or both;\n\"terminal equipment\" means telecommunications equipment which is intended to be used or operated by a telecommunications service subscriber;\n\"universal postal services\" means that part of the postal services that is considered as a basic postal services in the common economic and social interest of the inhabitants of Botswana which services must be provided by the public postal operator; and\n\"UPU-Acts\" means the Universal Postal Union Convention (UPU) and the related universal postal union Regulations containing the common rules applicable to the international postal services."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Continuation of Authority and Duties of Board (regs 3-14)",
+      "section": "3",
+      "title": "Continuation of Authority",
+      "content": "3. Continuation of Authority\n(1) The Telecommunications Authority, established in terms of section 3 of the Act repealed under section 95, shall continue to exist as if established under this Act as the Communications Regulatory Authority.\n(2) The Communications Regulatory Authority is a body corporate with full capacity to sue or be sued in its own name, and to do all such things as bodies corporate may, by law, do and as may be necessary or incidental to the exercise of its powers and the performance of its functions under this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Continuation of Authority and Duties of Board (regs 3-14)",
+      "section": "4",
+      "title": "Appointment of Board",
+      "content": "4. Appointment of Board\n(1) The powers and functions of the Authority shall be exercised and performed by a Board consisting of seven members, who shall be appointed by the Minister.\n(2) Members shall be selected having regard to their academic qualifications from a reputable institution, experience and expertise in—\n( a ) information and communication technology;\n( b ) broadcasting ;\n( c ) media;\n( d ) postal services;\n( e ) law;\n( f ) consumer protection;\n( g ) financial accounting;\n( h ) economics;\n( i ) general business management; or\n( j ) information and technology policy or regulation.\n(3) The Minister shall publish in the Gazette , the name of each member and his or her period of appointment.\n(4) The Minister shall appoint the Chairperson of the Board and the members shall appoint the Vice-Chairperson from among their number."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Continuation of Authority and Duties of Board (regs 3-14)",
+      "section": "5",
+      "title": "Administrative responsibilities of Board",
+      "content": "5. Administrative responsibilities of Board\n(1) The Board shall—\n( a ) be responsible for the effective regulation of the regulated sectors;\n( b ) promote and ensure universal access with respect to provision of communications services;\n( c ) impose, a universal access and services levy on identified operators for purpose of funding universal access in the communications sector; and\n( d ) promote and ensure enhanced performance in the communications sector.\n(2) Pursuant to subsection (1)( a ), the Board shall—\n( a ) prepare a five year strategic plan for the Authority;\n( b ) approve such annual business plans as are necessary for the efficient operation of the Authority;\n( c ) determine and approve the annual budget for the Authority;\n( d ) monitor and seek ways to improve the efficiency of the communications sector and services provided by the Authority, both for the benefit of consumers and licensed operators in the regulated sectors;\n( e ) periodically review the performance of the Chief Executive in accordance with the provisions of his or her contract of employment;\n( f ) prepare and submit the annual report of the Authority to the Minister in accordance with section 28;\n( g ) ensure that an annual audit is carried out in accordance with section 26;\n( h ) submit a copy of the audited accounts and a copy of the auditor's report to the Minister in accordance with section 27;\n( i ) acquire and sell such moveable and immoveable property as may be necessary for the efficient operation of the Authority;\n( j ) enter into such contracts as are required to be entered into under the seal of the Board, for the more efficient operation of the Authority; and\n( k ) do anything connected with the matters set out in this section as may be required for the effective operation of the Authority.\n(3) The strategic plan for the Authority shall include an outline of—\n( a ) the vision and goals of the Authority;\n( b ) the objectives of the Authority;\n( c ) the anticipated budget for the Authority; and\n( d ) any other matter which may be relevant to the Authority for that five year period.\n(4) The strategic plan prepared in accordance with subsection (3) shall be submitted to the Minister.\n(5) The Board shall periodically review the strategic plans prepared in accordance with subsection (3) and shall be under a duty to adjust the same so as to reflect any changes in law or policy or changes in the market place affecting the regulated sectors or such other changes as the Board considers require the strategic plans to be altered."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Continuation of Authority and Duties of Board (regs 3-14)",
+      "section": "6",
+      "title": "Regulatory responsibilities of Board",
+      "content": "6. Regulatory responsibilities of Board\n(1) The Board shall ensure, that so far as is practicable there are provided throughout Botswana, safe, reliable, efficient and affordable services in the regulated sectors.\n(2) Notwithstanding the generality of subsection (1), the Board shall—\n( a ) protect and promote the interests of consumers, purchasers and other users of the services in the regulated sectors, particularly in respect of the prices charged for, and the availability, quality and variety of services and products, and where appropriate, the variety of services and products offered throughout Botswana, such as will satisfy all reasonable demands for those services and products;\n( b ) where relevant and so far as is practicable, ensure that the regulated sectors have and maintain the resources to provide those services and are otherwise fit and proper persons to provide the services;\n( c ) monitor the performance of the regulated sectors in relation to levels of investment, availability, quantity, quality and standards of services, competition, pricing, the costs of services, the efficiency of production and distribution of services and any other matters decided upon by the Authority;\n( d ) facilitate and encourage private sector investment and innovation in the regulated sectors;\n( e ) enhance public knowledge, awareness and understanding of the regulated sectors;\n( f ) foster the development of the supply of services and technology in each regulated sector in accordance with recognised standards;\n( g ) encourage the preservation and protection of the environment and conservation of natural resources in accordance with the law by regulated suppliers;\n( h ) process applications for and issue, licences, permits, permissions, concessions and authorities for regulated sectors as may be prescribed;\n( i ) notwithstanding subparagraph ( h ), the Authority shall, prior to the issuance of Public Telecommunications Operator and broadcasting licenses, notify the Minister;\n( j ) impose administrative sanctions and issue and follow up enforcement procedures to ensure compliance with conditions of licences, permits, permissions, concessions, authorities and contracts;\n( k ) promote efficiency and economic growth in the regulated sectors and disseminate information about matters relevant to its regulatory function;\n( l ) perform all additional functions and duties as may be conferred on it by law;\n( m ) hear complaints and disputes from consumers and regulated suppliers and resolve these, or facilitate their resolution;\n( n ) consult with other regulatory authorities with a view to improving the regulatory services it offers, and obtaining market intelligence about the sectors it regulates;\n( o ) foster and promote the use of consumer forums to provide information to enable it to improve its regulatory duties and functions;\n( p ) ensure that the needs of low income, rural or disadvantaged groups of persons are taken into account by regulated suppliers;\n( q ) maintain a register of licences, permits, permissions, concessions, authorities, contracts and regulatory decisions which is available to the public and from which the public may obtain a copy of any entry for a prescribed fee;\n( r ) make industry regulations for the better carrying out of its responsibilities under this Act including—\n(i) codes and rules of conduct,\n(ii) records to be kept by regulated suppliers, including the form and content of accounting and business records and information and documents to be supplied to the Authority,\n(iii) definitions of, and information about cost accounting standards to be adopted by regulated supplier,\n(iv) standards applicable to regulated services,\n(v) complaint handling procedures,\n(vi) circumstances surrounding access rights by one regulated supplier to the facilities owned or controlled by another regulated supplier,\n(vii) records, form and content for Subscriber Identity Module (SIM) card registration to be kept by regulated suppliers, and\n(viii) price control regulations;\n( s ) administer and comply with the provisions of this Act;\n( t ) at the request of the Government, represent Botswana in international regulatory and other fora concerning the regulated sectors;\n( u ) advise the Minister on matters relating to the regulated sectors and proposed policy and legislation for those sectors;\n( v ) do anything reasonably incidental or conducive to the performance of any of the above duties;\n( w ) take regulatory decisions in an open, transparent, accountable, proportionate, and objective manner and not to show undue preference to any person or organisation; and\n( x ) promote and facilitate convergence of technologies.\n(3) The Board shall—\n( a ) approve the general conditions applicable to the provision of the Universal Postal Services to be proposed by the Public Postal Operator;\n( b ) monitor the cost accounting system as proposed by the Public Postal Operator for the provision of the Universal Postal Services and advice the Minister on the application thereof; and\n( c ) conduct operational audits on the provision of postal services by Postal Operators."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Continuation of Authority and Duties of Board (regs 3-14)",
+      "section": "7",
+      "title": "Register of regulatory documents",
+      "content": "7. Register of regulatory documents\n(1) The Authority shall maintain—\n( a ) a register of regulatory documents which shall be made available to members of the public at the principal office of the Authority during its normal office hours; and\n( b ) a copy of such register at its regional offices.\n(2) The register shall contain those matters set out in Schedule 1 and the Board shall add to the category of documents specified therein.\n(3) The Authority shall comply with the request of a person who submits information and requests anonymity, if his or her name or any information which might identify that person appears in the register."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Continuation of Authority and Duties of Board (regs 3-14)",
+      "section": "8",
+      "title": "Power to obtain information",
+      "content": "8. Power to obtain information\n(1) The Authority may require from any regulated supplier such information as the Authority deems necessary to enable it to carry out its functions under this Act.\n(2) For the purposes of this section, information shall include any information which is in the actual possession, custody or control of any person or can reasonably be obtained by that person.\n(3) Subject to the provisions of subsection (6), any request for information shall—\n(i) be made in writing by an officer of the Authority,\n(ii) be addressed to, and served, in the case of an individual, at his or her last known home address, and in the case of a corporation, to the address of that corporation's registered office or principal business premises,\n(iii) specify the nature and type of the information sought by the Authority in sufficient detail as shall enable the person to identify and provide the information,\n(iv) specify in detail the reason why the Authority is making the request for information,\n(v) set out the nature of any possible offences in respect of which the information is required by reference to the relevant legislation,\n(vi) specify whether the Authority requires access to the information at the address of the person or a copy of the information, and if at the address, then details of that address and any other addresses that the Authority considers relevant, and\n(vii) specify the format and the time within which the information is to be provided.\n(4) Upon receipt of a request for information from the Authority, a person to whom the request is sent, shall, at the Authority's option as set out in the letter of request, either give access to the Authority to inspect the information, or provide a copy of such information and, if the Authority is given access to the information, the Authority shall be entitled to make copies of, or take extracts from, such information.\n(5) Information required by the Authority shall be made available to the Authority within the period specified by the Authority when making the request for information.\n(6) Any person who gives or authorises making or issuance of a statement or any information or access to information pursuant to this section shall not give information or access to information which he or she knows to be false or misleading.\n(7) Notwithstanding the provisions of subsections (1) and (2), neither the Board, nor the Chief Executive, nor any senior officer, member of a committee, co-opted person or employee of the Authority shall disclose to any other person, any information so acquired, if that disclosure would be detrimental to the person or business of the person or corporation or organisation providing that information except in the following circumstances—\n( a ) the person is declared bankrupt or insolvent in Botswana, or, if a company or organisation, is being wound-up, and the information is required in connection with bankruptcy or winding-up proceedings;\n( b ) civil or criminal proceedings arise involving that person and the Authority;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Advisory Panel",
+      "definition": "the panel of persons appointed under section 81",
+      "source_provision": "s2"
+    },
+    {
+      "term": "agreement",
+      "definition": "an agreement between a postal operator with a sender of any item to provide postal services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised officer",
+      "definition": "an employee of the Authority duly authorised by the Board, the Chief Executive or other person as may be determined by the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Communications Regulatory Authority established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of the Botswana Communications Regulatory Authority established under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "broadcasting",
+      "definition": "the process whereby the output signal of a broadcasting organisation is taken from the point of origin, being the point where such signal is made available in its final format, and is conveyed to any broadcast target area by means of electronic communications",
+      "source_provision": "s2"
+    },
+    {
+      "term": "broadcasting equipment",
+      "definition": "any equipment used for transmitting and receiving broadcasting services including monitors, set top boxes and receivers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "broadcasting service",
+      "definition": "a service which consists in the broadcasting of television or sound material including subscription management services to the public or sections of the public or the subscribers to such service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "broadcasting system",
+      "definition": "a network of broadcasting equipment which is used or capable of being used to provide broadcasting services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the Chairperson of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commercial broadcasting service",
+      "definition": "a broadcasting service operating for profit and available to the public free of charge or through a subscription",
+      "source_provision": "s2"
+    },
+    {
+      "term": "communications sector",
+      "definition": "the aggregate regulated telecommunication, broadcasting and postal sphere of activity in terms of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "communications services",
+      "definition": "the regulated telecommunication, broadcasting and postal services in terms of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Competition Authority",
+      "definition": "the competition body established under the Competition Act (Cap. 46:09)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conveyance",
+      "definition": "all activities of a postal operator, including collection, transport, sorting and delivery necessary to ensure that a postal item is delivered to the address as indicated by the sender",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electronic communication",
+      "definition": "the emission, transmission or reception of information, including voice, sound, data, text, video, animation, visual images, moving images and pictures, signals or a combination thereof by means of magnetic, radio or other electronic waves, optical, electromagnetic system or any agency whether with or without the aid of tangible conduct, but does not include content service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "express and courier postal services",
+      "definition": "postal services with value added delivery of addressed postal items directly to the addressee, either in terms of speed or extra services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "franking machine",
+      "definition": "a machine for making impressions on postal articles to denote payment of postage and includes any meter and any franking or date stamping die used in connection with postal franking",
+      "source_provision": "s2"
+    },
+    {
+      "term": "general conditions",
+      "definition": "the general terms and conditions for the provision of postal services by a postal operator to govern the agreement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "information",
+      "definition": "any managerial, personnel, financial, technical, scientific, marketing, commercial, legal (but excluding any legal documents which are subject to legal professional privilege), product and service records in whatever format such records may be held",
+      "source_provision": "s2"
+    },
+    {
+      "term": "information and communication technologies",
+      "definition": "the technologies including computers, telecommunications, postal and audio visual systems, that enable the collection, processing, transportation and delivery of information and communications services to users",
+      "source_provision": "s2"
+    },
+    {
+      "term": "insured postal item",
+      "definition": "a postal item insured against loss or damage in which event a compensation equal to the admitted value declared by the sender shall be paid by a Postal operator offering these services to the sender",
+      "source_provision": "s2"
+    },
+    {
+      "term": "interconnection services",
+      "definition": "services provided by a public postal operator to another postal operator with the aim of sharing its Postal network and so reducing the costs of the network used for the provision of the universal postal services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "international reply coupon",
+      "definition": "a pre-paid postal mark issued under the UPU-Acts which coupon can be acquired from the public postal operator and is accepted in any post office of a UPU-member state in exchange for postage stamps in that country in a value which suffices in order to send an international surface letter or an air letter the weight of which does not exceed 50 grams",
+      "source_provision": "s2"
+    },
+    {
+      "term": "item of correspondence",
+      "definition": "a postal item in a written or in any other physical medium to be conveyed by a postal operator to the address indicated by the sender on the item itself or on its wrapping",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "net turnover",
+      "definition": "the total amounts invoiced to users and all sums otherwise receivable by the licensee or its service providers in respect of the provision of licensed services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "network interconnection",
+      "definition": "the linking of two or more electronic communications networks, electronic communications services, broadcasting services, physically or logically, but does not include terminal equipment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "numbering system",
+      "definition": "a system using distinguishing numbers or letters by which connection between different terminal telecommunications equipment points can be established through the use of a telecommunications system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "P.O. Box",
+      "definition": "space capacity at a postal service point made available by the public postal operator or a postal operator authorised under this Act to provide this service to a postal customer, in which box the postal items addressed to the holder of the box under an assigned P.O. number will be deposited",
+      "source_provision": "s2"
+    },
+    {
+      "term": "postal address",
+      "definition": "an address in the form of a P.O. Box number provided by the public postal operator, under which an addressee can collect his or her postal items at a postal service point",
+      "source_provision": "s2"
+    },
+    {
+      "term": "postal item",
+      "definition": "any physical mail item conveyed through a postal network",
+      "source_provision": "s2"
+    },
+    {
+      "term": "postal money order",
+      "definition": "a services based upon UPU-Acts for facilitating the payment of a sum of money from the remitter to the payee through the postal service point",
+      "source_provision": "s2"
+    },
+    {
+      "term": "postal network",
+      "definition": "the network of postal service points and other facilities of a postal operator, such as the transport routes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "postal operator",
+      "definition": "a provider of postal services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "postal package",
+      "definition": "a packet with an individual weight of a maximum of two kilograms conveyed through a postal network",
+      "source_provision": "s2"
+    },
+    {
+      "term": "postal parcel",
+      "definition": "an item of a certain size and weight over two kilograms conveyed through a postal network",
+      "source_provision": "s2"
+    },
+    {
+      "term": "postal services",
+      "definition": "all the services related to the process of collection, transport, sorting and delivery of postal items and includes courier services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "postal service point",
+      "definition": "any physical facility designated for the provision of certain postal services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pre-mailing services",
+      "definition": "a services consisting of the provision of addressing, printing, mail insertion or pre-sorting services of postal items before conveying them through a postal network",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Private Bag",
+      "definition": "a postal bag designated for the collection of high volumes of mail to be picked up by the addressee at a postal service point",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public postal operator",
+      "definition": "a postal operator designated as such by the Minister under section 67",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radio",
+      "definition": "the conveyance of one or more channels of audio, video or data information by means of an electromagnetic wave most usually propagated in space, having a frequency below 3000 GHz",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reserved postal services",
+      "definition": "that part of the universal postal services that are exclusively provided by the public postal operator as part of universal postal services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regulated sector",
+      "definition": "any sphere of activity within the telecommunications, broadcasting and postal service sectors which includes the installation of telecommunications networks",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regulated supplier",
+      "definition": "any supplier of goods or services in the regulated sectors whose activities fall within the scope to be regulated by the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "senior officer",
+      "definition": "a member of the Authority's management or as may be determined by the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "service licence",
+      "definition": "a licence to provide telecommunications, wireless or postal service issued under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "service provider",
+      "definition": "any person who provides telecommunications, broadcasting or postal service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stamp",
+      "definition": "a postage, or imprinted stamp, or imprinted mark issued by a postal operator to serve as evidence of payment of the applicable tariff for the conveyance, including marks of specially licensed franking machines",
+      "source_provision": "s2"
+    },
+    {
+      "term": "state broadcaster",
+      "definition": "a Government department designated as a\nprovider of broadcasting services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "street letter box",
+      "definition": "any posting box placed at public roads or at postal service points with the purpose of the collection of postal items by the public postal operator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "subscription management service",
+      "definition": "provision of service operated to enable consumption of a subscription broadcasting service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "telecommunications equipment",
+      "definition": "any equipment which is used for conveying, transmitting or receiving, through the agency of electric, magnetic, electro-magnetic, electro-chemical or electro-mechanical energy, or through the agency of radio waves, of—\n( a ) speech, music or other sounds",
+      "source_provision": "s2"
+    },
+    {
+      "term": "telecommunications service",
+      "definition": "the emission, transmission or reception of information, including voice, sound, data, internet and electronic communication, text, video, animation, visual images, moving images and pictures, signal or a combination thereof by means of magnetism, radio or other electronic waves, optical, electromagnetic system whether with or without the aid of tangible conduct, but does not include content service, and includes any service ancillary thereto such as—\n( a ) the installation, maintenance, adjustment, repair, alteration, removal, relocation or replacement of telecommunications equipment related to a telecommunications system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "telecommunications system",
+      "definition": "a network of telecommunications equipment which is used or capable of being used to provide a telecommunications service and includes a radio communication system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "telecommunications system operator",
+      "definition": "the person responsible for the technical operation and maintenance of a telecommunications system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "television",
+      "definition": "the conveyance of visual information, together with one or more channels of associated audio or suitably encoded textual information, or both",
+      "source_provision": "s2"
+    },
+    {
+      "term": "terminal equipment",
+      "definition": "telecommunications equipment which is intended to be used or operated by a telecommunications service subscriber",
+      "source_provision": "s2"
+    },
+    {
+      "term": "universal postal services",
+      "definition": "that part of the postal services that is considered as a basic postal services in the common economic and social interest of the inhabitants of Botswana which services must be provided by the public postal operator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "UPU-Acts",
+      "definition": "the Universal Postal Union Convention (UPU) and the related universal postal union Regulations containing the common rules applicable to the international postal services.",
+      "source_provision": "s2"
+    }
+  ]
+}

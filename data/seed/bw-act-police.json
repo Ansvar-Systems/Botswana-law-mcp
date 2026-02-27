@@ -1,0 +1,213 @@
+{
+  "id": "bw-act-police",
+  "type": "statute",
+  "title": "Police",
+  "title_en": "Police",
+  "short_name": "Police",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/police",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Introduction and Interpretation",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Police Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Introduction and Interpretation",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"appointing authority\" means an authority referred to in section 8;\n\"appointment\" includes recruitment, transfer, promotion, temporary appointment and acting appointment;\n[ 20 of 2018, s. 2. ]\n\"arms\" includes firearms;\n\"Board\" means a Board constituted in terms of section 26;\n\"Branch Commander\" means any officer of the rank of Assistant Commissioner and above, who is in command of a branch of the Service;\n[ 15 of 2002, s. 3(a). ]\n\"Commissioner\" means the Commissioner of Police appointed by the President in terms of section 112 of the Constitution;\n\"contract terms\" means full time employment for a specified period of not less than 24 months;\n[ 20 of 2018, s. 2. ]\n\"Deputy Commissioner\" means the persons appointed to hold the rank of Deputy Commissioner in terms of section 8(1)( a );\n[ 20 of 2018, s. 2. ]\n\"Force\" ...\n[ 15 of 2002, s. 3(b). ]\n\"inspectorate\" means those police officers of the rank of inspector or sub-inspector;\n\"junior officer\" means a police officer of the rank of sergeant or below;\n\"part time terms\" means employment for a specified period of time, which limits hours of work to less than the standard working hours for the particular type of employment in the Service;\n[ 20 of 2018, s. 2. ]\n\"pay\" means the salary of a police officer in his substantive rank but does not include any allowances which have not been declared to be pensionable;\n\"permanent and pensionable\" means full time employment for an unspecified period of time whose conditions of service attract the earning of a pension;\n[ 20 of 2018, s. 2. ]\n\"police camp\" means an area set aside for occupation by police officers;\n\"police council\" means the Police Council established under section 62;\n\"police officer\" includes a special constable and a member of the Reserve Service but does not include a civilian employee;\n[ 15 of 2002, s. 2, 15 of 2002, s. 3(c). ]\n\"review authority\" means the appropriate review authority under section 29;\n\"senior officer\" means any police officer of or above the rank of Assistant Superintendent;\n\"Service\" means the Botswana Police Service as constituted under this Act, and any reference in any enactment to the Botswana Police Force shall be construed as a reference to Botswana Police Service;\n[ 15 of 2002, s. 3(a). ]\n\"temporary terms\" means full time employment for a specified period of time not exceeding 12 months.\n[ 20 of 2018, s. 2. ]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Constitution and Administration",
+      "section": "3",
+      "title": "Constitution of the Service",
+      "content": "3. Constitution of the Service\n(1) The Service shall consist of the Commissioner of Police and such numbers of those ranks specified in the Schedule as the President may from time to time direct, and police officers shall rank for seniority in the order shown therein.\n(2) The President may, by order published in the Gazette , amend the Schedule."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Constitution and Administration",
+      "section": "4",
+      "title": "Commissioner",
+      "content": "4. Commissioner\n(1) The Commissioner shall, subject to this Act and the general direction of the President, have the command, superintendence, direction and control of the Service and shall be responsible to the President for maintaining peace and good order throughout Botswana.\n(2) The Commissioner may, subject to this Act, issue or approve such orders for the general control and administration of the Service as he may deem necessary."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Constitution and Administration",
+      "section": "5",
+      "title": "Delegation of powers of Commissioner",
+      "content": "5. Delegation of powers of Commissioner\n(1) Any power conferred on the Commissioner by this Act may, subject to the directions of the Commissioner, be exercised by the Deputy Commissioner.\n[ 15 of 2002, s. 4. ]\n(2) Any power vested in the Commissioner by any enactment, may be delegated to an officer of or above the rank of Superintendent.\n[ 15 of 2002, s. 4. ]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Constitution and Administration",
+      "section": "6",
+      "title": "Duties, functions and administration of Service",
+      "content": "6. Duties, functions and administration of Service\n(1) The Service shall be employed in and throughout Botswana to protect life and property, prevent and detect crime, repress internal disturbances, maintain security and public tranquillity, apprehend offenders, bring offenders to justice, duly enforce all written laws with which it is directly charged and generally maintain the peace.\n(1A) The Service—\n( a ) shall in the interest of national security co-operate and work with other security organs in the discharge of its mandate; and\n( b ) may enter into an agreement with any foreign law enforcement agency in the interest of national security, for the purpose of joint operations and sharing of information to enable co-operation in criminal matters.\n[ 20 of 2018, s. 3. ]\n(1B) Nothing in this section shall preclude the disclosure of information by the Service to a comparable body in a foreign country for the purpose of assisting it in exercising functions corresponding to those of the Service under this Act.\n[ 20 of 2018, s. 3. ]\n(1C) The Service shall regard, and deal with as confidential, all documents and information shared under this section.\n[ 20 of 2018, s. 3. ]\n(2) For the performance of their duties under this Act police officers may carry arms.\n(3) The Service shall perform such military duties within Botswana as may be required of it under the authority of the President as Commander-in-Chief of the Armed Forces.\n(4) The control of the police in any place shall be vested in such police officer as may be appointed by the Commissioner to be in charge thereof; such officer shall carry out the orders of the Commissioner in all matters subject to this Act."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Constitution and Administration",
+      "section": "7",
+      "title": "Employment of Service in emergency",
+      "content": "7. Employment of Service in emergency\nThe President may, in time of war or other emergency, employ the Service or part thereof in the defence of Botswana:\nProvided that the Service or such part thereof when so employed shall remain, for the purpose of administration and discipline, under the command of the Commissioner."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART III Appointment, Attestation, Service and Discharge",
+      "section": "8",
+      "title": "Appointment of police officers",
+      "content": "8. Appointment of police officers\n(1) Subject to this Act—\n( a ) the Permanent Secretary to the President shall, after consultation with the Commissioner, appoint fit and proper persons to hold the rank of Deputy Commissioner;\n[ 15 of 2002, s. 5(a). ]\n( b ) the Commissioner shall, whether or not the person appointed is already a member of the Service, be the appointing authority for—\n(i) the ranks up to and including Senior Assistant Commissioner, and\n(ii) civilian posts in the Service, for designations up to and including Director level:\nProvided that the first two years of the service of any person appointed to be a member of the Service, or such longer period as the appointing authority shall direct, shall be on probation and any service spent in a prescribed organisation may count towards this period.\n[ 20 of 2018, s. 4(a). ]\n(2) A police officer appointed on probation shall, subject to this Act, be confirmed in his appointment, and admitted to the permanent and pensionable establishment of the Service only on the authority of the relevant appointing authority:\nProvided that—\n( a ) the Commissioner shall appoint fit and proper persons to the Service;\n( b ) the appointment of civilian staff under subsection (1)( b )(ii) may be on contract or permanent and pensionable terms; and\n( c ) the appointments made by the Commissioner under this Act may, subject to such terms as may be prescribed, be on—\n(i) temporary terms, or\n(ii) part time terms.\n[ 20 of 2018, s. 4(b). ]\n(3) An appointing authority may appoint a police officer to act in a rank senior to his substantive appointment, and where the period of such acting appointment exceeds 28 days such officer shall, during such acting appointment, receive salary at the scale applicable to the senior rank at such incremental level as the appointing authority may decide."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART III Appointment, Attestation, Service and Discharge",
+      "section": "9",
+      "title": "Declaration on attestation",
+      "content": "9. Declaration on attestation\n(1) Every person on joining the Service shall make and sign a declaration before a senior officer in such form as may be prescribed, and at the same time shall acknowledge his appointment as a member of the Service on such form as may be prescribed.\n(2) Every person shall, before making the declaration required by subsection (1), answer truly any questions put to him as to his previous service, academic qualifications, career and employment and as to whether he has at any time been convicted of any offence punishable by the laws of Botswana or the laws of any other country.\n[ 15 of 2002, s. 6. ]\n(3) Any person who makes a false statement in reply to any question put to him under subsection (2) to obtain or to attempt to obtain admission to the Service shall be guilty of an offence and liable to a fine not exceeding P500 or to imprisonment for a term not exceeding six months, or to both.\n(4) The Commissioner may dismiss from the Service any person who contravenes subsection (2)."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART III Appointment, Attestation, Service and Discharge",
+      "section": "10",
+      "title": "Pensions and gratuities",
+      "content": "10. Pensions and gratuities\nThe grant of pensions and gratuities to members of the Service shall be in accordance with regulations made under this Act."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART III Appointment, Attestation, Service and Discharge",
+      "section": "11",
+      "title": "Permission for resignation",
+      "content": "11. Permission for resignation\nNo police officer shall be at liberty to resign from the Service unless expressly permitted to do so by the appointing authority."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART III Appointment, Attestation, Service and Discharge",
+      "section": "12",
+      "title": "Restriction on retirement",
+      "content": "12. Restriction on retirement\nNo police officer shall be at liberty to retire from the Service in time of emergency or war unless the Commissioner, acting with the consent of the President, orders otherwise."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART III Appointment, Attestation, Service and Discharge",
+      "section": "13",
+      "title": "Interdiction",
+      "content": "13. Interdiction\n(1) When any police officer is accused of a criminal or disciplinary offence against this Act or any other criminal offence under any enactment, the appointing authority may suspend such officer from duty for a period not exceeding three months pending the institution and determination of proceedings against such officer but the officer shall, during the period of suspension, continue to receive full pay and benefits.\n[ 15 of 2002, s. 7(a). ]\n(2) Where a police officer, who is suspended under subsection (1), is charged with a criminal or disciplinary offence before a court or a Board, the appointing authority shall interdict him.\n[ 20 of 2018, s. 5(a). ]\n(2A) An interdicted officer under subsection (2) shall receive such portion of his pay, not being less than one-half, as the appointing authority may determine, and if the proceedings against such officer—\n( a ) do not result in his dismissal or any other punishment, he shall be entitled to the full amount of the pay he would have received had he not been interdicted; or\n( b ) result in his dismissal or any other punishment, he shall forfeit the withheld portion of his salary.\n[ 20 of 2018, s. 5(a). ]\n(3) When any police officer has been interdicted from duty under subsection (2) and is not under arrest, a senior officer may order that pending the institution and determination of proceedings against such officer he shall—\n[ 15 of 2002, s. 7(c)(i). ]\n( a ) be confined to his quarters or other place of residence during such hours as the senior officer may decide;\n( b ) restrict his movements to any area which such senior officer may decide;\n( c ) forthwith surrender uniform and such equipment to the senior officer:\n[ 20 of 2018, s. 5(b). ]\nProvided that where any conflict arises between an order under this subsection and any conditions of bail imposed by any court, the latter shall prevail.\n[ 15 of 2002, s. 7(c)(ii). ]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART III Appointment, Attestation, Service and Discharge",
+      "section": "14",
+      "title": "Termination of appointment",
+      "content": "14. Termination of appointment\n(1) An appointing authority may at any time terminate the appointment of a police officer serving on probation on first appointment if he considers that such officer is unlikely to become an efficient officer, but only after inviting him to show cause why his appointment should not be terminated:\nProvided that in the case of an officer of the rank of Deputy Commissioner, the appointing authority shall act after consultation with the Commissioner.\n[ 15 of 2002, s. 8(a). ]\n(2) The termination of an appointment under this section shall not prejudice the granting of any terminal benefits the police officer would otherwise be entitled to."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "appointing authority",
+      "definition": "an authority referred to in section 8",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appointment",
+      "definition": "recruitment, transfer, promotion, temporary appointment and acting appointment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "arms",
+      "definition": "firearms",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "a Board constituted in terms of section 26",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Branch Commander",
+      "definition": "any officer of the rank of Assistant Commissioner and above, who is in command of a branch of the Service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "the Commissioner of Police appointed by the President in terms of section 112 of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contract terms",
+      "definition": "full time employment for a specified period of not less than 24 months",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Deputy Commissioner",
+      "definition": "the persons appointed to hold the rank of Deputy Commissioner in terms of section 8(1)( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspectorate",
+      "definition": "those police officers of the rank of inspector or sub-inspector",
+      "source_provision": "s2"
+    },
+    {
+      "term": "junior officer",
+      "definition": "a police officer of the rank of sergeant or below",
+      "source_provision": "s2"
+    },
+    {
+      "term": "part time terms",
+      "definition": "employment for a specified period of time, which limits hours of work to less than the standard working hours for the particular type of employment in the Service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pay",
+      "definition": "the salary of a police officer in his substantive rank but does not include any allowances which have not been declared to be pensionable",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permanent and pensionable",
+      "definition": "full time employment for an unspecified period of time whose conditions of service attract the earning of a pension",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police camp",
+      "definition": "an area set aside for occupation by police officers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police council",
+      "definition": "the Police Council established under section 62",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police officer",
+      "definition": "a special constable and a member of the Reserve Service but does not include a civilian employee",
+      "source_provision": "s2"
+    },
+    {
+      "term": "review authority",
+      "definition": "the appropriate review authority under section 29",
+      "source_provision": "s2"
+    },
+    {
+      "term": "senior officer",
+      "definition": "any police officer of or above the rank of Assistant Superintendent",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Service",
+      "definition": "the Botswana Police Service as constituted under this Act, and any reference in any enactment to the Botswana Police Force shall be construed as a reference to Botswana Police Service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "temporary terms",
+      "definition": "full time employment for a specified period of time not exceeding 12 months.\n[ 20 of 2018, s. 2. ]",
+      "source_provision": "s2"
+    }
+  ]
+}

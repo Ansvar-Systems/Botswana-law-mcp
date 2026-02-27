@@ -1,0 +1,93 @@
+{
+  "id": "bw-act-national-archives-and-records-services",
+  "type": "statute",
+  "title": "National Archives and Records Services",
+  "title_en": "National Archives and Records Services",
+  "short_name": "National Archives and Recor...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/national-archives-and-records-services",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Introduction and Interpretation",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Act may be cited as the National Archives and Records Services Act.\n[ 14 of 2007, s. 2. ]"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Introduction and Interpretation",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"authorised officer\" means an officer of the National Archives and Records Services authorised by the Director to do anything in accordance with the provisions of this Act;\n\"Council\" means the National Archives and Records Services Advisory Council established under section 20;\n\"Director\" means the Director of National Archives and Records Services appointed under section 5;\n\"historical records\" means any records, other than public and judicial records, which are declared as such under section 15;\n\"judicial records\" means any records constituting the official records of any proceedings before a court, commission or board of inquiry, other judicial or quasi-judicial body or person, which—\n( a ) are in the custody of—\n(i) such court, commission, board, body or person;\n(ii) any Ministry, Department, other agency of the Government or a prescribed body; or\n(iii) any person lawfully committed with such custody; or\n( b ) have been transferred to the National Archives and Records Services or place of deposit under the provisions of this Act;\n\"National Archives and Records Services\" means the National Archives and Records Services of Botswana established under section 3;\n\"place of deposit\" means a place of deposit declared as such under section 4;\n\"prescribed body\" means any public body, corporation, society, association, institution, organisation or any body of persons, whether incorporated or not, declared to be such by the Minister;\n[ 14 of 2007, s. 3(b). ]\n\"private archive\" means a record created or received by a private individual or body other than an agency of the Government;\n[ 14 of 2007, s. 3(b). ]\n\"public archives\" means—\n( a ) all public records which—\n(i) are specified by the Director as being of enduring or historical value; and\n(ii) have been transferred to the National Archives and Records Services or place of deposit under the provisions of this Act; and\n( b ) any records, documents or other material acquired for the National Archives and Records Services in terms of section 5(4)( h );\n\"public records\" means—\n( a ) any records of the Government which—\n(i) are in the custody of the Government; or\n(ii) have been transferred to the National Archives and Records Services or place of deposit under section 10;\n( b ) any records of a prescribed body which are in the custody of such body or have been transferred to the National Archives and Records Services under section 10; or\n( c ) any judicial records;\n\"records\" includes any electronic records, manuscript, newspaper, picture, painting, document, register, printed material, book, map, plan, drawing, photograph, negative and positive pictures, photocopy, microfilm, cinematograph film, video tape, magnetic tape, gramophone record or other transcription of language, picture or music, recorded by any means capable of reproduction and regardless of physical form and characteristics.\n[ 14 of 2007, s. 3(a). ]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II National Archives and Records Services and Places of Deposit",
+      "section": "3",
+      "title": "Establishment",
+      "content": "3. Establishment\nThere is hereby established the National Archives and Records Services of Botswana for the storage and preservation of public archives other than those which are to be kept in some other place of deposit.\n[ 14 of 2007, s. 4. ]"
+    },
+    {
+      "provision_ref": "s3A",
+      "chapter": "PART II National Archives and Records Services and Places of Deposit",
+      "section": "3A",
+      "title": "Functions of the National Archives and Records Services",
+      "content": "3A. Functions of the National Archives and Records Services\nThe functions of the National Archives and Records Services shall be—\n( a ) to provide records and information management service to government agencies; and\n( b ) to collect, preserve and access the nation's documentary heritage.\n[ 14 of 2007, s. 5. ]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "an officer of the National Archives and Records Services authorised by the Director to do anything in accordance with the provisions of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the National Archives and Records Services Advisory Council established under section 20",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the Director of National Archives and Records Services appointed under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "historical records",
+      "definition": "any records, other than public and judicial records, which are declared as such under section 15",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judicial records",
+      "definition": "any records constituting the official records of any proceedings before a court, commission or board of inquiry, other judicial or quasi-judicial body or person, which—\n( a ) are in the custody of—\n(i) such court, commission, board, body or person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "National Archives and Records Services",
+      "definition": "the National Archives and Records Services of Botswana established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "place of deposit",
+      "definition": "a place of deposit declared as such under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescribed body",
+      "definition": "any public body, corporation, society, association, institution, organisation or any body of persons, whether incorporated or not, declared to be such by the Minister",
+      "source_provision": "s2"
+    },
+    {
+      "term": "private archive",
+      "definition": "a record created or received by a private individual or body other than an agency of the Government",
+      "source_provision": "s2"
+    },
+    {
+      "term": "records",
+      "definition": "any electronic records, manuscript, newspaper, picture, painting, document, register, printed material, book, map, plan, drawing, photograph, negative and positive pictures, photocopy, microfilm, cinematograph film, video tape, magnetic tape, gramophone record or other transcription of language, picture or music, recorded by any means capable of reproduction and regardless of physical form and characteristics.\n[ 14 of 2007, s. 3(a). ]",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "bw-act-waste-management",
+  "type": "statute",
+  "title": "Waste Management",
+  "title_en": "Waste Management",
+  "short_name": "Waste Management",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/waste-management",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Waste Management Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"authorised officer\" means an officer of the Department authorised to act on its behalf and shall include such other public officers as the Minister may appoint after consultation with the respective authorities;\n\"Basel Convention\" means the Basel Convention on the control of trans-boundary movement of hazardous wastes and their disposal, concluded in 1989, to which Botswana is a party, and the provisions of which are applicable in regulating the trans-boundary movement of waste as provided for under section 45;\n\"clinical waste\" means—\n( a ) waste which, unless rendered safe, may prove hazardous to any person, animal or plant coming into contact with it, arising from human or animal tissue, blood or other body fluids, excretions, drugs or other pharmaceutical products, radioactive materials, swabs or dressings, microbiological cultures and potentially infected waste from pathology departments or syringes, needles or other sharp instruments; or\n( b ) any other waste which may cause infection to any person, animal or plant coming into contact with it arising from—\n(i) medical, nursing, dental, veterinary, pharmaceutical or similar practice;\n(ii) investigation, treatment, care, teaching or research; or\n(iii) the collection of blood for transfusion;\n\"commercial waste\" means waste from premises used wholly or mainly for the purpose of a trade, business, sport, recreation, entertainment or as local or central government offices, and excludes household waste, industrial waste or excavated waste from a mine or mine tailings impoundment as defined under the Mines and Minerals Act, save for that mine waste for which the Minister may prescribe a different categorisation for;\n\"controlled waste\" includes the waste defined as household, industrial, commercial, clinical or hazardous waste in this Act;\n\"Director\" means a person appointed under section 4 as Director;\n\"Department\" means the Department to be established under section 3;\n\"disposal\" , in relation to waste, means operations which do not lead to the possibility of resource recovery, recycling, reclamation, direct re-use or alternative uses;\n\"harm\" means interference with the ecological systems of which the living organisms form part and in case of a living person includes harm, distress or annoyance to any of his senses or damage to his property;\n\"hazardous waste\" means controlled waste which has the potential, even in low concentrations, to have significant adverse effect on public health or the environment on account of its inherent chemical and physical characteristics, such as toxic, ignitable, corrosive, carcinogenic or other properties;\n\"household waste\" means waste from—\n( a ) any building used wholly for the purposes of living accommodation;\n( b ) a residential home;\n( c ) premises forming part of a university or school or other educational establishment;\n\"industrial waste\" means waste from any premises—\n( a ) used for the purposes of or in connection with the provision to the public of transport services by land, air or water;\n( b ) used for the purposes of or in connection with the supply to the public of gas, water or electricity or the provision of sewerage services;\n( c ) used for the purposes of or in connection with the provision to the public of postal or telecommunication services;\n( d ) forming part of a hospital or nursing home;\n( e ) that are subject to a licence to manufacture under the Industrial Development Act (Cap. 43:01);\n\"litter\" means any object or matter discarded or abandoned by the person in whose possession or control it was;\n\"local authority\" means a city, town or district council or a land board;\n\"local waste management plan\" means the plan drawn up by a local authority under section 9;\n\"national waste management plan\" means the plan drawn up by the Director under section 9;\n\"principal litter authority\" means a local authority designated as such under section 37;\n\"recycling\" includes the reclamation of waste, recovery of materials, reprocessing of wastes, resource recovery and re-use of waste;\n\"reclamation of waste\" means the collection, sorting and upgrading of waste materials to a usable standard;\n\"recovery of materials\" means the recovery of materials from waste and their re-use for either the same purpose or for different purposes;\n\"reprocessing of waste\" means the physical, chemical or biological conversion of waste materials to generate other usable materials;\n\"resource recovery\" means the recovery of energy by means of—\n( a ) incineration of hazardous waste; and\n( b ) reclamation of water contaminated by waste;\n\"treatment\" means subjecting waste to any process including resource recovery, re-use, reprocessing, reclaiming or recycling; and the term 'treat' shall be construed accordingly;\n\"trans-boundary movement of waste\" means the importation and exportation of waste into or from Botswana or the transit of waste through Botswana;\n\"waste\" includes the following substances and any combination thereof which are discarded by any person or are accumulated or stored by any person for the purpose of recycling—\n( a ) undesirable or superfluous by-products;\n( b ) residue or remainder of any process or activity;\n( c ) any gaseous, liquid or solid matter;\n\" waste carrier\" means a person registered and licensed under Part V to transport waste;\n\"waste disposal site\" means a site, registered under section 14, for the accumulation of waste to be disposed of or treated and includes a mobile or immobile waste treatment plant, waste storage or transfer facility or landfill site;\n\"waste management\" means the collection, deposit, interim storage, transfer, transport, treatment and final disposal of waste or controlled waste; and 'manage controlled waste' shall be construed accordingly;\n\"waste management facility\" means a waste disposal site, licensed under section 16, for the purpose of controlled waste management;\n\"waste producer\" means a person who creates or produces controlled waste;\n\"waste recycling plan\" means a plan drawn up by a local authority under 0;"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment of Department",
+      "section": "3",
+      "title": "Establishment of Department",
+      "content": "3. Establishment of Department\nThere shall be established, in accordance with the laws governing the public service, a Department to be known as the Department of Sanitation and Waste Management."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment of Department",
+      "section": "4",
+      "title": "Staff of Department",
+      "content": "4. Staff of Department\n(1) Subject to the laws governing the public service, there shall be appointed a Director and such other officers of the Department as may be deemed necessary.\n(2) The Director shall, subject to the direction of the Minister, be responsible for the administration of the Department."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment of Department",
+      "section": "5",
+      "title": "Identity card of an officer",
+      "content": "5. Identity card of an officer\nThe Minister shall cause each officer of the Department to be issued with a special identity card which shall be prima facie evidence of the appointment of such officer to the Department."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART III Functions of Department",
+      "section": "6",
+      "title": "Functions of Department",
+      "content": "6. Functions of Department\nSubject to the control of the Minister, the functions of the Department shall be to—\n( a ) provide policy direction and leadership in all matters pertaining to sanitation and waste management;\n( b ) enhance sectoral co-ordination by developing plans and programmes to guide the different sectors in the performance and discharge of their duties and closely monitor the work of the sectors;\n( c ) develop effective communication flow between the stakeholders in sanitation and waste management and the public by instituting and maintaining a pro-active public awareness campaign;\n( d ) ensure that implementation of sanitation and waste management projects is strategically designed to derive maximum benefit at minimum cost, accompanied by effective cost recovery policies;\n( e ) provide reliable information for the support of both urban and rural sanitation and waste management development;\n( f ) institute appropriate sanitary measures for the promotion of public health;\n( g ) promote and co-ordinate human resources development and institutional capacity within the local authorities to effectively implement sanitation and waste management programmes;\n( h ) promote and facilitate economic sustainability in sanitation and waste management;\n( i ) train and assess for competence waste management officers and supervisors;\n( j ) register persons who manage controlled waste;\n( k ) register and license waste carriers, waste disposal sites and waste management facilities;\n( l ) require and monitor the collection, disposal and treatment of controlled waste by local authorities and waste management industries in the private sector, in accordance with such standards as may be prescribed;\n( m ) institute a consignment control system of controlled waste and approve waste carrying vehicles, packaging and labelling of waste carried on the vehicles;\n( n ) monitor the trans-boundary movement of controlled waste;\n( o ) make arrangements for hazardous waste, of a kind as may be specified, to be separated from other types of waste in its collection, transport, storage, treatment and disposal;\n( p ) recommend to the Minister the appointment of committees to conduct technical research and other development studies for the purpose of assisting the Department realise its objectives;\n( q ) restrict or prohibit waste management operations in or near rivers, ponds, lakes or underground water without adequate engineering works agreed in writing by the Director;\n( r ) order the immediate closure of any existing waste management facility on the grounds of risk of pollution of the environment or harm to human, animal or plant life;\n( s ) cause land to be inspected from time to time to detect whether the condition of any part of the land is likely to cause pollution of the environment or harm to human, animal or plant life and to take such other steps as are necessary in regard thereto; and\n( t ) do all such other things as may be necessary to achieve the objectives of the Act."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART III Functions of Department",
+      "section": "7",
+      "title": "Annual Report",
+      "content": "7. Annual Report\nThe Director shall, on or before 31 March in each year, or by such other date as the Minister may allow, submit to the Minister a report on the activities of the Department in the preceding year."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART III Functions of Department",
+      "section": "8",
+      "title": "Qualifications of officers and managers",
+      "content": "8. Qualifications of officers and managers\n(1) Officers of the Department and other persons monitoring or controlling waste management activities shall be fit and proper persons and shall hold such qualifications and such experience in the field of waste management as the Minister may, from time to time, direct.\n(2) A person shall be considered a fit and proper person for the purposes of this Act if the person—\n( a ) has not been convicted of an offence concerned with environmental issues; and\n( b ) is technically competent to manage controlled waste.\n(3) Any person who owns the means of waste management shall be required to have such financial resources as may be prescribed, to discharge his obligations under the licence granted:\nProvided that the person who owns the means of waste management shall also be required to comply with the requirements of subsections (1) and (2), where such person is also engaged in the management thereof."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART IV Waste Management Plans",
+      "section": "9",
+      "title": "Local and national waste management plans",
+      "content": "9. Local and national waste management plans\n(1) To facilitate the drawing up of the national waste management plan under subsection (3) each local authority shall submit, in writing to the Director, at such intervals as he may require, a local waste management plan covering the area under its control and containing information on the—\n( a ) kinds and quantities of controlled waste being generated and which the local authority expects will be generated in its area during the period specified in the plan;\n( b ) waste disposal sites and public and private waste management facilities in its area at present and that are expected to be closed, upgraded or newly built during the period specified in the plan;\n( c ) staff, equipment and other material used for operating the publicly owned sites and facilities at present and needed during the period specified;\n( d ) kinds and quantities of controlled waste which the local authority expects to be brought for disposal into or taken for disposal out of the local authority's area during that period;\n( e ) strategy the local authority has adopted to harmonise its activities with other local authorities on the management of the waste referred to in paragraph ( d );\n( f ) kinds and quantities of controlled waste which the local authority expects to manage by use if its own means or by use of means provided by the private sector, during that period;\n( g ) methods by which, in a given period, the local authority intends to manage controlled waste and the local authority's prioritisation of the different methods of waste management for the given period of time;\n( h ) estimated costs of the different methods of waste management mentioned in the plan, and how these costs are covered by tariffs, fees, or other means; and\n( i ) efforts the local authority has undertaken and is going to undertake to reach full cost recovery within a given period of time.\n(2) Upon the receipt of a local waste management plan in accordance with subsection (1) the Director shall, prior to the plan being considered under subsection (3), consult the Ministry of Health on the plan.\n(3) The Director shall, in conjunction with the Department of Water Affairs and other relevant Departments and based on the local waste management plan of each local authority, draw up a national waste management plan covering a given period of time, which plan shall be evaluated and revised at regular intervals."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART IV Waste Management Plans",
+      "section": "10",
+      "title": "Waste recycling plan",
+      "content": "10. Waste recycling plan\n(1) A local authority shall prepare, as part of its local waste management plan, a waste recycling plan with respect to controlled waste in its area.\n(2) The recycling plan shall include information with respect to the—\n( a ) kind and quantity of controlled waste that could be recycled and that would therefore not be included in the waste collection and disposal chain of the area in question;\n( b ) implication the recycling plan would have on the waste management services provided by the local authority;\n( c ) technical, organisational, and financial initiatives the local authority will provide to encourage recycling;\n( d ) estimated costs or savings attributable to the methods of dealing with waste in the manner provided by the plan; and\n( e ) possibility of returning waste materials to the manufacturer in order to control pollution, conserve resources and prevent harm to human, animal or plant life.\n(3) In the case of a second, third or consecutive recycling plan, the plan shall include information on the results of an evaluation of the previous plan with specific emphasis on how the aims and objectives set out previously were met and reasons given for deviating therefrom.\n(4) When a local authority has determined the content of the plan, it shall submit a copy of the plan to the Director for approval and thereafter take steps to implement the approved plan and give adequate publicity of the plan in its area and the neighbouring local authorities.\n(5) Each local authority shall keep a copy of the plan and any modifications thereto, available at all times at its offices for public inspection."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART IV Waste Management Plans",
+      "section": "11",
+      "title": "Litter plan",
+      "content": "11. Litter plan\nA local authority shall prepare, from time to time, and revise a statement of the steps to be taken by it to abate litter referred to as the \"litter plan\", as part of its local waste management plan."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART V Registration and Licensing of Waste Carriers",
+      "section": "12",
+      "title": "Registration of waste carrier",
+      "content": "12. Registration of waste carrier\n(1) The provisions of this section shall come into effect 12 months after the coming into operation of this Act.\n(2) Subject to subsection (6), no person shall cause or effect the movement of controlled waste within Botswana or the trans-boundary movement of controlled waste without being registered as a waste carrier under the provisions of this section:\nProvided that any person carrying on business as a waste carrier before the commencement of this Act or such other person as the Minister may determine on the recommendations of the Director, may, upon being registered, continue in such business or commence operations of such business pending the determination of the application for a licence under section 13.\n(3) An application for registration in terms of subsection (2) shall be in the prescribed form and shall contain information relating to—\n( a ) the type, volume, mix and constituents of the waste that is expected to be transported in the course of business annually;\n( b ) the type, make and registration number of the vehicles which are used to carry the different kinds of waste; and\n( c ) details of the qualifications of each driver employed to drive the vehicles registered under paragraph ( b ), and of other persons employed thereto.\n(4) The Director shall issue a waste carrier certificate to every person registered or exempted from registration as a waste carrier, which certificate shall be prima facie evidence of registration or of exemption from registration of the waste carrier as the case may be.\n(5) Any waste carrier aggrieved by the refusal of the Director to register him may, within 28 days from the date of such refusal, appeal against the refusal to the Minister:\nProvided that any person carrying on business as a waste carrier before the commencement of this Act, may continue in such business pending the decision of the Minister.\n(6) The Minister may, by order, exempt certain persons from registering as waste carriers under this Act.\n(7) A waste carrier shall, when requested by a police officer or an authorised officer, produce for inspection, a registration certificate issued under subsection (3).\n(8) Any person who contravenes any of the provisions of this section, shall be guilty of an offence and be liable to a fine not exceeding P300 or to imprisonment for a term not exceeding two months or to both.\n(9) Any person registered under this section may have such waste carrier registration revoked if such person is convicted of an offence under this Act."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART V Registration and Licensing of Waste Carriers",
+      "section": "13",
+      "title": "Licensing of waste carriers",
+      "content": "13. Licensing of waste carriers\n(1) The provisions of this section shall come into effect 18 months after the coming into operation of this Act.\n(2) Subject to subsections (3) and (12) no person shall cause or effect the movement of controlled waste within Botswana or the trans-boundary movement of controlled waste without a waste carrier licence issued under this section.\n(3) Subsection (2) shall not apply to—\n( a ) the transportation of controlled waste between different places within the same premises;\n( b ) the transportation of controlled waste in transit from a country or territory outside Botswana to another and such waste is not deposited in Botswana, provided that the person carrying the waste is not resident in Botswana and holds the prescribed qualifications or other qualifications recognised by the Director to transport controlled waste; or\n( c ) householders occasionally transporting their own household waste from their premises to the nearest collection or disposal point.\n(4) An application for a waste carrier licence shall be in the prescribed form which form shall, where applicable, be subject to Regulations made in compliance with the Basel Convention, under section 45.\n(5) An applicant for a licence under this section shall append to the completed application form—\n( a ) the certificate issued under section 12(4); and\n( b ) such other documentation as may be required by the Director.\n(6) The Director may, by notice served on an applicant, require the applicant to furnish in writing, within such reasonable time as is specified in the notice, such further information in connection with the application as the Director may reasonably require.\n(7) On application duly made, the Director may—\n( a ) grant a waste carrier licence, on such conditions as he may determine; or\n( b ) refuse to grant a waste carrier licence where the applicant—\n(i) has failed to satisfy any of the requirements; or\n(ii) has been convicted of a prescribed offence under this Act.\n(8) The Director shall notify the applicant in writing of his decision with respect to the application.\n(9) Subject to the conditions specified in the waste carrier licence, it shall remain in force for a period not exceeding two years.\n(10) The renewal of the waste carrier licence may be granted by the Director, upon payment, by the applicant, of a prescribed fee and shall be valid for such period as may be specified therein.\n(11) Any waste carrier aggrieved by the refusal of the Director to grant him a licence may, within 28 days from the date of such refusal, appeal against the refusal to the Minister:\nProvided that any person carrying on business as a waste carrier before the commencement of this Act, may continue in such business pending the decision of the Minister.\n(12) The Minister may, by order, exempt certain persons from being licensed as waste carriers under this Act.\n(13) A waste carrier shall, when requested by a police officer or an authorised officer, produce for inspection, the licence issued under subsection (7).\n(14) Any person who carries waste without a valid licence shall be guilty of an offence and be liable to a fine not exceeding P600, and for second and subsequent offence to a further fine not exceeding P200 for each day the offence continues.\n(15) Any person licensed under this section may have such licence revoked if such person is convicted of an offence under this Act.\n(16) In proceedings against any person for an offence under this section, it shall be a defence for that person to show—\n( a ) that the controlled waste was transported in an emergency, notice of which was given within 48 hours of such transportation, to the local authority in whose area the emergency occurred;\n( b ) that he neither knew nor had reasonable grounds for suspecting that what was being transported was controlled waste and that he took all such steps as it was reasonable to ascertain whether it was such waste; or\n( c ) that he acted under instructions from his employer.\n(17) In this section, \"emergency\" means, in relation to the transportation of any controlled waste, any circumstances in which, in order to avoid, remove or reduce any serious risk of harm to the environment or to human, animal or plant life, it is necessary for the waste to be transported from one place to another without a waste carrier licence issued under this Part."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "an officer of the Department authorised to act on its behalf and shall include such other public officers as the Minister may appoint after consultation with the respective authorities",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Basel Convention",
+      "definition": "the Basel Convention on the control of trans-boundary movement of hazardous wastes and their disposal, concluded in 1989, to which Botswana is a party, and the provisions of which are applicable in regulating the trans-boundary movement of waste as provided for under section 45",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commercial waste",
+      "definition": "waste from premises used wholly or mainly for the purpose of a trade, business, sport, recreation, entertainment or as local or central government offices, and excludes household waste, industrial waste or excavated waste from a mine or mine tailings impoundment as defined under the Mines and Minerals Act, save for that mine waste for which the Minister may prescribe a different categorisation for",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled waste",
+      "definition": "the waste defined as household, industrial, commercial, clinical or hazardous waste in this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "a person appointed under section 4 as Director",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Department",
+      "definition": "the Department to be established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "harm",
+      "definition": "interference with the ecological systems of which the living organisms form part and in case of a living person includes harm, distress or annoyance to any of his senses or damage to his property",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hazardous waste",
+      "definition": "controlled waste which has the potential, even in low concentrations, to have significant adverse effect on public health or the environment on account of its inherent chemical and physical characteristics, such as toxic, ignitable, corrosive, carcinogenic or other properties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "household waste",
+      "definition": "waste from—\n( a ) any building used wholly for the purposes of living accommodation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "industrial waste",
+      "definition": "waste from any premises—\n( a ) used for the purposes of or in connection with the provision to the public of transport services by land, air or water",
+      "source_provision": "s2"
+    },
+    {
+      "term": "litter",
+      "definition": "any object or matter discarded or abandoned by the person in whose possession or control it was",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local authority",
+      "definition": "a city, town or district council or a land board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local waste management plan",
+      "definition": "the plan drawn up by a local authority under section 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "national waste management plan",
+      "definition": "the plan drawn up by the Director under section 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "principal litter authority",
+      "definition": "a local authority designated as such under section 37",
+      "source_provision": "s2"
+    },
+    {
+      "term": "recycling",
+      "definition": "the reclamation of waste, recovery of materials, reprocessing of wastes, resource recovery and re-use of waste",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reclamation of waste",
+      "definition": "the collection, sorting and upgrading of waste materials to a usable standard",
+      "source_provision": "s2"
+    },
+    {
+      "term": "recovery of materials",
+      "definition": "the recovery of materials from waste and their re-use for either the same purpose or for different purposes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reprocessing of waste",
+      "definition": "the physical, chemical or biological conversion of waste materials to generate other usable materials",
+      "source_provision": "s2"
+    },
+    {
+      "term": "resource recovery",
+      "definition": "the recovery of energy by means of—\n( a ) incineration of hazardous waste",
+      "source_provision": "s2"
+    },
+    {
+      "term": "treatment",
+      "definition": "subjecting waste to any process including resource recovery, re-use, reprocessing, reclaiming or recycling",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trans-boundary movement of waste",
+      "definition": "the importation and exportation of waste into or from Botswana or the transit of waste through Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste",
+      "definition": "the following substances and any combination thereof which are discarded by any person or are accumulated or stored by any person for the purpose of recycling—\n( a ) undesirable or superfluous by-products",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste carrier",
+      "definition": "a person registered and licensed under Part V to transport waste",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste disposal site",
+      "definition": "a site, registered under section 14, for the accumulation of waste to be disposed of or treated and includes a mobile or immobile waste treatment plant, waste storage or transfer facility or landfill site",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste management",
+      "definition": "the collection, deposit, interim storage, transfer, transport, treatment and final disposal of waste or controlled waste",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste management facility",
+      "definition": "a waste disposal site, licensed under section 16, for the purpose of controlled waste management",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste producer",
+      "definition": "a person who creates or produces controlled waste",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste recycling plan",
+      "definition": "a plan drawn up by a local authority under 0",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "bw-act-livestock-improvement",
+  "type": "statute",
+  "title": "Livestock Improvement",
+  "title_en": "Livestock Improvement",
+  "short_name": "Livestock Improvement",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/livestock-improvement",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Livestock Improvement Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"animal scientist\" means any person who holds a degree in animal agriculture;\n\"Association\" means the Stud Book Association established under section 26(1);\n\"Board\" means the Animal Production Advisory Board established under section 3;\n\"centre\" means a semen collection centre licensed in accordance with Regulations made under this Act;\n\"collection\" in relation to semen, means the obtaining of semen from a male animal for the purposes of breeding, but does not include such obtaining for any other purpose;\n\"Department\" means the Department of Animal Production;\n\"Director\" means the Director of the Department of Animal Production;\n\"embryo transferor\" means any person who collects, evaluates, processes, packs or stores ova or embryos, or who carries out the inovulation of animals;\n\"evaluation\" in relation to semen, means the examination of semen to assess its suitability for use in artificial insemination, but does not include such examination by a veterinary surgeon;\n\"inovulator\" means a person who collects or harvests egg cells from the donor animal for purposes of embryo transfer;\n\"inseminator\" means a person who carries out the insemination of animals;\n\"livestock breeders society\" means a group of persons promoting the breeding, improvement and use of animals and to whom a certificate of registration has been issued in terms of section 21(5);\n\"member\" means a member of the Animal Production Advisory Board;\n\"ovum\" means an egg cell of a female animal other than poultry;\n\"owner\" means—\n( a ) when used in relation to any premises, land or place—\n(i) the registered owner thereof when he is in actual occupation of that premises; or\n(ii) where the owner is not in actual occupation of the premises, any person who, whether as a lessee or licensee, or otherwise entitled, has, for the time being, the charge, control and management of such premises, land or place;\n( b ) when used in relation to any animal—\n(i) any person who is the sole or part owner of the animal;\n(ii) where the sole owner or part owner of the animal has not, for the time being, the control or custody of the animal, the person who has such control or custody of that animal;\n\"process\" in relation to semen, means to—\n( a ) dilute, except for the purpose of, or in the course of, the collection or evaluation of the semen;\n( b ) add any substance, except for the purpose of, or in the course of, the collection of semen, which is calculated to prolong the natural life of the semen;\n( c ) add any antibiotic for the purpose of promoting and safeguarding animal health;\n( d ) package into straws;\n( e ) freeze, except for the purpose of, or in the course of the evaluation of the semen; or\n( f ) quarantine for a period of 28 days following freezing under paragraph ( e ):\nProvided that processing shall not be complete until all the processes under paragraphs ( a ) to ( f ) have been carried out;\n\"quarantine\" means to hold in authorised isolation;\n\"Register\" means a register established and maintained under section 16;\n\"Registrar\" means the Registrar appointed in terms of section 15;\n\"semen collector\" means a person who collects, evaluates, processes or stores semen, and who carries out the artificial insemination of animals;\n\"transfer\" means the transfer of semen or embryo to a female recipient;\n\"veterinary surgeon\" has the meaning assigned to it under the Veterinary Surgeons Act (Cap. 61:04)."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Animal Production Advisory Board",
+      "section": "3",
+      "title": "Establishment of Animal Production Advisory Board",
+      "content": "3. Establishment of Animal Production Advisory Board\nThere is hereby established an advisory body to be known as the Animal Production Advisory Board, which shall be a body corporate with perpetual succession and a common seal, capable of suing and being sued and, subject to the provisions of this Act, of performing such acts as bodies corporate may, by law, perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Animal Production Advisory Board",
+      "section": "4",
+      "title": "Membership of Board",
+      "content": "4. Membership of Board\n(1) The Board consists of the following members appointed by the Minister, in writing—\n( a ) an animal scientist and a veterinary surgeon, both from the Department of Animal Production;\n( b ) two animal scientists, one appointed from the Department of Agricultural Research and the other from the Botswana College of Agriculture respectively;\n( c ) six other persons appointed by the Minister from among persons whose names have been submitted to the Registrar by each of the following bodies—\n(i) the Botswana Meat Commission,\n(ii) the Botswana Agricultural Union,\n(iii) the Botswana Veterinary Association,\n(vi) the Stud Book Association,\n(v) the Botswana Society of Animal Production,\n(vi) the Dairy Association,\n(vii) a representative from the Ministry responsible for the environment; or\n(viii) such other body which deals with the livestock industry, as the Minister may determine.\n(2) The Minister shall publish appointments to the Board by notice in the Gazette ."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Animal Production Advisory Board",
+      "section": "5",
+      "title": "Functions",
+      "content": "5. Functions\nThe Board shall advise the Minister on matters concerning—\n( a ) the development and improvement of the livestock industry;\n( b ) the development of farmed game;\n( c ) the provision of services in accordance with the needs of the livestock industry;\n( d ) the desirability of the establishment of a scheme for the evaluation and verification of the performance of animals with the object of improving the genetic production potential of those animals;\n( e ) the priorities in respect of research, and the co-ordinated utilisation of research facilities, in connection with the livestock industry;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "animal scientist",
+      "definition": "any person who holds a degree in animal agriculture",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Association",
+      "definition": "the Stud Book Association established under section 26(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Animal Production Advisory Board established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "centre",
+      "definition": "a semen collection centre licensed in accordance with Regulations made under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Department",
+      "definition": "the Department of Animal Production",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the Director of the Department of Animal Production",
+      "source_provision": "s2"
+    },
+    {
+      "term": "embryo transferor",
+      "definition": "any person who collects, evaluates, processes, packs or stores ova or embryos, or who carries out the inovulation of animals",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inovulator",
+      "definition": "a person who collects or harvests egg cells from the donor animal for purposes of embryo transfer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inseminator",
+      "definition": "a person who carries out the insemination of animals",
+      "source_provision": "s2"
+    },
+    {
+      "term": "livestock breeders society",
+      "definition": "a group of persons promoting the breeding, improvement and use of animals and to whom a certificate of registration has been issued in terms of section 21(5)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Animal Production Advisory Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ovum",
+      "definition": "an egg cell of a female animal other than poultry",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quarantine",
+      "definition": "to hold in authorised isolation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Register",
+      "definition": "a register established and maintained under section 16",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar appointed in terms of section 15",
+      "source_provision": "s2"
+    },
+    {
+      "term": "semen collector",
+      "definition": "a person who collects, evaluates, processes or stores semen, and who carries out the artificial insemination of animals",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transfer",
+      "definition": "the transfer of semen or embryo to a female recipient",
+      "source_provision": "s2"
+    },
+    {
+      "term": "veterinary surgeon",
+      "definition": "assigned to it under the Veterinary Surgeons Act (Cap. 61:04).",
+      "source_provision": "s2"
+    }
+  ]
+}

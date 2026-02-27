@@ -1,0 +1,79 @@
+{
+  "id": "bw-sub-electronic-records-evidence-act-subsidiary-legislation",
+  "type": "statute",
+  "title": "Electronic Records (evidence) Act: Subsidiary Legislation",
+  "title_en": "Electronic Records (evidence) Act: Subsidiary Legislation",
+  "short_name": "Electronic Records (evidenc...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/electronic-records-evidence-act-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Electronic Records (Evidence) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise provides—\n\"certifying authority\" means the Communications Regulatory Authority established under section 3 of the Communications Regulatory Authority Act (Cap. 72:03); and\n\"compliance criteria\" means the criteria set out in Schedule 2 which is applied to a process for the purpose of certification."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application for certification",
+      "content": "3. Application for certification\nA person who wishes to operate or manage an approved process shall make an application to the certifying authority in Form A set out in Schedule 1, accompanied by—\n( a ) an application fee of P5 000; and\n( b ) such other information as may be required by the certifying authority."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Compliance criteria",
+      "content": "4. Compliance criteria\nThe certifying authority shall before certifying a process or any part thereof as an approved process or management of the process satisfy itself that the process is in compliance with the compliance criteria set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Issuance of certificate",
+      "content": "5. Issuance of certificate\n(1) The certifying authority shall issue a certificate as set out in Schedule 2, if it is satisfied that a process or management of the process meets the compliance criteria.\n(2) If a process or any part of the process does not meet all the requirements of the compliance criteria, the certifying authority may—\n( a ) issue a qualified certificate in accordance with the conditions specified in Schedule 2; or\n( b ) refuse to certify the process."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Revocation, suspension or cancellation",
+      "content": "6. Revocation, suspension or cancellation\nThe certifying authority may revoke, cancel or suspend a certificate issued under regulation 5 where it is of the view that the information provided for approval of a process or management of the process does not comply with the compliance criteria set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Representation",
+      "content": "7. Representation\nThe certifying authority may obtain a written statement from any person who has provided information in the certification process, that—\n( a ) the person has not provided information which he or she knows or is reasonably expected to know to be false or does not reasonably believe to be true; or\n( b ) the person has not knowingly withheld information which he or she is reasonably expected to know is relevant to the certification process."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Exemptions",
+      "content": "8. Exemptions\nWhere an electronic document produced by an applicant originates from an independent party over which the applicant has no control, it shall be sufficient for a certifying authority to certify the process of the applicant to receive, store and present the electronic document."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Civil penalty",
+      "content": "9. Civil penalty\nA person who makes a false representation in the certification process shall be liable to a civil penalty not exceeding P5 000, as the certifying authority may impose."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "certifying authority",
+      "definition": "the Communications Regulatory Authority established under section 3 of the Communications Regulatory Authority Act (Cap. 72:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "compliance criteria",
+      "definition": "the criteria set out in Schedule 2 which is applied to a process for the purpose of certification.",
+      "source_provision": "s2"
+    }
+  ]
+}

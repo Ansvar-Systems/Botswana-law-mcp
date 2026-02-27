@@ -1,0 +1,88 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-kanye-water-fees-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Kanye (water Fees) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Kanye (water Fees) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-kanye-water-fees-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Kanye (Water Fees) Bye-laws*.\n*Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application",
+      "content": "2. Application\nThese Bye-laws shall apply to the villages of Kanye, Moshupa, Mabutsane, Mmathethe, Moshaneng and Good Hope."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "3. Interpretation\nIn these bye-laws, unless the context otherwise requires\n\"business\" means an undertaking carried on for profit or reward from fixed premises within the villages where these Bye-laws apply, and where such an undertaking is carried on for more than one set of premises the undertaking as carried on in each such set shall be deemed to be a separate business;\n\"collector\" means a collector or assistant collector appointed by the Council to collect any tax on behalf of the Council;\n\"consumer\" means a person entitled by virtue of payments made in accordance with bye-law 4, to draw water from public taps provided by the Council;\n\"Council\" means the Southern District Council;\n\"head\" , in relation to a lolwapa, means the senior male person over the age of 21 years residing in such lolwapa or, if no such person resides therein, the senior female person over the age of 21 years residing therein;\n\"livestock\" means cattle, goats, sheep, horses, donkeys and mules;\n\"lolwapa\" means a customary residential precinct.\n\"private tap\" means a water drawing point located within the confines of a lolwapa or any private property;\n\"public tap\" means a water drawing point located in a public place and available for public use;\n\"village of Kanye\" means the area described in the First Schedule;\n\"village of Moshupa\" means the area defined in the Fifth Schedule;\n\"villages of Mabutsane, Mmathethe, Moshaneng and Good Hope\" means the area within one kilometre of any public stand-pipe in these villages;\n\"Water Authority\" means the authority appointed for the villages of Kanye and Moshupa under section 4 of the Waterworks Act (Cap. 34:03)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "business",
+      "definition": "an undertaking carried on for profit or reward from fixed premises within the villages where these Bye-laws apply, and where such an undertaking is carried on for more than one set of premises the undertaking as carried on in each such set shall be deemed to be a separate business",
+      "source_provision": "s3"
+    },
+    {
+      "term": "collector",
+      "definition": "a collector or assistant collector appointed by the Council to collect any tax on behalf of the Council",
+      "source_provision": "s3"
+    },
+    {
+      "term": "consumer",
+      "definition": "a person entitled by virtue of payments made in accordance with bye-law 4, to draw water from public taps provided by the Council",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Council",
+      "definition": "the Southern District Council",
+      "source_provision": "s3"
+    },
+    {
+      "term": "livestock",
+      "definition": "cattle, goats, sheep, horses, donkeys and mules",
+      "source_provision": "s3"
+    },
+    {
+      "term": "lolwapa",
+      "definition": "a customary residential precinct.\n\"private tap\" means a water drawing point located within the confines of a lolwapa or any private property",
+      "source_provision": "s3"
+    },
+    {
+      "term": "public tap",
+      "definition": "a water drawing point located in a public place and available for public use",
+      "source_provision": "s3"
+    },
+    {
+      "term": "village of Kanye",
+      "definition": "the area described in the First Schedule",
+      "source_provision": "s3"
+    },
+    {
+      "term": "village of Moshupa",
+      "definition": "the area defined in the Fifth Schedule",
+      "source_provision": "s3"
+    },
+    {
+      "term": "villages of Mabutsane, Mmathethe, Moshaneng and Good Hope",
+      "definition": "the area within one kilometre of any public stand-pipe in these villages",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Water Authority",
+      "definition": "the authority appointed for the villages of Kanye and Moshupa under section 4 of the Waterworks Act (Cap. 34:03).",
+      "source_provision": "s3"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "bw-act-botswana-postal-services",
+  "type": "statute",
+  "title": "Botswana Postal Services",
+  "title_en": "Botswana Postal Services",
+  "short_name": "Botswana Postal Services",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-postal-services",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Postal Services Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"financial year\" means the year ending on 31st March in each year;\n\"franking machine\" ...;\n[ 16 of 2012, s. 2. ]\n\"money order\" ...;\n[ 16 of 2012, s. 2. ]\n\"postage stamp\" or \"stamp\" ...;\n[ 16 of 2012, s. 2. ]\n\"postal article\" ...;\n[ 16 of 2012, s. 2. ]\n\"postal order\" ...;\n[ 16 of 2012, s. 2. ]\n\"postal service\" means a service performed and facilities provided in connection with—\n( a ) the collection, transmission and delivery of postal articles by whatever means of transportation from one place to another whether within or outside Botswana;\n( b ) the issue of postage stamps and the use of franking machines; and\n( c ) the issue or repayment of money orders or postal orders for the remittance of money through the Botswana Postal Services; and\n\"senior officer\" means any employee of the Botswana Postal Services who holds a position which is so designated by the Board."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment of Botswana Postal Services and Board of Management",
+      "section": "3",
+      "title": "Establishment of Botswana Postal Services",
+      "content": "3. Establishment of Botswana Postal Services\nThere is hereby established Botswana Postal Services (referred to in this Act as \"the Post\"), as a body corporate with full capacity to sue or be sued in its own name, and to do all such things as bodies corporate may, by law, do and as may be necessary or incidental to the exercise of its powers and the performance of its functions under this Act.\n[ 16 of 2012, s. 3. ]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment of Botswana Postal Services and Board of Management",
+      "section": "4",
+      "title": "Establishment of Board",
+      "content": "4. Establishment of Board\n(1) There is hereby established a Board of Management of the Botswana Postal Services (hereinafter referred to as the Board) which shall have such powers in relation to the overall management and control of the Post as may be specified in this Act.\n(2) The Board shall consist of the following members appointed by the Minister—\n( a ) the Chairman;\n( b ) the Director General of the Botswana Postal Services appointed under section 10 who shall be an ex-officio member; and\n( c ) not less than 5 nor more than 7 other persons who in the opinion of the Minister have knowledge and experience likely to contribute to the successful management of the Post.\n(3) A person shall not be competent to be appointed or to act as a member of the Board if he—\n( a ) is a member of the National Assembly;\n( b ) is an employee of the Post;\n( c ) has been declared insolvent or bankrupt under any law in any country and has not been discharged, or made a composition with his creditors and has not paid his debts in full."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment of Botswana Postal Services and Board of Management",
+      "section": "5",
+      "title": "Resignation and removal from office",
+      "content": "5. Resignation and removal from office\n(1) Any member of the Board, other than the Director General, may resign his membership of the Board by notice in writing to the Minister.\n(2) A member of the Board may be removed from membership thereof by the Minister if—\n( a ) any circumstances arise, which, if he were not a member, would cause him to be disqualified for appointment as a member of the Board under section 4(2);\n( b ) he becomes of unsound mind;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "financial year",
+      "definition": "the year ending on 31st March in each year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "postal service",
+      "definition": "a service performed and facilities provided in connection with—\n( a ) the collection, transmission and delivery of postal articles by whatever means of transportation from one place to another whether within or outside Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "senior officer",
+      "definition": "any employee of the Botswana Postal Services who holds a position which is so designated by the Board.",
+      "source_provision": "s2"
+    }
+  ]
+}

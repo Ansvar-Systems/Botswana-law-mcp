@@ -1,0 +1,94 @@
+{
+  "id": "bw-act-whistleblowing",
+  "type": "statute",
+  "title": "Whistleblowing",
+  "title_en": "Whistleblowing",
+  "short_name": "Whistleblowing",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/whistleblowing",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Whistleblowing Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Auditor General\" means a public officer whose office is created under section 124 of the Constitution;\n\"authorised person\" means a person authorised under section 8 to receive a disclosure of impropriety;\n\"Botswana Defence Force\" means the Botswana Defence Force established under the Botswana Defence Force Act (Cap. 21:05);\n\"Botswana Police Service\" means the Botswana Police Service established under the Police Act (Cap. 21:01);\n\"Botswana Prisons Services\" means Botswana Prisons Services established under the Prisons Act (Cap. 21:03);\n\"Botswana Unified Revenue Service\" means the Botswana Unified Revenue Service established under the Botswana Unified Revenue Service Act (Cap. 53:03);\n\"Competition Authority\" means the Competition Authority established under the Competition Authority Act (Cap. 46:09);\n\"Directorate of Intelligence and Security\" means the Directorate of Intelligence and Security established under the Intelligence and Security Service Act (Cap. 23:02);\n\"Directorate on Corruption and Economic Crime\" means the Directorate on Corruption and Economic Crime established under the Corruption and Economic Crime Act (Cap. 08:05);\n\"disclosure of impropriety\" means any declaration of information made by a whistleblower with regard to the conduct of one or more persons where the whistleblower has reason to believe that the information given shows or tends to show an impropriety;\n\"employee\" means any person who has entered into a contract of employment for the hire of his or her labour in terms of the Public Service Act (Cap. 26:01), Employment Act (Cap. 47:01), Botswana Defence Force Act (Cap. 21:05), Police Act (Cap. 21:01) or Prisons Act (Cap. 21:03), and includes—\n( a ) any person who provides a service for reward to a public body; and\n( b ) an employee of a person providing services to a public body;\n\"Financial Intelligence Agency\" means the Financial Intelligence Agency established under the Financial Intelligence Act (Cap. 08:07);\n\"impropriety\" means conduct which falls within any of the matters specified in section 3;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Auditor General",
+      "definition": "a public officer whose office is created under section 124 of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised person",
+      "definition": "a person authorised under section 8 to receive a disclosure of impropriety",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Botswana Defence Force",
+      "definition": "the Botswana Defence Force established under the Botswana Defence Force Act (Cap. 21:05)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Botswana Police Service",
+      "definition": "the Botswana Police Service established under the Police Act (Cap. 21:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Botswana Prisons Services",
+      "definition": "Botswana Prisons Services established under the Prisons Act (Cap. 21:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Botswana Unified Revenue Service",
+      "definition": "the Botswana Unified Revenue Service established under the Botswana Unified Revenue Service Act (Cap. 53:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Competition Authority",
+      "definition": "the Competition Authority established under the Competition Authority Act (Cap. 46:09)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Directorate of Intelligence and Security",
+      "definition": "the Directorate of Intelligence and Security established under the Intelligence and Security Service Act (Cap. 23:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Directorate on Corruption and Economic Crime",
+      "definition": "the Directorate on Corruption and Economic Crime established under the Corruption and Economic Crime Act (Cap. 08:05)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "disclosure of impropriety",
+      "definition": "any declaration of information made by a whistleblower with regard to the conduct of one or more persons where the whistleblower has reason to believe that the information given shows or tends to show an impropriety",
+      "source_provision": "s2"
+    },
+    {
+      "term": "employee",
+      "definition": "any person who has entered into a contract of employment for the hire of his or her labour in terms of the Public Service Act (Cap. 26:01), Employment Act (Cap. 47:01), Botswana Defence Force Act (Cap. 21:05), Police Act (Cap. 21:01) or Prisons Act (Cap. 21:03), and includes—\n( a ) any person who provides a service for reward to a public body",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Financial Intelligence Agency",
+      "definition": "the Financial Intelligence Agency established under the Financial Intelligence Act (Cap. 08:07)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "impropriety",
+      "definition": "conduct which falls within any of the matters specified in section 3",
+      "source_provision": "s2"
+    }
+  ]
+}

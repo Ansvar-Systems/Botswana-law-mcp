@@ -1,0 +1,56 @@
+{
+  "id": "bw-act-marriage",
+  "type": "statute",
+  "title": "Marriage",
+  "title_en": "Marriage",
+  "short_name": "Marriage",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/marriage",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Civil Marriages",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Marriage Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Civil Marriages",
+      "section": "2",
+      "title": "Application",
+      "content": "2. Application\nThis Part shall apply to all marriages solemnised in Botswana except marriages contracted in accordance with any customary law of Botswana or Muslim, Hindu or other religious rites."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Civil Marriages",
+      "section": "3",
+      "title": "Preliminaries of marriage",
+      "content": "3. Preliminaries of marriage\nNo marriage shall be valid unless within a period of not more than three months previous to its solemnisation banns have been published under section 4 or a special licence has been obtained under section 5."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Civil Marriages",
+      "section": "4",
+      "title": "Publications of banns",
+      "content": "4. Publications of banns\nBanns may be published either—\n( a ) in public in the ordinary manner in three successive weeks during divine service in a church or other building habitually used for public worship by a congregation to which one or both of the parties to the intended marriage belong and in a district in which one or both of such parties reside; or\n( b ) by posting them up for a period covering three successive weeks in a conspicuous place to which the public have access at the office of an administrative officer in the district in which one or both of the parties to the intended marriage reside."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART I Civil Marriages",
+      "section": "5",
+      "title": "Special licence",
+      "content": "5. Special licence\nParties desiring to obtain a special licence shall appear before an administrative officer who, on being satisfied if necessary by evidence under oath or by affidavit that there is no legal impediment to the marriage of such parties, shall on payment of the prescribed fee issue a special licence entitling such persons to be married without publication of banns."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART I Civil Marriages",
+      "section": "6",
+      "title": "Protection of minors",
+      "content": "6. Protection of minors\n(1) Unless the Minister in any case otherwise directs, no banns shall be published under section 4 and no special licence shall be issued under section 5—\n( a ) with respect to or for the marriage of any widower or widow having minor children of a former marriage, or any children, whether minor or otherwise, of a marriage under any system of customary law, unless such person produces a certificate signed by the Master of the High Court, by an administrative officer (other than a cadet) or by a magistrate to the effect that he is satisfied that the inheritances or other properties which have devolved upon such children have been adequately secured;\n( b ) with respect to or for the marriage of any other person having minor children of a former marriage under any system of customary law, unless a certificate is produced signed by an administrative officer (other than a cadet) or by a magistrate to the effect that he is satisfied that adequate provision has been made to safeguard the maintenance of such children."
+    }
+  ],
+  "definitions": []
+}

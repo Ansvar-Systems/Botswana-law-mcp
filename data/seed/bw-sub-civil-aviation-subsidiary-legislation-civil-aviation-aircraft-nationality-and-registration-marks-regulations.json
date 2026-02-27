@@ -1,0 +1,147 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-aircraft-nationality-and-registration-marks-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (aircraft Nationality and Registration Marks) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (aircraft Nationality and Registration Marks) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-aircraft-nationality-and-registration-marks-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Aircraft Nationality and Registration Marks) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"aircraft\" means any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface;\n\"airship\" means a power-driven lighter-than-air aircraft;\n\"balloon\" means a non-power-driven lighter-than-air aircraft;\n\"certificate of de-registration\" means a certificate issued under regulation 12(2);\n\"certificate of registration\" means a certificate issued under regulation 8;\n\"common mark\" means a mark assigned by the International Civil Aviation Organisation to the common mark registering authority registering aircraft of an international operating agency on other than a national basis;\n\"fireproof material\" means any material capable of withstanding heat as well as or better than steel when the dimensions in both cases are appropriate for the specific purpose;\n\"heavier-than-air aircraft\" means any aircraft which derives its lift in flight chiefly from aerodynamic forces;\n\"helicopter\" means a heavier-than-air aircraft supported in flight chiefly by the reactions of the air on one or more power-driven rotors on substantially vertical axis;\n\"international operating agency\" means an agency of the kind contemplated in Article 77 of the Convention;\n\"kite\" means a tethered aircraft;\n\"lighter-than-air aircraft\" means any aircraft supported chiefly by its buoyancy in the air;\n\"nationality mark\" means a mark assigned to an aircraft under regulation 14;\n\"ornithopter\" means a heavier-than-air aircraft supported in flight chiefly by the reactions of the air on planes to which flapping motion is imported;\n\"power-chute\" means a powered parachute;\n\"registration mark\" means a mark assigned to an aircraft under regulation 14;\n\"remotely piloted aircraft\" means an unmanned aircraft which is piloted from a remote pilot station; and\n\"State of Registry\" means the State on whose register the aircraft is entered."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Aircraft Registration (regs 3-16)",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\n(1) These Regulations shall apply to all aircraft registered in Botswana and all other aircraft whilst in or over Botswana.\n(2) Except as otherwise expressly provided, these Regulations shall not apply to meteorological pilot balloons used exclusively for meteorological purposes or unmanned free balloons without a payload."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Aircraft Registration (regs 3-16)",
+      "section": "4",
+      "title": "Classification of aircraft",
+      "content": "4. Classification of aircraft\n(1) An Aircraft shall be classified in accordance with Figure A set out in Schedule 1 of these Regulations.\n(2) An aircraft which is intended to be operated with no pilot on board shall be further classified as unmanned.\n(3) In these Regulations, \"unmanned aircraft\" includes unmanned free balloons and remotely piloted aircraft."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Aircraft Registration (regs 3-16)",
+      "section": "5",
+      "title": "Aircraft to be registered",
+      "content": "5. Aircraft to be registered\n(1) Subject to subregulations (2) and (3), an aircraft shall not fly in or over Botswana unless—\n( a ) it is registered in Botswana under regulation 6;\n( b ) it is registered in a contracting State to the Chicago Convention; or\n( c ) it is registered in some other State in relation to which there is in force an agreement between the Government of Botswana and the Government of that State which makes provision for the flight over Botswana of aircraft registered in that State.\n(2) A prototype aircraft may fly unregistered for purposes of conducting experimental flight trials within designated flying space in Botswana without passing over any other State; and in accordance with the conditions of a permit to fly issued by the Authority.\n(3) Subregulation (1) shall not apply to any kite, captive balloon or a power-chute.\n(4) If an aircraft flies over Botswana in contravention of subregulation (1) in such manner or circumstances that if the aircraft had been registered in Botswana an offence against these Regulations would have been committed, a similar offence shall be deemed to have been committed in respect of that aircraft."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Aircraft Registration (regs 3-16)",
+      "section": "6",
+      "title": "Requirements for registration of aircraft",
+      "content": "6. Requirements for registration of aircraft\n(1) Subject to this regulation, an aircraft shall not be registered or continue to be registered in Botswana if it appears to the Authority that—\n( a ) the aircraft is registered outside Botswana and that such registration does not cease by operation of law upon the aircraft being registered in Botswana;\n( b ) an unqualified person holds any legal or beneficial interest by way of ownership or to any share in the aircraft;\n( c ) the aircraft could more suitably be registered in some other State;\n( d ) it would be inexpedient in the public interest for the aircraft to be or to continue to be registered in Botswana; or\n( e ) the applicant or any person who holds any legal or beneficial interest by way of ownership or to any share in the aircraft has previously been convicted of an offence under regulation 21 within five years prior to the submission of the application.\n(2) Subject to subregulation (3), an aircraft shall be eligible for registration if it is owned by a citizen of Botswana, a citizen of a foreign State who is lawfully resident in Botswana, a corporation lawfully incorporated and doing business under the laws of Botswana or a government entity of Botswana.\n(3) An aircraft shall not be eligible for registration if it is more than 22 years old and its Maximum All Up Weight (MAUW) is above 23 000 kg at the time of applying for registration.\n(4) The following persons are qualified to hold a legal or beneficial interest by way of ownership or to any share in an aircraft registered in Botswana—\n( a ) the Government;\n( b ) Botswana citizens or persons lawfully resident in Botswana; and"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aircraft",
+      "definition": "any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface",
+      "source_provision": "s2"
+    },
+    {
+      "term": "airship",
+      "definition": "a power-driven lighter-than-air aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "balloon",
+      "definition": "a non-power-driven lighter-than-air aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate of de-registration",
+      "definition": "a certificate issued under regulation 12(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate of registration",
+      "definition": "a certificate issued under regulation 8",
+      "source_provision": "s2"
+    },
+    {
+      "term": "common mark",
+      "definition": "a mark assigned by the International Civil Aviation Organisation to the common mark registering authority registering aircraft of an international operating agency on other than a national basis",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fireproof material",
+      "definition": "any material capable of withstanding heat as well as or better than steel when the dimensions in both cases are appropriate for the specific purpose",
+      "source_provision": "s2"
+    },
+    {
+      "term": "heavier-than-air aircraft",
+      "definition": "any aircraft which derives its lift in flight chiefly from aerodynamic forces",
+      "source_provision": "s2"
+    },
+    {
+      "term": "helicopter",
+      "definition": "a heavier-than-air aircraft supported in flight chiefly by the reactions of the air on one or more power-driven rotors on substantially vertical axis",
+      "source_provision": "s2"
+    },
+    {
+      "term": "international operating agency",
+      "definition": "an agency of the kind contemplated in Article 77 of the Convention",
+      "source_provision": "s2"
+    },
+    {
+      "term": "kite",
+      "definition": "a tethered aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "lighter-than-air aircraft",
+      "definition": "any aircraft supported chiefly by its buoyancy in the air",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nationality mark",
+      "definition": "a mark assigned to an aircraft under regulation 14",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ornithopter",
+      "definition": "a heavier-than-air aircraft supported in flight chiefly by the reactions of the air on planes to which flapping motion is imported",
+      "source_provision": "s2"
+    },
+    {
+      "term": "power-chute",
+      "definition": "a powered parachute",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registration mark",
+      "definition": "a mark assigned to an aircraft under regulation 14",
+      "source_provision": "s2"
+    },
+    {
+      "term": "remotely piloted aircraft",
+      "definition": "an unmanned aircraft which is piloted from a remote pilot station",
+      "source_provision": "s2"
+    },
+    {
+      "term": "State of Registry",
+      "definition": "the State on whose register the aircraft is entered.",
+      "source_provision": "s2"
+    }
+  ]
+}

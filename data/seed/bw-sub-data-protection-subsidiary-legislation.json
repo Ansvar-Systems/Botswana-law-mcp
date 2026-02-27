@@ -1,0 +1,26 @@
+{
+  "id": "bw-sub-data-protection-subsidiary-legislation",
+  "type": "statute",
+  "title": "Data Protection: Subsidiary Legislation",
+  "title_en": "Data Protection: Subsidiary Legislation",
+  "short_name": "Data Protection: Subsidiary...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/data-protection-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Data Protection (Oath of Secrecy) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Form of oath",
+      "content": "2. Form of oath\nThe Commissioner, the Deputy Commissioner and any other officer of the Commission shall, before performing any duties under the Act, make and subscribe to the oath of secrecy set out in the Schedule hereto, in the case of the Commissioner and Deputy Commissioner, before the Minister and in the case of any other officer before the Commissioner."
+    }
+  ],
+  "definitions": []
+}

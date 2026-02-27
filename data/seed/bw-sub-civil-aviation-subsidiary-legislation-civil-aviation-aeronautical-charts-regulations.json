@@ -1,0 +1,582 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-aeronautical-charts-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (aeronautical Charts) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (aeronautical Charts) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-aeronautical-charts-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-5)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Aeronautical Charts) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-5)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"aerodrome elevation\" means the elevation of the highest point of the landing;\n\"aerodrome operating minima\" means the limits of usability of an aerodrome for—\n( a ) take-off, expressed in terms of runway visual range or visibility and, if necessary, cloud conditions;\n( b ) landing in precision approach and landing operations, expressed in terms of visibility or runway visual range and decision altitude or height as appropriate to the category of the operation;\n( c ) landing in approach and landing operations with vertical guidance, expressed in terms of visibility or runway visual range and decision altitude or height; and\n( d ) landing in non-precision approach and landing operations, expressed in terms of visibility and/or runway visual range, minimum descent altitude or height and, if necessary, cloud conditions;\n\"aerodrome reference point\" means the designated geographical location of an aerodrome;\n\"aeronautical chart\" means a representation of a portion of the earth, its culture and relief, specifically designated to meet the requirements of air navigation;\n\"aeronautical data (integrity classification)\" means classification based upon the potential risk resulting from the use of corrupted data.\nAeronautical data is classified as—\n( a ) routine data – there is a very low probability when using corrupted routine data that the continued safe flight and landing of an aircraft would be severely at risk with the potential for catastrophe;\n( b ) essential data – there is a low probability when using corrupted essential data that the continued safe flight and landing of an aircraft would be severely at risk with the potential for catastrophe;\n( c ) critical data – there is a high probability when using corrupted critical data that the continued safe flight and landing of an aircraft would be severely at risk with the potential for catastrophe;\n\"aircraft stand\" means a designated on an apron intended to be used for parking an aircraft;\n\"air defence identification zone\" means a special designated airspace of defined dimensions within which aircraft are required to comply with special identification or reporting procedures additional to those related to the provision of air traffic services;\n\"air traffic service\" means a flight information service, alerting service, air traffic advisory service, or air traffic control services;\n\"air transit route\" means a defined route for the air transiting of helicopters;\n\"airway\" means a control or portion thereof established in the form of a corridor;\n\"altitude\" means the vertical distance of a level, a point or an object considered as a point, measured from mean sea level;\n\"application\" means manipulation and processing of data in support of user requirements (ISO 19104*);\n\"apron\" means a defined , on a land aerodrome, intended to accommodate aircraft for purposes of loading or unloading passengers, mail or cargo, fuelling, parking or maintenance;\n\"area minimum altitude (AMA)\" means the minimum altitude to be used under instrument meteorological conditions, which provides a minimum obstacle clearance within a specified, normally formed by parallels and meridians;\n\"area navigation (RNAV)\" means a method of navigation which permits aircraft operation on any desired flight path within the coverage of ground-or space-based navigation aids or within the limits of the capability of self-contained aids, or a combination of these;\n\"arrival routes\" means routes identified in an instrument approach procedure by which an aircraft may proceed from the en route phase of flight to an initial approach fix;\n\"air traffic services route\" means a specified route designed for channelling the flow of traffic as necessary for the provision of air traffic services;\n\"air traffic services surveillance system\" means any ground-based system that enables the identification of aircraft, including Automatic Dependent Surveillance – Broadcast, (ADS-B), Primary Surveillance Radar, (PSR), Secondary Surveillance Radar (SSR);\n\"bare earth\" means surface of the earth including bodies of water and permanent ice and snow, and excluding vegetation and man-made objects;\n\"calendar\" means discrete temporal reference system that provides the basis for defining temporal position to a resolution of one day (ISO 19108*);\n\"clearway\" means a defined rectangular on the ground or water under the control of the appropriate authority selected or prepared as a suitable over which an aeroplane may make a portion of its initial climb to a specified height;\n\"conformal projection\" means a map projection in which a small is rendered in its true shape;\n\"contour line\" means a line on a map or chart connecting points of equal elevation;\n\"culture\" means all man-made features constructed on the surface of the earth, such as cities, railways and canals;\n\"danger \" means an airspace of defined dimensions within which activities dangerous to the flight of aircraft may exist at specified times;\n\"data product specification\" means detailed description of a data set or data set series together with additional information that will enable it to be created, supplied to and used by another party (ISO 19131*);\n\"data quality\" means a degree or level of confidence that the data provided meets the requirements of the data user in terms of accuracy, resolution and integrity (or equivalent assurance level), traceability, timeliness, completeness and format;\n\"data set\" means identifiable collection of data (ISO 19101*);\n\"data set series\" means collection of data sets sharing the same product specification (ISO 19115*);\n\"datum\" means any quantity or set of quantities that may serve as a reference or basis for the calculation of other quantities (ISO 19104*);\n\"Digital Elevation Model (DEM)\" means the representation of terrain surface by continuous elevation values at all intersections of a defined grid, referenced to common datum;\n\"displaced threshold\" means a threshold not located at the extremity of a runway;\n\"electronic aeronautical chart display\" means an electronic device by which flight crews are enabled to execute, in a convenient and timely manner, route planning, route monitoring and navigation by displaying required information;\n\"elevation\" means the vertical distance of a point or a level, on or affixed to the surface of the earth, measured from mean sea level;\n\"feature\" means abstraction of real world phenomena (ISO 19101*);\n\"feature attribute\" means characteristic of a feature (ISO 19101*);\n\"final approach\" means that part of an instrument approach procedure which commences at the specified final approach fix or point, or where such a fix or point is not specified—\n( a ) at the end of the last procedure turn, base turn or inbound turn of a racetrack procedure, if specified; or\n( b ) at the point of interception of the last track specified in the approach procedure; and\n( c ) ends at a point in the vicinity of an aerodrome from which—\n(i) a landing can be made, or\n(ii) a missed approach procedure is initiated;\n\"final approach and take-off (FATO)\" means a defined over which the final phase of the approach manoeuvre to hover or landing is completed and from which the take-off manoeuvre is commenced:\nProvided that where the final approach and take-off is to be used by performance Class 1 helicopters, the defined includes the rejected take-off available;\n\"final approach fix or point\" means that fix or point of an instrument approach procedure where the final approach segment commences;\n\"final approach segment\" means that segment of an instrument approach procedure in which alignment and descent for landing are accomplished;\n\"flight information region\" means an airspace of defined dimensions within which flight information service and alerting service are provided;\n\"flight level\" means a surface of constant atmospheric pressure which is related to a specific pressure datum, 1 013.2 hectopascals (hPa), and is separated from other such surfaces by specific pressure intervals;\n\"geodesic distance\" means the shortest distance between any two points on a mathematically defined ellipsoidal surface;\n\"geoid\" means the equipotential surface in the gravity field of the earth which coincides with the undisturbed mean sea level extended continuously through the continents;\n\"geoid undulation\" means the distance of the geoid above (positive) or below (negative) the mathematical reference ellipsoid;\n\"glide path\" means a descent profile determined for vertical guidance during a final approach;\n\"Gregorian calendar\" means calendar in general use; first introduced in 1582 to define a year that more closely approximates the tropical year than the Julian calendar (ISO 19108*);\n\"height\" means the vertical distance of a level, point or an object considered as a point, measured from a specific datum;\n\"helicopter stand\" means an aircraft stand which provides for parking a helicopter and where ground taxi operations are completed or where the helicopter touches down and lifts off for air taxi operations;\n\"heliport\" means an aerodrome or a defined on a structure intended to be used wholly or in part for the arrival, departure and surface movement of helicopters;\n\"heliport reference point (HRP)\" means the designated location of a heliport or a landing location;\n\"holding procedure\" means a predetermined manoeuvre which keeps an aircraft within a specified airspace while awaiting further clearance;\n\"hot spot\" means a location on an aerodrome movement with a history or potential risk of collision or runway incursion, and where heightened attention by pilots or drivers is necessary;\n\"human factors principles\" means principles which apply to aeronautical design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance;\n\"hypsometric tints\" means a succession of shades or colour gradations used to depict ranges of elevation;\n\"instrument approach procedure\" means a series of predetermined manoeuvres by reference to flight instruments with specified protection from obstacles from the initial approach fix, or where applicable, from the beginning of a defined arrival route to a point from which a landing can be completed and thereafter, if a landing is not completed, to a position at which holding or en route obstacle clearance criteria apply and is classified as follows—\n( a ) non-precision approach procedure (NPA) – an IAP which utilises lateral guidance but does not utilise vertical guidance;\n( b ) approach procedure with vertical guidance (APV) – an IAP which uses lateral and vertical guidance but does not meet the requirements established for precision approach and landing operations;\n( c ) precision approach (PA) procedure – an IAP using precision lateral and vertical guidance with minima as determined by the category of operation;\n\"intermediate holding position\" means a designated position intended for traffic control at which taxiing aircraft and vehicles shall stop and hold until further cleared to proceed, when so instructed by the aerodrome control tower;\n\"isogonal\" means a line on a map or chart on which all points have the same Magnetic variation for a specified epoch;\n\"lambert conformal conic projection\" means a conformal conic map projection with straight-line meridians that meet at a common centre beyond the limits of the map and with parallels of which two are standard that are arcs of circles intersecting the meridians at right angles;\n\"landing \" means that part of a movement intended for the landing or take-off of aircraft;\n\"level\" means, in relation to the vertical position of an aircraft in flight, height, altitude or flight level;\n\"logon address\" means a specified code used for data link logon to an air traffic services unit;\n\"Magnetic variation\" means the angular difference between True North and Magnetic North;\n\"manoeuvring\" means that p"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary (regs 1-5)",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Regulations shall apply to any person providing an aeronautical cartographic service within designated airspaces and at aerodromes for civil aviation purposes in Botswana."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary (regs 1-5)",
+      "section": "4",
+      "title": "Requirement for provision of cartographic service",
+      "content": "4. Requirement for provision of cartographic service\n(1) A person shall not provide an aeronautical cartographic service unless such person has been approved by the Authority, according to the Civil Aviation (Certification of Air Navigation Services Providers) Regulations (Cap. 71:01 (Sub. Leg.)).\n(2) A person providing aeronautical cartographic services shall develop and avail charts to the Rescue Co-ordinator in the search and rescue region as prescribed by the Authority."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART I Preliminary (regs 1-5)",
+      "section": "5",
+      "title": "Availability of charts",
+      "content": "5. Availability of charts\nThe Authority shall—\n( a ) on request by another Contracting State, provide information relating to its own territory that is necessary to enable the requirements of these Regulations to be met;\n( b ) ensure the availability of charts in whichever of the following ways is appropriate for a particular chart or single sheet of a chart series—\n(i) produce the chart or sheet itself,\n(ii) arrange for the production of the chart or sheet by another State or by an agency, or\n(iii) provide another State prepared to accept an obligation to produce the chart or sheet with the data necessary for its production;\n( c ) for any chart or single sheet of a chart series which includes the territory of a Contracting State, determine, in consultation with the State having jurisdiction over the territory concerned, the manner in which the chart or sheet will be made available; and\n( d ) take reasonable measures to ensure that the information provided and the aeronautical charts made available are adequate and accurate and that aeronautical charts are maintained up-to-date by an adequate revision service."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "6",
+      "title": "Operational requirements for charts",
+      "content": "6. Operational requirements for charts\n(1) An approved aeronautical cartographic service provider shall ensure that each type of chart—\n( a ) provides information relevant to the function of the chart and that the design of the chart observes human factors principles to facilitate its optimum use;\n( b ) provides information for the safe and expeditious operation of the aircraft appropriate to the phase of flight as listed below—\n(i) Phase 1 – taxi from aircraft stand to take off,\n(ii) Phase 2 – take-off and climb to en route air traffic services route structure,\n(iii) Phase 3 – en route air traffic services route structure,\n(iv) Phase 4 – descent to approach,\n(v) Phase 5 – approach to land and missed approach, and\n(vi) Phase 6 – landing and taxi to aircraft stand;\n( c ) provides information that is accurate, free from distortion and clutter, unambiguous, and readable under normal operating conditions;\n( d ) provides information that can be easily read and interpreted by the pilot in varying conditions of natural and artificial light by using the right colours or tints and type size;\n( e ) is in a form which enables the pilot to acquire information in a reasonable time consistent with workload and operating conditions; and\n( f ) permits smooth transition from chart to chart as appropriate to the phase of flight.\n(2) The charts shall be True North orientated.\n(3) The basic sheet size of the charts which forms part of the Aeronautical Information Publication (AIP) shall be 210 x 297 mm (A4).\n(4) Notwithstanding subregulation (3), an En route Chart, shall be 297 x 420 mm (A3), to enhance legibility."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "7",
+      "title": "Titles of charts",
+      "content": "7. Titles of charts\nAn aeronautical cartographic service provider shall ensure that the title of a chart or chart series prepared in accordance with these Regulations is that of the relevant part heading except that such title shall not include \"ICAO\" unless the chart conforms with the requirements specified in this Part and any other requirements specified for that particular chart in these Regulations."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "8",
+      "title": "Miscellaneous information",
+      "content": "8. Miscellaneous information\nAn aeronautical cartographic service provider shall ensure that—\n( a ) the marginal note layout is as set out in Schedule 1, except as otherwise specified for a particular chart;\n( b ) the following information is shown on the face of each chart unless otherwise stated in the specification of the chart concerned—\n(i) designation or title of the chart series,\n(ii) name and reference of the sheet, and\n(iii) on each margin, an indication of the adjoining sheet where applicable;\n( c ) a legend to the symbols and abbreviations used is provided on the face or reverse of each chart except that, where it is impracticable for reasons of space, a legend may be published separately; and\n( d ) the name and adequate address of the producing agency is shown in the margin of the chart except that, where the chart is published as part of an aeronautical document, this information may be placed in the front of that document."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "9",
+      "title": "Symbols",
+      "content": "9. Symbols\nAn aeronautical cartographic service provider shall ensure that—\n( a ) the symbols used conform to those specified in Schedule 2, except that where it is desired to show on an aeronautical chart, special features or items of importance to civil aviation for which no ICAO symbol is at present provided, any appropriate symbol may be chosen for this purpose, provided that it does not cause confusion with any existing ICAO chart symbol or impair the legibility of the chart;\n( b ) the same basic symbol is used on all charts on which it appears, regardless of chart purpose to represent ground-based navigation aids, intersections and waypoints;\n( c ) the symbol used for significant points is based on a hierarchy of symbols and selected in the following order—\n(i) ground-based navigation aid,\n(ii) intersection, and\n(iii) waypoint symbol;\n( d ) a waypoint symbol is used only when a particular significant point does not already exist as either a ground-based navigation aid or intersection; and\n( e ) the symbols are shown in the manner specified in this regulation and in accordance with symbol number 121 set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "10",
+      "title": "Units of measurement",
+      "content": "10. Units of measurement\nAn aeronautical cartographic service provider shall ensure that the—\n( a ) distances are derived as geodesic distances;\n( b ) distances are expressed in either kilometres or nautical miles or both, provided the units are clearly differentiated;\n( c ) altitudes, elevations and heights are expressed in either metres or feet or both, provided the units are clearly differentiated;\n( d ) linear dimensions on aerodromes and short distances are expressed in metres;\n( e ) order of resolution of distances, dimensions, elevations and heights are as specified for a particular chart;\n( f ) units of measurement used to express distances, altitudes, elevations and heights are conspicuously stated on the face of each chart; and\n( g ) conversion scales are provided on each chart on which distances, elevations or altitudes are shown and shall be placed on the face of each chart."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "11",
+      "title": "Scale and projection",
+      "content": "11. Scale and projection\nAn aeronautical cartographic service provider shall ensure that—\n( a ) the name and basic parameters and scale of the projection are indicated for charts of large areas; and\n( b ) for charts of small areas, only a linear scale is indicated."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "12",
+      "title": "Date of validity of aeronautical information",
+      "content": "12. Date of validity of aeronautical information\nAn aeronautical cartographic service provider shall clearly indicate on the face of each chart, the date of validity of the aeronautical information."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "13",
+      "title": "Spelling of geographical names",
+      "content": "13. Spelling of geographical names\nAn aeronautical cartographic service provider shall ensure that—\n( a ) the symbols of the Roman alphabet are used for writing;\n( b ) the names of places and of geographical features in Botswana which officially use varieties of the Roman alphabet shall be accepted in their official spelling, including the accents and diacritical marks used in the respective alphabets;\n( c ) the word where a geographical term is abbreviated on any particular chart is spelt out in full; and\n( d ) the punctuation marks are not used in abbreviations within the body of a chart."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "14",
+      "title": "Abbreviations",
+      "content": "14. Abbreviations\nAn aeronautical cartographic service provider shall ensure that abbreviations are—\n( a ) used on aeronautical charts whenever they are appropriate; and\n( b ) selected from the Procedures for Air Navigation Services – ICAO document abbreviations and codes number 8400 where applicable."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "15",
+      "title": "Political boundaries",
+      "content": "15. Political boundaries\nAn aeronautical cartographic service provider shall ensure that the—\n( a ) international boundaries are shown, but may be interrupted if data more important to the use of the chart would be obscured; and\n( b ) names identifying the countries are indicated where the territory of more than one State appears on a chart."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "16",
+      "title": "Colours",
+      "content": "16. Colours\nAn aeronautical cartographic service provider shall ensure that the colours used on charts conform to the Colour Guide set out in Schedule 3 of these Regulations."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "17",
+      "title": "Relief",
+      "content": "17. Relief\nA cartographic service provider shall ensure that—\n( a ) relief, where shown, is portrayed in a manner that will satisfy the chart users' need for—\n(i) orientation and identification,\n(ii) safe terrain clearance,\n(iii) clarity of aeronautical cartographic when shown, and\n(iv) planning;\n( b ) the tints used where relief is shown by hypsometric tints, are based on those shown in the Hypsometric Tint Guide in Schedule 4 of these Regulations;\n( c ) the spot elevations are shown for selected critical points where spot elevations are used; and\n( d ) the value of spot elevations of doubtful accuracy is followed by the sign Â±."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "18",
+      "title": "Prohibited, restricted and danger areas",
+      "content": "18. Prohibited, restricted and danger areas\nAn aeronautical cartographic service provider shall ensure that the reference or other identification are included when prohibited, restricted or danger areas are shown."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "19",
+      "title": "Air traffic services airspaces",
+      "content": "19. Air traffic services airspaces\nAn aeronautical cartographic service provider shall ensure that—\n( a ) the class of airspace, the type, name or call sign, the vertical limits and the radio frequency to be used is indicated when air traffic services airspace is shown on a chart, and the horizontal limits specified in accordance to Schedule 2 to these Regulations; and\n( b ) on charts used for visual flight, those parts of the ATS airspace classes in the Schedule 1 to the Civil Aviation (Rules of the Air and Traffic Services) Regulations (Cap. 71:01 (Sub. Leg.)) applicable to the airspace depicted on the chart to be on the face or reverse of each chart."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "20",
+      "title": "Magnetic variation",
+      "content": "20. Magnetic variation\nAn aeronautical cartographic service provider shall ensure that—\n( a ) the True North and Magnetic variation are indicated and the order of resolution of Magnetic variation is that as specified for a particular chart;\n( b ) when Magnetic variation is shown on a chart, the values shown are those for the year nearest to the date of publication that is divisible by five; and\n( c ) an interim date and value are quoted in exceptional cases where the current value would be more than one degree different, after applying the calculation for annual change;\n( d ) the publication of a Magnetic variation change for instrument procedure charts shall be completed within a maximum of six AIRAC cycles; and\n( e ) in large terminal areas with multiple aerodromes, a single rounded value of Magnetic variation shall be applied so that the procedures that service multiple aerodromes use a single, common variation value."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "21",
+      "title": "Aeronautical data",
+      "content": "21. Aeronautical data\nAn aeronautical cartographic service provider shall ensure that—\n( a ) necessary measures are taken to introduce a properly organised quality system containing procedures, processes and resources necessary to implement quality management at each function stage as specified in the Civil Aviation (Aeronautical Information Services) Regulations;\n( b ) the execution of quality management is made demonstrable for each function stage, when required;\n( c ) the established procedures exist in order that aeronautical data at any moment is traceable to its origin so to allow any data anomalies or errors, detected during the production and maintenance phases or in the operational use, to be corrected;\n( d ) the order of chart resolution of aeronautical data is as specified for a particular chart and as presented in a tabular form in the Schedule 6 of these Regulations;\n( e ) the integrity of aeronautical data is maintained throughout the data process from origination to distribution to the next intended user;\n( f ) digital data error detection techniques shall be used during the transmission and/or storage of aeronautical data and digital data sets."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "22",
+      "title": "Horizontal reference system",
+      "content": "22. Horizontal reference system\nAn aeronautical cartographic service provider shall ensure that the—\n( a ) World Geodetic System – 1984 is used as the horizontal reference system;\n( b ) published aeronautical geographical co-ordinates indicating latitude and longitude are expressed in terms of the World Geodetic System – 1984 geodetic reference datum;\n( c ) geographical co-ordinates which have been transformed into World Geodetic System – 1984 co-ordinates but whose accuracy of original field work does not meet the requirements in the Civil Aviation (Air Traffic Services) Regulations and the Civil Aviation (Aerodrome) Regulations are identified by an asterisk; and\n( d ) chart resolution of geographical co-ordinates is as specified for a particular chart series."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "23",
+      "title": "Vertical reference system",
+      "content": "23. Vertical reference system\nAn aeronautical cartographic service provider shall ensure that the—\n( a ) mean sea level datum is used as the vertical reference system;\n( b ) elevations referenced to mean sea level, for the specific surveyed ground positions, geoid undulation for the surveyed positions are published as specified for a particular chart; and\n( c ) chart resolution of elevation and geoid undulation is as specified for a particular chart series."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "24",
+      "title": "Temporal reference system",
+      "content": "24. Temporal reference system\nAn aeronautical cartographic service provider shall ensure that—\n( a ) the Gregorian calendar and Coordinated Universal Time are used as the temporal reference system; and\n( b ) when a different temporal reference system is used for charting, this shall be indicated in the Aeronautical Information Publication."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "25",
+      "title": "Charts to be published",
+      "content": "25. Charts to be published\nAn aeronautical cartographic service provider shall publish, as and when applicable and in accordance with the requirements as prescribed by the Authority, the following charts—\n( a ) Aerodrome Obstacle Chart;\n( b ) Precision Approach Terrain Chart;\n( c ) En route Chart;\n( d ) Area Chart or, alternatively, Standard Departure Chart – Instrument and Standard Arrival Chart – Instrument;\n( e ) Instrument Approach Chart;\n( f ) Visual Approach Chart;\n( g ) Aerodrome or Heliport Chart;\n( h ) Aerodrome Ground Movement Chart;\n( i ) Aircraft Parking or Docking Chart;\n( j ) World Aeronautical Chart or, alternatively, aeronautical chart or Aeronautical Navigation Chart;\n( k ) Plotting Chart; and\n( l ) Air Traffic Control Surveillance Minimum Altitude Chart."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART II General Specifications for Charts (regs 6-26)",
+      "section": "26",
+      "title": "Use of automation in aeronautical charting",
+      "content": "26. Use of automation in aeronautical charting\nAn aeronautical cartographic service provider shall ensure that an aeronautical charting automated system comply with the following requirements—\n( a ) provide for continuous and timely updating of the system database and monitoring of the validity;\n( b ) quality of the aeronautical information stored;\n( c ) integrate data from a wide variety of sources;\n( d ) temporally manage information and related products, to make sure that charts are always up-to-date;\n( e ) facilitate inspection of the aeronautical chart content, possibly through the synchronisation of the graphical elements with the central database content via specific metadata;\n( f ) provide users with definable rules or templates to facilitate the assembling of the final chart product; and\n( g ) ensure products and services are equally available to humans and computer systems, through specific digital formats for capturing and processing the information."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART III Aerodrome Obstacle Chart – Type A (regs 27-38)",
+      "section": "27",
+      "title": "Function",
+      "content": "27. Function\nAn aeronautical cartographic service provider shall ensure that the Aerodrome Obstacle Chart Type A in combination with the relevant cartographic information published in the Aeronautical Information Publication, provides the data necessary to enable an operator to comply with the operating limitations of the Civil Aviation (Aircraft Operations) Regulations."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART III Aerodrome Obstacle Chart – Type A (regs 27-38)",
+      "section": "28",
+      "title": "Availability",
+      "content": "28. Availability\nAn aeronautical cartographic service provider shall ensure that—\n( a ) the Aerodrome Obstacle Chart Type A is made available in the manner specified in regulation 5( b ) for aerodromes regularly used by international civil aviation, except for those aerodromes where there are no obstacles in the take-off flight path areas or where the Aerodrome Terrain and Obstacle Chart is provided in accordance with Part V of these Regulations; and\n( b ) a notification is published in the Aeronautical Information Publication where a chart is not required because no obstacles exist in the take-off flight path area."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART III Aerodrome Obstacle Chart – Type A (regs 27-38)",
+      "section": "29",
+      "title": "Units of measurement",
+      "content": "29. Units of measurement\nAn aeronautical cartographic service provider shall ensure that the—\n( a ) elevations are shown to the nearest to the nearest foot; and\n( b ) linear dimensions are shown to the nearest half-metre."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART III Aerodrome Obstacle Chart – Type A (regs 27-38)",
+      "section": "30",
+      "title": "Coverage and scale",
+      "content": "30. Coverage and scale\nA cartographic service provider shall ensure that the—\n( a ) extent or coverage of each chart is sufficient to cover all obstacles;\n( b ) horizontal scale is within the range of 1:10 000 to 1:15 000;\n( c ) vertical scale is 10 times the horizontal scale; and\n( d ) horizontal and vertical linear scales showing both metres and feet are included in the charts."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART III Aerodrome Obstacle Chart – Type A (regs 27-38)",
+      "section": "31",
+      "title": "Format",
+      "content": "31. Format\nAn aeronautical cartographic service provider shall ensure that the—\n( a ) charts depict a plan and profile of each runway, any associated stopway or clearway, the take-off flight path area and obstacles;\n( b ) profile for each runway, stopway, clearway and the obstacles in the take-off flight path area are shown above its corresponding plan;\n( c ) profile of an alternative take-off flight path area comprises a linear projection of the full take-off flight path and is disposed above its corresponding plan in the manner most suited to the ready interpretation of the information;\n( d ) profile grid is ruled over the entire profile area exclusive of the runway;\n( e ) zero for vertical co-ordinates is mean sea level;\n( f ) zero for horizontal co-ordinates is at the end of the runway furthest from the take-off flight path area concerned;\n( g ) graduation marks indicating the sub-divisions of intervals is shown along the base of the grid and along the vertical margins;\n( h ) vertical grid to have intervals of 30 m (100 ft) and the horizontal grid to have intervals of 300 m (1 000 ft);\n( i ) chart includes—\n(i) a box for recording the operational data specified in regulation 36, and\n(ii) a box for recording amendments and dates thereof."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART III Aerodrome Obstacle Chart – Type A (regs 27-38)",
+      "section": "32",
+      "title": "Identification",
+      "content": "32. Identification\nAn aeronautical cartographic service provider shall ensure that the chart is identified by the—\n( a ) name of the country in which the aerodrome is located;\n( b ) name of the city or town or area which the aerodrome serves;\n( c ) name of the aerodrome; and\n( d ) designator of the runway."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART III Aerodrome Obstacle Chart – Type A (regs 27-38)",
+      "section": "33",
+      "title": "Magnetic variation",
+      "content": "33. Magnetic variation\nAn aeronautical cartographic service provider shall ensure that the Magnetic variation to the nearest degree and date of information is indicated."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART III Aerodrome Obstacle Chart – Type A (regs 27-38) - Aeronautical Data",
+      "section": "34",
+      "title": "Obstacles",
+      "content": "34. Obstacles\nAn aeronautical cartographic service provider shall ensure that—\n( a ) objects in the take-off flight path area which project above a plane surface having a 1.2 per cent slope and having a common origin with the take-off flight path area are regarded as obstacles, except that obstacles lying wholly below the shadow of other obstacles as defined in paragraphs ( c ), ( d ) and ( f ) need not be shown;\n( b ) mobile objects such as trains and trucks, which may project above the 1.2 per cent plane, are considered obstacles but are not considered as being capable of creating a shadow;\n( c ) plane surface originating at a horizontal line passing through the top of the obstacle at right angles to the centre line of the take-off flight path area is considered as the shadow of an obstacle;\n( d ) the plane covers the complete width of the take-off flight path area and extends to the plane defined in paragraph ( a ) and ( b ) or to the next higher obstacle if it occurs first;\n( e ) the first 300 m (1 000 ft) of the take-off flight path area, the shadow planes are horizontal and beyond this point such planes have an upward slope of 1.2 per cent; and\n( f ) if the obstacle creating a shadow is likely to be removed, objects that would become obstacles by its removal shall be shown."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART III Aerodrome Obstacle Chart – Type A (regs 27-38) - Aeronautical Data",
+      "section": "35",
+      "title": "Take-off flight path area",
+      "content": "35. Take-off flight path area\nAn aeronautical cartographic service provider shall ensure that the—\n( a ) take-off flight path area consists of a quadrilateral area on the surface of the earth lying directly below, and symmetrically disposed about the take-off flight path and has the following characteristics—\n(i) commences at the end of the area declared suitable for take-off,\n(ii) the width at the point of origin is 180 m (600 ft) and this width increases at the rate of 0.25D to a maximum of 1 800 m (6 000 ft), where D is the distance from the point of origin, and\n(iii) extends to the point beyond which no obstacles exist or to a distance of 10.0 km (5.4 NM), whichever is the lesser; and\n( b ) for runways serving aircraft having operating limitations which do not preclude the use of a take-off flight path gradient of less than 1.2 per cent, the extent of the take-off flight path area specified in paragraph ( a )(iii) shall be increased to not less than 12.0 km (6.5 NM) and the slope of the plane surface specified in regulation 34( a ) and ( b ) shall be reduced to 1.0 per cent less."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART III Aerodrome Obstacle Chart – Type A (regs 27-38) - Aeronautical Data",
+      "section": "36",
+      "title": "Declared distances",
+      "content": "36. Declared distances\nAn aeronautical cartographic service provider shall ensure that—\n( a ) the following information for each direction of each runway is provided—\n(i) take-off run available,\n(ii) accelerate-stop distance available,"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aerodrome elevation",
+      "definition": "the elevation of the highest point of the landing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome operating minima",
+      "definition": "the limits of usability of an aerodrome for—\n( a ) take-off, expressed in terms of runway visual range or visibility and, if necessary, cloud conditions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome reference point",
+      "definition": "the designated geographical location of an aerodrome",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical chart",
+      "definition": "a representation of a portion of the earth, its culture and relief, specifically designated to meet the requirements of air navigation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical data (integrity classification)",
+      "definition": "classification based upon the potential risk resulting from the use of corrupted data.\nAeronautical data is classified as—\n( a ) routine data – there is a very low probability when using corrupted routine data that the continued safe flight and landing of an aircraft would be severely at risk with the potential for catastrophe",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft stand",
+      "definition": "a designated on an apron intended to be used for parking an aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air defence identification zone",
+      "definition": "a special designated airspace of defined dimensions within which aircraft are required to comply with special identification or reporting procedures additional to those related to the provision of air traffic services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic service",
+      "definition": "a flight information service, alerting service, air traffic advisory service, or air traffic control services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air transit route",
+      "definition": "a defined route for the air transiting of helicopters",
+      "source_provision": "s2"
+    },
+    {
+      "term": "airway",
+      "definition": "a control or portion thereof established in the form of a corridor",
+      "source_provision": "s2"
+    },
+    {
+      "term": "altitude",
+      "definition": "the vertical distance of a level, a point or an object considered as a point, measured from mean sea level",
+      "source_provision": "s2"
+    },
+    {
+      "term": "application",
+      "definition": "manipulation and processing of data in support of user requirements (ISO 19104*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "apron",
+      "definition": "a defined , on a land aerodrome, intended to accommodate aircraft for purposes of loading or unloading passengers, mail or cargo, fuelling, parking or maintenance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "area minimum altitude (AMA)",
+      "definition": "the minimum altitude to be used under instrument meteorological conditions, which provides a minimum obstacle clearance within a specified, normally formed by parallels and meridians",
+      "source_provision": "s2"
+    },
+    {
+      "term": "area navigation (RNAV)",
+      "definition": "a method of navigation which permits aircraft operation on any desired flight path within the coverage of ground-or space-based navigation aids or within the limits of the capability of self-contained aids, or a combination of these",
+      "source_provision": "s2"
+    },
+    {
+      "term": "arrival routes",
+      "definition": "routes identified in an instrument approach procedure by which an aircraft may proceed from the en route phase of flight to an initial approach fix",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic services route",
+      "definition": "a specified route designed for channelling the flow of traffic as necessary for the provision of air traffic services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic services surveillance system",
+      "definition": "any ground-based system that enables the identification of aircraft, including Automatic Dependent Surveillance – Broadcast, (ADS-B), Primary Surveillance Radar, (PSR), Secondary Surveillance Radar (SSR)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bare earth",
+      "definition": "surface of the earth including bodies of water and permanent ice and snow, and excluding vegetation and man-made objects",
+      "source_provision": "s2"
+    },
+    {
+      "term": "calendar",
+      "definition": "discrete temporal reference system that provides the basis for defining temporal position to a resolution of one day (ISO 19108*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clearway",
+      "definition": "a defined rectangular on the ground or water under the control of the appropriate authority selected or prepared as a suitable over which an aeroplane may make a portion of its initial climb to a specified height",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conformal projection",
+      "definition": "a map projection in which a small is rendered in its true shape",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contour line",
+      "definition": "a line on a map or chart connecting points of equal elevation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "culture",
+      "definition": "all man-made features constructed on the surface of the earth, such as cities, railways and canals",
+      "source_provision": "s2"
+    },
+    {
+      "term": "danger",
+      "definition": "an airspace of defined dimensions within which activities dangerous to the flight of aircraft may exist at specified times",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data product specification",
+      "definition": "detailed description of a data set or data set series together with additional information that will enable it to be created, supplied to and used by another party (ISO 19131*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data quality",
+      "definition": "a degree or level of confidence that the data provided meets the requirements of the data user in terms of accuracy, resolution and integrity (or equivalent assurance level), traceability, timeliness, completeness and format",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data set",
+      "definition": "identifiable collection of data (ISO 19101*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data set series",
+      "definition": "collection of data sets sharing the same product specification (ISO 19115*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "datum",
+      "definition": "any quantity or set of quantities that may serve as a reference or basis for the calculation of other quantities (ISO 19104*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Digital Elevation Model (DEM)",
+      "definition": "the representation of terrain surface by continuous elevation values at all intersections of a defined grid, referenced to common datum",
+      "source_provision": "s2"
+    },
+    {
+      "term": "displaced threshold",
+      "definition": "a threshold not located at the extremity of a runway",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electronic aeronautical chart display",
+      "definition": "an electronic device by which flight crews are enabled to execute, in a convenient and timely manner, route planning, route monitoring and navigation by displaying required information",
+      "source_provision": "s2"
+    },
+    {
+      "term": "elevation",
+      "definition": "the vertical distance of a point or a level, on or affixed to the surface of the earth, measured from mean sea level",
+      "source_provision": "s2"
+    },
+    {
+      "term": "feature",
+      "definition": "abstraction of real world phenomena (ISO 19101*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "feature attribute",
+      "definition": "characteristic of a feature (ISO 19101*)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "final approach",
+      "definition": "that part of an instrument approach procedure which commences at the specified final approach fix or point, or where such a fix or point is not specified—\n( a ) at the end of the last procedure turn, base turn or inbound turn of a racetrack procedure, if specified",
+      "source_provision": "s2"
+    },
+    {
+      "term": "final approach and take-off (FATO)",
+      "definition": "a defined over which the final phase of the approach manoeuvre to hover or landing is completed and from which the take-off manoeuvre is commenced:\nProvided that where the final approach and take-off is to be used by performance Class 1 helicopters, the defined includes the rejected take-off available",
+      "source_provision": "s2"
+    },
+    {
+      "term": "final approach fix or point",
+      "definition": "that fix or point of an instrument approach procedure where the final approach segment commences",
+      "source_provision": "s2"
+    },
+    {
+      "term": "final approach segment",
+      "definition": "that segment of an instrument approach procedure in which alignment and descent for landing are accomplished",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight information region",
+      "definition": "an airspace of defined dimensions within which flight information service and alerting service are provided",
+      "source_provision": "s2"
+    },
+    {
+      "term": "flight level",
+      "definition": "a surface of constant atmospheric pressure which is related to a specific pressure datum, 1 013.2 hectopascals (hPa), and is separated from other such surfaces by specific pressure intervals",
+      "source_provision": "s2"
+    },
+    {
+      "term": "geodesic distance",
+      "definition": "the shortest distance between any two points on a mathematically defined ellipsoidal surface",
+      "source_provision": "s2"
+    },
+    {
+      "term": "geoid",
+      "definition": "the equipotential surface in the gravity field of the earth which coincides with the undisturbed mean sea level extended continuously through the continents",
+      "source_provision": "s2"
+    },
+    {
+      "term": "geoid undulation",
+      "definition": "the distance of the geoid above (positive) or below (negative) the mathematical reference ellipsoid",
+      "source_provision": "s2"
+    },
+    {
+      "term": "glide path",
+      "definition": "a descent profile determined for vertical guidance during a final approach",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Gregorian calendar",
+      "definition": "calendar in general use",
+      "source_provision": "s2"
+    },
+    {
+      "term": "height",
+      "definition": "the vertical distance of a level, point or an object considered as a point, measured from a specific datum",
+      "source_provision": "s2"
+    },
+    {
+      "term": "helicopter stand",
+      "definition": "an aircraft stand which provides for parking a helicopter and where ground taxi operations are completed or where the helicopter touches down and lifts off for air taxi operations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "heliport",
+      "definition": "an aerodrome or a defined on a structure intended to be used wholly or in part for the arrival, departure and surface movement of helicopters",
+      "source_provision": "s2"
+    },
+    {
+      "term": "heliport reference point (HRP)",
+      "definition": "the designated location of a heliport or a landing location",
+      "source_provision": "s2"
+    },
+    {
+      "term": "holding procedure",
+      "definition": "a predetermined manoeuvre which keeps an aircraft within a specified airspace while awaiting further clearance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hot spot",
+      "definition": "a location on an aerodrome movement with a history or potential risk of collision or runway incursion, and where heightened attention by pilots or drivers is necessary",
+      "source_provision": "s2"
+    },
+    {
+      "term": "human factors principles",
+      "definition": "principles which apply to aeronautical design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hypsometric tints",
+      "definition": "a succession of shades or colour gradations used to depict ranges of elevation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "instrument approach procedure",
+      "definition": "a series of predetermined manoeuvres by reference to flight instruments with specified protection from obstacles from the initial approach fix, or where applicable, from the beginning of a defined arrival route to a point from which a landing can be completed and thereafter, if a landing is not completed, to a position at which holding or en route obstacle clearance criteria apply and is classified as follows—\n( a ) non-precision approach procedure (NPA) – an IAP which utilises lateral guidance but does not utilise vertical guidance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "intermediate holding position",
+      "definition": "a designated position intended for traffic control at which taxiing aircraft and vehicles shall stop and hold until further cleared to proceed, when so instructed by the aerodrome control tower",
+      "source_provision": "s2"
+    },
+    {
+      "term": "isogonal",
+      "definition": "a line on a map or chart on which all points have the same Magnetic variation for a specified epoch",
+      "source_provision": "s2"
+    },
+    {
+      "term": "lambert conformal conic projection",
+      "definition": "a conformal conic map projection with straight-line meridians that meet at a common centre beyond the limits of the map and with parallels of which two are standard that are arcs of circles intersecting the meridians at right angles",
+      "source_provision": "s2"
+    },
+    {
+      "term": "landing",
+      "definition": "that part of a movement intended for the landing or take-off of aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "logon address",
+      "definition": "a specified code used for data link logon to an air traffic services unit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Magnetic variation",
+      "definition": "the angular difference between True North and Magnetic North",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manoeuvring",
+      "definition": "that p",
+      "source_provision": "s2"
+    }
+  ]
+}

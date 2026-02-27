@@ -1,0 +1,73 @@
+{
+  "id": "bw-act-electronic-records-evidence",
+  "type": "statute",
+  "title": "Electronic Records (evidence)",
+  "title_en": "Electronic Records (evidence)",
+  "short_name": "Electronic Records (evidence)",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/electronic-records-evidence",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Electronic Records (Evidence) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Communications Regulatory Authority\" means the Communications Regulatory Authority established under section 3 of the Communications Regulatory Authority Act (Cap. 72:03);\n\"computer system\" means an electronic, magnetic or optical device, or a group of interconnected or related devices, including the internet, one or more of which pursuant to a computer programme, performs automatic processing of data or any other function;\n\"court\" includes a tribunal, board and commission;\n\"data\" means—\n( a ) any representation of facts, information or concepts in a form suitable for processing in a computer system;\n( b ) an information recorded in a form in which it can be processed by equipment operating automatically in response to instructions given for that purpose; or\n( c ) a programme suitable to cause a computer system to function;\n\"electronic record\" means data that is recorded or stored on any medium in or by a computer system or other similar device and that can be read or perceived by a person or a computer system or other similar device, and includes a display, printout or other output of that data;\n\"electronic records system\" includes a computer system or other similar device by or in which data is recorded or stored and any procedures related to the recording or storage of electronic records;\n\"electronic signature\" means data in electronic form attached to or logically subjoined to an electronic communication, and which can be used to identify the signatory (method of authentication) and indicate consent for the information contained in the said communication;\n\"evidence\" includes all electronic records produced for the inspection of a court; and\n\"legal proceeding\" includes administrative proceedings."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThis Act shall apply to any legal proceedings in or before any court and to affidavits presented to any court or officer of any court."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Communications Regulatory Authority",
+      "definition": "the Communications Regulatory Authority established under section 3 of the Communications Regulatory Authority Act (Cap. 72:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "computer system",
+      "definition": "an electronic, magnetic or optical device, or a group of interconnected or related devices, including the internet, one or more of which pursuant to a computer programme, performs automatic processing of data or any other function",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "a tribunal, board and commission",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electronic record",
+      "definition": "data that is recorded or stored on any medium in or by a computer system or other similar device and that can be read or perceived by a person or a computer system or other similar device, and includes a display, printout or other output of that data",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electronic records system",
+      "definition": "a computer system or other similar device by or in which data is recorded or stored and any procedures related to the recording or storage of electronic records",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electronic signature",
+      "definition": "data in electronic form attached to or logically subjoined to an electronic communication, and which can be used to identify the signatory (method of authentication) and indicate consent for the information contained in the said communication",
+      "source_provision": "s2"
+    },
+    {
+      "term": "evidence",
+      "definition": "all electronic records produced for the inspection of a court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal proceeding",
+      "definition": "administrative proceedings.",
+      "source_provision": "s2"
+    }
+  ]
+}

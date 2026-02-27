@@ -1,0 +1,21 @@
+{
+  "id": "bw-act-building-societies",
+  "type": "statute",
+  "title": "Building Societies",
+  "title_en": "Building Societies",
+  "short_name": "Building Societies",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/building-societies",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title"
+    }
+  ],
+  "definitions": []
+}

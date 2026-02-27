@@ -1,0 +1,91 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-central-district-council-advertisements-and-hoardings-by-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Central District Council (advertisements and Hoardings) By-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Central District Council (advertisements and Hoardings) By-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-central-district-council-advertisements-and-hoardings-by-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Central District Council (Advertisements and Hoardings) Bye-laws."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires Interpretation\n\"advertisement\" includes any notice, bill, placard, poster and similar publication;\n\"authorised officer\" means the Council Secretary, a bye-law enforcement officer or any other employee of the Council duly authorised as such, in writing, by the Council Secretary;\n\"Council\" means the Central District Council;\n\"council area\" means a designated area within the Central District;\n\"hoarding\" means any structure used as an advertisement or used for exhibiting any advertisement;\n\"owner\" means, in relation to any lot or premise, the person in whose name the title to such lot or premise is registered and includes an agent of the owner or any person receiving or entitled to receive rent in respect of such lot or premise;\n\"premises\" means any building or part of the building, store, shop, tenement or other erection on or above the ground and the land occupied by the building, store, shop, tenement or other erection;\n\"public place\" includes any public way or square or any public or communal land; and\n\"street\" means any highway, public bridge, road, lane, footway, square, recreation ground, court, alley or passage, whether a thoroughfare or not, and includes any works or thing forming part of or connected with such street."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Bye-laws shall apply to all planning areas of the Central District Council as set out in the Administrative Districts Act (Cap. 03:02)."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Exemption",
+      "content": "4. Exemption\n(1) These Bye-laws shall not apply to any advertisement on any board, support or framework carried by any person or to hoardings which form a temporary part of any building operation shielding any work in progress for the purpose of advertising the said premises for sale.\n(2) The Council may direct the person erecting such hoarding to remove it or reposition it for any reason set out in these Bye-laws."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Erection of hoardings",
+      "content": "5. Erection of hoardings\n(1) A person shall not erect a hoarding in any place within the council area without a permit issued by the Council.\n(2) Any person who wishes to erect a hoarding may make an application to the Council for a permit in Form 1 set out in Schedule 1, accompanied by the fees specified in Form 1 set out in Schedule 2.\n(3) A person who contravenes this bye-law commits an offence and is liable\n( a ) for a first offence, to a fine not exceeding P3 000, or to imprisonment for a term not exceeding one year, or to both; and\n( b ) for second and subsequent offences, to a fine not exceeding P5 000, or to imprisonment for a term not exceeding two years, or to both."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Consideration of application",
+      "content": "6. Consideration of application\n(1) The Council may, where the applicant meets all the requirements, issue a permit for the erection of a hoarding.\n(2) The Council may reject an application for the erection of a hoarding if it considers that the proposed hoarding\n( a ) will be a distraction or visual obstruction to traffic, or will in any way interfere with the free movement of traffic, including pedestrians;\n( b ) is objectionable in substance, presentation or scale;\n( c ) will spoil the appearance of any improved or developed area set aside for industrial development, park or other recreational purpose; or\n( d ) will be offensive to any occupier or residential premises adjacent to, facing or abutting the site of the proposed hoarding.\n(3) A permit obtained under this bye-law shall be valid for 12 months from the date of issue."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "advertisement",
+      "definition": "any notice, bill, placard, poster and similar publication",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised officer",
+      "definition": "the Council Secretary, a bye-law enforcement officer or any other employee of the Council duly authorised as such, in writing, by the Council Secretary",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Central District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council area",
+      "definition": "a designated area within the Central District",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hoarding",
+      "definition": "any structure used as an advertisement or used for exhibiting any advertisement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "any building or part of the building, store, shop, tenement or other erection on or above the ground and the land occupied by the building, store, shop, tenement or other erection",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public place",
+      "definition": "any public way or square or any public or communal land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "street",
+      "definition": "any highway, public bridge, road, lane, footway, square, recreation ground, court, alley or passage, whether a thoroughfare or not, and includes any works or thing forming part of or connected with such street.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "bw-sub-public-roads-subsidiary-legislation",
+  "type": "statute",
+  "title": "Public Roads: Subsidiary Legislation",
+  "title_en": "Public Roads: Subsidiary Legislation",
+  "short_name": "Public Roads: Subsidiary Le...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/public-roads-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Declaration of Public Roads and Width of Public Roads Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Establishment and declaration of public roads",
+      "content": "2. Establishment and declaration of public roads\nThe roads described in the Schedule hereto are established and declared as public roads."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Width of road",
+      "content": "3. Width of road\nThe width of every road described in the Schedule hereto shall be 30,5 metres on either side of the general run of the road."
+    }
+  ],
+  "definitions": []
+}

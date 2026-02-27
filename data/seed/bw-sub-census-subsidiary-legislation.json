@@ -1,0 +1,32 @@
+{
+  "id": "bw-sub-census-subsidiary-legislation",
+  "type": "statute",
+  "title": "Census: Subsidiary Legislation",
+  "title_en": "Census: Subsidiary Legislation",
+  "short_name": "Census: Subsidiary Legislation",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/census-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Census Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Duties of census officers",
+      "content": "2. Duties of census officers\nThe duties of officers appointed to be census officers shall be—\n( a ) to enumerate persons within Botswana during the period the census is to be taken at such times, other than the periods between 8 p.m. and 6 a.m, and at such places as may be expedient;\n( b ) to ask such questions of any persons so enumerated as may be necessary in order to obtain, in respect of that person and, where expedient, in respect of any other person such as is referred to in regulation 4, the information specified in the Schedule hereto; and\n( c ) to map inhabited areas of Botswana and to include in the maps, among other things, all arable land and cattle post areas."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Duty of persons to give information concerning other members of household",
+      "content": "3. Duty of persons to give information concerning other members of household\nEvery person questioned by a census officer in or within the precincts of any house or dwelling shall, if so required by such census officer—"
+    }
+  ],
+  "definitions": []
+}

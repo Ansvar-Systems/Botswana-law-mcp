@@ -1,0 +1,237 @@
+{
+  "id": "bw-act-environmental-asessment",
+  "type": "statute",
+  "title": "Environmental Assessment",
+  "title_en": "Environmental Assessment",
+  "short_name": "Environmental Assessment",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/environmental-asessment",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Environmental Assessment Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"activity\" includes a project, programme, plan or policy;\n\"Association\" means a body registered under the Societies Act (Cap. 18:01), which adequately demonstrates to the Minister that it is representative of the majority of Environmental Assessment Practitioners practising in Botswana at any given time;\n\"Board\" means the Environmental Assessment Practitioners Board established under section 20 of the Act;\n\"Chairperson\" means the Chairperson of the Board;\n\"committee\" means a committee of the Board;\n\"competent authority\", in relation to an activity under this Act, means the Department of Environmental Affairs;\n\"developer\" means a person intending or planning to undertake a new activity or repair or extend an existing activity;\n\"Director\" means the Director responsible for environmental affairs;\n\"environment\" includes the physical, ecological, archaeological, aesthetic, cultural, economic, institutional, human health and social aspects of the surroundings of a person;\n\"environmental audit\" means work done to identify and evaluate compliance of the statement and the residual environmental impact of an existing activity, the effectiveness of mitigation measures and the functioning of monitoring mechanisms;\n\"environmental impact\" means any positive or negative effects caused by an activity on the environment;\n\"environmental impact assessment\" means the process and procedure for evaluating and predicting the likely environmental impact of a proposed activity;\n\"environmental management plan\" means a basic environmental assessment which excludes the development of a scoping report but may include the requirement for public review;\n[11 of 2020, s. 2(a) w.e.f. 1 April 2021.]\n\"evaluation report\" means a report on studies carried out to ensure that environmental considerations are taken into account when an activity is implemented;\n\"local authority\" includes a land board;\n\"member\" means a member of the Board elected, appointed or nominated under section 22;\n\"mitigation measures\" means the reduction or control of the adverse environmental impact of an activity and includes restitution for any damage to the environment caused by such activity through engineering works, technological improvements, management measures or compensation to ameliorate any loss suffered by a person;\n\"practitioner\" means an Environmental Assessment Practitioner registered under section 37;\n\"private reviewer\" means a person appointed as such by the Director under section 62(2);\n[11 of 2020, s. 2(a) w.e.f. 1 April 2021.]\n\"project brief\" means a description of the likely environmental impact of an activity provided by the applicant as part of the application;\n\"register\" means a register of practitioners established under section 38;\n\"rehabilitation plan\" means an outline of measures for the treatment or management of disturbed land, air or water for the purpose of establishing a safe and stable environment;\n[11 of 2020, s. 2(a) w.e.f. 1 April 2021.]\n\"relevant technical department\" means a government department or local authority responsible for monitoring an activity undertaken under this Act, by virtue of that department or local authority having the necessary technical expertise to do so;\n\"reviewer\" means an officer who is designated as such under section 62(1);\n[11 of 2020, s. 2(a) w.e.f. 1 April 2021.]\n\"scoping\" means consultations with concerned government departments, local authorities, non-governmental organisations, members of the public and any other interested persons, to determine the extent of the likely environmental impact of a proposed activity;\n\"statement\" means a report of the environmental assessment study;\n\"strategic environmental assessment\" means a process for evaluating the environmental consequences of proposed policy, plan or programme initiatives in order to ensure that they are fully included and appropriately addressed at the earliest stage of decision making, on par with economic and social considerations;\n\"threshold\" , in relation to an environmental impact assessment of an activity, means a measurable level or limit of an output resulting from the operation of a proposed activity indicative of the activity's environmental impact;\n\"terms of reference\" means a document which details the main environmental issues which must be addressed in an environmental impact study;\n\"waste management plan\" means an outline of waste streams and treatment options comprising of the collection, temporary storage and safe disposal of the waste streams associated with an activity and includes provisions for the recovery, re-use and recycling of waste; and\n[11 of 2020, s. 2(a) w.e.f. 1 April 2021.]\n\"working day\" means any day other than a Saturday, Sunday or any day which is a public holiday under the Public Holidays Act.\n[11 of 2020, s. 2(a) w.e.f. 1 April 2021.]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Application of Act",
+      "content": "3. Application of Act\n(1) This Act applies to the activities in respect of which the Minister may prescribe by regulations.\n(2) Regulations made pursuant to subsection (1) shall prescribe—\n( a ) a list of activities which are likely to cause significant adverse effects on the environment, or the locations that may be environmentally sensitive, in respect of which a statement shall be mandatory;\n( b ) threshold determinations of environmental impact assessment with respect to the activities prescribed under paragraph ( a ); and\n( c ) criteria which shall be used to determine the likely effects of a proposed activity in order to further determine whether or not a statement is required for the activity.\n(3) The Minister may, in writing, upon application for exemption by a person implementing an activity referred to under subsection (2), exempt the activity from the provisions of this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary",
+      "section": "4",
+      "title": "Requirements to undertake an activity",
+      "content": "4. Requirements to undertake an activity\n(1) No person shall undertake or implement an activity prescribed under section 3 unless—\n( a ) such person has applied to a licensing authority for authorisation to undertake such activity and authorisation has been issued under section 12; and\n( b ) the environmental impact of the proposed activity is fully taken into account in accordance with the provisions of this Act.\n(2) Any person who undertakes or implements an activity in contravention of subsection (1) commits an offence and is liable to a fine not exceeding P100 000, or to a term of imprisonment not exceeding five years, or to both.\n(3) A person who contravenes subsection (1) shall rehabilitate the area affected by the adverse environmental impact of the implemented activity.\n(4) In this section, \"rehabilitate\" means the reinstatement or restoration to a normal or functional environmental state.\n(5) A person who fails to rehabilitate the area referred to under subsection (3) commits an offence and is liable to a fine not exceeding P1 000 000, or to a term of imprisonment not exceeding 15 years, or to both."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART I Preliminary",
+      "section": "5",
+      "title": "Ensuring issuance of authorisation",
+      "content": "5. Ensuring issuance of authorisation\n(1) A licensing authority shall, before issuing a permit, licence, consent or approval to any person who has applied to implement an activity prescribed under section 3, ensure that authorisation has been issued for the proposed activity in accordance with this Act.\n(2) In this section, \"licensing authority\" means any authority vested with the responsibility of issuing permits, licences, consent or approval for any of the activities prescribed under section 3."
+    },
+    {
+      "provision_ref": "s5A",
+      "chapter": "PART IA Institutional Arrangements (s 5A)",
+      "section": "5A",
+      "title": "Establishment of Department",
+      "content": "5A. Establishment of Department\n(1) There is hereby established, in accordance with the laws governing the public service, a department to be known as the Department of Environmental Affairs.\n[11 of 2020, s. 3 w.e.f. 1 April 2021.]\n(2) Subject to the Public Service Act, there shall be appointed a Director and such other officers of the Department as may be necessary.\n[11 of 2020, s. 3 w.e.f. 1 April 2021.]\n(3) The Director shall oversee the implementation of this Act.\n[11 of 2020, s. 3 w.e.f. 1 April 2021.]\n(4) The Director shall—\n( a ) be a person capable of being admitted as a practitioner; and\n( b ) have specialised qualifications in the areas of environmental science and environmental management.\n[11 of 2020, s. 3 w.e.f. 1 April 2021.]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Preparation of Environmental Impact Assessment Documentation",
+      "section": "6",
+      "title": "Requirements for authorisation",
+      "content": "6. Requirements for authorisation\n(1) Every—\n( a ) application made to obtain authorisation for a proposed activity shall contain or be accompanied by a project brief which shall include a description of the activity; and\n( b ) formulation of a policy, programme, legislation, physical plan, shall contain or be accompanied by an approved strategic environmental assessment, which strategic environmental assessment shall contain a description of a policy, programme, legislation, development plan or physical plan, as the case may be.\n(2) An application made under subsection (1)( a ) shall be in the prescribed form and shall be accompanied by such fee as may be prescribed.\n(3) The competent authority shall review an application made under subsection (1)( a ) within three working days.\n[11 of 2020, s. 4 w.e.f. 1 April 2021.]\n(4) Where the competent authority finds that information provided for in the application is insufficient, the competent authority shall require and specify to the applicant in writing, the additional information to be provided by the applicant.\n[11 of 2020, s. 4 w.e.f. 1 April 2021.]\n(5) Where the competent authority is satisfied that all relevant information is available in the application and that the activity can be carried out without any adverse environmental impact, the competent authority shall—\n( a ) authorise the implementation of the activity;\n( b ) require the applicant to submit a—\n(i) waste management plan,\n(ii) rehabilitation plan, or\n(iii) other plan as may be prescribed; or\n( c ) require the applicant to submit an environmental management plan.\n[11 of 2020, s. 4 w.e.f. 1 April 2021.]\n(6) Where the competent authority is satisfied that the plan submitted under subsection (5)( b ) sufficiently ensures environmental integrity, it shall authorise the activity.\n[11 of 2020, s. 4 w.e.f. 1 April 2021.]\n(7) The competent authority shall review an application made under subsection (5)( b ) within five working days.\n[11 of 2020, s. 4 w.e.f. 1 April 2021.]\n(8) Where, upon consideration of all the information submitted by the applicant, the competent authority is of the view that in carrying out the activity an adverse environmental impact will or is likely to arise, the competent authority shall require the applicant to undertake an environmental impact assessment or a strategic environmental assessment.\n[11 of 2020, s. 4 w.e.f. 1 April 2021.]\n(9) Where the competent authority requires an environmental management plan under subsection (5)( c ) the competent authority may—\n( a ) request the developer to consult stakeholders; or\n( b ) request the developer to prepare a statement in terms of section 9(4).\n[11 of 2020, s. 4 w.e.f. 1 April 2021.]\n(10) Where the competent authority requests for an environmental impact assessment or a strategic environmental assessment to be undertaken under subsection (8), the competent authority shall, in writing, require the developer to—\n( a ) carry out a scoping exercise in terms of section 7; and\n( b ) prepare terms of reference in terms of section 8.\n[11 of 2020, s. 4 w.e.f. 1 April 2021.]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Preparation of Environmental Impact Assessment Documentation",
+      "section": "7",
+      "title": "Public participation and scoping exercise",
+      "content": "7. Public participation and scoping exercise\n(1) Where the competent authority has required an applicant to carry out a scoping exercise under section 6(10)( a ), the applicant shall engage a practitioner to undertake the assessment.\n[11 of 2020, s. 5(a) w.e.f. 1 April 2021.]\n(2) The applicant shall during a scoping exercise—\n( a ) publicise once the intended activity, its effects and benefits in the mass media using the official languages for a period of not less than 10 working days; and\n[11 of 2020, s. 5(b) w.e.f. 1 April 2021.]\n( b ) after the expiration of the period of 10 working days, ensure that the practitioner referred to under subsection (1) holds meetings with the affected people or communities to explain the nature of the activity and its effects.\n[11 of 2020, s. 5(b) w.e.f. 1 April 2021.]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Preparation of Environmental Impact Assessment Documentation",
+      "section": "8",
+      "title": "Terms of reference",
+      "content": "8. Terms of reference\n(1) A practitioner shall prepare the terms of reference required under section 6(10)( b ) at the applicant's own expense.\n[11 of 2020, s. 6 w.e.f. 1 April 2021.]\n(2) The terms of reference shall be in the prescribed form.\n[11 of 2020, s. 6 w.e.f. 1 April 2021.]"
+    },
+    {
+      "provision_ref": "s8A",
+      "chapter": "PART II Preparation of Environmental Impact Assessment Documentation",
+      "section": "8A",
+      "title": "Assessment of scoping report",
+      "content": "8A. Assessment of scoping report\n(1) An applicant shall, after complying with sections 7 and 8, submit the terms of reference and the results of the scoping exercise to the competent authority.\n[11 of 2020, s. 7 w.e.f. 1 April 2021.]\n(2) In considering the terms of reference, the competent authority shall consult with relevant technical departments or local authorities, and may—\n( a ) conduct such investigation as it considers necessary to ascertain the validity of the scoping exercise; or\n( b ) request the applicant to provide additional information to clarify the terms of reference.\n[11 of 2020, s. 7 w.e.f. 1 April 2021.]\n(3) Where the competent authority is satisfied that the terms of reference will adequately assist in guiding the environmental impact assessment or a strategic environmental assessment of the proposed activity, the competent authority shall approve the terms of reference within 10 working days of receipt of the terms of reference and the scoping report.\n[11 of 2020, s. 7 w.e.f. 1 April 2021.]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Preparation of Environmental Impact Assessment Documentation",
+      "section": "9",
+      "title": "Environmental assessment and statement",
+      "content": "9. Environmental assessment and statement\n(1) Where—\n( a ) upon consideration of all the information, the competent authority determines that the proposed activity is likely to have a significant adverse environmental impact, it shall require that such activity undergo environmental impact assessment, the costs of which shall be borne by the developer; or"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "activity",
+      "definition": "a project, programme, plan or policy",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Association",
+      "definition": "a body registered under the Societies Act (Cap. 18:01), which adequately demonstrates to the Minister that it is representative of the majority of Environmental Assessment Practitioners practising in Botswana at any given time",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Environmental Assessment Practitioners Board established under section 20 of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the Chairperson of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "committee",
+      "definition": "a committee of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "developer",
+      "definition": "a person intending or planning to undertake a new activity or repair or extend an existing activity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the Director responsible for environmental affairs",
+      "source_provision": "s2"
+    },
+    {
+      "term": "environment",
+      "definition": "the physical, ecological, archaeological, aesthetic, cultural, economic, institutional, human health and social aspects of the surroundings of a person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "environmental audit",
+      "definition": "work done to identify and evaluate compliance of the statement and the residual environmental impact of an existing activity, the effectiveness of mitigation measures and the functioning of monitoring mechanisms",
+      "source_provision": "s2"
+    },
+    {
+      "term": "environmental impact",
+      "definition": "any positive or negative effects caused by an activity on the environment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "environmental impact assessment",
+      "definition": "the process and procedure for evaluating and predicting the likely environmental impact of a proposed activity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "environmental management plan",
+      "definition": "a basic environmental assessment which excludes the development of a scoping report but may include the requirement for public review",
+      "source_provision": "s2"
+    },
+    {
+      "term": "evaluation report",
+      "definition": "a report on studies carried out to ensure that environmental considerations are taken into account when an activity is implemented",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local authority",
+      "definition": "a land board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board elected, appointed or nominated under section 22",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mitigation measures",
+      "definition": "the reduction or control of the adverse environmental impact of an activity and includes restitution for any damage to the environment caused by such activity through engineering works, technological improvements, management measures or compensation to ameliorate any loss suffered by a person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "practitioner",
+      "definition": "an Environmental Assessment Practitioner registered under section 37",
+      "source_provision": "s2"
+    },
+    {
+      "term": "private reviewer",
+      "definition": "a person appointed as such by the Director under section 62(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "project brief",
+      "definition": "a description of the likely environmental impact of an activity provided by the applicant as part of the application",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "a register of practitioners established under section 38",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rehabilitation plan",
+      "definition": "an outline of measures for the treatment or management of disturbed land, air or water for the purpose of establishing a safe and stable environment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "relevant technical department",
+      "definition": "a government department or local authority responsible for monitoring an activity undertaken under this Act, by virtue of that department or local authority having the necessary technical expertise to do so",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reviewer",
+      "definition": "an officer who is designated as such under section 62(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "scoping",
+      "definition": "consultations with concerned government departments, local authorities, non-governmental organisations, members of the public and any other interested persons, to determine the extent of the likely environmental impact of a proposed activity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "statement",
+      "definition": "a report of the environmental assessment study",
+      "source_provision": "s2"
+    },
+    {
+      "term": "strategic environmental assessment",
+      "definition": "a process for evaluating the environmental consequences of proposed policy, plan or programme initiatives in order to ensure that they are fully included and appropriately addressed at the earliest stage of decision making, on par with economic and social considerations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "terms of reference",
+      "definition": "a document which details the main environmental issues which must be addressed in an environmental impact study",
+      "source_provision": "s2"
+    },
+    {
+      "term": "waste management plan",
+      "definition": "an outline of waste streams and treatment options comprising of the collection, temporary storage and safe disposal of the waste streams associated with an activity and includes provisions for the recovery, re-use and recycling of waste",
+      "source_provision": "s2"
+    },
+    {
+      "term": "working day",
+      "definition": "any day other than a Saturday, Sunday or any day which is a public holiday under the Public Holidays Act.\n[11 of 2020, s. 2(a) w.e.f. 1 April 2021.]",
+      "source_provision": "s2"
+    }
+  ]
+}

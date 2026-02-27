@@ -1,0 +1,108 @@
+{
+  "id": "bw-sub-immigration-subsidiary-legislation",
+  "type": "statute",
+  "title": "Immigration: Subsidiary Legislation",
+  "title_en": "Immigration: Subsidiary Legislation",
+  "short_name": "Immigration: Subsidiary Leg...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/immigration-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Immigration (Points of Entry) Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Specified points of entry",
+      "content": "2. Specified points of entry\nThe border posts, rail entry points and airports set out in the Schedule are hereby specified as points of entry into Botswana for the purposes of the Act."
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Immigration (Transfer of Minister's Powers) Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Delegation of powers to Permanent Secretary",
+      "content": "2. Delegation of powers to Permanent Secretary\nThe power conferred on the Minister of Labour and Home Affairs to issue or renew residence permits under section 21 of the Immigration Act is hereby transferred to the Permanent Secretary, Ministry of Labour and Home Affairs, to exercise it only in so far as the issue or renewal of a residence permit concerns a refugee recognised under the Refugees (Recognition and Control) Act (Cap. 25:01)."
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThis Order may be cited as the Immigration (Exemption) Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Persons exempt from presenting themselves to an immigration officer",
+      "content": "2. Persons exempt from presenting themselves to an immigration officer\nMembers of the classes of persons named in the First Schedule are exempted from complying with the provisions of section 4 of the Act, provided they are in possession of valid passports or certificates of identity."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Persons exempt from obtaining a residence or work permit",
+      "content": "3. Persons exempt from obtaining a residence or work permit\nMembers of the classes of persons named in the Second Schedule are exempted from obtaining a permit in order to reside or work in Botswana, provided they are in possession of valid passports or certificates of identification."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Exemption from obtaining residence permit by persons who ceased to be citizens of Botswana",
+      "content": "4. Exemption from obtaining residence permit by persons who ceased to be citizens of Botswana\nA person who ceases to be a citizen of Botswana by birth or descent by virtue of the provisions of section 15 of the Citizenship Act is exempt from obtaining a permit order to reside or work in Botswana provided he or she is in possession of a valid passport or certificates of identification of his or her country of citizenship."
+    },
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Immigration (Identification of Immigrants) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Immigration officer may photograph, fingerprint, etc.",
+      "content": "2. Immigration officer may photograph, fingerprint, etc.\nAn immigration officer may, for the purpose of ascertaining whether any person is or is not a prohibited immigrant, take or cause to be taken the photograph, fingerprint or palmprint of such person."
+    },
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Immigration Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires \"visitor's permit\" means a permit issued under section 19 of the Act."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Immigration Procedures (regs 3-4)",
+      "section": "3",
+      "title": "Declaration upon arrival or departure",
+      "content": "3. Declaration upon arrival or departure\nAny person entering or leaving Botswana through a specified point of entry under section 4 of the Act, shall present himself or herself to an immigration officer and may be required—\n( a ) to complete—\n(i) an arrival or departure form in Form I set out in the Schedule; and\n(ii) a personal declaration to establish nationality in Form 2 set out in the Schedule or any such form as may be required by the immigration officer; or\n( b ) to furnish to the immigration officer such information as is necessary to enable the forms under paragraph ( a ) to be completed by the immigration officer in respect of such person."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Immigration Procedures (regs 3-4)",
+      "section": "4",
+      "title": "Prescribed diseases",
+      "content": "4. Prescribed diseases\n(1) A person who has undergone a medical examination under regulation 5 and is infected or afflicted with or suffering from any of the following diseases shall be declared an undesirable immigrant—\n( a ) favus;\n( b ) framboesia or yaws;\n( c ) leprosy;\n( d ) scabies;\n( e ) syphilis;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "visitor's permit",
+      "definition": "a permit issued under section 19 of the Act.",
+      "source_provision": "s2"
+    }
+  ]
+}

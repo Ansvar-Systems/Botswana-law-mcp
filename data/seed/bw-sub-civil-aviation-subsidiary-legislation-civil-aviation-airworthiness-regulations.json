@@ -1,0 +1,470 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-airworthiness-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (airworthiness) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (airworthiness) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-airworthiness-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary Provisions (regs 1-3)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Airworthiness) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary Provisions (regs 1-3)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"aeronautical product\" means an aircraft, aircraft engine, aircraft propeller or a part to be installed thereon;\n\"aeroplane\" means a power-driven heavier-than-air aircraft deriving its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight;\n\"aircraft\" means any machine that can derive support in the atmosphere from the reactions of the air other than reactions of the air against the earth's surface;\n\"Airworthiness Directive\" means a mandatory document which identifies aeronautical products in which an unsafe condition exists and where the unsafe condition is likely to exist or develop in other products of the same type design and also prescribes the corrective actions to be taken or the conditions or limitations under which the products may continue to be operated;\n\"airworthy\" means the status of an aircraft, engine, propeller, or part when it conforms to its approved design and is in a condition safe for operation;\n\"appropriate airworthiness requirements\" means the comprehensive and detailed airworthiness codes established, adopted or accepted by a contracting State for the class of aircraft, engine or propeller under consideration;\n\"appropriate Authority\" means the Civil Aviation Authority of a contracting State;\n\"authorisation\" means a document issued to validate a foreign certificate of airworthiness under regulation 12;\n\"Category A\" with respect to helicopters, means a multi-engine helicopter designed with engine and system isolation features specified in Part IVB of Annex 8 of the International Civil Aviation Organisation (ICAO) document, and capable of operations using take-off and landing data scheduled under a critical engine failure concept which assures adequate designated surface area and adequate performance capability for continued safe flight or safe rejected take-off;\n\"Category B\" means, with respect to helicopters, a single engine or multi-engine helicopter which does not meet Category A standards, and which also have no guaranteed capability to continue safe flight in the event of an engine failure, and a forced landing is assumed;\n\"certificate of airworthiness\" means a certificate issued under regulation 9;\n\"certificate of release to service\" means a document which contains a certification confirming that the maintenance work to which it relates has been completed in a satisfactory manner in accordance with appropriate airworthiness requirements;\n\"Chicago Convention\" means the Convention on International Civil Aviation;\n\"configuration\" means a particular combination of the positions of the moveable elements, such as wing flaps and landing gear, that affect the aerodynamic characteristics of the aeroplane;\n\"continuing airworthiness\" means the set of processes by which an aircraft, engine, propeller or part complies with the applicable airworthiness requirements and remains in a condition for safe operation throughout its operating life;\n\"contracting State\" means a signatory to the Chicago Convention;\n\"critical engine\" means any engine whose failure gives the most adverse effect on the aircraft characteristics relative to the case under consideration;\n\"engine\" means a unit used or intended to be used for aircraft propulsion which consists of at least those components and equipment necessary for functioning and control, but excludes the propeller or rotors if applicable;\n\"helicopter\" means a heavier-than-air aircraft supported in flight chiefly by the reactions of the air on one or more power-driven rotors on substantially vertical axes;\n\"human factors principles\" means principles which apply to aeronautical design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance;\n\"maintenance\" means the performance of tasks on an aircraft, engine, propeller or associated part required to ensure the continuing airworthiness of an aircraft, engine, propeller or associated part including any one or combination of overhaul, inspection, replacement, defect rectification and the embodiment of a modification or repair;\n\"maintenance records\" means records that set out the details of the maintenance carried out on an aircraft, engine, propeller or associated part;\n\"major modification\" means a change in the type design that has an appreciable effect, or other than a negligible effect, on the mass and balance limits, structural strength, engine operation, flight characteristics, reliability, operational characteristics, or other characteristics or qualities affecting the airworthiness or environmental characteristics of an aeronautical product;\n\"major repair\" means any repair of an aeronautical product that might appreciably affect the structural strength, performance, engine, operation flight characteristics or other qualities affecting airworthiness or environmental characteristics;\n\"minor modification\" means a modification other than a major modification, that is, a design change that has a negligible, or no appreciable effect on the mass, balance, structural strength, reliability, operational characteristics or other characteristics affecting the airworthiness of the aeronautical product;\n\"minor repair\" means a repair other than a major repair, that is, a repair that has a negligible effect on the airworthiness of the affected aeronautical product;\n\"modification\" means a change to the type design of an aircraft, engine or propeller, this may also include the embodiment of the modification which is a maintenance task subject to a maintenance release;\n\"organisation responsible for the type-design\" means the organisation that holds the Type Certificate, or equivalent document, for an aircraft, engine or propeller type, issued by a contracting State;\n\"Performance Class 1 helicopter\" means a helicopter with performance such that, in case of engine failure it is able to land on the rejected take-off area or safely continue the flight to an appropriate landing area;\n\"Performance Class 2 helicopter\" means a helicopter with performance such that, in case of engine failure, it is able to safely continue the flight, except when the failure occurs prior to a defined point after take-off or after a defined point before landing, in which cases a forced landing maybe required;\n\"Performance Class 3 helicopter\" means a helicopter with performance such that, in case of engine failure at any point in the flight profile, a forced landing shall be performed;\n\"rendering a Certificate of airworthiness valid\" means the action taken by the Authority, as an alternative to issuing its own Certificate of Airworthiness, in accepting a Certificate of Airworthiness issued by any other appropriate Authority as the equivalent of its own Certificate of Airworthiness;\n\"repair\" means the restoration of an aircraft, engine, propeller or associated part to an airworthy condition in accordance with the appropriate airworthiness requirements after it has been damaged or subjected to wear;\n\"satisfactory evidence\" means a set of documents or activities that the Authority accepts as sufficient to show compliance with an airworthiness requirement;\n\"standard atmosphere\" means an atmosphere defined as follows—\n( a ) the air is a perfect dry gas;\n( b ) the physical constants are—\n(i) Sea level mean molar mass: M0 = 28.964 420 x 10-3kg mol-1,\n(ii) Sea level atmospheric pressure: P0 = 1013.250 hPa,\n(iii) Sea level temperature: t0 = 15Â℃C T0 = 288.15 K,\n(iv) Sea level atmospheric density: = 1.2250kg m-3,\n(v) Temperature of the ice point: Ti = 273.15K, and\n(vi) Universal gas constant: R* - 8.314 32 JK-1 mol-1;\n( c ) the temperature gradients are—\nGeopotential altitude (km)\nTemperature gradient (Kelvin per standard geopotential kilometre)\nFrom\nTo\n-5.0\n11.0\n-6.5\n11.0\n20.0\n0.0\n20.0\n32.0\n+1.0\n32.0\n47.0\n+2.8\n47.0\n51.0\n0.0\n51.0\n71.0\n-2.8\n71.0\n80.0\n-2.0\n\"State of Design\" means the State which has jurisdiction over the organisation responsible for the type design;\n\"State of Manufacture\" means the State which has jurisdiction over the organisation responsible for the final assembly of the aircraft, engine or propeller;\n\"State of Registry\" means the state on whose register the aircraft is entered;\n\"supplemental type certificate\" means a certificate issued under regulation 5;\n\"technical standard order\" means a minimum performance standard issued by the authority in the State of Manufacture for specified materials, parts, processes and appliances used on a civil aircraft;\n\"type acceptance certificate\" means a certificate issued under regulation 4;\n\"Type certificate\" means a document issued by the Authority to define the design of an aircraft, engine or propeller type and to certify that this design meets the appropriate airworthiness requirements of Botswana;\n\"Type Design\" means the set of data and information necessary to define an aircraft, engine or propeller type for the purpose of airworthiness determination; and\n\"Visual Meteorological Conditions\" means meteorological conditions expressed in terms of visibility distance from cloud and ceiling, equal to or better than specified minima."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary Provisions (regs 1-3)",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Regulations shall apply to all persons operating or maintaining the following—\n( a ) an aircraft registered in Botswana, wherever operated;\n( b ) an aircraft registered in another contracting State that is operated by a person licensed in Botswana, and shall be maintained in accordance with the standards of the aircraft State of Registry, wherever that maintenance is performed; and\n( c ) an aircraft of another contracting State operating in Botswana."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Type Acceptance Certificate and Supplemental Type Certificate (regs 4-5)",
+      "section": "4",
+      "title": "Type acceptance certificate",
+      "content": "4. Type acceptance certificate\n(1) A person who intends to operate an aircraft that qualifies for a certificate of airworthiness in Botswana shall apply for a type acceptance certificate in Form A set out in Schedule 1.\n(2) An application for a type acceptance certificate shall be accompanied by a type certificate which defines the design of the aircraft for which a type acceptance certificate is sought.\n(3) A type certificate shall show the type and design of an aircraft for which it is issued and certify that the design meets the appropriate airworthiness requirements of that State.\n(4) The Authority may, where the applicant meets all the requirements, issue a type acceptance certificate which shall be in Form B set out in Schedule 1.\n(5) The Authority may suspend a type acceptance certificate for an aircraft, engine or propeller type upon receiving notification from the State of Design of the suspension of a type certificate on the basis of which the type acceptance certificate was issued, until implementation of any action recommended by the State of Design.\n(6) The Authority may revoke a type acceptance certificate for an orphaned aircraft type, engine or propeller type upon receiving notification from the State of Design of the revocation of a type certificate on the basis of which the type acceptance certificate was issued."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Type Acceptance Certificate and Supplemental Type Certificate (regs 4-5)",
+      "section": "5",
+      "title": "Supplemental type certificate",
+      "content": "5. Supplemental type certificate\n(1) Subject to subregulation (2), any person who wishes to alter a product in Type Design shall apply for a supplemental type certificate to the State of Design that issued the type certificate for that product.\n(2) A supplemental type certificate shall only be issued where the nature of the modification is not substantial to require a new application for a type certificate."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "6",
+      "title": "Certificate of airworthiness",
+      "content": "6. Certificate of airworthiness\n(1) Subject to subregulation (2), an aircraft shall not fly in Botswana unless there is in force in respect of the aircraft, a certificate of airworthiness issued by—\n( a ) the Authority under regulation 9;\n( b ) the State of Registry; or\n( c ) the State of Operator.\n(2) Subregulation (1) shall not apply to flights made wholly within Botswana by—\n( a ) a glider, if it is not being used for the commercial air transport of passengers or aerial work other than aerial work which consists of the giving of instruction in flying or the conducting of flying tests in a glider owned or operated by a flying club of which the person giving the instruction or conducting the test and the person receiving the instruction or undergoing the test are both members;\n( b ) a balloon flying on a private flight;\n( c ) a kite;\n( d ) a powerchute;\n( e ) an aircraft flying in accordance with a permit to fly issued by the Authority under regulation 24; or\n( f ) an aircraft that has been issued with a special flight permit under regulation 32.\n(3) A person who contravenes subregulation (1) commits an offence and is liable to a fine not exceeding P50 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "7",
+      "title": "Application for certificate of airworthiness",
+      "content": "7. Application for certificate of airworthiness\n(1) An application for a certificate of airworthiness shall be made to the Authority in Form C set out in Schedule 1, and shall include—\n( a ) details of the design, construction, workmanship and materials used on the aircraft, including any engines fitted in the aircraft, and any equipment fitted in the aircraft which is necessary for the airworthiness of the aircraft;\n( b ) the results of reports of any flying trials or other tests that the aircraft underwent;\n( c ) a type acceptance certificate issued under regulation 4;\n( d ) a certificate of release to service;\n( e ) a maintenance program, flight manual and where applicable, a minimum equipment list for the approval of the Authority; and\n( f ) such other reports or documents as the Authority may request.\n(2) An application for a certificate of airworthiness shall be accompanied by a non-refundable application fee set out in Schedule 3.\n(3) An applicant shall make available for inspection from time to time as may be required by the Authority, the records of the aircraft and provide such other documents as may be required including the following—\n( a ) logbook entries;\n( b ) valid radio licence; and\n( c ) weight and balance schedule.\n(4) An owner or operator of an aircraft shall ensure that the reports or other documents referred to under this regulation are updated, complete, orderly and legible.\n(5) The operator shall ensure that the Authority is provided with the latest airworthiness information from the manufacturers for the purpose of continued airworthiness of the aircraft."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "8",
+      "title": "Periodic determination of aircraft mass and balance",
+      "content": "8. Periodic determination of aircraft mass and balance\n(1) An owner or operator of an aircraft shall establish the mass and the centre of gravity of an aircraft by actual weighing prior to initial issue of a certificate of airworthiness, except in cases of—\n( a ) a newly manufactured aircraft, where the mass and balance has been previously determined by the manufacturer and recorded in the mass and balance report; or\n( b ) the importation of an aircraft, where the aircraft has been previously weighed prior to importation with any changes to mass computed and recorded in the mass and balance report,\nand thereafter at intervals of four years.\n(2) An owner or operator of an aircraft shall ensure that the accumulated effects of modifications and repairs on the mass and balance are accounted for and properly documented, and the aircraft shall be re-weighed if the effect of modifications on the mass and balance is not accurately known.\n(3) An owner or operator of an aircraft shall ensure that the reports or other documents referred to under this regulation are updated, complete, orderly and legible.\n(4) The operator shall ensure that the Authority is provided with the latest airworthiness information from the manufacturer for the purpose of continued airworthiness of the aircraft."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "9",
+      "title": "Issue of certificate of airworthiness",
+      "content": "9. Issue of certificate of airworthiness\n(1) Subject to this regulation, the Authority shall, where it is satisfied that an aircraft meets the requirements under regulation 7, issue a certificate of airworthiness in the categories provided under subregulation (3).\n(2) The certificate of airworthiness shall specify the category under which it is issued as may be determined by the Authority and appropriate to the aircraft operation.\n(3) The certificate of airworthiness shall be issued subject to the condition that the aircraft shall be flown only for the specific purpose of the category as follows—\n( a ) commercial air transport (Passenger): Any purpose;\n( b ) commercial air transport (Cargo): Any purpose other than commercial air transport passengers;\n( c ) general aviation: Any purpose other than commercial air transport and aerial work; and\n( d ) aerial work: Purpose includes such tasks as aerial photography, aerial survey (geological and ordinance survey), electrical power line and gas pipeline inspection, carriage of external loads.\n(4) The Authority shall issue a certificate of airworthiness for the particular category applied for in Form D set out in Schedule 1 on payment of a fee set out in Schedule 3.\n(5) The Authority may refuse to issue a certificate of airworthiness where an application does not meet the requirements set out in these Regulations.\n(6) The Authority shall not issue or render valid a certificate of airworthiness for which it intends to claim recognition unless it has satisfactory evidence that the aircraft complies with these Regulations.\n(7) The Authority may, when issuing a certificate of airworthiness, consider a previous certificate of airworthiness issued by an appropriate Authority, in whole or part, as satisfactory evidence that the aircraft complies with the appropriate airworthiness requirements.\n(8) The certificate of airworthiness shall contain the information shown in Form D as set out in the Schedule 1.\n(9) The Authority shall require, where a certificate of airworthiness issued by an appropriate Authority is in a language other than English, an English translation of the certificate of airworthiness.\n(10) Each aircraft shall be provided with a flight manual, placards or other documents stating the approved limitations within which the aircraft is considered airworthy as defined by the appropriate airworthiness requirements and additional instructions and information necessary for the safe operation of the aircraft.\n(11) The flight manual shall identify clearly the specific aircraft or series of aircraft to which it is related, and shall include at least the limitations, information and procedures specified in the appropriate airworthiness requirements.\n(12) Any failure to maintain an aircraft in an airworthy condition as defined by the appropriate airworthiness requirements shall render the aircraft ineligible for operation until the aircraft is restored to an airworthy condition."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "10",
+      "title": "Issue of authorisation",
+      "content": "10. Issue of authorisation\n(1) The Authority may issue authorisation to any person who holds a certificate of airworthiness issued in another State where the foreign issued certificate is still valid and upon payment of a fee set out in Schedule 3.\n(2) An authorisation issued under subregulation (1) shall be in writing and shall not extend beyond the period of validity of the certificate of airworthiness being rendered valid.\n(3) An authorisation shall be carried, together with the original foreign issued certificate of airworthiness, in the aircraft for which it is issued at all times.\n(4) The Authority shall ensure that the continuing airworthiness of the aircraft is determined in accordance with these Regulations."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "11",
+      "title": "Conditions of issue of certificate of airworthiness",
+      "content": "11. Conditions of issue of certificate of airworthiness\n(1) The Authority may issue the certificate of airworthiness under the following terms and conditions—\n( a ) for the certificate holder to immediately inform the Authority, in writing of—\n(i) any change in the particulars which were furnished to the Authority at the time of making an application under these Regulations, and\n(ii) the destruction of the aircraft, or its permanent withdrawal from use;\n( b ) for the certificate holder to comply with any conditions under these Regulations; or\n( c ) for the certificate holder to comply with any other conditions which the Authority may impose.\n(2) A person who fails to inform the Authority of any change in particulars in terms of subregulation (1)( a ) commits an offence and shall be liable to a fine not exceeding P5 000, or to imprisonment to a term not exceeding two years, or to both."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "12",
+      "title": "Variation of certificate of airworthiness",
+      "content": "12. Variation of certificate of airworthiness\n(1) The Authority may vary or modify any conditions of a certificate of airworthiness upon application by an owner or operator or on the Authority's own initiative.\n(2) The Authority shall not accept an application for variation of a certificate of airworthiness where the application is not accompanied by such reports from such authorised or approved persons as the Authority may specify.\n(3) An application for variation of a certificate of airworthiness shall be—\n( a ) made to the Authority in Form C Set out in Schedule 1; and\n( b ) accompanied by—\n(i) a fee set out in Schedule 3, and\n(ii) such reports from such authorised or approved persons as the Authority may specify.\n(4) The Authority may, where the applicant meets all the requirements vary the conditions of a certificate of airworthiness as it may deem appropriate."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "13",
+      "title": "Duration of certificate of airworthiness",
+      "content": "13. Duration of certificate of airworthiness\nA certificate of airworthiness shall be valid for a period of 12 months from the date of issue, or such shorter duration as may be specified by the Authority, unless suspended or revoked."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "14",
+      "title": "Renewal of certificate of airworthiness",
+      "content": "14. Renewal of certificate of airworthiness\n(1) An application for the renewal of a certificate of airworthiness shall be—\n( a ) made to the Authority 30 days before the expiry of the certificate in Form C set out in Schedule 1; and\n( b ) accompanied by the renewal fee set out in Schedule 3.\n(2) The applicant shall make available for inspection, from time to time as may be required by the Authority, the aircraft and aircraft records including flight test report where applicable certificate of release to service and provide such other documents as may be required including the following—\n( a ) logbook entries;\n( b ) valid radio licence; and\n( c ) weight and balance schedule.\n(3) The Authority may renew a certificate of airworthiness where the application for renewal meets the requirements of these Regulations.\n(4) Where an application for renewal is made after a period not exceeding 12 months after the expiry of the certificate of airworthiness, the Authority may renew the certificate of airworthiness subject to the payment of a penalty.\n(5) The penalty payable in accordance with subregulation (4) shall be a sum equal to one quarter of the renewal fee multiplied by the number of months which have elapsed since the date of which the validity of the certificate of airworthiness expired calculated to the nearest Pula.\n(6) An application for the renewal of a certificate of airworthiness that expired 12 months or more prior to the application for renewal shall be treated as an application for a new certificate of airworthiness and the provisions of regulation 7 shall apply."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "15",
+      "title": "Transfer and surrender of certificate of airworthiness",
+      "content": "15. Transfer and surrender of certificate of airworthiness\n(1) The owner or operator of an aircraft shall transfer the certificate of airworthiness to a—\n( a ) lessee of an aircraft, for which the certificate of airworthiness is issued whether the aircraft is to be used within or outside Botswana; or\n( b ) buyer, on the sale of the aircraft within Botswana.\n(2) The owner or operator of an aircraft may surrender a certificate of airworthiness to the Authority upon the sale of the aircraft outside Botswana.\n(3) A person who fails to transfer the certificate of airworthiness in terms of subregulation (1) commits an offence and is liable to a fine not exceeding P40 000, or to imprisonment for a term not exceeding four years, or to both."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "16",
+      "title": "Issue of duplicate certificate of airworthiness",
+      "content": "16. Issue of duplicate certificate of airworthiness\n(1) The owner or operator of an aircraft whose certificate of airworthiness is lost, destroyed or mutilated may, by application to the Authority, and on payment of a fee set out in Schedule 3, obtain a duplicate certificate.\n(2) An application for a duplicate certificate shall be accompanied by the following documents—\n( a ) a letter of request explaining why the duplicate certificate is sought;\n( b ) an affidavit sworn before a Commissioner of Oath before the Botswana Police Service;\n( c ) a certified copy of identification or in the case of a company, certificate of incorporation; and\n( d ) a copy of aircraft's registration certificate."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "17",
+      "title": "Suspension of certificate of airworthiness",
+      "content": "17. Suspension of certificate of airworthiness\n(1) The Authority may suspend a certificate of airworthiness until the satisfactory completion of—\n( a ) any inspection made for the purpose of ascertaining whether the aircraft remains airworthy;\n( b ) the maintenance of the aircraft or its equipment; or\n( c ) any modification of the aircraft or its equipment, required by a maintenance programme under these Regulations.\n(2) The Authority shall, where an aircraft sustains damage, determine whether the damage is of a nature such that the aircraft is no longer airworthy.\n(3) The Authority of a contracting State within which an aircraft is damaged on or from where some form of damage is ascertained within, shall—\n( a ) be entitled to prevent the aircraft from resuming its flight; and\n( b ) advise the Authority immediately, communicating to it all details necessary to formulate the determination referred to in subregulation (2) above.\n(4) The Authority may suspend a certificate of airworthiness where an aircraft is damaged, and shall be entitled to prevent the aircraft from resuming flight until an assessment by the Authority.\n(5) The Authority may, prohibit the aircraft from resuming flight until it is restored to an airworthy condition, when it considers that the damage sustained is of a nature such that the aircraft is no longer airworthy.\n(6) The Authority may, in exceptional circumstances, specify particular limiting conditions to permit an aircraft to fly a non-commercial air transport operation to an aerodrome at which it shall be restored to an airworthy condition.\n(7) The Authority shall, in prescribing particular limiting conditions, consider all limitations proposed by the contracting State that had originally, in accordance with subregulation (3), prevented the aircraft from resuming its flight.\n(8) The contracting State shall permit such flight or flights within the specified limitations.\n(9) The Authority may allow an aircraft to resume its flight where it considers that the damage sustained is of a nature such that the aircraft is still airworthy."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "18",
+      "title": "Responsibilities of State of Registry",
+      "content": "18. Responsibilities of State of Registry\n(1) The Authority shall—\n( a ) when it first enters on its register an aircraft of a particular type for which the Authority is not the State of Design, and issues or validates a certificate of airworthiness, advise the State of Design that it has entered such an aircraft on its register;\n( b ) determine the continuing airworthiness of an aircraft in relation to the appropriate airworthiness requirements in force for that aircraft;\n( c ) develop or adopt requirements to ensure the continuing airworthiness of the aircraft during its service life, including requirements to ensure that the aircraft—\n(i) continues to comply with the appropriate airworthiness requirements after a modification, a repair or the installation of a replacement part, and\n(ii) is maintained in an airworthy condition and in compliance with the maintenance requirements of Civil Aviation (Air Operator Certification and Administration) Regulations (Cap. 71:01 (Sub. Leg.)), and these Regulations;\n( d ) upon receipt of mandatory continuing airworthiness information from the State of Design, adopt the mandatory information directly or assess the information received and take appropriate action;\n( e ) ensure that all mandatory continuing airworthiness information which it, as the Authority, originated in respect of that aircraft is transmitted to the appropriate State of Design; and\n( f ) ensure that, in respect of aeroplanes over 5 700 kg and helicopters over 3 175 kg maximum certificated take-off mass, there exists a system whereby information on faults, malfunctions, defects and other occurrences that cause or might cause adverse effects on the continuing airworthiness of the aircraft is transmitted to the organisation responsible for the type design of that aircraft.\n(2) Whenever the information in subregulation (1)( d ) relates to an engine or propeller, such information shall be transmitted to both the organisation responsible for engine or propeller type design and the organisation responsible for aircraft type design.\n(3) The Authority shall, where a continuing airworthiness safety issue is associated with a modification, ensure that there exists a system whereby information is transmitted to the organisation responsible for the design of the modification.\n(4) The Authority shall, in distributing mandatory continuing airworthiness information, ensure that sensitive aviation security information is not transmitted.\n(5) The Authority shall ensure that, where sensitive aviation security information has to be transmitted to the appropriate authority in the State of Design, such information is securely transmitted in accordance with the Civil Aviation (Aviation Security) Regulations (Cap. 71:01 (Sub. Leg.))."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "19",
+      "title": "Revocation of certificate of airworthiness",
+      "content": "19. Revocation of certificate of airworthiness\nThe Authority may revoke a certificate of airworthiness where—\n( a ) the aircraft has been overhauled, repaired or modified without the approval of the Authority;\n( b ) any part or equipment of the aircraft has been removed or replaced without the approval of the Authority;\n( c ) an aircraft is not maintained in an airworthy condition as specified under these Regulations;\n( d ) the aircraft is destroyed or permanently withdrawn from use;\n( e ) in the case of commercial aircraft, the aircraft is not maintained by an approved maintenance organisation; or\n( f ) the holder of the certificate of airworthiness contravenes any provision of these Regulations."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "20",
+      "title": "Export airworthiness certificate",
+      "content": "20. Export airworthiness certificate\n(1) Subject to subregulation (2), any person who wishes to export or transfer an aircraft which has been issued with a type certificate onto the register of another State shall apply, in Form E set out in Schedule 1, to the Authority for an export airworthiness certificate.\n(2) The application under subregulation (1) shall be accompanied by—\n( a ) the conformity certification;\n( b ) information stating whether the aircraft is new or used;\n( c ) the fee set out in Schedule 3; and\n( d ) any other requirements as may be specified by the Authority.\n(3) A person who wishes to export a new aircraft shall apply to the State of Manufacture.\n(4) Subject to subregulation (2), any person who wishes to export a Class I product other than a complete aircraft shall apply to the Authority for an export airworthiness certificate in Form E set out in Schedule 1.\n(5) The Authority may, where the applicant meets all the requirements, issue an export airworthiness certificate in Form F set out in Schedule 1.\n(6) An export airworthiness certificate issued under this regulation shall be proof of a satisfactory review of the airworthiness of the aircraft being exported or transferred.\n(7) A person who has been issued with an export airworthiness certificate may export aeronautical products under Class 1 product which includes—\n( a ) a complete aircraft;\n( b ) an aircraft engine or propeller which has a type certificate; and\n( c ) a type certificate data sheet."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "21",
+      "title": "Export approval of aeronautical products",
+      "content": "21. Export approval of aeronautical products\n(1) Subject to subregulation (2), any person who wishes to export a Class II and Class III products, shall apply to the Authority for an airworthiness approval tag in Form E set out in Schedule 1.\n(2) The application under subregulation (1) shall be accompanied by—\n( a ) a conformity certification;\n( b ) information stating whether the aeronautical product is new or used;\n( c ) a fee set out in Schedule 3; and\n( d ) any other requirements as may be specified by the Authority.\n(3) A person who wishes to export a new aeronautical product shall apply to the State of Manufacture.\n(4) The Authority may issue an airworthiness approval tag in Form G set out in Schedule 1 to an applicant who meets all the requirements set out in subregulation (2).\n(5) A person who has been issued with an airworthiness approval tag may export aeronautical products under the following classifications—\n( a ) Class II product - a major component of a Class I product such as a wing, fuselage, empennage surface the failure of which would jeopardise the safety of a Class I product or any part, material or system of it; or\n( b ) Class III product - any part or component which is not a Class I or Class II product or standard part."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "22",
+      "title": "Certificate of release to service",
+      "content": "22. Certificate of release to service\n(1) Where an aircraft for which a certificate of airworthiness has been issued under these Regulations, a part of that aircraft or any of its equipment has been—\n( a ) overhauled;\n( b ) repaired;\n( c ) replaced;\n( d ) modified;\n( e ) maintained; or\n( f ) subjected to an inspection,\nsuch aircraft shall not fly unless a certificate of release to service has been issued to it under the Civil Aviation (Approved Maintenance Organisation) Regulations (Cap. 71:01 (Sub. Leg.)).\n(2) An owner or an operator of an aircraft which has been issued with a certificate of release to service when the aircraft, a part of that aircraft or any of its equipment has been—\n( a ) inspected;\n( b ) overhauled;\n( c ) repaired;\n( d ) replaced;\n( e ) modified; or\n( f ) maintained,\nshall not allow any equipment or radio apparatus provided for use in the aircraft or provided in any survival craft carried in the aircraft to be placed or installed for use in the aircraft after the issuance of the certificate of release to service, unless a separate certificate of release to service is sought for the equipment or radio apparatus."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "23",
+      "title": "Permit to fly",
+      "content": "23. Permit to fly\n(1) Subject to regulation 6, a person shall not fly an aircraft which is registered under the Civil Aviation (Aircraft and Registration Marks) Regulations (Cap. 71:01 (Sub. Leg.)) unless a permit to fly is issued for it.\n(2) The Authority may issue a permit to fly in respect of an aircraft that does not qualify for a certificate of airworthiness but is capable of safe flight.\n(3) A person who wishes to fly an aircraft under subregulation (1) shall apply for a permit to fly to the Authority in Form A set out in Schedule 2.\n(4) The application under subregulation (3) shall be accompanied by—\n( a ) a certified copy of a permit to fly or its equivalent issued by the Authority;\n( b ) a fee as set out in Schedule 3; and\n( c ) such other documents as the Authority may require.\n(5) The Authority may issue a permit to fly in respect of an aircraft issued with a permit to fly or equivalent document in another State where the foreign issued permit or equivalent document is still valid and upon payment of a fee set out in Schedule 3.\n(6) A person who contravenes this regulation commits an offence and is liable to a fine not exceeding P50 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "24",
+      "title": "Issue and conditions of permit to fly",
+      "content": "24. Issue and conditions of permit to fly\n(1) The Authority may, where the applicant meets all the requirements for a permit to fly under regulation 23, issue a permit to fly an aircraft which shall be in Form B set out in Schedule 2 under the following conditions—\n( a ) a permit to fly shall not be used to fly an aircraft for commercial air transport or aerial work;\n( b ) the permit to fly shall not be used to carry any person except the minimum flight crew;\n( c ) the permit to fly an aircraft may, with the approval of the Authority—\n(i) be used to fly such aircraft for the purpose of flying displays, associated practice, tests, modification approval and positioning flights or for the exhibition or demonstration of an aircraft where it is clearly stated therein, or\n(ii) be used to fly such aircraft for the purpose of aerial work or the conduct of flying test;\n( d ) that the aircraft, flying in accordance with a permit to fly, be affixed with a placard in frill view of its occupants worded as follows, \"occupants warning this aircraft has not been certificated to internationally accepted certification standards\"; and\n( e ) a copy of the permit is carried on board the aircraft at all times when the aircraft is operating under the conditions of the permit.\n(2) A permit to fly an aircraft shall be valid within Botswana boundaries and where an aircraft is flying under the conditions of a permit to fly an aircraft and the flight involves operations over other States, the operator of the aircraft shall first obtain an authorisation from the Authority or the appropriate authority of each of the States concerned prior to undertaking the flight.\n(3) A person who contravenes subregulation (1)( a ) and ( b ) commits an offence and is liable to a fine not exceeding P50 000, and to imprisonment for a term not exceeding 10 years, or to both.\n(4) A person who contravenes subregulation (1)( c )(i) and ( d ) commits an offence and is liable to a fine not exceeding P30 000, or to imprisonment for a term not exceeding six years, or to both.\n(5) A person who contravenes subregulation (1)( e ) commits an offence and is liable to a fine not exceeding P25 000, or to imprisonment to a term not exceeding five years, or to both."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "25",
+      "title": "Duration of permit to fly",
+      "content": "25. Duration of permit to fly\nA permit to fly an aircraft shall be valid for a period specified by the Authority and shall not exceed 12 months from the date of issue, unless revoked."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "26",
+      "title": "Variation of permit to fly",
+      "content": "26. Variation of permit to fly\n(1) An application for a variation of a permit to fly an aircraft shall be made to the Authority in Form A set out in Schedule 2.\n(2) The application under subregulation (1) shall be accompanied by—\n( a ) a fee set out in Schedule 3; and\n( b ) such reports from such authorised or approved persons as the Authority may specify.\n(3) The Authority shall not accept an application for variation of a permit to fly where the application is not accompanied by such reports from such authorised or approved persons as the Authority may specify.\n(4) The Authority may, where the applicant meets all the requirements and upon payment of a fee set out in Schedule 3, vary the conditions of a permit to fly an aircraft as it may deem appropriate."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "27",
+      "title": "Renewal of permit to fly",
+      "content": "27. Renewal of permit to fly\n(1) An application of renewal of a permit to fly an aircraft shall be made to the Authority in Form A set out in Schedule 2.\n(2) The application under subregulation (1) shall be accompanied by—\n( a ) a fee set out in Schedule 3; and\n( b ) such reports from such authorised or approved persons as the Authority may specify.\n(3) The Authority shall not accept an application for renewal of a permit to fly where the application is not accompanied by such reports from such authorised or approved persons as the Authority may specify.\n(4) The Authority may, where the applicant meets all the requirements and upon payment of a fee set out in Schedule 3, renew a permit to fly for such period as it may deem appropriate."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "28",
+      "title": "Issue of duplicate permit to fly",
+      "content": "28. Issue of duplicate permit to fly\nAn owner or operator of an aircraft for which the permit to fly is lost, destroyed or mutilated may, by application to the Authority, and on payment of the fee set out in Schedule 3, obtain a duplicate permit."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "29",
+      "title": "Suspension of permit to fly",
+      "content": "29. Suspension of permit to fly\nThe Authority may suspend a permit to fly an aircraft until the satisfactory completion of—\n( a ) any inspection made for the purpose of ascertaining whether the aircraft remains capable of safe flight;\n( b ) the maintenance of the aircraft or its equipment in terms of a maintenance programme set out by the owner or approved maintenance organisation and approved by the Authority; or\n( c ) any modification or repair of the aircraft, its engines or propellers or any of its equipment as may be required by the Authority."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "30",
+      "title": "Revocation of permit to fly",
+      "content": "30. Revocation of permit to fly\nThe Authority may revoke a permit to fly an aircraft, where—\n( a ) the aircraft has not been repaired or modified after an inspection report made for the purpose of ascertaining whether the aircraft remains airworthy had recommended such repair or modification;\n( b ) any modification or repair of the aircraft, its engines or propellers or any of its equipment is carried out without the approval of the Authority; and\n( c ) the owner or operator has not complied with the conditions attached to the permit."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "31",
+      "title": "Special flight permit",
+      "content": "31. Special flight permit\n(1) Subject to regulation 6, an owner or operator of an aircraft which is registered under the Civil Aviation (Aircraft Nationality and Registration Marks) Regulations for which a certificate of airworthiness is not in force, shall not fly the aircraft unless a special flight permit is issued for the aircraft.\n(2) An application for a special flight permit shall be made in writing to the Authority, and such application shall contain the following information—\n( a ) the aircraft make, model, serial number and registration marks;\n( b ) the purpose of the flight and proposed itinerary;\n( c ) the crew required to operate the aircraft;\n( d ) details of non-compliance with applicable airworthiness requirements;\n( e ) any restriction the applicant considers necessary for the safe operation of the aircraft; and\n( f ) any other information considered necessary by the Authority for the purpose of prescribing operating limitations.\n(3) An application under subregulation (2) shall be accompanied by a fee set out in Schedule 3.\n(4) The Authority may issue a special flight permit to an aircraft which is capable of safe flight but is unable to meet applicable airworthiness requirements or under any of the following circumstances—\n( a ) where the aircraft is relocated to a base where maintenance is to be performed, or to a point of storage;\n( b ) where testing after repairs, modifications, or maintenance have been performed;\n( c ) when the aircraft is being delivered;\n( d ) where the aircraft is being evacuated from an area of impending danger, or in cases where force majeure is being done; or\n( e ) where the aircraft is being operated at a weight in excess of the aircraft's maximum certified take-off weight for flight beyond normal range where adequate landing facilities or appropriate fuel is not available.\n(5) For purposes of subregulation (4)( d ), the excess weight is limited to additional fuel, fuel carrying facilities, and navigational equipment necessary for flight."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART III Certificate of Airworthiness (regs 6-32)",
+      "section": "32",
+      "title": "Issue and conditions of special flight permit",
+      "content": "32. Issue and conditions of special flight permit\n(1) The Authority may, where the applicant meets all the requirements under regulation 31, and on payment of a fee set out in Schedule 3 issue a special flight permit which shall be in Form C set out in Schedule 2 under the following conditions—\n( a ) that a copy of the special flight permit shall be on board the aircraft at all times when operating under the terms of the special flight permit;\n( b ) that the registration marks assigned to the aircraft by the State of Registry shall be displayed on the aircraft in conformity with the requirements of that State;\n( c ) that persons or property shall not be carried for commercial purposes on the aircraft;\n( d ) that a person shall not be carried in the aircraft unless that person is essential for the purpose of the flight and has been advised of the terms of the special flight permit and the airworthiness status of the aircraft;\n( e ) that the aircraft shall be operated by the crew who are aware of the purpose of the flight and any limitations imposed and who hold appropriate certificates or licences issued or validated by the Authority;\n( f ) that all flights in that aircraft shall be conducted so as to avoid areas of heavy traffic or any other areas where flights might create hazardous exposure to persons or property;\n( g ) that all flights shall be conducted within the performance operating limitations prescribed in the aircraft flight manual and any other additional limitations as may be specified by the Authority;\n( h ) that the special flight permit is not valid for use in foreign airspace unless validated by foreign civil aviation authorities whose airspace will be overflown;\n( i ) that the operator satisfies itself that the aircraft is fit for the intended flight and all maintenance and operational requirements have been met; and\n( j ) that the flight be conducted during Day Visual Meteorological Conditions and within the parameters as dictated by the Configuration Deviation List or the Minimum Equipment List.\n(2) Any person who contravenes this regulation commits an offence and is liable to a fine not exceeding P50 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART IV Continuing Airworthiness of Aircraft and Aircraft Components (regs 33-47)",
+      "section": "33",
+      "title": "Responsibility for maintenance",
+      "content": "33. Responsibility for maintenance\n(1) An owner or operator of an aircraft, shall maintain the aircraft in an airworthy condition by ensuring that—\n( a ) the maintenance, overhaul, modifications and repairs which affect airworthiness are performed as provided under these Regulations;\n( b ) the maintenance personnel make appropriate entries in the aircraft maintenance records certifying that the aircraft is airworthy;\n( c ) the approval for a certificate of release to service is completed to the effect that the maintenance work performed has been completed satisfactorily and in accordance with the methods set out by the Authority;\n( d ) in the event there are open discrepancies, the certificate of release to service shall include a list of the uncorrected maintenance items for which temporary relief is provided in the Minimum Equipment List, where applicable, and these items are made a part of the aircraft permanent record;\n( e ) the operational and emergency equipment necessary for an intended flight is serviceable; and\n( f ) maintenance of the aircraft is performed in accordance with the approved maintenance programme.\n(2) The holder of an air operator's certificate shall, in order to ensure the continued airworthiness of an aircraft which provides commercial air transport services—\n( a ) provide a maintenance control manual or an equivalent document approved by the Authority for that aircraft;\n( b ) appoint such number of nominated post-holders as may be accepted by the Authority who shall be responsible for controlling the management of the maintenance of the aircraft in accordance with the maintenance control manual; and\n( c ) ensure that an aircraft shall not be operated commercially unless it is maintained and released to service by an approved maintenance organisation or under an equivalent system acceptable to the Authority.\n(3) A person shall not perform maintenance, preventive maintenance, or modifications on an aircraft or a component of any aircraft other than as may be specified by the Authority under these Regulations.\n(4) A person shall not operate an aircraft for which a manufacturer's maintenance manual or instructions for continued airworthiness has been issued that contains an airworthiness limitation section unless the mandatory replacement times, inspection intervals, and related procedures specified in that section or alternative inspection intervals and related procedures set out in the approved operations specifications, or in accordance with the approved inspection program have been complied with.\n(5) A person shall not operate an aircraft, aeronautical product, or accessory to which an Airworthiness Directive applies, issued either by the State of Design, or State of Manufacturer and has been adopted for a Botswana registered aircraft by the Authority, or by the State of Registry for aircraft operated within Botswana, except in accordance with the requirements of that Airworthiness Directive.\n(6) An owner or operator of an aircraft shall appoint a technical coordinator accepted by the Authority to ensure that arrangements are in place for the continued airworthiness of an aircraft which exceeds the authorised maximum weight of 2 700 kg, and which does not provide commercial air transport services.\n(7) Any person who contravenes this regulation commits an offence and is liable to a fine not exceeding P50 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART IV Continuing Airworthiness of Aircraft and Aircraft Components (regs 33-47)",
+      "section": "34",
+      "title": "Airworthiness Directive",
+      "content": "34. Airworthiness Directive\n(1) The Authority may issue an Airworthiness Directive or a service bulletin—\n( a ) where it has determined that an airframe or aeronautical product has exhibited an unsafe condition and that condition is likely to exist or to develop in other products of the same design;\n( b ) where it has identified in a manufacturer's service bulletin or any other sources of data inspections, procedures and limitations that require mandatory compliance; or\n( c ) based on service information reported to it by operators, organisations responsible for type design or maintenance organisations.\n(2) Whenever a State of Design issues an Airworthiness Directive as a result of the existence of a condition in an aircraft, airframe, aircraft engine, propeller, appliance or any component part that is unsafe, the Authority shall make all the requirements in that directive applicable to all Botswana registered aircraft of the type identified in the directive.\n(3) An Airworthiness Directive issued under this regulation shall contain information specifying inspections and the conditions and limitations, if any, under which the affected products may continue to be operated.\n(4) The Authority shall report any Airworthiness Directives or continuing additional airworthiness requirements that it issues or any malfunction or defect reports to the State of Design.\n(5) A person who fails to comply with any Airworthiness Directive or service bulletin issued under this regulation commits an offence and is liable to a fine not exceeding P50 000, or to imprisonment for a term not exceeding 10 years, or to both."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART IV Continuing Airworthiness of Aircraft and Aircraft Components (regs 33-47)",
+      "section": "35",
+      "title": "Duties of nominated post-holders and technical coordinators",
+      "content": "35. Duties of nominated post-holders and technical coordinators\n(1) A person who meets the training, experience and qualification requirements set by the Authority shall be accepted to be a nominated post-holder or technical coordinator.\n(2) A nominated post-holder or a technical coordinator shall ensure and verify that—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aeronautical product",
+      "definition": "an aircraft, aircraft engine, aircraft propeller or a part to be installed thereon",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeroplane",
+      "definition": "a power-driven heavier-than-air aircraft deriving its lift in flight chiefly from aerodynamic reactions on surfaces which remain fixed under given conditions of flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft",
+      "definition": "any machine that can derive support in the atmosphere from the reactions of the air other than reactions of the air against the earth's surface",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Airworthiness Directive",
+      "definition": "a mandatory document which identifies aeronautical products in which an unsafe condition exists and where the unsafe condition is likely to exist or develop in other products of the same type design and also prescribes the corrective actions to be taken or the conditions or limitations under which the products may continue to be operated",
+      "source_provision": "s2"
+    },
+    {
+      "term": "airworthy",
+      "definition": "the status of an aircraft, engine, propeller, or part when it conforms to its approved design and is in a condition safe for operation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appropriate airworthiness requirements",
+      "definition": "the comprehensive and detailed airworthiness codes established, adopted or accepted by a contracting State for the class of aircraft, engine or propeller under consideration",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appropriate Authority",
+      "definition": "the Civil Aviation Authority of a contracting State",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorisation",
+      "definition": "a document issued to validate a foreign certificate of airworthiness under regulation 12",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate of airworthiness",
+      "definition": "a certificate issued under regulation 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate of release to service",
+      "definition": "a document which contains a certification confirming that the maintenance work to which it relates has been completed in a satisfactory manner in accordance with appropriate airworthiness requirements",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chicago Convention",
+      "definition": "the Convention on International Civil Aviation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "configuration",
+      "definition": "a particular combination of the positions of the moveable elements, such as wing flaps and landing gear, that affect the aerodynamic characteristics of the aeroplane",
+      "source_provision": "s2"
+    },
+    {
+      "term": "continuing airworthiness",
+      "definition": "the set of processes by which an aircraft, engine, propeller or part complies with the applicable airworthiness requirements and remains in a condition for safe operation throughout its operating life",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contracting State",
+      "definition": "a signatory to the Chicago Convention",
+      "source_provision": "s2"
+    },
+    {
+      "term": "critical engine",
+      "definition": "any engine whose failure gives the most adverse effect on the aircraft characteristics relative to the case under consideration",
+      "source_provision": "s2"
+    },
+    {
+      "term": "engine",
+      "definition": "a unit used or intended to be used for aircraft propulsion which consists of at least those components and equipment necessary for functioning and control, but excludes the propeller or rotors if applicable",
+      "source_provision": "s2"
+    },
+    {
+      "term": "helicopter",
+      "definition": "a heavier-than-air aircraft supported in flight chiefly by the reactions of the air on one or more power-driven rotors on substantially vertical axes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "human factors principles",
+      "definition": "principles which apply to aeronautical design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "maintenance",
+      "definition": "the performance of tasks on an aircraft, engine, propeller or associated part required to ensure the continuing airworthiness of an aircraft, engine, propeller or associated part including any one or combination of overhaul, inspection, replacement, defect rectification and the embodiment of a modification or repair",
+      "source_provision": "s2"
+    },
+    {
+      "term": "maintenance records",
+      "definition": "records that set out the details of the maintenance carried out on an aircraft, engine, propeller or associated part",
+      "source_provision": "s2"
+    },
+    {
+      "term": "major modification",
+      "definition": "a change in the type design that has an appreciable effect, or other than a negligible effect, on the mass and balance limits, structural strength, engine operation, flight characteristics, reliability, operational characteristics, or other characteristics or qualities affecting the airworthiness or environmental characteristics of an aeronautical product",
+      "source_provision": "s2"
+    },
+    {
+      "term": "major repair",
+      "definition": "any repair of an aeronautical product that might appreciably affect the structural strength, performance, engine, operation flight characteristics or other qualities affecting airworthiness or environmental characteristics",
+      "source_provision": "s2"
+    },
+    {
+      "term": "minor modification",
+      "definition": "a modification other than a major modification, that is, a design change that has a negligible, or no appreciable effect on the mass, balance, structural strength, reliability, operational characteristics or other characteristics affecting the airworthiness of the aeronautical product",
+      "source_provision": "s2"
+    },
+    {
+      "term": "minor repair",
+      "definition": "a repair other than a major repair, that is, a repair that has a negligible effect on the airworthiness of the affected aeronautical product",
+      "source_provision": "s2"
+    },
+    {
+      "term": "modification",
+      "definition": "a change to the type design of an aircraft, engine or propeller, this may also include the embodiment of the modification which is a maintenance task subject to a maintenance release",
+      "source_provision": "s2"
+    },
+    {
+      "term": "organisation responsible for the type-design",
+      "definition": "the organisation that holds the Type Certificate, or equivalent document, for an aircraft, engine or propeller type, issued by a contracting State",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Performance Class 1 helicopter",
+      "definition": "a helicopter with performance such that, in case of engine failure it is able to land on the rejected take-off area or safely continue the flight to an appropriate landing area",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Performance Class 2 helicopter",
+      "definition": "a helicopter with performance such that, in case of engine failure, it is able to safely continue the flight, except when the failure occurs prior to a defined point after take-off or after a defined point before landing, in which cases a forced landing maybe required",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Performance Class 3 helicopter",
+      "definition": "a helicopter with performance such that, in case of engine failure at any point in the flight profile, a forced landing shall be performed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rendering a Certificate of airworthiness valid",
+      "definition": "the action taken by the Authority, as an alternative to issuing its own Certificate of Airworthiness, in accepting a Certificate of Airworthiness issued by any other appropriate Authority as the equivalent of its own Certificate of Airworthiness",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repair",
+      "definition": "the restoration of an aircraft, engine, propeller or associated part to an airworthy condition in accordance with the appropriate airworthiness requirements after it has been damaged or subjected to wear",
+      "source_provision": "s2"
+    },
+    {
+      "term": "satisfactory evidence",
+      "definition": "a set of documents or activities that the Authority accepts as sufficient to show compliance with an airworthiness requirement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "standard atmosphere",
+      "definition": "an atmosphere defined as follows—\n( a ) the air is a perfect dry gas",
+      "source_provision": "s2"
+    },
+    {
+      "term": "State of Design",
+      "definition": "the State which has jurisdiction over the organisation responsible for the type design",
+      "source_provision": "s2"
+    },
+    {
+      "term": "State of Manufacture",
+      "definition": "the State which has jurisdiction over the organisation responsible for the final assembly of the aircraft, engine or propeller",
+      "source_provision": "s2"
+    },
+    {
+      "term": "State of Registry",
+      "definition": "the state on whose register the aircraft is entered",
+      "source_provision": "s2"
+    },
+    {
+      "term": "supplemental type certificate",
+      "definition": "a certificate issued under regulation 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "technical standard order",
+      "definition": "a minimum performance standard issued by the authority in the State of Manufacture for specified materials, parts, processes and appliances used on a civil aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "type acceptance certificate",
+      "definition": "a certificate issued under regulation 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Type certificate",
+      "definition": "a document issued by the Authority to define the design of an aircraft, engine or propeller type and to certify that this design meets the appropriate airworthiness requirements of Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Type Design",
+      "definition": "the set of data and information necessary to define an aircraft, engine or propeller type for the purpose of airworthiness determination",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Visual Meteorological Conditions",
+      "definition": "meteorological conditions expressed in terms of visibility distance from cloud and ceiling, equal to or better than specified minima.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "bw-sub-forensic-procedures-subsidiary-legislation1",
+  "type": "statute",
+  "title": "Forensic Procedures: Subsidiary Legislation",
+  "title_en": "Forensic Procedures: Subsidiary Legislation",
+  "short_name": "Forensic Procedures: Subsid...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/forensic-procedures-subsidiary-legislation1",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Forensic Procedures Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"case identity\" means a case reference as determined by the laboratory;\n\"locus name\" means different genetic categories as established in the National DNA Database system;\n\"source identity\" means where the source of the specimen is specified as known, not known or not applicable;\n\"specimen category\" means a specimen classified according to the source of the DNA sample; and\n\"specimen identity\" means an alpha numeric indicator of a specimen identity in the system as may be determined by an authorised user."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application for designation",
+      "content": "3. Application for designation\n(1) A laboratory which wishes to be designated as a forensic laboratory shall apply to the Minister for designation.\n(2) An application under this regulation shall be made in Form A as set out in Schedule 1, and accompanied by a fee as set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Minister to issue designation certificate",
+      "content": "4. Minister to issue designation certificate\nThe Minister shall, after consultation with the Advisory Board, issue a designation certificate in Form B as set out in Schedule 1."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Validity of designation certificate",
+      "content": "5. Validity of designation certificate\n(1) A designation certificate issued under regulation 4 shall be valid—\n( a ) for a period not exceeding two years;\n( b ) until such time when the designation is revoked by the Minister or;\n( c ) until such time when the designated forensic laboratory requests for termination of designation status."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Application for renewal of designation",
+      "content": "6. Application for renewal of designation\n(1) A designated forensic laboratory which wishes to remain as such, shall apply for renewal of designation within six months before the expiry date of the designation.\n(2) An application for renewal of designation made in terms of this regulation shall be made to the Minister in Form C as set out in Schedule 1 and accompanied by a fee set out in Schedule 2."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Consent to forensic procedure",
+      "content": "7. Consent to forensic procedure\nIn accordance with section 4(1) of the Act, a suspect shall consent to a forensic procedure using Form D as set out in Schedule 1."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Withdrawal of consent",
+      "content": "8. Withdrawal of consent\nWhere a suspect wishes to withdraw his or her consent in accordance with section 6(2) of the Act, he or she shall indicate such withdrawal using Form E as set out in Schedule 1."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Forensic materials to be availed to person from whom they were taken",
+      "content": "9. Forensic materials to be availed to person from whom they were taken\n(1) An investigating officer shall ensure that a sample of the forensic material obtained during a forensic procedure is availed to the person from whom it was obtained or the guardian thereof in cases of a minor or a person with limited capacity.\n(2) In pursuance of the provisions of subregulation (1), an investigating officer shall complete Form F in Schedule 1."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Indices",
+      "content": "10. Indices\n(1) The crime scene index, suspects index, prohibited immigrant&rsquo;s index, convicted offenders index, volunteers index and unknown deceased person&rsquo;s index under section 27 of the Act shall contain the following information—\n( a ) specimen identity ;\n( b ) specimen category;\n( c ) user identity;\n( d ) case identity;\n( e ) source identity status;\n( f ) locus name; and\n( g ) DNA profile.\n(2) The missing person&rsquo;s index under section 27 of the Act shall, in addition to the information listed in subregulation (1), contain information on the missing person&rsquo;s next of kin."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Registers",
+      "content": "11. Registers\nThe Commissioner shall keep and maintain registers relating to—\n( a ) designated laboratories;\n( b ) DNA database;\n( c ) authorised persons; and\n( d ) convicted offenders."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Procedure for destruction of forensic materials",
+      "content": "12. Procedure for destruction of forensic materials\n(1) The Commissioner shall destroy forensic materials for—\n( a ) charged, tried and acquitted persons within 30 days after the completion of the trial;\n( b ) volunteers within 30 days of receiving a request for destruction from the person who consented to the procedure; or\n( c ) a person, who at the time the procedure was authorised, was a minor or a person who was incapable of giving consent to the procedure may at any time after obtaining the age of 18 years, request for destruction of the forensic materials obtained from him or her.\n(2) Subject to subregulation (1), forensic materials obtained from arrested persons who are yet to be charged shall be destroyed according to the prescription limits of the specific offences unless the investigating officer applies to the Commissioner for further retention of the material pending further investigations.\n(3) Subject to subregulation (1), if, within 14 days of receiving a request for destruction of forensic material, an application is made for an order to retain under section 16(2) of the Act that relates to the material, the Commissioner may postpone destruction of the forensic material for a period not exceeding three years."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Offences",
+      "content": "13. Offences\n(1) A person who operates a forensic lab—\n( a ) which has not been designated as such; or\n( b ) with an expired designation certificate;\ncommits an offence and is liable to a fine not exceeding P40 000, or to imprisonment for a term not exceeding four years, or both.\n(2) Any person who contravenes the provisions of these Regulations commits an offence and is liable to a fine not exceeding P40 000, or to imprisonment for a term not exceeding four years, or both."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "case identity",
+      "definition": "a case reference as determined by the laboratory",
+      "source_provision": "s2"
+    },
+    {
+      "term": "locus name",
+      "definition": "different genetic categories as established in the National DNA Database system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "source identity",
+      "definition": "where the source of the specimen is specified as known, not known or not applicable",
+      "source_provision": "s2"
+    },
+    {
+      "term": "specimen category",
+      "definition": "a specimen classified according to the source of the DNA sample",
+      "source_provision": "s2"
+    },
+    {
+      "term": "specimen identity",
+      "definition": "an alpha numeric indicator of a specimen identity in the system as may be determined by an authorised user.",
+      "source_provision": "s2"
+    }
+  ]
+}

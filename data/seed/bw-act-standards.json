@@ -1,0 +1,75 @@
+{
+  "id": "bw-act-standards",
+  "type": "statute",
+  "title": "Standards",
+  "title_en": "Standards",
+  "short_name": "Standards",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/standards",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Standards Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Bureau\" means the Botswana Bureau of Standards established by section 3;\n\"Council\" means the Standards Council established by section 4;\n\"mark\" includes any device, brand, heading, label, ticket, name, signature, word, letter or numeral, or any combination thereof;\n\"specification\" means any description of a commodity by reference to its name, nature, quality, strength, purity, composition, quantity, dimensions, weight, grade, durability, origin, age or other characteristics, or to any substance or material of or with which, or the manner in which it may be manufactured, produced, processed, treated, tested or sampled;\n\"standard mark\" means a mark which has been approved and registered by the Bureau as a mark denoting conformity with a standard declared by the Minister under section 11;\n\"standard specification\" means a specification set and issued by the Minister under section 10(1) in respect of any commodity, or for the manufacture, production, processing or treatment of any commodity, and a \"compulsory standard specification\" means a specification that has been declared to be a compulsory standard specification in accordance with section 10(2)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment of Botswana Bureau of Standards",
+      "content": "3. Establishment of Botswana Bureau of Standards\n(1) There is hereby established a bureau, to be known as the Botswana Bureau of Standards, which shall be a body corporate, with perpetual succession and a common seal, and capable, in its corporate name of—\n( a ) suing and being sued;\n( b ) purchasing or otherwise acquiring, holding, managing, charging and disposing of property, movable or immovable;\n( c ) entering into contracts, and doing or performing all such other things as may be necessary, and as may lawfully be done or performed by a body corporate,\nfor the proper performance of its functions and undertaking of its duties under this Act.\n(2) The functions and duties of the Bureau shall be—\n( a ) to promote standardisation and quality assurance in industry and commerce, with the aim of improving product quality, industrial efficiency and productivity, and the promotion of trade, so as to achieve optimum benefits for the public generally, particularly in the interests of health, safety and welfare, and protection of the consumer;\n( b ) to make arrangements for, or provide facilities for, the testing and calibration of precision instruments, gauges and scientific apparatus, for the determination of their degree of accuracy by comparison with standards approved by the Minister on the recommendations of the Council, and for the issue of certificates with regard thereto;\n( c ) to make arrangements for, or provide facilities for, the examination and testing of commodities, and any material or substance from which, with which, or having regard to the manner in which, they may be manufactured, produced, processed or treated;\n( d ) to grant, renew, suspend or cancel licences for the use of standards marks;\n( e ) to prepare, modify or amend and publish Botswana Standards, and any codes of practice intended to be applied, or to be adopted in connection with the construction, installation, testing, sampling, operation or use of any article, apparatus, instrument, device or process;\n( f ) to encourage or undertake educational work in connection with standardisation and quality assurance;\n( g ) to assist the Government or any local authority or public body, or any other person in the preparation and framing of any specifications or codes of practice;\n( h ) to co-operate with the Government or any local authority or public body, or with the representatives of any industry or any person, with the aim of securing the adoption and practical application of standards;\n( i ) to provide for the testing, on behalf of the Government, of locally manufactured or imported commodities, to determine whether such commodities comply with the provisions of this Act, or any other written law dealing with standards of quality or description;\n( j ) to establish or recognise inspection agencies for the purpose of product and quality system certification, and for such other purposes as may be prescribed;\n( k ) to support environmental protection within the framework of standardisation and quality assurance;\n( l ) to do all such acts and things, or enter into all such transactions as are expedient or necessary for the proper and efficient discharge of the functions of the Bureau."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Establishment of Standards Council",
+      "content": "4. Establishment of Standards Council\n(1) There shall be established a council to be known as the Standards Council which shall consist of the following persons appointed by the Minister—\n( a ) a chairman;\n( b ) not more than four persons who shall be public officers; and\n( c ) not more than seven persons possessing knowledge of industrial or commercial standards, or other matters likely to be of assistance to the Bureau in the performance of its functions and duties under this Act:\nProvided that in making appointments under this subsection the Minister shall ensure that the Government, the parastatal sector, manufacturers and consumers are represented on the Council.\n(2) The Managing Director of the Bureau shall be the secretary of the Council.\n(3) The Council may appoint committees or sub-committees of the Council, and may delegate to such committees or sub-committees any of its functions or duties under this Act, subject to such conditions as it may specify.\n(4) The provisions of the Schedule shall have effect with regard to the Council and its proceedings, but otherwise the Council shall regulate its own procedure.\n(5) Members of the Council may be paid such fees and allowances for expenses as may be approved by the Minister."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Duties and proceedings of Council",
+      "content": "5. Duties and proceedings of Council\n(1) The Council shall—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bureau",
+      "definition": "the Botswana Bureau of Standards established by section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Standards Council established by section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mark",
+      "definition": "any device, brand, heading, label, ticket, name, signature, word, letter or numeral, or any combination thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "specification",
+      "definition": "any description of a commodity by reference to its name, nature, quality, strength, purity, composition, quantity, dimensions, weight, grade, durability, origin, age or other characteristics, or to any substance or material of or with which, or the manner in which it may be manufactured, produced, processed, treated, tested or sampled",
+      "source_provision": "s2"
+    },
+    {
+      "term": "standard mark",
+      "definition": "a mark which has been approved and registered by the Bureau as a mark denoting conformity with a standard declared by the Minister under section 11",
+      "source_provision": "s2"
+    },
+    {
+      "term": "standard specification",
+      "definition": "a specification set and issued by the Minister under section 10(1) in respect of any commodity, or for the manufacture, production, processing or treatment of any commodity, and a \"compulsory standard specification\" means a specification that has been declared to be a compulsory standard specification in accordance with section 10(2).",
+      "source_provision": "s2"
+    }
+  ]
+}

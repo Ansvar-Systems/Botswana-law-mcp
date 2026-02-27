@@ -1,0 +1,71 @@
+{
+  "id": "bw-sub-motor-vehicle-accident-fund-subsidiary-legislation-previously-motor-vehicle-insurance-and-motor-vehicle-insurance-fund",
+  "type": "statute",
+  "title": "Motor Vehicle Accident Fund: Subsidiary Legislation(previously \"motor Vehicle Insurance\" and \"motor Vehicle Insurance Fund\")",
+  "title_en": "Motor Vehicle Accident Fund: Subsidiary Legislation(previously \"motor Vehicle Insurance\" and \"motor Vehicle Insurance Fund\")",
+  "short_name": "Motor Vehicle Accident Fund...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/motor-vehicle-accident-fund-subsidiary-legislation-previously-motor-vehicle-insurance-and-motor-vehicle-insurance-fund",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Motor Vehicle Accident Fund Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"bus\" means a motor vehicle with a seating capacity of more than 18 persons, and includes vehicles used for the conveyance of persons in the tourist industry;\n\"Debswana\" means the Debswana Diamond Company (Proprietary) Limited under the Companies Act (Cap. 42:01);\n\"drug\" has the same meaning as in section 2 of the Drugs and Related Substances Act (Cap. 63:04);\n\"financial statements\" in the case of a self-employed individual includes income tax returns duly submitted and receipted under the Botswana Unified Revenue Service Act (Cap. 53:03);\n\"Medical Aid Schemes\" means medical aid schemes set up by medical aid societies to provide medical insurance cover;\n\"medical records\" means a claimant&rsquo;s medical records pertaining to injuries or the consequences thereof sustained as a result of a motor vehicle accident;\n\"mini bus\" means a motor vehicle used for the purpose of conveying passengers, and with a seating capacity of not more than 18 persons, and includes vehicles used for the conveyance of passengers in the tourist industry;\n\"Private Practitioners Groups\" means health practitioners in private practice."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Petroleum Levy (regs 3-6)",
+      "section": "3",
+      "title": "Rate of levy",
+      "content": "3. Rate of levy\n(1) For the purposes of section 17(2) of the Act, a levy of 5 thebe per litre shall be retained by—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "bus",
+      "definition": "a motor vehicle with a seating capacity of more than 18 persons, and includes vehicles used for the conveyance of persons in the tourist industry",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Debswana",
+      "definition": "the Debswana Diamond Company (Proprietary) Limited under the Companies Act (Cap. 42:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "drug",
+      "definition": "as in section 2 of the Drugs and Related Substances Act (Cap. 63:04)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Medical Aid Schemes",
+      "definition": "medical aid schemes set up by medical aid societies to provide medical insurance cover",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical records",
+      "definition": "a claimant&rsquo",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mini bus",
+      "definition": "a motor vehicle used for the purpose of conveying passengers, and with a seating capacity of not more than 18 persons, and includes vehicles used for the conveyance of passengers in the tourist industry",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Private Practitioners Groups",
+      "definition": "health practitioners in private practice.",
+      "source_provision": "s2"
+    }
+  ]
+}

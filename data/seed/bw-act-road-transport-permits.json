@@ -1,0 +1,105 @@
+{
+  "id": "bw-act-road-transport-permits",
+  "type": "statute",
+  "title": "Road Transport (permits)",
+  "title_en": "Road Transport (permits)",
+  "short_name": "Road Transport (permits)",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/road-transport-permits",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Road Transport (Permits) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Advisory Board\" means a Transport Advisory Board appointed under section 4;\n\"Appeal Tribunal\" means the Appeal Tribunal established under section 21;\n\"authorised vehicle\" , in connection with a permit of any class, means a vehicle specified in such permit and authorised for use in accordance with such permit;\n\"carriage of goods\" includes the haulage of goods;\n\"carriage on own account\" means—\n( a ) the delivery or collection by a person in a vehicle owned by him of goods sold, used or let on hire or hire-purchase in the course of and ancillary to a trade or business carried on by him; or\n( b ) the delivery or collection by a person in a vehicle owned by him of goods which have been, or are to be, subject to a process or treatment in the course of and ancillary to a trade or business carried on by him;\n\"Controller\" means the Road Transport Controller appointed in accordance with section 3;\n[ 21 of 1989, s. 2. ]\n\"driver\" , in relation to a vehicle, means any person who drives or guides, or is in an actual physical control of, any vehicle, and in relation to a trailer means the driver of the vehicle by which the trailer is drawn;\n\"fare\" means the amount paid or payable for a conveyance of a passenger in a public service vehicle, and includes any sum paid or payable in respect of such passenger's luggage;\n\"goods\" include goods or burden of any description;\n\"goods vehicle\" means a vehicle wholly or primarily constructed or adapted for the carriage of goods of any description in connection with any trade, business or agriculture, but does not include any type or class of vehicle which the Minister may prescribe not to be a goods vehicle for the purposes of this Act;\n\"holder\" in relation to a permit, means the person to whom the permit was granted;\n\"motor vehicle\" means any vehicle, self-propelled by mechanical or electrical power, but excluding any vehicle running on a specially-prepared way such as a railway or tramway or cables and such other vehicles as the Minister may prescribe not to be motor vehicles for the purposes of this Act;\n\"owner\" , in relation to a vehicle, includes the owner, joint owner or part owner thereof, and where a vehicle is the subject of a hire-purchase agreement or hiring agreement, includes the person in possession of that vehicle under that agreement;\n\"permit\" means a permit issued under this Act;\n\"public service vehicle\" has the meaning assigned to it in the Road Traffic Act (Cap. 69:01);\n\"road\" has the meaning assigned to it in the Road Traffic Act;\n\"trailer\" has the same meaning as in the Road Traffic Act."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Transport Controller and Transport Advisory Boards",
+      "section": "3",
+      "title": "Transport Controller",
+      "content": "3. Transport Controller\n(1) There shall be appointed a Transport Controller who shall be responsible for the administration of this Act and shall perform the duties and functions and exercise the powers conferred upon him by or under this Act.\n[ 21 of 1989, s. 3. ]\n(2) The Controller may, with the approval of the Minister, delegate to any public officer the power and authority to carry out on his behalf such duties and functions, and to exercise such powers, as he may determine, and at the time of delegating any such duty, function or power, or at any time thereafter, he may give such directions as he may see fit as to the manner in which such duties or functions are to be carried out or such powers exercised.\n[ 21 of 1989, s. 3. ]\n(3) The Controller shall keep such records, books, registers and other documents as the Minister may require.\n[ 21 of 1989, s. 3. ]\n(4) All permits issued under this Act shall be under the hand of the Controller or under the hand of some person to whom the Controller has delegated his power to issue permits.\n[ 21 of 1989, s. 3. ]\n(5) The Controller shall, for the purpose of hearing and determining applications for permits or the amendment of any term or condition of a permit, hold public sittings in such places and at such times as appear necessary to him, having regard to the provisions of this Act and the interests of the applicants and any objectors:\n[ 21 of 1989, s. 3. ]\nProvided that no public sitting shall be necessary—\n(i) in respect of an application for or for the renewal of a permit for the carriage of goods on own account;\n[ 21 of 1989, s. 4(a). ]\n(ii) for the issue of BS, TS and short-term permits under the provisions of section 10;\n[ 21 of 1989, s. 4(b). ]\n(iii) on giving 14 days' notice in the Gazette , for the renewal of a permit of any class other than a permit for the carriage of goods on own account;\n[ 21 of 1989, s. 4(a). ]\n(iv) on giving 14 days' notice in the Gazette of his intention to do so, for the variation or amendment of a permit where the Controller is of the opinion that, having regard to the trivial nature of the variation or amendment, it is not necessary that a public sitting be held.\n[21 of 1989, s. 3.]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Transport Controller and Transport Advisory Boards",
+      "section": "4",
+      "title": "Transport Advisory Boards",
+      "content": "4. Transport Advisory Boards\n(1) For the purposes of advising the Controller on any application before him there shall be one or more Transport Advisory Boards appointed, constituted and regulated in accordance with the Schedule.\n[ 21 of 1989, s. 3. ]\n(2) When a public sitting under section 3(5) is being held a Board shall sit with the Controller.\n[ 21 of 1989, s. 3. ]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART III Permits",
+      "section": "5",
+      "title": "Permits required",
+      "content": "5. Permits required\n(1) Subject to subsection (4) no person shall, except under and in accordance with the terms and conditions of a permit—\n( a ) use a motor vehicle on a road for the carriage of goods—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Advisory Board",
+      "definition": "a Transport Advisory Board appointed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Appeal Tribunal",
+      "definition": "the Appeal Tribunal established under section 21",
+      "source_provision": "s2"
+    },
+    {
+      "term": "carriage of goods",
+      "definition": "the haulage of goods",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Controller",
+      "definition": "the Road Transport Controller appointed in accordance with section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fare",
+      "definition": "the amount paid or payable for a conveyance of a passenger in a public service vehicle, and includes any sum paid or payable in respect of such passenger's luggage",
+      "source_provision": "s2"
+    },
+    {
+      "term": "goods vehicle",
+      "definition": "a vehicle wholly or primarily constructed or adapted for the carriage of goods of any description in connection with any trade, business or agriculture, but does not include any type or class of vehicle which the Minister may prescribe not to be a goods vehicle for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "motor vehicle",
+      "definition": "any vehicle, self-propelled by mechanical or electrical power, but excluding any vehicle running on a specially-prepared way such as a railway or tramway or cables and such other vehicles as the Minister may prescribe not to be motor vehicles for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permit",
+      "definition": "a permit issued under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public service vehicle",
+      "definition": "assigned to it in the Road Traffic Act (Cap. 69:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "road",
+      "definition": "assigned to it in the Road Traffic Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trailer",
+      "definition": "as in the Road Traffic Act.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-jwaneng-town-council-cemetery-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Jwaneng Town Council (cemetery) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Jwaneng Town Council (cemetery) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-jwaneng-town-council-cemetery-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-Laws may be cited as the Jwaneng Town Council (Cemetery) Bye-Laws*.\n*Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires\n\"adult\" means a person of or above the age of 10 years;\n\"caretaker\" means a person so designated by the Council;\n\"cemetery\" means a cemetery established in accordance with bye-law 3;\n\"child\" means a person under the age of 10 years;\n\"Council\" means the Jwaneng Town Council;\n\"memorial work\" means any gravestone, monument, cenotaph, tablet or monumental inscription erected over a grave, or any work ancillary thereto;\n\"Town Clerk\" means the Town Clerk of Jwaneng."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment of cemeteries",
+      "content": "3. Establishment of cemeteries\n(1) The Council shall establish, designate and identify areas within the Township as cemeteries.\n(2) No person shall bury or cause to be buried any body within the Township elsewhere than in a cemetery established and designated in accordance with this bye-law."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Permission for burial",
+      "content": "4. Permission for burial\n(1) No burial shall take place except under and in accordance with a permit issued by the Town Clerk, and on payment of the fee of P5;\nProvided that the Town Clerk may\n(i) waive the payment of such fee, in whole or in part, where\n( a ) he is satisfied that the person responsible for the burial is unable to pay the full amount;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "adult",
+      "definition": "a person of or above the age of 10 years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "caretaker",
+      "definition": "a person so designated by the Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cemetery",
+      "definition": "a cemetery established in accordance with bye-law 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child",
+      "definition": "a person under the age of 10 years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Jwaneng Town Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "memorial work",
+      "definition": "any gravestone, monument, cenotaph, tablet or monumental inscription erected over a grave, or any work ancillary thereto",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Town Clerk",
+      "definition": "the Town Clerk of Jwaneng.",
+      "source_provision": "s2"
+    }
+  ]
+}

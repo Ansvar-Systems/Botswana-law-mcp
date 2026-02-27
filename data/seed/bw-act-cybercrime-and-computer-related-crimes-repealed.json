@@ -1,0 +1,133 @@
+{
+  "id": "bw-act-cybercrime-and-computer-related-crimes-repealed",
+  "type": "statute",
+  "title": "Cybercrime and Computer Related Crimes",
+  "title_en": "Cybercrime and Computer Related Crimes",
+  "short_name": "Cybercrime and Computer Rel...",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/cybercrime-and-computer-related-crimes-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Cybercrime and Computer Related Crimes Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"access\" means, in relation to any computer or computer system, instruct, communicate with, store data in, retrieve data from, or otherwise make use of any of the resources of the computer or computer system;\n\"Commissioner\" means the Commissioner of Police appointed by the President in terms of section 112 of the Constitution;\n\"computer data storage medium\" means any device or material from which data is capable of being stored or reproduced, with or without the aid of any other device or material;\n\"computer service\" includes data processing or the storage or retrieval of data;\n\"computer or computer system\" means an electronic, magnetic or optical device or a group of interconnected or related devices, including the Internet, one or more of which, pursuant to a programme, performs automatic processing of data or any other function;\n\"data\" means—\n( a ) any representation of facts, information or concepts in a form suitable for processing in a computer or computer system;\n( b ) any information recorded in a form in which it can be processed by equipment operating automatically in response to instructions given for that purpose; or\n( c ) a programme suitable to cause a computer or computer system to perform a function;\n\"Director\" means the Director of the Directorate on Corruption and Economic Crime appointed by the President in terms of section 4 of the Corruption and Economic Crime Act (Cap. 08:05)<CS:\"Hidden - Grey - 8_2\"> or any person who may be appointed by the Minister by notice published in the Gazette ;\n\"electronic\" means, relating to technology, having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities;\n\"function\" includes logic, control, arithmetic, deletion, storage and retrieval, and communication and telecommunication to, from or within a computer or computer system;\n\"information and communication service\" means any service involving the use of information and communication technology, including telecommunication services;\n\"information and communication technology\" means any technology employed in the collecting, storing, using or sending out of information, including any technology involving the use of computers or any telecommunication system;\n\"intercepts\" means the aural or other acquisition of the contents of any electronic, magnetic, optical or oral communication through the use of any device;\n\"national emergency organisations\" include the police force, security forces, fire brigade, ambulance services, medical services, veterinarian services and environmental disaster agencies, whether or not such organisations are owned and managed on a private or public basis;\n\"password\" means any data by which a computer service, computer or computer system is capable of being obtained, accessed or used;\n\"programme\" means an instruction or a set of instructions, expressed in words, codes, schemes or any other form, which is capable, when incorporated in a machine-readable medium, of causing a computer or computer system to achieve a particular task or result;\n\"property\" means property of any kind, nature or description, whether moveable or immoveable, tangible or intangible, and includes—\n( a ) any currency whether or not the currency is legal tender in Botswana;\n( b ) information, including an electronically produced programme or data or copy thereof, whether tangible or intangible, human or computer-readable data, or data in transit; or\n( c ) any right or interest in property;\n\"service provider\" means any public or private person who—\n( a ) provides to users of its services the ability to communicate by means of a computer or computer system;\n( b ) processes or stores computer data on its behalf or on behalf of the users of its services; or\n( c ) provides an information and communication service, including telecommunication;\n\"subscriber\" means a person who lawfully uses the service of a service provider;\n\"subscriber information\" means any information, other than traffic or other data, contained in the form of computer data or any other form, that is held by a service provider and relating to any subscriber, by which can be established—\n( a ) the type of communication service used, the technical provisions taken to use the communication service, and the period of such communication service; or\n( b ) information available on the basis of a service agreement or arrangement, including information on the site of installation of communication equipment or information on the subscriber's identity, postal or geographical address or billing or payment information;\n\"telecommunication\" means a transmission, emission or reception of signs, signals, writing, images, sounds or intelligence of any nature, by wire, radio, optical or other electromagnetic systems, whether or not such signs, signals, writing, images, sounds or intelligence have been subjected to rearrangement, computation or other processes, by any means, in the course of their transmission, emission or reception;\n\"traffic data\" means any data—\n( a ) that relates to communication by means of a computer or computer system; and\n( b ) that is generated by a computer or computer system that is part of the chain of communication; and\n( c ) that shows the communication's origin, destination, route, time, date, size, duration, or type of underlying service; and\n\"underlying service\" means the type of service that is being used within a computer or computer system."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Jurisdiction",
+      "content": "3. Jurisdiction\nThe courts of Botswana shall have jurisdiction where an act done or an omission made constituting an offence under this Act has been committed—\n( a ) in the territory of Botswana;\n( b ) by a national of Botswana outside the territory of Botswana, if the person's conduct would also constitute an offence under the law of the country where the offence was committed and if the person has not been prosecuted for the offence in that country;\n( c ) on a ship or aircraft registered in Botswana;\n( d ) in part in Botswana; or\n( e ) outside the territory of Botswana and where any result of the offence has an effect in Botswana."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Offences",
+      "section": "4",
+      "title": "Unauthorised access to a computer or computer system",
+      "content": "4. Unauthorised access to a computer or computer system\n(1) Subject to subsections (2) and (3), any person who—\n( a ) accesses the whole or any part of a computer or computer system, knowing that the access he or she intends to secure is unauthorised; or"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Commissioner",
+      "definition": "the Commissioner of Police appointed by the President in terms of section 112 of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "computer data storage medium",
+      "definition": "any device or material from which data is capable of being stored or reproduced, with or without the aid of any other device or material",
+      "source_provision": "s2"
+    },
+    {
+      "term": "computer service",
+      "definition": "data processing or the storage or retrieval of data",
+      "source_provision": "s2"
+    },
+    {
+      "term": "computer or computer system",
+      "definition": "an electronic, magnetic or optical device or a group of interconnected or related devices, including the Internet, one or more of which, pursuant to a programme, performs automatic processing of data or any other function",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the Director of the Directorate on Corruption and Economic Crime appointed by the President in terms of section 4 of the Corruption and Economic Crime Act (Cap. 08:05)<CS:\"Hidden - Grey - 8_2\"> or any person who may be appointed by the Minister by notice published in the Gazette",
+      "source_provision": "s2"
+    },
+    {
+      "term": "function",
+      "definition": "logic, control, arithmetic, deletion, storage and retrieval, and communication and telecommunication to, from or within a computer or computer system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "information and communication service",
+      "definition": "any service involving the use of information and communication technology, including telecommunication services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "information and communication technology",
+      "definition": "any technology employed in the collecting, storing, using or sending out of information, including any technology involving the use of computers or any telecommunication system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "intercepts",
+      "definition": "the aural or other acquisition of the contents of any electronic, magnetic, optical or oral communication through the use of any device",
+      "source_provision": "s2"
+    },
+    {
+      "term": "password",
+      "definition": "any data by which a computer service, computer or computer system is capable of being obtained, accessed or used",
+      "source_provision": "s2"
+    },
+    {
+      "term": "programme",
+      "definition": "an instruction or a set of instructions, expressed in words, codes, schemes or any other form, which is capable, when incorporated in a machine-readable medium, of causing a computer or computer system to achieve a particular task or result",
+      "source_provision": "s2"
+    },
+    {
+      "term": "property",
+      "definition": "property of any kind, nature or description, whether moveable or immoveable, tangible or intangible, and includes—\n( a ) any currency whether or not the currency is legal tender in Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "service provider",
+      "definition": "any public or private person who—\n( a ) provides to users of its services the ability to communicate by means of a computer or computer system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "subscriber",
+      "definition": "a person who lawfully uses the service of a service provider",
+      "source_provision": "s2"
+    },
+    {
+      "term": "subscriber information",
+      "definition": "any information, other than traffic or other data, contained in the form of computer data or any other form, that is held by a service provider and relating to any subscriber, by which can be established—\n( a ) the type of communication service used, the technical provisions taken to use the communication service, and the period of such communication service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "telecommunication",
+      "definition": "a transmission, emission or reception of signs, signals, writing, images, sounds or intelligence of any nature, by wire, radio, optical or other electromagnetic systems, whether or not such signs, signals, writing, images, sounds or intelligence have been subjected to rearrangement, computation or other processes, by any means, in the course of their transmission, emission or reception",
+      "source_provision": "s2"
+    },
+    {
+      "term": "traffic data",
+      "definition": "any data—\n( a ) that relates to communication by means of a computer or computer system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "underlying service",
+      "definition": "the type of service that is being used within a computer or computer system.",
+      "source_provision": "s2"
+    }
+  ]
+}

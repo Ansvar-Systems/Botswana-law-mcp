@@ -1,0 +1,62 @@
+{
+  "id": "bw-sub-virtual-assets-subsidiary-legislation",
+  "type": "statute",
+  "title": "Virtual Assets: Subsidiary Legislation",
+  "title_en": "Virtual Assets: Subsidiary Legislation",
+  "short_name": "Virtual Assets: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/virtual-assets-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Virtual Assets Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application for licence",
+      "content": "2. Application for licence\n(1) In accordance with section 10 of the Act, a person shall not carry out or participate in a virtual asset business unless such person holds a virtual asset service provider licence or issuer of initial token offerings licence issued by the Regulatory Authority.\n(2) An application for a licence to carry out business as a virtual asset service provider or issuer of initial token offering shall be made in Form 1 set out in the Schedule.\n(3) An application for a licence under subregulation (2) shall be accompanied by?\n( a ) full personal details, qualifications, experience and economic interests of the applicant?s?\n(i) organiser,\n(ii) issuer,\n(iii) founder,\n(iv) investor,\n(v) security holder, and\n(vi) manager and other senior officers;\n( b ) full personal details, qualifications, experience, economic interests and occupation of the applicant?s?\n(i) directors, if the applicant is a legal person,\n(ii) shareholders, if the applicant is a legal person, and\n(iii) beneficial owner;\n( c ) constitution of the applicant and other incorporating documents, if the applicant is a legal person;\n( d ) a business plan which shall inter alia set forth the?\n(i) financial and operational projections of the virtual asset business,\n(ii) systems and controls of the virtual asset business,\n(iii) internal control procedures of the applicant, and\n(iv) proposed organisational structure, staffing requirements and the powers and duties of office bearers;\n( e ) copies of contracts and arrangements for oversight activities as the Regulatory Authority may require;\n( f ) evidence of the minimum financial requirements as required in regulation 4;\n( g ) evidence of human and technology resources sufficient to efficiently operate and manage the virtual asset business as required in regulation 5, including the applicant?s principal business address and website;\n( h ) business rules, as required in regulation 7, for virtual token exchange, initial token offerings or payment service utilising virtual assets adequate to ensure, as far as is reasonably practicable, that the virtual asset business will operate fairly, transparently and in an orderly way as provided in Part IV of the Act;\n( i ) adequate systems and controls, in accordance with regulation 8, to maintain market integrity, including avoidance of market abuse;\n( j ) the class of virtual assets intended to be traded or available for subscription;\n( k ) an application fee in the amount of P5,000; and\n( l ) additional requirements as contained in the Act and these Regulations, as the Regulatory Authority may direct.\n(4) Any person who contravenes subregulation (1) commits an offence and shall, on conviction, be liable to the penalty provided in section 31 of the Act."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Issue of licence",
+      "content": "3. Issue of licence\n(1) Where, on application made under regulation 2, the Regulatory Authority is satisfied that the applicant meets the requirements in section 11 of the Act, the Regulatory Authority may issue the applicant with?\n( a ) a virtual asset service provider licence set out in Part A, in Form 2 of the Schedule; or\n( b ) an issuer of initial token offerings licence set out in Part B, in Form 2 of the Schedule.\n(2) A licence issued under this regulation may contain such conditions as the Regulatory Authority may determine."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Minimum financial requirements",
+      "content": "4. Minimum financial requirements\n(1) A licence holder shall have and maintain at all times minimum financial resources comprising?\n( a ) cash amounts equal to one half of the estimated gross operating costs of the virtual asset business for the next 12 month period; and\n( b ) such other base capital amount as may be set by the Regulatory Authority.\n(2) The Regulatory Authority may increase the minimum base capital under subregulation (1)( a ) as it may deem necessary depending on the risk profile of the virtual asset business.\n(3) A licence holder shall have financial resources adequate with respect to the nature, size, and complexity of the virtual asset business for the purpose of guarding against the risk of failure to fulfil liabilities as they fall due."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Human and technology resources",
+      "content": "5. Human and technology resources\n(1) A licence holder shall, to the satisfaction of the Regulatory Authority, have sufficient human and technology resources to operate a virtual asset business.\n(2) For purposes of subregulation (1), a licence holder shall satisfy the Regulatory Authority with respect to?\n( a ) employing fit and proper staff, appropriately trained for the duties to be performed and trained to the standards required;\n( b ) appointing a key management team with adequate levels of experience and expertise to supervise and monitor the operations of the virtual asset business; and\n( c ) owning technology resources that are established and maintained in such a way as to ensure that they are secure and maintain the confidentiality of the data they contain.\n(3) In considering whether a person is a fit and proper person, the Regulatory Authority shall, in accordance with section 11(2) of the Act, have regard to?\n( a ) financial status or solvency of the person;\n( b ) economic interests;\n( c ) relevant education, qualifications and experience;\n( d ) the ability to perform the relevant functions properly, efficiently, honestly and fairly;\n( e ) reputation, character, financial integrity and reliability; and\n( f ) criminal record or conviction for any offence involving dishonesty or fraud."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Virtual asset business to establish proper markets",
+      "content": "6. Virtual asset business to establish proper markets\nA virtual asset business shall, to the satisfaction of the Regulatory Authority, establish and operate proper markets that are conducive to the economic good and that do not cause or promote instability by having?\n( a ) a sufficiently liquid underlying cash market; and\n( b ) capacity to make and take delivery of securities or underlying assets."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Business and default rules",
+      "content": "7. Business and default rules\n(1) A virtual asset business shall, to the satisfaction of the Regulatory Authority, have clear and fair business rules which are?\n( a ) legally enforceable by purchasers and customers; and\n( b ) published and made freely available.\n(2) A licence holder shall have compliance procedures in place to ensure that?\n( a ) the business rules in subregulation (1) are enforced;\n( b ) complaints regarding its virtual asset services and appeal procedures are in place; and\n( c ) where appropriate, a disciplinary action resulting in financial and other types of penalties is available.\n(3) The business rules in subregulation (1) shall be approved by the Regulatory Authority.\n(4) The business rules in subregulation (1) shall specify the class of virtual assets traded on or available for subscription, and requirements with respect to?\n( a ) a licence holder?s financial reporting, how regular reports are made and the international accounting standards or any other accounting standard accepted by the Regulatory Authority to which they comply;\n( b ) auditing standards;\n( c ) the licence holder?s track record in terms of profit or operating history;\n( d ) any restrictions that may exist on transferability or virtual token exchange; and\n( e ) any other relevant matter deemed necessary by the Regulatory Authority.\n(5) A virtual asset business shall have default rules in place which, in the event of a purchaser or customer being or appearing to be unable to fulfil its obligations in respect of one or more contracts, enable action to be taken with respect to unsettled virtual assets transactions to which the purchaser or customer is a party."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Systems and controls",
+      "content": "8. Systems and controls\n(1) A licence holder shall at all times ensure that its systems and controls are adequate and suitable for the performance of a virtual asset business and appropriate to the size and nature of its operations.\n(2) The systems and controls in subregulation (1) shall be in relation to the?\n( a ) transmission of information to purchasers and customers in its blockchain or using its distributed ledger technology platform;\n( b ) assessment and management of risks;\n( c ) safeguarding and administration of assets which belong to purchasers or its customers; and\n( d ) the fitness and propriety of its employees and the adequacy of the technology resources.\n(3) A licence holder shall have systems and controls in relation to the supervision and monitoring of transactions on its blockchain or trading systems."
+    }
+  ],
+  "definitions": []
+}

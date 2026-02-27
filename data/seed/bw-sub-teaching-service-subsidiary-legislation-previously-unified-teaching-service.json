@@ -1,0 +1,46 @@
+{
+  "id": "bw-sub-teaching-service-subsidiary-legislation-previously-unified-teaching-service",
+  "type": "statute",
+  "title": "Teaching Service: Subsidiary Legislation(previously \"unified Teaching Service\")",
+  "title_en": "Teaching Service: Subsidiary Legislation(previously \"unified Teaching Service\")",
+  "short_name": "Teaching Service: Subsidiar...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/teaching-service-subsidiary-legislation-previously-unified-teaching-service",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Teaching Service Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires-\n\"Code of Regulations\" means the Code of Regulations governing the Teaching Service;\n\"Secretary, Bursaries Committee\" , means the Secretary, Bursaries Committee in the Ministry of Education;\n\"supervisory officer\" means any public officer in the Ministry of Education of the rank of Assistant Education Officer or above having responsibility for supervising schools."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Constitution and Abolition of Teaching Service Posts (regs 3-6)",
+      "section": "3",
+      "title": "Notification of posts",
+      "content": "3. Notification of posts"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Code of Regulations",
+      "definition": "the Code of Regulations governing the Teaching Service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "supervisory officer",
+      "definition": "any public officer in the Ministry of Education of the rank of Assistant Education Officer or above having responsibility for supervising schools.",
+      "source_provision": "s2"
+    }
+  ]
+}

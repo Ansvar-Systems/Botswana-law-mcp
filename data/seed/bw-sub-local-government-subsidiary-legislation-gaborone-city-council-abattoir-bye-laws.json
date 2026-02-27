@@ -1,0 +1,83 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-gaborone-city-council-abattoir-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Gaborone City Council (abattoir) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Gaborone City Council (abattoir) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-gaborone-city-council-abattoir-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Gaborone City Council (Abattoir) Bye-laws*.\n*>Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"abattoir\" means the municipal abattoir, and includes the area set aside by the council for such purpose and demarcated as such, together with any building, space, pen, enclosure and lairage therein;\n\"animals\" means any bull, ox, cow, heifer, steer, calf, sheep, lamb, goat, kid, pig or other quadruped used for human consumption;\n\"authorised veterinary surgeon\" means a veterinary surgeon approved by the Director of Veterinary Services;\n\"council\" means the Gaborone City Council;\n\"meat\" means the flesh and bone of any slaughtered animal whether in its natural state or subjected to any freezing, chilling or other preservative process, and also includes sausages, polonies, chopped or minced meat or any other meat similarly prepared;\n\"meat inspector\" means any person appointed by the council after consultation with the Director of Veterinary Services for the purposes of examining any slaughtered animal intended for human consumption;\n\"Medical Officer\" means a medical practitioner appointed by the Director of Medical Services to act as medical officer in respect of Gaborone;\n\"offal\" means the stomach, intestines and other internal organs of any slaughtered animal not being red offal;\n\"red offal\" means the head, horns, feet, tail, heart, lungs, liver, kidneys spleen of any slaughtered animal;\n\"slaughterman\" means a person appointed as such by the council."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Tariff of charges",
+      "content": "3. Tariff of charges\n(1) The following fees shall be paid to the council for services rendered or facilities provided at the abattoir\n( a ) use of abattoir for slaughtering including lairage and water, inspection and stamping of meat, shall be as follows\np t\nBull, ox, cow, heifer, steer or calf"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "abattoir",
+      "definition": "the municipal abattoir, and includes the area set aside by the council for such purpose and demarcated as such, together with any building, space, pen, enclosure and lairage therein",
+      "source_provision": "s2"
+    },
+    {
+      "term": "animals",
+      "definition": "any bull, ox, cow, heifer, steer, calf, sheep, lamb, goat, kid, pig or other quadruped used for human consumption",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised veterinary surgeon",
+      "definition": "a veterinary surgeon approved by the Director of Veterinary Services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council",
+      "definition": "the Gaborone City Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "meat",
+      "definition": "the flesh and bone of any slaughtered animal whether in its natural state or subjected to any freezing, chilling or other preservative process, and also includes sausages, polonies, chopped or minced meat or any other meat similarly prepared",
+      "source_provision": "s2"
+    },
+    {
+      "term": "meat inspector",
+      "definition": "any person appointed by the council after consultation with the Director of Veterinary Services for the purposes of examining any slaughtered animal intended for human consumption",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Medical Officer",
+      "definition": "a medical practitioner appointed by the Director of Medical Services to act as medical officer in respect of Gaborone",
+      "source_provision": "s2"
+    },
+    {
+      "term": "offal",
+      "definition": "the stomach, intestines and other internal organs of any slaughtered animal not being red offal",
+      "source_provision": "s2"
+    },
+    {
+      "term": "red offal",
+      "definition": "the head, horns, feet, tail, heart, lungs, liver, kidneys spleen of any slaughtered animal",
+      "source_provision": "s2"
+    },
+    {
+      "term": "slaughterman",
+      "definition": "a person appointed as such by the council.",
+      "source_provision": "s2"
+    }
+  ]
+}

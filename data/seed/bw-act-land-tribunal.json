@@ -1,0 +1,78 @@
+{
+  "id": "bw-act-land-tribunal",
+  "type": "statute",
+  "title": "Land Tribunal",
+  "title_en": "Land Tribunal",
+  "short_name": "Land Tribunal",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/land-tribunal",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary [ss 1-2]",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Land Tribunal Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary [ss 1-2]",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"bailiff\" means a court bailiff of the Land Tribunal appointed in terms of section 21;\n\"Chief Land Tribunal President\" means Land Tribunal President appointed under section 5(1);\n\"land dispute\" means any dispute concerning land;\n\"Land Tribunal\" means the Land Tribunal established under section 3;\n\"Land Tribunal President\" , means a person appointed under section 4(1)( a) and it includes the Chief Land Tribunal President appointed under section 5(1);\n\"member of a Land Tribunal\" means a member appointed under section 4(1)( b) and shall not include, a Land Tribunal President;\n\"public body\" means a land board established under the Tribal Land Act (Cap. 32:02), and a planning authority established under the Town and Country Planning Act (Act No. 4 of 2013); and\n\"Registrar\" means the Registrar of the Land Tribunal appointed in terms of section 20."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment of Land Tribunal",
+      "section": "3",
+      "title": "Establishment of Land Tribunal",
+      "content": "3. Establishment of Land Tribunal\n(1) There is hereby established a Land Tribunal, which shall have such jurisdiction and powers as shall be conferred on it by this Act or any other written law.\n(2) The Land Tribunal may consist of one or more divisions as the Minister may consider necessary to constitute, each headed by a Land Tribunal President."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment of Land Tribunal",
+      "section": "4",
+      "title": "Constitution of Land Tribunal",
+      "content": "4. Constitution of Land Tribunal\n(1) The Land Tribunal shall comprise of the following members—\n( a ) Chief Land Tribunal President and such number of Land Tribunal Presidents appointed in accordance with the Public Service Act (Cap. 26:01); and\n( b ) such other members appointed on contract in accordance with the Public Service Act, holding qualifications in Land management, real estate management, physical planning or related fields.\n(2) A person shall not be qualified to be appointed as a Land Tribunal President unless he or she is qualified to practise as an advocate or attorney and has been qualified for not less than ten years to practise as an advocate or attorney."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "bailiff",
+      "definition": "a court bailiff of the Land Tribunal appointed in terms of section 21",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Land Tribunal President",
+      "definition": "Land Tribunal President appointed under section 5(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "land dispute",
+      "definition": "any dispute concerning land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Land Tribunal",
+      "definition": "the Land Tribunal established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member of a Land Tribunal",
+      "definition": "a member appointed under section 4(1)( b) and shall not include, a Land Tribunal President",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public body",
+      "definition": "a land board established under the Tribal Land Act (Cap. 32:02), and a planning authority established under the Town and Country Planning Act (Act No. 4 of 2013)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of the Land Tribunal appointed in terms of section 20.",
+      "source_provision": "s2"
+    }
+  ]
+}

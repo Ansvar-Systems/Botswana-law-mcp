@@ -1,0 +1,70 @@
+{
+  "id": "bw-act-national-registration",
+  "type": "statute",
+  "title": "National Registration",
+  "title_en": "National Registration",
+  "short_name": "National Registration",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/national-registration",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the National Registration Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act unless the context otherwise requires—\n\"authorised person\" means any person or class of persons prescribed by the Minister by regulations;\n\"district register\" means the register maintained by each district registrar;\n\"identity card\" means an identity card issued in accordance with the provisions of this Act;\n\"Minister\" ...;\n[11 of 2017, s. 3.]\n\"national register\" means the register maintained by the Registrar of National Registration under the provisions of section 4;\n\"registrar\" means the Registrar of National Registration appointed under section 3(1) or a district registrar appointed under section 3(2)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Appointment of Registrar and district registrars",
+      "content": "3. Appointment of Registrar and district registrars\n(1) There shall be a Registrar of National Registration appointed by the Minister.\n(2) The Minister may appoint such district registrars as he deems necessary to assist the Registrar of National Registration in carrying out his duties under this Act.\n(3) The Registrar of National Registration may delegate any or all of his duties to be performed by a district registrar within the area of a particular district.\n(4) In addition to his powers under subsection (3), the Registrar may, for areas where there is no district Registrar, or where the pressure of work so requires, delegate such of his powers as he may specify, to such public officers as are available and whom he considers suitable to exercise such powers.\n[17 of 1993, s. 2.]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Functions of registrars",
+      "content": "4. Functions of registrars\nThe Registrar shall keep or cause to be kept a national register of all citizens of Botswana of the age of 16 years or over, and district registers of all such citizens living within the districts concerned, and to whom identity cards have been issued.\n[ 17 of 1993, s. 3. ]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Contents of register",
+      "content": "5. Contents of register\nThe national register and each district register shall consist of the following particulars relating to each applicant—\n[17 of 1993, s. 4.]\n( a ) the applicant's name;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised person",
+      "definition": "any person or class of persons prescribed by the Minister by regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "district register",
+      "definition": "the register maintained by each district registrar",
+      "source_provision": "s2"
+    },
+    {
+      "term": "identity card",
+      "definition": "an identity card issued in accordance with the provisions of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "national register",
+      "definition": "the register maintained by the Registrar of National Registration under the provisions of section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registrar",
+      "definition": "the Registrar of National Registration appointed under section 3(1) or a district registrar appointed under section 3(2).",
+      "source_provision": "s2"
+    }
+  ]
+}

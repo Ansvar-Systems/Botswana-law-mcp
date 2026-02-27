@@ -1,0 +1,91 @@
+{
+  "id": "bw-act-settlement-of-investment-disputes-convention",
+  "type": "statute",
+  "title": "Settlement of Investment Disputes (convention)",
+  "title_en": "Settlement of Investment Disputes (convention)",
+  "short_name": "Settlement of Investment Di...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/settlement-of-investment-disputes-convention",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Settlement of Investment Disputes (Convention) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act—\n\"Centre\" means the International Centre for Settlement of Investment Disputes established by the Convention;\n\"Convention\" means the Convention on the Settlement of Investment Disputes between States and Nationals of other States which was signed on behalf of Botswana on 15th January, 1970, and which is set out in the Schedule to this Act."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Representation on Administrative Council of Centre",
+      "content": "3. Representation on Administrative Council of Centre\nThe President is authorised to designate, from time to time, a representative and an alternate representative of Botswana on the Administrative Council of the Centre."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Designation of persons to serve on panels",
+      "content": "4. Designation of persons to serve on panels\nThe President is authorised to designate persons to serve on the panel of conciliators and on the panel of arbitrators of the Centre."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Payment of share of expenditure of Centre",
+      "content": "5. Payment of share of expenditure of Centre\nThe Government is authorised to pay out of the Consolidated Fund the share of the expenditure of the Centre that may be assessed to Botswana in pursuance of Article 17 of the Convention."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Privileges and immunities",
+      "content": "6. Privileges and immunities\nArticles 18-24 inclusive of the Convention shall have full force and effect in Botswana."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Enforcement of arbitral awards",
+      "content": "7. Enforcement of arbitral awards\nAwards rendered in pursuance of the Convention shall be recognised as binding and the pecuniary obligations imposed by such awards shall be enforced as if such awards were judgments of the High Court that have become final by appeal or the expiration of time for appeal."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Competent authority to recognise and enforce arbitral awards",
+      "content": "8. Competent authority to recognise and enforce arbitral awards\nThe Registrar of the High Court is designated, in accordance with Article 54(2) of the Convention, as competent to recognise arbitral awards rendered in pursuance of the Convention and to enforce the pecuniary obligations imposed by such awards."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Procedural rules",
+      "content": "9. Procedural rules\nThe Minister may make procedural rules, which shall be published in the Gazette , relating to the recognition and enforcement of awards for the purposes of sections 7 and 8."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Minister authorised to enter into agreements for submission of disputes",
+      "content": "10. Minister authorised to enter into agreements for submission of disputes\nThe Minister is authorised to enter into agreements with nationals of any other state, which is a party to the Convention, providing for the submission to the jurisdiction of the Centre, for settlement by conciliation or arbitration, of any existing or future legal dispute between Botswana and any such national arising directly out of an investment."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Submission to jurisdiction of Centre",
+      "content": "11. Submission to jurisdiction of Centre\nAny national of any other state which is a party to the Convention may submit to the Centre, for settlement by conciliation or arbitration in pursuance of the Convention, any legal dispute with Botswana arising directly out of an investment by such foreign national in Botswana, provided that such foreign national has within one year after the commencement of this Act or within one year after the making of the investment, whichever is the later, filed with the Minister a consent in writing to the like submission to the Centre by Botswana of any such legal dispute."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Centre",
+      "definition": "the International Centre for Settlement of Investment Disputes established by the Convention",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Convention",
+      "definition": "the Convention on the Settlement of Investment Disputes between States and Nationals of other States which was signed on behalf of Botswana on 15th January, 1970, and which is set out in the Schedule to this Act.",
+      "source_provision": "s2"
+    }
+  ]
+}

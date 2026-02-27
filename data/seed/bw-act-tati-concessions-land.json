@@ -1,0 +1,44 @@
+{
+  "id": "bw-act-tati-concessions-land",
+  "type": "statute",
+  "title": "Tati Concessions Land",
+  "title_en": "Tati Concessions Land",
+  "short_name": "Tati Concessions Land",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/tati-concessions-land",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Tati Concessions Land Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Land in the Tati District vested in the Tati Concessions, Ltd",
+      "content": "2. Land in the Tati District vested in the Tati Concessions, Ltd\nThe Tati Concessions, Limited, its successors and assigns, is hereby confirmed in the full, free and undisturbed possession as owners of all the land within the Tati District, the limits of which district are as follows, viz.: From the place where the Shashe River rises to its junction with the Tati and Ramokgwebana Rivers, thence along the Ramokgwebana River to where it rises and thence along the watershed of those rivers, subject to all the terms and conditions of this Act and in accordance with the laws now or hereafter in force within Botswana."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Effect of Act on rights or obligations of the National Railways of Zimbabwe",
+      "content": "3. Effect of Act on rights or obligations of the National Railways of Zimbabwe\nNothing in this Act shall add to or take away from any rights or obligations which have been conferred on or imposed on the National Railways of Zimbabwe (formerly known as the Rhodesia Railways, Limited), by the agreement of November, 1910, between that company and the Tati Concessions, Limited, a copy whereof is set out in the Schedule, and the plans annexed to which have been deposited as hereinbefore recited."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Land may be disposed of by Company by sale or lease",
+      "content": "4. Land may be disposed of by Company by sale or lease\nThe Tati Concessions, Limited, shall have full power and authority to dispose by sale, lease, or otherwise of any portion of the land within the Tati District not being land reserved as aforesaid for the National Railways of Zimbabwe; and the purchaser or lessee or occupier under any agreement with the Tati Concessions, Limited, shall have the right of full, free and undisturbed possession subject to the terms of the said purchase, lease or agreement, and to the terms of this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Sales and leases prior to 21st January, 1911, to remain valid",
+      "content": "5. Sales and leases prior to 21st January, 1911, to remain valid\nAll sales, leases or agreements whereunder occupation of land has been given by the Tati Concessions, Limited, prior to 21st January, 1911, and still binding, shall be recognised as valid and shall subject to the terms thereof and to the provisions of this Act, be regarded as conferring upon the purchaser, lessee or occupier, a right of full, free and undisturbed possession in respect of the said land."
+    }
+  ],
+  "definitions": []
+}

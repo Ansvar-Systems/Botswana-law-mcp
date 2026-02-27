@@ -1,0 +1,456 @@
+{
+  "id": "bw-act-road-traffic",
+  "type": "statute",
+  "title": "Road Traffic",
+  "title_en": "Road Traffic",
+  "short_name": "Road Traffic",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/road-traffic",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Road Traffic Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act, unless the context otherwise requires—\n\"articulated vehicle\" means a combination of vehicles comprising a motor vehicle and semi-trailer coupled to the motor vehicle;\n[ 13 of 2002, s. 2(1). ]\n\"authorised officer\" means a person specially or generally authorised by the Minister for the matter in question;\n\"bridge\" includes culvert and causeway;\n\"bus\" means a motor vehicle having seating accommodation for more than 30 passengers and not more than 100 passengers on a single deck, exclusive of the driver;\n[ 13 of 2002, s. 2(1). ]\n\"call-cab\" means a light motor vehicle having seating capacity for not more than four passengers, exclusive of the driver, and available for hire or operated for reward from a defined private place;\n[ 13 of 2002, s. 2(1). ]\n\"carriageway\" means the part of a road normally used by vehicular traffic, including those portions commonly known as the shoulders, but excluding any portion of any such road which is set aside for use by pedestrian traffic;\n\"cattle\" includes oxen, bulls, cows, horses, camels, mules, donkeys, sheep, goats and swine;\n\"combination of vehicles\" means coupled vehicles which travel on the road as a unit;\n\"commercial vehicle\" means a motor vehicle wholly or primarily constructed or adapted for the carriage of goods or burdens of any description in connection with any trade, business or agriculture, but does not include any type or class of motor vehicle which the Director may, by notice in the Gazette , declare not to be a commercial vehicle for the purposes of this Act;\n\"conductor permit\" means an authorisation issued to a person employed by a public service vehicle operator to handle fees from passengers and handle luggage of passengers;\n[ 27 of 2008, s. 2(a). ]\n\"conversion\" means the replacement of a driving licence obtained outside Botswana with a new Botswana driving licence;\n[ 27 of 2008, s. 2(a). ]\n\"cycle\" means any vehicle with one or more wheels which is propelled by the muscular energy of the driver acting on the pedals;\n\"demerit point\" means a point incurred by a person who has contravened any offence under this Act;\n[ 27 of 2008, s. 2(a). ]\n\"detecting device\" means a device prescribed as a traffic offence detecting device for the purposes of this Act;\n[ 27 of 2008, s.2(a). ]\n\"Director\" means the Director of Road Transport and Safety appointed under section 3;\n[ 13 of 2002, s. 2(1). ]\n\"double-deck bus\" means a bus having an upper and lower deck with seats exceeding 100 passengers, exclusive of the driver;\n[ 13 of 2002, s. 2(1). ]\n\"drive\" , in relation to a vehicle, includes the steering of such vehicle;\n\"driver\" , in relation to a vehicle, means any person who drives or guides, or is in actual physical control of, any vehicle, and in relation to cattle, means the person in charge or control of the cattle;\n\"driving licence\" means a licence to drive a motor vehicle issued under this Act, and any document deemed to be a driving licence by virtue of any regulations made under this Act;\n\"driving school\" means a business licensed under this Act which employs for a reward, licensed driving instructors to instruct or supervise any person in the driving of a motor vehicle on a road;\n[ 27 of 2008, s. 2(a). ]\n\"driving test examiner\" means any person appointed to be a driving test examiner under section 3(1)( b );\n\"gross vehicle mass (GVM)\" means the maximum weight of a vehicle and its load as specified by the manufacturer or, in the absence of such specification, as determined by a competent authority;\n[ 13 of 2002, s. 2(1). ]\n\"hazardous goods\" means dangerous goods or substances which shall include but not be limited to packages, unit load, bulk containers, bulk transportation equipment, petroleum-based flammable liquids and other objects that are considered hazardous or dangerous in terms of the following Acts—\n( a ) Explosives Act (Cap. 24:02);\n( b ) Fire Services Act (Cap. 40:04);\n( c ) Mines and Minerals Act (Cap. 66:01);\n( d ) Wildlife Conservation and National Parks Act (Cap. 38:01);\n( e ) Atmospheric Pollution (Prevention) Act (Cap. 65:03); or\n( f ) Arms and Ammunition Act (Cap. 24:01);\n[ 13 of 2002, s. 2(1). ]\n\"heavy commercial vehicle\" means a commercial motor vehicle wholly or primarily constructed or adapted for the carriage of goods the gross weight of which exceeds 7500 kg;\n[ 27 of 2008, s. 2(b). ]\n\"heavy motor vehicles\" has the meaning ascribed to it by section 4(2)( c );\n[ 13 of 2002, s. 2(1). ]\n\"heavy trailer\" means a trailer of a GVM exceeding 750 kg;\n[ 13 of 2002, s. 2(1). ]\n\"identification plate\" means one of the prescribed number of identification plates required to be carried on a motor vehicle under section 11 or section 24;\n\"institutional vehicle\" means a vehicle registered under the name of any formal institution such as training colleges, universities, schools, churches, Government and parastatal organisations;\n[ 27 of 2008, s. 2(a). ]\n\"laden weight\" means the actual weight of the vehicle as loaded, with the crew and passengers on board;\n[ 13 of 2002, s. 2(1). ]\n\"licensing officer\" means a licensing officer appointed under section 3(2);\n\"light trailer\" means any trailer of a GVM not exceeding 750 kg;\n[ 13 of 2002, s. 2(1). ]\n\"light vehicle\" means a motor vehicle other than a motor cycle having a permissible maximum weight not exceeding 3 500 kilograms;\n\"light commercial vehicle\" means a commercial motor vehicle wholly or primarily constructed or adapted for the carriage of goods the gross weight of which does not exceed 7500 kg;\n[ 27 of 2008, s. 2(b). ]\n\"main road\" means any road declared to be a main road under section 100;\n\"mini-bus\" means a motor vehicle having seating capacity for more than 11 but not more than 15 passengers, exclusive of the driver;\n[ 13 of 2002, s. 2(1). ]\n\"midi-bus\" means a motor vehicle having seating capacity for more than 15 passengers but not more than 30 passengers, exclusive of the driver;\n[ 13 of 2002, s. 2(1). ]\n\"motor car\" means a motor vehicle having seating accommodation for not more than seven passengers excluding the driver, but does not include a motor cycle;\n[ 27 of 2008, s. 2(b). ]\n\"motor cycle\" means any two or three or four-wheeled vehicle as prescribed under section 4;\n[ 27 of 2008, s. 2(b). ]\n\"motor dealer\" means any person who deals by way of business in motor vehicles or trailers including a manufacturer and a repairer of such vehicles;\n\"motor dealer's licence\" means a licence issued under section 23;\n\"motor omnibus\" means—\n( a ) a public service vehicle having seating accommodation for more than seven passengers exclusive of the driver; or\n( b ) a motor vehicle having seating accommodation for more than 11 passengers exclusive of the driver;\n\"motor vehicle\" means any vehicle, self-propelled by mechanical or electrical power, but excluding any vehicle running on a specially prepared way such as a railway or tramway or cables and such other vehicles as the Minister may, from time to time by notice published in the Gazette , declare not to be motor vehicles for the purposes of this Act;\n\"motor vehicle examiner\" means any person appointed to be a motor vehicle examiner under section 3(1)( b );\n\"motor vehicle licence\" means a motor vehicle licence issued under Part III;\n\"owner\" , in relation to a vehicle, includes the owner, joint owner or part owner of a vehicle and, where a vehicle is the subject of a hire-purchase agreement or hiring agreement, includes the person in possession of the vehicle under that agreement;\n\"permit\" means an authorisation issued under section 108 of the Act;\n[ 27 of 2008, s. 2(a). ]\n\"physically disabled\" means any person driving a light motor vehicle with automatic transmission and adapted and clearly marked with a badge for driving by handicapped persons and which may make use of the facility, road, or portion of the road indicated by an appropriate road sign;\n[ 13 of 2002, s. 2(1). ]\n\"plying for hire\" includes—\n( a ) standing on any public taxi stand;\n( b ) being offered for hire by any notice, advertisement or announcement, or any express or implied invitation;\n( c ) standing or travelling whilst exhibiting a \"For Hire\" notice of any kind;\n\"private hire vehicle\" means any public service vehicle used for the conveyance of passengers or goods for rental purposes;\n[ 27 of 2008, s. 2(b). ]\n\"Professional Driving Permit (PrDP)\" means, respectively, one of the permits issued under section 106;\n[ 13 of 2002, s. 2(1). ]\n\"provisional licence\" means a licence to drive a motor vehicle issued under section 32;\n\"public service vehicle\" means any vehicle which is licenced under Part XIII to—\n(i) carry passengers or goods for hire or reward or on own account; or\n(ii) ply for hire or reward or is let out for hire or reward;\n[ 13 of 2002, s. 2(1). ]\n\"qualified person\" means a pathologist, police officer, medical practitioner, laboratory technician, intern or houseman, forensic analyst, laboratory scientist or registered nurse of or above the rank of staff nurse or such other person as the Minister may prescribe;\n[ 6 of 2001, s. 2. ]\n\"registered owner\" means the person in whose name a vehicle is registered under section 6;\n\"registration book\" means the registration book issued by the Director in respect of a vehicle under section 6(5);\n\"registration number\" means the number allocated to a vehicle when it is registered under section 6(5);\n\"road\" means the entire surface of any way, road, street, thoroughfare, wharf, car park, footpath, bridle-path or road reserve on which a vehicle is capable of travelling and to which the public have access, and includes—\n( a ) any bridge, drift, ford or ferry traversed thereby;\n( b ) any road established, proclaimed or recognised as such under the provisions of any written law; and\n( c ) any road however created which, before or after the commencement of this Act, has been in the undisturbed use of the public or which the public has had the right to use during a period of not less than three years:\nProvided that in any prosecution under this Act the road on which the offence is alleged to have occurred shall be presumed to be a road to which the public has access, or which has been in the undisturbed use of the public, or which the public have had a right to use, for not less than three years, unless the contrary is proved;\n\"road authority\" , where a road in any area or district has been lawfully vested in a local authority or any other person, means such local authority or such person, and where a road has not been so vested means such public officer as the Minister may, by notice published in the Gazette , appoint to be the road authority for that road for the purposes of this Act;\n\"school-bus\" means a motor vehicle used solely for the conveyance of school children from place of abode to a school and vice versa or to undertake extra-curricula activities;\n[ 13 of 2002, s. 2(1). ]\n\"tare weight\" means the weight of a vehicle when unladen without the crew, passengers or load, but with a full standard supply of fuel and with the tools and spare parts which the vehicle normally carries;\n\"taxi\" means any public service vehicle having seating accommodation for not more than four passengers, excluding the driver, which is licensed under this Act or any other written law relating to the licensing and operation of taxi to ply for hire from a taxi rank or other public place;\n[ 13 of 2002, s. 2(2). ]\n\"tractor\" means an agriculture vehicle designed or adapted solely for agricultural activities and does not include a road or passenger vehicle;\n[ 27 of 2008, s. 2(b). ]\n\"traffic sign\" means any sign, signal, signpost, notice, light or other device or object, whether fixed or portable, erected or in any way displayed upon or adjacent to any road by or with the consent of the road authority, for the purpose of warning, regulating, restricting or prohibiting traffic and vehicles of any kind on a road and includes any line, mark, words or other sign on the surface of the road for conveying such warning, re"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Appointment of officers",
+      "content": "3. Appointment of officers\n(1) The Minister shall, by notice published in the Gazette , appoint—\n( a ) a Director of Road Transport and Safety, who shall have such duties relating to the administration of this Act, as the Minister may, from time to time, determine, which duties the Director may, with the consent of the Minister, delegate to any public officer;\n[ 13 of 2002, s. 4. ]\n( b ) such motor vehicle examiners and driving test examiners as may be necessary for carrying out the purposes and provisions of this Act and any regulations made thereunder.\n(2) The Director shall, by notice published in the Gazette , appoint such licensing officers as may be necessary for carrying out the purposes and provisions of this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary",
+      "section": "4",
+      "title": "Classification of motor vehicle",
+      "content": "4. Classification of motor vehicle\n(1) This Act shall apply to all motor vehicles and other traffic on a road and other surfaces normally used by motor vehicles.\n[ 13 of 2002, s. 5. ]\n(2) For the purposes of this Act and any regulations made thereunder, motor vehicles shall be divided into the following classes—\n( a ) motor cycles—\n(i) (A1) not exceeding 125 cubic centimetres (cc) engine capacity and not exceeding 230 kg GVM;\n(ii) (A) exceeding 125 cubic centimetres engine capacity or 230 kg GVM;\n( b ) light motor vehicles—\n(B) light motor vehicles not exceeding 3500 kg GVM;\n( c ) heavy motor vehicles—\n(i) (C1) heavy motor vehicles with GVM exceeding 3500 kg GVM but not more than 16000 kg GVM;\n(ii) (C) heavy motor vehicles with GVM exceeding 16000 kg;\n( d ) combination of vehicles—\n(i) (EB) combination of vehicles with a light motor vehicle not exceeding 3500 kg GVM and a light trailer (exceeding 750 kg GVM);\n(ii) (EC1) combination of vehicles with a heavy motor vehicle exceeding 3500 kg GVM but not exceeding 16000 kg with a trailer not exceeding 750 kg GVM; and\n(iii) (EC) combination of vehicles with a heavy motor vehicle exceeding 16000 kg GVM and one or more trailers exceeding 750 kg GVM;\n( e ) tractors—\n(F) a motor vehicle constructed or adapted for the purpose of hauling trailers but which is not itself designed to carry goods or passengers;\n( f ) Professional Driving Permit [PrDP \"P\" (Passengers), \"G\" (Goods) \"H\" (Hazardous)—\n(i) the vehicle classes to which the PrDP \"P\" shall apply include call-cab, taxi, mini-bus, midi-bus, school bus, bus, train-bus, double-deck bus, and special;\n(ii) the vehicle classes to which the PrDP \"G\" shall apply include a motor vehicle other than a motor cycle or motor car, designed or adapted for the conveyance of goods and in the process of loading or off-loading goods on a public road for hire and reward or on own account;\n(iii) the vehicle classes to which the PrDP \"H\" shall apply include any vehicle used for the conveyance of hazardous substances.\n( g ) special types—\n(H) motor vehicles as may be specially authorised by the Director.\n[ 13 of 2002, s. 5. ]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Registration of Vehicles",
+      "section": "5",
+      "title": "Records of vehicles",
+      "content": "5. Records of vehicles\n(1) The Director shall keep records of all motor vehicles and trailers registered in Botswana, and shall cause every licensing officer to keep records of all vehicles registered by him.\n(2) Vehicle records maintained by the Director or a licensing officer shall be open for inspection by any police officer, and any other person duly authorised by the Minister, who shall be entitled to copy any entry in such records free of charge.\n(3) Any person who satisfies the Director that he has reasonable cause therefor shall be entitled, on payment of the prescribed fee, to a copy of any entry in such vehicle records."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Registration of Vehicles",
+      "section": "6",
+      "title": "Motor vehicles and trailers to be registered",
+      "content": "6. Motor vehicles and trailers to be registered\n(1) No person shall own, possess or use a motor vehicle or trailer unless such motor vehicle or trailer is registered under this Act:\nProvided that this subsection shall not apply in the case of—\n(i) an unregistered vehicle which is owned by and in the possession of a motor dealer for the purposes of sale;\n(ii) a vehicle which is lawfully used under the authority of and in accordance with the conditions of a motor dealer's licence issued under section 23;\n(iii) a vehicle which is being driven to or from any place specified by a licensing officer for inspection or testing, or while it is being tested by a motor vehicle examiner;\n(iv) a vehicle lawfully brought into Botswana in accordance with any regulations made by the Minister under section 130; or\n(v) a vehicle exempted under the provisions of this Act.\n(2) Application for the registration of any motor vehicle or trailer shall be made to a licensing officer in the prescribed form and shall be accompanied by the prescribed fee:\nProvided that where a person satisfies the licensing officer that he has been authorised in writing for the purpose of this section, by a person who is absent from Botswana to make application on his behalf for the registration of a vehicle, the application form may be signed by the person so authorised.\n(3) Before registering a motor vehicle or trailer a licensing officer shall, if the vehicle or trailer is over three years old at the time of application, or may in any other case if he thinks fit, require the vehicle or trailer to be inspected by a motor vehicle examiner in order to satisfy himself that the vehicle or trailer is in a fit and proper condition for the purpose for which it is intended to be used, and conforms in all respects to the requirements of this Act.\n(4) If an application is made to register a motor vehicle or trailer the weight or load capacity of which has not been declared by the manufacturers of the chassis, the licensing officer shall not register the vehicle until a motor vehicle examiner has determined its weight and load capacity, such determination being final.\n(5) The licensing officer shall, on being satisfied as to the accuracy of the particulars contained in a form of application for the registration of a motor vehicle or trailer and as to the other matters regarding which he is required to be satisfied under this section, issue to the owner of the vehicle and in his name a registration book in the prescribed form containing the registration number allocated to the vehicle and particulars of the vehicle.\n(6) A registration book or duplicate thereof issued under this section shall be proof of the registration of the vehicle, the name of the registered owner and the registration number of the vehicle.\n(7) The licensing officer shall furnish the Director with details of the contents of every registration book issued under this section and the Director shall enter those details in his records.\n(8) If a registration book has been lost, destroyed, or defaced, or the particulars thereon have become illegible, the owner of the vehicle shall apply in the prescribed form for a duplicate thereof, and the Director shall, if satisfied as to such loss, destruction, defacement or illegibility, and upon payment of the prescribed fee, issue a duplicate of the said registration book:\nProvided that—\n(i) the Director shall cancel and destroy any defaced or illegible registration book; and\n(ii) where any registration book which has been lost is subsequently found such book, or the duplicate thereof, shall forthwith be returned to the Director for cancellation and destruction.\n(9) In the event of any change of circumstances which affects the accuracy of the registered particulars of a motor vehicle or trailer, the owner thereof shall forthwith inform the Director of such change, shall forward to him the registration book in order that it may be amended or cancelled, and shall supply the Director with any further information that may be required. If any registered motor vehicle or trailer is broken up, stolen, destroyed, or becomes permanently unfit for use as a motor vehicle or trailer, or is removed permanently from Botswana, the Director shall cancel the registration of the vehicle.\n(10) If a licensing officer has reason to believe that a motor vehicle or trailer in respect of which registration has been applied for is or may be of a type not previously registered, or is of a type so registered but constructed according to different specifications, he may refuse to register the vehicle until plans or specifications thereof have been submitted to and approved by the Director."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Registration of Vehicles",
+      "section": "7",
+      "title": "Inspection fee",
+      "content": "7. Inspection fee\nWhere a vehicle is required to be inspected by a motor vehicle examiner under the provisions of this Part, the owner of such vehicle shall, before any inspection is carried out, pay the prescribed fee to a licensing officer."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Registration of Vehicles",
+      "section": "8",
+      "title": "Owner of vehicle",
+      "content": "8. Owner of vehicle\nThe person in whose name a vehicle is registered shall, unless the contrary is proved, be deemed to be the owner of the vehicle for the purposes of this Act, or for the purpose of any criminal or civil proceedings arising under or by virtue of this Act."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Registration of Vehicles",
+      "section": "9",
+      "title": "Change of ownership",
+      "content": "9. Change of ownership\n(1) A vehicle, the ownership of which has been transferred by the registered owner thereof, shall not be used on a road for more than seven days after the date of such transfer unless the new owner is registered as the owner thereof.\n(2) Upon the transfer of ownership of a vehicle, the registered owner thereof shall immediately deliver to the new owner the registration book in respect of the vehicle and the new owner shall within seven days immediately after the delivery to him of the registration book deliver the same together with the prescribed fee to a licensing officer in order that the vehicle may be registered in his name.\n(3) Subsections (1) and (2) shall not apply to a change of possession consequent on a contract of hiring where the period of hiring does not exceed three months, or where the registered owner continues to employ and pay the driver of the vehicle.\n(4) Application for registration of a new owner may be made before the actual transfer of the vehicle, but the registration of a new owner shall not be effective until the registration book has been surrendered to and reissued by a licensing officer.\n(5) Subsections (1), (2) and (4) shall not apply to any change of possession of a vehicle which occurs by reason of the vehicle being lawfully seized under a hire purchase agreement, but in such event the following provisions shall apply—\n( a ) the person from whose possession the vehicle was seized shall, within 14 days of the seizure, deliver the registration book to the person who has seized the vehicle, and inform the Director in writing of the change of possession; and\n( b ) the person seising the vehicle shall, within 14 days of receiving the registration book, apply to the Director to be registered as the new owner, and on payment of the prescribed fee, the Director shall so register him.\n(6) On registering a new owner, the Director shall make any necessary alterations to the registration book, and shall deliver it, or if he thinks fit a replacement of such registration book, to the new owner."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II Registration of Vehicles",
+      "section": "10",
+      "title": "Registration of vehicles imported into Botswana",
+      "content": "10. Registration of vehicles imported into Botswana\nNotwithstanding any other provision of this Act, where a motor vehicle or trailer has been imported into Botswana, a licensing officer shall not register the vehicle until the owner thereof satisfies him—\n( a ) that the vehicle has been lawfully exported from its country of origin or the country in which it was last registered; and\n( b ) that the vehicle has been lawfully imported into Botswana, and by producing documentary evidence, in the form of a customs clearance certificate issued by the Department of Customs and Excise, that the vehicle has been cleared from customs control."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II Registration of Vehicles",
+      "section": "11",
+      "title": "Vehicles to carry identification plates",
+      "content": "11. Vehicles to carry identification plates\nA motor vehicle or trailer registered under this Act shall not be used on a road unless there is fixed onto the vehicle in the prescribed manner, the prescribed number of identification plates of the prescribed design and colour on which is inscribed the registration number of the vehicle."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II Registration of Vehicles",
+      "section": "12",
+      "title": "Production of registration books",
+      "content": "12. Production of registration books\n(1) The owner of a motor vehicle or trailer shall, when requested by a police officer or an authorised officer, produce for inspection, either immediately to such officer or within 10 days of such request being made, at a police station nominated by such owner at the time of such request being made, the registration book issued in respect of such vehicle.\n(2) Where—\n( a ) a motor vehicle or trailer does not bear any special identification number or mark; or\n( b ) the manufacturer's serial number or similar identification number or mark has been obliterated or defaced,\nthe Director may cause a special identification number or mark to be cut, impressed, embossed on or attached permanently to such vehicle, which shall thereafter be deemed sufficient identification for the purpose of the registration of such vehicle.\n(3) In the circumstances referred to in subsection (2)( b ), the Director shall cause a full description of such vehicle and the name and address of the applicant applying for registration to be furnished to the nearest police station.\n(4) No person shall, without the written permission of the Director, alter, obliterate, deface, or cause the alteration, obliteration or defacement of any identification number or mark used for the purpose of registration in accordance with this Act."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II Registration of Vehicles",
+      "section": "13",
+      "title": "Cancellation of registration in certain cases",
+      "content": "13. Cancellation of registration in certain cases\n(1) Where the Director has reason to believe that a vehicle registered under this Part has been destroyed, broken up, or has left Botswana permanently, he may give notice, either personally or by post, to the registered owner thereof that he intends to cancel the registration of the vehicle, and if before the elapse of one month from the date of service of such notice the registered owner fails to satisfy him that such vehicle has not been destroyed, broken up, or has not left Botswana permanently, the Director shall cancel the registration thereof forthwith.\n(2) When the Director cancels the registration of a vehicle under this section, the registered owner of the vehicle shall within 10 days thereafter hand or send the registration book in respect thereof to the Director for cancellation."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART II Registration of Vehicles",
+      "section": "14",
+      "title": "Offences and penalties",
+      "content": "14. Offences and penalties\nAny person who contravenes any of the provisions of this Part or who fails to comply with a requirement lawfully made of him by a police officer, authorised officer, licensing officer or the Director under this Part, shall be guilty of an offence and liable to a fine not exceeding P1 000, or to imprisonment for a term not exceeding 12 months, or to both.\n[ 27 of 2008, s. 3. ]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART II Registration of Vehicles",
+      "section": "15",
+      "title": "Exemptions",
+      "content": "15. Exemptions\nThe Minister may, by order published in the Gazette , exempt any vehicle or any class or description of vehicle from the provisions of this Part."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART III Motor Vehicle Licences",
+      "section": "16",
+      "title": "Motor vehicles to be licensed",
+      "content": "16. Motor vehicles to be licensed\n(1) No person shall own or possess a motor vehicle or trailer, or use it on a road, unless such vehicle is licensed under and in accordance with this Part:\nProvided that this section shall not apply in the case of a motor vehicle or trailer—\n(i) lawfully used under the authority of and in accordance with the conditions of a motor dealer's licence;\n(ii) lawfully in Botswana in accordance with regulations made by the Minister under section 130 of this Act;\n(iii) which is owned by and in the possession of a motor dealer for the purpose of sale;\n(iv) which is being driven to or from any place specified by a licensing officer for inspection or testing, or while it is being tested by a motor vehicle examiner; or\n(v) exempted under subsection (2) or any other provision of this Act.\n(2) Where the owner or person in possession of a motor vehicle or trailer gives written notice to the Director that for a stated period he does not intend that it shall be used on a road, and it is not at any time used on the road during such period, or where he satisfies the Director that for a stated period such vehicle was not used on a road, it shall not be necessary for such vehicle to be licensed under this Part during the stated period."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART III Motor Vehicle Licences",
+      "section": "17",
+      "title": "Application for motor vehicle licence",
+      "content": "17. Application for motor vehicle licence\nApplications for motor vehicle licences shall be made to a licensing officer in the prescribed form accompanied by the prescribed fee and the vehicle registration book."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART III Motor Vehicle Licences",
+      "section": "18",
+      "title": "Conditions for the issue of motor vehicle licences",
+      "content": "18. Conditions for the issue of motor vehicle licences\n(1) A licensing officer shall not issue or renew a motor vehicle licence or carry out any other transaction regarding the vehicle unless he is satisfied that—\n[ 27 of 2008, s. 4(a). ]\n( a ) the vehicle is duly registered;\n( b ) the particulars in the registration book are correct;\n( c ) the vehicle is duly and validly insured in accordance with any written law relating to vehicle insurance;\n( d ) any licence issued in respect of such vehicle has not been cancelled or revoked;\n( e ) there is no outstanding fine owed to the Government relating to the use of the vehicle in contravention of the provisions of this Act.\n[ 27 of 2008, s. 4(b). ]\n(2) Before issuing or renewing a motor vehicle licence in respect of any vehicle of a class or description prescribed for the purposes of this subsection, a licensing officer shall require the applicant to produce a certificate of roadworthiness showing that the vehicle has been examined by a motor vehicle examiner during the three months immediately preceding the commencement of the licence and that the vehicle complies with the provisions of this Act:\nProvided that a certificate issued under section 108(2)( g ) and dated not earlier than three months before the commencement of the licence shall be deemed to be a certificate of roadworthiness for the purposes of this section.\n(3) Where under this section the owner of any motor vehicle is required to have it examined by a motor vehicle examiner, he shall make application therefor in the prescribed form, paying the prescribed fee, and thereupon a motor vehicle examiner shall examine the vehicle and shall issue a certificate in the prescribed form certifying that the vehicle is roadworthy or is not roadworthy.\n(4) A certificate certifying that a vehicle is not roadworthy shall state the reasons why the motor vehicle examiner considers the vehicle not to be roadworthy."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART III Motor Vehicle Licences",
+      "section": "19",
+      "title": "Motor vehicle licences",
+      "content": "19. Motor vehicle licences\nMotor vehicle licences shall be in the prescribed form, and may be issued for such period and upon payment of such fees as may be prescribed:\nProvided that, where a period is prescribed, a licence issued before the period is prescribed shall not be invalid solely because the period for which it was issued is different from that prescribed.\n[ 16 of 1992, s. 2. ]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART III Motor Vehicle Licences",
+      "section": "20",
+      "title": "Licence to be carried on vehicle",
+      "content": "20. Licence to be carried on vehicle\nA motor vehicle or trailer which is required to be licensed under this Part shall not be used on a road unless the motor vehicle licence or such part thereof as may be prescribed, which shall be legible and not defaced or mutilated, is carried on the vehicle in the prescribed manner."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART III Motor Vehicle Licences",
+      "section": "21",
+      "title": "Duplicate motor vehicle licences",
+      "content": "21. Duplicate motor vehicle licences\nWhere a motor vehicle licence is lost, defaced, mutilated or rendered illegible, the Director shall, on being satisfied that the licence has been so lost, defaced, mutilated or rendered illegible, and that the person applying on the prescribed form and paying the prescribed fee is entitled to the issue of such licence, issue or cause to be issued a duplicate of the licence:\nProvided that where a motor vehicle licence which has been lost is subsequently found the duplicate shall be returned to the Director for cancellation."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART III Motor Vehicle Licences",
+      "section": "22",
+      "title": "New motor vehicle licence required in certain circumstances",
+      "content": "22. New motor vehicle licence required in certain circumstances\n(1) The holder of a motor vehicle licence shall apply for a new motor vehicle licence where—\n( a ) he desires to use the vehicle for any purpose not authorised by the licence; or\n( b ) the vehicle is so altered that a higher duty or duty of a different class is required.\n(2) A new motor vehicle licence shall not be issued under this section until the old licence has been surrendered for cancellation and the prescribed fee paid."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART IV Motor Dealers' Licences",
+      "section": "23",
+      "title": "Motor dealer's licence",
+      "content": "23. Motor dealer's licence\n(1) The Director may issue to a motor dealer, upon application in the prescribed form and upon payment of the prescribed fees, such number of motor dealer's licences as the applicant may require, and with each such licence shall issue two identification plates in the prescribed form."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "articulated vehicle",
+      "definition": "a combination of vehicles comprising a motor vehicle and semi-trailer coupled to the motor vehicle",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised officer",
+      "definition": "a person specially or generally authorised by the Minister for the matter in question",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bridge",
+      "definition": "culvert and causeway",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bus",
+      "definition": "a motor vehicle having seating accommodation for more than 30 passengers and not more than 100 passengers on a single deck, exclusive of the driver",
+      "source_provision": "s2"
+    },
+    {
+      "term": "call-cab",
+      "definition": "a light motor vehicle having seating capacity for not more than four passengers, exclusive of the driver, and available for hire or operated for reward from a defined private place",
+      "source_provision": "s2"
+    },
+    {
+      "term": "carriageway",
+      "definition": "the part of a road normally used by vehicular traffic, including those portions commonly known as the shoulders, but excluding any portion of any such road which is set aside for use by pedestrian traffic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cattle",
+      "definition": "oxen, bulls, cows, horses, camels, mules, donkeys, sheep, goats and swine",
+      "source_provision": "s2"
+    },
+    {
+      "term": "combination of vehicles",
+      "definition": "coupled vehicles which travel on the road as a unit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commercial vehicle",
+      "definition": "a motor vehicle wholly or primarily constructed or adapted for the carriage of goods or burdens of any description in connection with any trade, business or agriculture, but does not include any type or class of motor vehicle which the Director may, by notice in the Gazette , declare not to be a commercial vehicle for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conductor permit",
+      "definition": "an authorisation issued to a person employed by a public service vehicle operator to handle fees from passengers and handle luggage of passengers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conversion",
+      "definition": "the replacement of a driving licence obtained outside Botswana with a new Botswana driving licence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cycle",
+      "definition": "any vehicle with one or more wheels which is propelled by the muscular energy of the driver acting on the pedals",
+      "source_provision": "s2"
+    },
+    {
+      "term": "demerit point",
+      "definition": "a point incurred by a person who has contravened any offence under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "detecting device",
+      "definition": "a device prescribed as a traffic offence detecting device for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the Director of Road Transport and Safety appointed under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "double-deck bus",
+      "definition": "a bus having an upper and lower deck with seats exceeding 100 passengers, exclusive of the driver",
+      "source_provision": "s2"
+    },
+    {
+      "term": "driving licence",
+      "definition": "a licence to drive a motor vehicle issued under this Act, and any document deemed to be a driving licence by virtue of any regulations made under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "driving school",
+      "definition": "a business licensed under this Act which employs for a reward, licensed driving instructors to instruct or supervise any person in the driving of a motor vehicle on a road",
+      "source_provision": "s2"
+    },
+    {
+      "term": "driving test examiner",
+      "definition": "any person appointed to be a driving test examiner under section 3(1)( b )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "gross vehicle mass (GVM)",
+      "definition": "the maximum weight of a vehicle and its load as specified by the manufacturer or, in the absence of such specification, as determined by a competent authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hazardous goods",
+      "definition": "dangerous goods or substances which shall include but not be limited to packages, unit load, bulk containers, bulk transportation equipment, petroleum-based flammable liquids and other objects that are considered hazardous or dangerous in terms of the following Acts—\n( a ) Explosives Act (Cap. 24:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "heavy commercial vehicle",
+      "definition": "a commercial motor vehicle wholly or primarily constructed or adapted for the carriage of goods the gross weight of which exceeds 7500 kg",
+      "source_provision": "s2"
+    },
+    {
+      "term": "heavy motor vehicles",
+      "definition": "ascribed to it by section 4(2)( c )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "heavy trailer",
+      "definition": "a trailer of a GVM exceeding 750 kg",
+      "source_provision": "s2"
+    },
+    {
+      "term": "identification plate",
+      "definition": "one of the prescribed number of identification plates required to be carried on a motor vehicle under section 11 or section 24",
+      "source_provision": "s2"
+    },
+    {
+      "term": "institutional vehicle",
+      "definition": "a vehicle registered under the name of any formal institution such as training colleges, universities, schools, churches, Government and parastatal organisations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "laden weight",
+      "definition": "the actual weight of the vehicle as loaded, with the crew and passengers on board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensing officer",
+      "definition": "a licensing officer appointed under section 3(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "light trailer",
+      "definition": "any trailer of a GVM not exceeding 750 kg",
+      "source_provision": "s2"
+    },
+    {
+      "term": "light vehicle",
+      "definition": "a motor vehicle other than a motor cycle having a permissible maximum weight not exceeding 3 500 kilograms",
+      "source_provision": "s2"
+    },
+    {
+      "term": "light commercial vehicle",
+      "definition": "a commercial motor vehicle wholly or primarily constructed or adapted for the carriage of goods the gross weight of which does not exceed 7500 kg",
+      "source_provision": "s2"
+    },
+    {
+      "term": "main road",
+      "definition": "any road declared to be a main road under section 100",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mini-bus",
+      "definition": "a motor vehicle having seating capacity for more than 11 but not more than 15 passengers, exclusive of the driver",
+      "source_provision": "s2"
+    },
+    {
+      "term": "midi-bus",
+      "definition": "a motor vehicle having seating capacity for more than 15 passengers but not more than 30 passengers, exclusive of the driver",
+      "source_provision": "s2"
+    },
+    {
+      "term": "motor car",
+      "definition": "a motor vehicle having seating accommodation for not more than seven passengers excluding the driver, but does not include a motor cycle",
+      "source_provision": "s2"
+    },
+    {
+      "term": "motor cycle",
+      "definition": "any two or three or four-wheeled vehicle as prescribed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "motor dealer",
+      "definition": "any person who deals by way of business in motor vehicles or trailers including a manufacturer and a repairer of such vehicles",
+      "source_provision": "s2"
+    },
+    {
+      "term": "motor dealer's licence",
+      "definition": "a licence issued under section 23",
+      "source_provision": "s2"
+    },
+    {
+      "term": "motor vehicle",
+      "definition": "any vehicle, self-propelled by mechanical or electrical power, but excluding any vehicle running on a specially prepared way such as a railway or tramway or cables and such other vehicles as the Minister may, from time to time by notice published in the Gazette , declare not to be motor vehicles for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "motor vehicle examiner",
+      "definition": "any person appointed to be a motor vehicle examiner under section 3(1)( b )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "motor vehicle licence",
+      "definition": "a motor vehicle licence issued under Part III",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permit",
+      "definition": "an authorisation issued under section 108 of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "physically disabled",
+      "definition": "any person driving a light motor vehicle with automatic transmission and adapted and clearly marked with a badge for driving by handicapped persons and which may make use of the facility, road, or portion of the road indicated by an appropriate road sign",
+      "source_provision": "s2"
+    },
+    {
+      "term": "private hire vehicle",
+      "definition": "any public service vehicle used for the conveyance of passengers or goods for rental purposes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "provisional licence",
+      "definition": "a licence to drive a motor vehicle issued under section 32",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public service vehicle",
+      "definition": "any vehicle which is licenced under Part XIII to—\n(i) carry passengers or goods for hire or reward or on own account",
+      "source_provision": "s2"
+    },
+    {
+      "term": "qualified person",
+      "definition": "a pathologist, police officer, medical practitioner, laboratory technician, intern or houseman, forensic analyst, laboratory scientist or registered nurse of or above the rank of staff nurse or such other person as the Minister may prescribe",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered owner",
+      "definition": "the person in whose name a vehicle is registered under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registration book",
+      "definition": "the registration book issued by the Director in respect of a vehicle under section 6(5)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registration number",
+      "definition": "the number allocated to a vehicle when it is registered under section 6(5)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "road",
+      "definition": "the entire surface of any way, road, street, thoroughfare, wharf, car park, footpath, bridle-path or road reserve on which a vehicle is capable of travelling and to which the public have access, and includes—\n( a ) any bridge, drift, ford or ferry traversed thereby",
+      "source_provision": "s2"
+    },
+    {
+      "term": "school-bus",
+      "definition": "a motor vehicle used solely for the conveyance of school children from place of abode to a school and vice versa or to undertake extra-curricula activities",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tare weight",
+      "definition": "the weight of a vehicle when unladen without the crew, passengers or load, but with a full standard supply of fuel and with the tools and spare parts which the vehicle normally carries",
+      "source_provision": "s2"
+    },
+    {
+      "term": "taxi",
+      "definition": "any public service vehicle having seating accommodation for not more than four passengers, excluding the driver, which is licensed under this Act or any other written law relating to the licensing and operation of taxi to ply for hire from a taxi rank or other public place",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tractor",
+      "definition": "an agriculture vehicle designed or adapted solely for agricultural activities and does not include a road or passenger vehicle",
+      "source_provision": "s2"
+    },
+    {
+      "term": "traffic sign",
+      "definition": "any sign, signal, signpost, notice, light or other device or object, whether fixed or portable, erected or in any way displayed upon or adjacent to any road by or with the consent of the road authority, for the purpose of warning, regulating, restricting or prohibiting traffic and vehicles of any kind on a road and includes any line, mark, words or other sign on the surface of the road for conveying such warning, re",
+      "source_provision": "s2"
+    }
+  ]
+}

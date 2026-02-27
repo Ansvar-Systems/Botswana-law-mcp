@@ -1,0 +1,50 @@
+{
+  "id": "bw-sub-refugees-recognition-and-control-subsidiary-legislation",
+  "type": "statute",
+  "title": "Refugees (recognition and Control): Subsidiary Legislation",
+  "title_en": "Refugees (recognition and Control): Subsidiary Legislation",
+  "short_name": "Refugees (recognition and C...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/refugees-recognition-and-control-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Refugees (Recognition and Control) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations \"form\" means a form prescribed in the Schedule."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Quorum of Committee",
+      "content": "3. Quorum of Committee\nThe quorum of a Refugee Advisory Committee shall be the Chairman and two members."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Witness fees",
+      "content": "4. Witness fees\nA witness who is summoned before a Refugee Advisory Committee under section 5(1) of the Act shall be entitled to witness fees at the rate prescribed for witnesses appearing in criminal prosecutions before a magistrate's court."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Prescribed forms",
+      "content": "5. Prescribed forms\n(1) A notice for the purposes of section 5(1)( a ) of the Act shall be in Form A.\n(2) A notice for the purposes of section 5(1)( b ) of the Act shall be in Form B.\n(3) A notice for the purposes of section 5(1)( d ) of the Act shall be in Form C.\n(4) A warrant for the purposes of section 6( b ) of the Act shall be in Form D.\n(5) A direction by the Minister under section 9(2) of the Act shall be in Form E."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "form",
+      "definition": "a form prescribed in the Schedule.",
+      "source_provision": "s2"
+    }
+  ]
+}

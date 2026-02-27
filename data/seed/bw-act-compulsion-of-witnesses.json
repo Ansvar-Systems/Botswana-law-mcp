@@ -1,0 +1,28 @@
+{
+  "id": "bw-act-compulsion-of-witnesses",
+  "type": "statute",
+  "title": "Compulsion of Witnesses",
+  "title_en": "Compulsion of Witnesses",
+  "short_name": "Compulsion of Witnesses",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/compulsion-of-witnesses",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Compulsion of Witnesses Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Application of Act",
+      "content": "2. Application of Act\nWhere the President is satisfied that in the event of benefits conferred by any Part of this Act being extended to requests made by the courts in any neighbouring state for any of the benefits contained in any Part of this Act, substantial reciprocity of treatment will be assured as respects compliance in that country with requests from the courts of Botswana for similar benefits in any such state, the President may, by statutory instrument, order that the Part containing the appropriate benefit shall extend to that state."
+    }
+  ],
+  "definitions": []
+}

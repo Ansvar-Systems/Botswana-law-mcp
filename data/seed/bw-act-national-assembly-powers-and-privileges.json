@@ -1,0 +1,95 @@
+{
+  "id": "bw-act-national-assembly-powers-and-privileges",
+  "type": "statute",
+  "title": "National Assembly (powers and Privileges)",
+  "title_en": "National Assembly (powers and Privileges)",
+  "short_name": "National Assembly (powers a...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/national-assembly-powers-and-privileges",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the National Assembly (Powers and Privileges) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Assembly\" means the National Assembly;\n\"Clerk\" means the Clerk of the National Assembly;\n\"committee\" means any standing, sessional, select or other committee of the Assembly;\n\"journals\" means the minutes of the Assembly or the official record of the votes and proceedings thereof;\n\"Member\" means any Member of the Assembly;\n\"officer of the Assembly\" means the Clerk, the Sergeant-at-Arms or any other officer or person acting within the precincts of the Assembly, other than when serving a summons under the provisions of section 10(3) under the orders of the Speaker and includes any member of the Botswana Police Force on duty within the precincts of the Assembly;\n\"precincts of the Assembly\" means the chamber and offices of the Assembly and any galleries and places provided for the use or accommodation of strangers, members of the public and representatives of the press, and includes, while the Assembly is sitting, and subject to any exceptions made by direction of the Speaker, the entire building in which the chamber of the Assembly is situated, and any forecourt, yard, garden, enclosure or open space adjoining or appertaining to such building and used or provided for the purposes of the Assembly;\n\"Speaker\" means the Speaker of the National Assembly and includes any other Member of the Assembly presiding for the time being in the Assembly;\n\"Standing Orders\" means the Standing Orders of the Assembly for the time being in force;\n\"stranger\" means any person other than a Member or an officer of the Assembly."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Immunity from legal proceedings",
+      "content": "3. Immunity from legal proceedings\nNo civil or criminal proceedings may be instituted against any Member for words spoken before, or written in a report to, the Assembly or to a committee, or by reason of any matter or thing so brought by him by petition, Bill, motion or otherwise."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Freedom from arrest",
+      "content": "4. Freedom from arrest\nNo Member shall be liable to arrest—\n( a ) for any civil debt whilst going to, attending at or returning from a meeting of the Assembly or any committee; or\n( b ) within the precincts of the Assembly while the Assembly or a committee is sitting, for any criminal offence without the consent of the Speaker."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Exercise of process",
+      "content": "5. Exercise of process\nNo process issued by any court in the exercise of its jurisdiction shall be served or executed within the precincts of the Assembly while the Assembly is sitting or through the Speaker, the Clerk or any officer of the Assembly."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Assembly",
+      "definition": "the National Assembly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Clerk",
+      "definition": "the Clerk of the National Assembly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "committee",
+      "definition": "any standing, sessional, select or other committee of the Assembly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "journals",
+      "definition": "the minutes of the Assembly or the official record of the votes and proceedings thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Member",
+      "definition": "any Member of the Assembly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer of the Assembly",
+      "definition": "the Clerk, the Sergeant-at-Arms or any other officer or person acting within the precincts of the Assembly, other than when serving a summons under the provisions of section 10(3) under the orders of the Speaker and includes any member of the Botswana Police Force on duty within the precincts of the Assembly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "precincts of the Assembly",
+      "definition": "the chamber and offices of the Assembly and any galleries and places provided for the use or accommodation of strangers, members of the public and representatives of the press, and includes, while the Assembly is sitting, and subject to any exceptions made by direction of the Speaker, the entire building in which the chamber of the Assembly is situated, and any forecourt, yard, garden, enclosure or open space adjoining or appertaining to such building and used or provided for the purposes of the Assembly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Speaker",
+      "definition": "the Speaker of the National Assembly and includes any other Member of the Assembly presiding for the time being in the Assembly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Standing Orders",
+      "definition": "the Standing Orders of the Assembly for the time being in force",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stranger",
+      "definition": "any person other than a Member or an officer of the Assembly.",
+      "source_provision": "s2"
+    }
+  ]
+}

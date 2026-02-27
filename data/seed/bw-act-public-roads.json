@@ -1,0 +1,63 @@
+{
+  "id": "bw-act-public-roads",
+  "type": "statute",
+  "title": "Public Roads",
+  "title_en": "Public Roads",
+  "short_name": "Public Roads",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/public-roads",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Public Roads Act."
+    },
+    {
+      "provision_ref": "s1A",
+      "section": "1A",
+      "title": "Interpretation",
+      "content": "1A. Interpretation\nIn this Act, unless the context otherwise requires—\n\"authorised officer\" means an officer or such other public officers as the Minister may appoint after consultation with the respective authorities;\n[ 32 of 2022, s. 2. ]\n\"bilateral agreement\" means—\n( a ) an agreement entered into between the Government of the Republic of Botswana and an adjoining state in relation to public roads infrastructure; and\n( b ) in relation to public roads infrastructure to which the One Stop Border Posts Act (Cap. 25:03) applies, an agreement within the meaning of that Act;\n[ 32 of 2022, s. 2. ]\n\"public road\" means a road established or declared as such under section 2;\n[ 32 of 2022, s. 2. ]\n\"road\" has the same meaning assigned to it under section 2 of the Road Traffic Act (Cap. 69:01);\n[ 32 of 2022, s. 2. ]\n\"toll\" means a user fee or charge payable for the use of a toll road;\n[ 32 of 2022, s. 2. ]\n\"toll road\" means a road established or declared as such under section 20;\n[ 32 of 2022, s. 2. ]\n\"vehicle\" has the same meaning assigned to it under section 2 of the Road Traffic Act.\n[ 32 of 2022, s. 2. ]"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Establishment of public roads",
+      "content": "2. Establishment of public roads\n(1) The Minister may from time to time and at any time establish and declare public roads on, to or over any land situated within Botswana by order published in three successive issues of the Gazette ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "an officer or such other public officers as the Minister may appoint after consultation with the respective authorities",
+      "source_provision": "s1A"
+    },
+    {
+      "term": "public road",
+      "definition": "a road established or declared as such under section 2",
+      "source_provision": "s1A"
+    },
+    {
+      "term": "road",
+      "definition": "assigned to it under section 2 of the Road Traffic Act (Cap. 69:01)",
+      "source_provision": "s1A"
+    },
+    {
+      "term": "toll",
+      "definition": "a user fee or charge payable for the use of a toll road",
+      "source_provision": "s1A"
+    },
+    {
+      "term": "toll road",
+      "definition": "a road established or declared as such under section 20",
+      "source_provision": "s1A"
+    },
+    {
+      "term": "vehicle",
+      "definition": "assigned to it under section 2 of the Road Traffic Act.\n[ 32 of 2022, s. 2. ]",
+      "source_provision": "s1A"
+    }
+  ]
+}

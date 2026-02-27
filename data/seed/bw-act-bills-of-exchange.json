@@ -1,0 +1,206 @@
+{
+  "id": "bw-act-bills-of-exchange",
+  "type": "statute",
+  "title": "Bills of Exchange",
+  "title_en": "Bills of Exchange",
+  "short_name": "Bills of Exchange",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/bills-of-exchange",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Bills of Exchange Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"acceptance\" means an acceptance completed by delivery or notification;\n\"action\" includes a counter-claim and a plea of set-off;\n\"banker\" includes a body of persons, whether incorporated or not, who carry on the business of banking;\n\"bearer\" means the person in possession of a bill which is payable to bearer;\n\"bill\" means a bill of exchange as defined in section 3;\n\"cheque\" means a bill drawn on a banker payable on demand;\n\"delivery\" means actual or constructive transfer of possession from one person to another;\n\"holder\" means the payee or indorsee of a bill who is in possession of it, or the bearer thereof;\n\"indorsement\" means an indorsement completed by delivery;\n\"issue\" means the first delivery of a bill, complete in form, to a person who takes it as a holder;\n\"legal representative\" , in relation to a person who is dead, means the person who in law or in customary law, whichever may be applicable, represents the estate of that person;\n\"non-business day\" has the meaning assigned to it in section 5 of the Public Holidays Act (Cap. 03:07);\n\"note\" , used as a noun, means a promissory note as defined in section 88;\n\"note\" , used as a verb, means make a notarial minute, in the usual manner, of the circumstances of dishonour of a bill, within the time prescribed by section 50(5) and (6), and includes present for acceptance or payment by a notary;\n\"payment in due course\" means payment made at or after the maturity of a bill to the holder thereof in good faith and, if his title to the bill is defective, without notice thereof;\n\"value\" means valuable consideration within the meaning of section 26."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "3",
+      "title": "Bill of exchange defined",
+      "content": "3. Bill of exchange defined\n(1) A bill of exchange is an unconditional order in writing, addressed by one person to another, signed by the person giving it, requiring the person to whom it is addressed to pay on demand, or at a fixed or determinable future time, a sum certain in money to a specified person or his order, or to bearer.\n(2) An instrument which does not comply with the requirements specified in subsection (1) or which orders any act to be done in addition to the payment of money, is not a bill.\n(3) An order to pay out of a particular fund is not unconditional within the meaning of subsection (1) but an unqualified order to pay coupled with—\n( a) an indication of a particular fund of which the drawee is to reimburse himself, or of a particular account to be debited with the amount;\n( b ) a statement of the transaction which gives rise to the bill;\n( c ) a statement on the bill that it is drawn against specified documents attached thereto for delivery on acceptance or on payment of the bill, as the case may be; or\n( d ) a statement on the bill that it is drawn under or against a specified letter of credit or other similar authority,\nis unconditional within the meaning of the said subsection.\n(4) A bill is not invalid by reason—\n( a) that it is not dated;\n( b ) that it does not specify the value given, or that any value has been given therefor;\n( c ) that it does not specify where it is drawn or where it is payable."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "4",
+      "title": "Effect where different parties to the bill are the same person",
+      "content": "4. Effect where different parties to the bill are the same person\n(1) A bill may be drawn payable to, or to the order of, the drawer, or it may be drawn payable to, or to the order of, the drawee.\n(2) Where in a bill the drawer and the drawee are the same person, or where the drawee is a fictitious person or a person not having capacity to contract, the holder may treat the instrument, at his option, either as a bill of exchange or as a promissory note."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "5",
+      "title": "Address to drawee",
+      "content": "5. Address to drawee\n(1) The drawee must be named or otherwise indicated in a bill with reasonable certainty.\n(2) A bill may be addressed to two or more drawees, whether they are partners or not, but an order addressed to two drawees in the alternative, or to two or more drawees in succession, is not a bill of exchange."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "6",
+      "title": "Certainty required as to payee",
+      "content": "6. Certainty required as to payee\n(1) Where a bill is not payable to bearer the payee must be named or otherwise indicated therein with reasonable certainty.\n(2) A bill may be made payable to two or more payees jointly, or it may be made in the alternative to one of two, or one or some of several payees.\n(3) A bill may also be made payable to the holder of an office for the time being.\n(4) Where the payee is a fictitious or non-existing person the bill may be treated as payable to bearer."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "7",
+      "title": "What bills are negotiable",
+      "content": "7. What bills are negotiable\n(1) When a bill contains words prohibiting transfer or indicating an intention that it should not be transferable, it is valid as between the parties thereto, but is not negotiable.\n(2) A negotiable bill may be payable either to order or to bearer.\n(3) A bill is payable to bearer which is expressed to be so payable or on which the only or last indorsement is an indorsement in blank.\n(4) A bill is payable to order which is expressed to be so payable or which is expressed to be payable to a particular person, and does not contain words prohibiting transfer or indicating an intention that it should not be transferable.\n(5) Where a bill either originally or by indorsement is expressed to be payable to the order of a specified person, and not to him or his order, it is nevertheless payable to him or his order at his option."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "8",
+      "title": "Sum payable",
+      "content": "8. Sum payable\n(1) The sum payable by a bill is a sum certain in money within the meaning of this Act although it is required to be paid—\n( a) with interest;\n( b ) by stated instalments;\n( c ) by stated instalments, and upon default in payment of any instalment the whole becomes due by virtue of a provision to that effect in the bill; or\n( d ) according to an indicated rate of exchange, or according to a rate of exchange to be ascertained as directed, by the bill.\n(2) Where the sum payable is expressed in words and also in figures, and there is a discrepancy between the two, the sum denoted by the words is the amount payable.\n(3) Where a bill is expressed to be payable with interest, unless the instrument otherwise provides, interest runs from the date of the bill, and if it is undated, from the date of the issue thereof."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "9",
+      "title": "Bill payable on demand",
+      "content": "9. Bill payable on demand\n(1) A bill is payable on demand—\n( a) if it is expressed to be payable on demand, or at sight, or on presentation; or\n( b ) if no time for payment is expressed therein.\n(2) If a bill is accepted or indorsed when it is overdue, it shall, as regards the acceptor who so accepts or any indorser who so indorses it, be deemed to be a bill payable on demand."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "10",
+      "title": "Bill payable at future time",
+      "content": "10. Bill payable at future time\n(1) A bill is payable at a determinable future time within the meaning of this Act, if it is expressed to be payable—\n( a) at the expiration of a fixed period after date or sight; or\n( b ) on, or at the expiration of a fixed period after, the occurrence of a specified event which is certain to happen, though the time of happening may be uncertain.\n(2) An instrument expressed to be payable on a contingency is not a bill, and the happening of the event does not cure the defect."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "11",
+      "title": "Omission of date in bill payable after date",
+      "content": "11. Omission of date in bill payable after date\nWhere a bill expressed to be payable at the expiration of a fixed period after date is issued undated, or where the acceptance of a bill, payable at the expiration of a fixed period after sight, is undated, any holder may insert therein the true date of issue or acceptance, and the bill shall be payable accordingly:\nProvided that—\n(i) where the holder in good faith and by mistake inserts a wrong date; or\n(ii) every case where a wrong date is inserted and the bill subsequently comes into the hands of a holder in due course,\nthe bill shall not be avoided thereby, but shall operate and be payable as if the date so inserted had been the true date."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "12",
+      "title": "Antedating and postdating",
+      "content": "12. Antedating and postdating\n(1) Where a bill, or the acceptance of or any indorsement on a bill, is dated, the date shall, unless the contrary is proved, be deemed to be the true date of the drawing, acceptance or indorsement of the bill, as the case may be.\n(2) A bill is not invalid by reason only that it is ante-dated or post-dated, or that it bears the date of a non-business day."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "13",
+      "title": "Computation of time of payment",
+      "content": "13. Computation of time of payment\n(1) Subject to subsection (2), where a bill is not payable on demand, the day on which it falls due is determined as follows, namely—\n( a) if the date on which the bill would fall due is a non-business day, the due date thereof shall be the next business day;\n( b ) where a bill is payable at the expiration of a fixed period after date, after sight, or after the happening of a specified event, the time of payment is determined by excluding the day from which the period is to begin to run, and by including the day of payment;\n( c ) where a bill is payable at the expiration of a fixed period after sight, the period begins to run from the date of the acceptance, if the bill is accepted, and from the date of noting or protest, if the bill is noted or protested for non-acceptance.\n(2) There are no days of grace for the purpose of computing the day on which a bill falls due under this section."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "14",
+      "title": "Referee in case of need",
+      "content": "14. Referee in case of need\n(1) The drawer or any indorser of a bill may insert therein the name of a person to whom the holder may resort in case of need, that is to say, in case the bill is dishonoured by non-acceptance or non-payment.\n(2) Such person is called the referee in case of need.\n(3) The holder may resort to the referee in case of need or not, as he may think fit."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "15",
+      "title": "Optional stipulations by drawer or indorser",
+      "content": "15. Optional stipulations by drawer or indorser\nThe drawer and any indorser of a bill may insert therein an express stipulation—\n( a) negativing or limiting his own liability to the holder;\n( b ) waiving as regards himself some or all of the holder's duties."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "16",
+      "title": "Definition and requisites of acceptance",
+      "content": "16. Definition and requisites of acceptance\n(1) The acceptance of a bill is the signification by the drawee of his assent to the order of the drawer.\n(2) An acceptance is invalid unless it complies with the following requirements, namely—\n( a) it must be written on the bill and be signed by the drawee, the mere signature of the drawee without additional words being however sufficient;\n( b ) it must not stipulate that the drawee will perform his promise by any other means than the payment of money."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "17",
+      "title": "Time for acceptance",
+      "content": "17. Time for acceptance\n(1) A bill may be accepted—\n( a) before it has been signed by the drawer, or while otherwise incomplete;\n( b ) when it is overdue, or after it has already been dishonoured by non-acceptance or non-payment.\n(2) When a bill payable after sight is dishonoured by non-acceptance, and the drawee subsequently accepts it, the holder is, in the absence of any different agreement, entitled to have the bill accepted as from the date of first presentment thereof to the drawee for acceptance."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART II Bills of Exchange - Form and Interpretation",
+      "section": "18",
+      "title": "General and qualified acceptances",
+      "content": "18. General and qualified acceptances\n(1) An acceptance is either general or qualified.\n(2) A general acceptance assents without qualification to the order of the drawer.\n(3) An acceptance to pay at a particular place is a general acceptance, unless it expressly states that the bill is to be paid there only and not elsewhere.\n(4) A qualified acceptance in express terms varies the effect of the bill as drawn."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "acceptance",
+      "definition": "an acceptance completed by delivery or notification",
+      "source_provision": "s2"
+    },
+    {
+      "term": "action",
+      "definition": "a counter-claim and a plea of set-off",
+      "source_provision": "s2"
+    },
+    {
+      "term": "banker",
+      "definition": "a body of persons, whether incorporated or not, who carry on the business of banking",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bearer",
+      "definition": "the person in possession of a bill which is payable to bearer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bill",
+      "definition": "a bill of exchange as defined in section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cheque",
+      "definition": "a bill drawn on a banker payable on demand",
+      "source_provision": "s2"
+    },
+    {
+      "term": "delivery",
+      "definition": "actual or constructive transfer of possession from one person to another",
+      "source_provision": "s2"
+    },
+    {
+      "term": "holder",
+      "definition": "the payee or indorsee of a bill who is in possession of it, or the bearer thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "indorsement",
+      "definition": "an indorsement completed by delivery",
+      "source_provision": "s2"
+    },
+    {
+      "term": "issue",
+      "definition": "the first delivery of a bill, complete in form, to a person who takes it as a holder",
+      "source_provision": "s2"
+    },
+    {
+      "term": "non-business day",
+      "definition": "assigned to it in section 5 of the Public Holidays Act (Cap. 03:07)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "payment in due course",
+      "definition": "payment made at or after the maturity of a bill to the holder thereof in good faith and, if his title to the bill is defective, without notice thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "value",
+      "definition": "valuable consideration within the meaning of section 26.",
+      "source_provision": "s2"
+    }
+  ]
+}

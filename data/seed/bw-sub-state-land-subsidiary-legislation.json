@@ -1,0 +1,68 @@
+{
+  "id": "bw-sub-state-land-subsidiary-legislation",
+  "type": "statute",
+  "title": "State Land: Subsidiary Legislation",
+  "title_en": "State Land: Subsidiary Legislation",
+  "short_name": "State Land: Subsidiary Legi...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/state-land-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the State Land (Procedure for Enforcement of Levies and Loans) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"authorised person\" , in relation to an occupier, means the person authorised under section 4 of the Act to make and execute on behalf of the President grants or other dispositions of State land or of any interest therein by whom the occupier was issued with his certificate of rights or temporary occupancy permit in respect of the plot of State land in question or by whom the occupier was offered a certificate of rights or temporary occupancy permit in respect of that plot which he has declined to sign;\n\"clerk of the court\" includes an assistant clerk and any person appointed to act as such clerk or assistant clerk;\n\"loan\" means a loan granted under section 7 of the Act;\n\"notice of demand\" means a notice of demand issued under regulation 3;\n\"occupier\" means the holder of a certificate of rights or temporary occupancy permit issued to him by an authorised person whereby a grant or other disposition of a plot of State land or of an interest therein was made and executed on behalf of the President by the authorised person under section 4 or the occupier of a plot of State land in respect of which he was offered such a certificate of rights or temporary occupancy permit but has declined to sign the same;\n\"registrar\" means the Registrar of the High Court;\n\"rules of court\" means rules of court for the time being in force regulating the proceedings in magistrates' courts;\n\"service levy\" means a levy imposed under section 5 of the Act."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Issue of notice of demand and calling in of loan",
+      "content": "3. Issue of notice of demand and calling in of loan\n(1) Subject to subregulation (2), where an occupier fails, either wholly or in part, to pay any service levy payment or any instalment towards repayment of a loan after the expiry of the period of two months immediately following the day on which the payment or instalment became due and payable, the authorised person or his officer or employee duly authorised by him in that behalf may issue a written notice of demand addressed to the occupier requiring him to pay the whole amount outstanding of the payment or instalment, which amount shall be specified in the notice, within 30 days immediately following the day on which service of the notice upon the occupier is effected in terms of regulation 7.\n(2) Notwithstanding the terms and conditions on which a loan was granted, where an occupier fails, either wholly or in part, to pay any instalment towards repayment of a loan after the expiry of the period of two months immediately following the day on which the instalment became due and payable, the authorised person or his officer or employee duly authorised by him in that behalf may call in the whole outstanding amount of the loan by issuing a written notice of demand addressed to the occupier requiring him to pay the whole amount outstanding of the loan, which amount shall be specified in the notice, within 30 days immediately following the day on which service of the notice upon the occupier is effected in terms of regulation 7."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "clerk of the court",
+      "definition": "an assistant clerk and any person appointed to act as such clerk or assistant clerk",
+      "source_provision": "s2"
+    },
+    {
+      "term": "loan",
+      "definition": "a loan granted under section 7 of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "notice of demand",
+      "definition": "a notice of demand issued under regulation 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "occupier",
+      "definition": "the holder of a certificate of rights or temporary occupancy permit issued to him by an authorised person whereby a grant or other disposition of a plot of State land or of an interest therein was made and executed on behalf of the President by the authorised person under section 4 or the occupier of a plot of State land in respect of which he was offered such a certificate of rights or temporary occupancy permit but has declined to sign the same",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registrar",
+      "definition": "the Registrar of the High Court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rules of court",
+      "definition": "rules of court for the time being in force regulating the proceedings in magistrates' courts",
+      "source_provision": "s2"
+    },
+    {
+      "term": "service levy",
+      "definition": "a levy imposed under section 5 of the Act.",
+      "source_provision": "s2"
+    }
+  ]
+}

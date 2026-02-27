@@ -1,0 +1,99 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-kweneng-district-council-dogs-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Kweneng District Council (dogs) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Kweneng District Council (dogs) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-kweneng-district-council-dogs-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Kweneng District Council (Dogs) Bye-laws."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"authorised officer\" means the Council Secretary or any other officer of the Council authorised in writing by the Council Secretary to perform the duties under these Bye-laws;\n\"Council\" means the Kweneng District Council;\n\"licence\" means a dog licence issued under bye-law 4;\n\"public place\" means any road, street, thoroughfare, bridge, foot pavement, open space or park within the Councils area of jurisdiction and the enclosed space within its control;\n\"rabies certificate\" means a certificate signed by a veterinary officer stating that a dog has been vaccinated against rabies; and\n\"veterinary officer\" includes a veterinary officer, livestock officer or stock inspector employed in the Government and a veterinary surgeon as defined under the Veterinary Surgeons Act (Cap. 61:04)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Bye-laws shall apply to all planning areas of the Kweneng District Council set out in the Administrative Districts Act (Cap. 03:02)."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Licensing of dogs",
+      "content": "4. Licensing of dogs\n(1) A person shall not keep a dog which is over six months old unless he or she has been issued a licence under these Bye-laws.\n(2) The owner of a dog shall, within four weeks of the dog attaining the age of six months, apply to an authorised officer for a dog licence to keep the dog in Form A set out in Schedule 1.\n(3) An authorised officer shall, on receipt of an application under subbye-law (2), upon the payment of a fee set out in Schedule 2 and after the production of a rabies certificate by the applicant, issue the applicant with a dog licence in Form B set out in Schedule 1.\n(4) In case of any dispute as to whether a dog is over the age of six months or not, the opinion of a veterinary officer shall be final."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Duration of Licence",
+      "content": "5. Duration of Licence\nA licence issued under bye-law 4 shall be valid for 12 months and shall be renewable for a further period of 12 months upon application by the owner of a dog under bye-law 6."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Renewal of licence",
+      "content": "6. Renewal of licence\n(1) A holder of a licence issued under these Bye-laws may upon expiry of the licence, apply to an authorised officer for a renewal of the licence in Form C set out in Schedule 1.\n(2) An application for renewal in terms of subbye-law (1) shall be made not later than one month before the expiry of the licence.\n(3) An authorised officer may, on receipt of an application, renew the licence upon payment of a fee set out in Schedule 2 to these Bye-laws."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Transfer of licence",
+      "content": "7. Transfer of licence\n(1) A person who lawfully acquires a dog, for which a licence has been issued under these Bye-laws may apply to an authorised officer, in Form D set out in Schedule 1, for the licence to be transferred to him or her.\n(2) An authorised officer shall, upon being satisfied of the validity of the licence and upon payment of a fee set out in Schedule 2, cause the transfer to be effected by endorsing the particulars of the applicant on the licence."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Issue of duplicate licence",
+      "content": "8. Issue of duplicate licence\n(1) Where a licence is lost or destroyed, the owner of the dog may apply to the authorised officer in writing for a duplicate licence.\n(2) The authorised officer shall, on being satisfied that a licence issued in terms of these Bye-laws has been lost or destroyed, and upon payment of the fee set out in Schedule 2, issue a duplicate licence to the applicant.\n(3) Where a licence which has been lost and replaced is recovered by a licensee, the duplicate licence shall be returned forthwith to the authorised officer."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Revocation or cancellation of licence",
+      "content": "9. Revocation or cancellation of licence"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "the Council Secretary or any other officer of the Council authorised in writing by the Council Secretary to perform the duties under these Bye-laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Kweneng District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a dog licence issued under bye-law 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public place",
+      "definition": "any road, street, thoroughfare, bridge, foot pavement, open space or park within the Councils area of jurisdiction and the enclosed space within its control",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rabies certificate",
+      "definition": "a certificate signed by a veterinary officer stating that a dog has been vaccinated against rabies",
+      "source_provision": "s2"
+    },
+    {
+      "term": "veterinary officer",
+      "definition": "a veterinary officer, livestock officer or stock inspector employed in the Government and a veterinary surgeon as defined under the Veterinary Surgeons Act (Cap. 61:04).",
+      "source_provision": "s2"
+    }
+  ]
+}

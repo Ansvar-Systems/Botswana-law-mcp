@@ -1,0 +1,73 @@
+{
+  "id": "bw-act-capital-transfer-tax",
+  "type": "statute",
+  "title": "Capital Transfer Tax",
+  "title_en": "Capital Transfer Tax",
+  "short_name": "Capital Transfer Tax",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/capital-transfer-tax",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Capital Transfer Tax Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"aggregate taxable value\" means the sum of the values (excluding such values as are exempt from capital transfer tax under section 4 and deductions allowed under section 6) of all chargeable disposals in any tax year;\n\"chargeable disposal\" means—\n( a ) any gratuitous disposal of property including any gratuitous waiver or renunciation of a right; or\n( b ) any property devolving on any person by way of inheritance;\n\"Commissioner\" means the Commissioner of Taxes appointed under section 3(1) of the Income Tax Act (Cap. 52:01);\n\"donee\" means any beneficiary of a chargeable disposal and includes a trustee to whom such property has been disposed for the benefit of any beneficiary;\n\"donor\" means the person disposing of a chargeable disposal and includes a person whose property has passed to another by way of inheritance or the executor of the estate of such person;\n\"inheritance\" means property which has devolved on a person on the death of its owner;\n\"property\" means any right in or to movable or immovable, corporeal or incorporeal property wherever situated;\n\"tax\" means capital transfer tax;\n\"tax year\" means any period of 12 months commencing on the first day of July;\n\"value\" , in relation to property on the date of disposal of such property, means the market value."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Capital transfer tax",
+      "content": "3. Capital transfer tax\n(1) Subject to the provisions of this Act, a tax, to be known as capital transfer tax, shall be charged on the aggregate taxable value of all chargeable disposals made by a donor to a donee in any tax year at the rates specified in the First Schedule hereto."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aggregate taxable value",
+      "definition": "the sum of the values (excluding such values as are exempt from capital transfer tax under section 4 and deductions allowed under section 6) of all chargeable disposals in any tax year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "the Commissioner of Taxes appointed under section 3(1) of the Income Tax Act (Cap. 52:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "donee",
+      "definition": "any beneficiary of a chargeable disposal and includes a trustee to whom such property has been disposed for the benefit of any beneficiary",
+      "source_provision": "s2"
+    },
+    {
+      "term": "donor",
+      "definition": "the person disposing of a chargeable disposal and includes a person whose property has passed to another by way of inheritance or the executor of the estate of such person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inheritance",
+      "definition": "property which has devolved on a person on the death of its owner",
+      "source_provision": "s2"
+    },
+    {
+      "term": "property",
+      "definition": "any right in or to movable or immovable, corporeal or incorporeal property wherever situated",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tax",
+      "definition": "capital transfer tax",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tax year",
+      "definition": "any period of 12 months commencing on the first day of July",
+      "source_provision": "s2"
+    }
+  ]
+}

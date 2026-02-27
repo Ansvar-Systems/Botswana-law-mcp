@@ -1,0 +1,59 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-gaborone-city-council-public-standpipes-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Gaborone City Council (public Standpipes) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Gaborone City Council (public Standpipes) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-gaborone-city-council-public-standpipes-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Gaborone City Council (Public Standpipes) Bye-laws*.\n*Originally made under the Township Act now repealed, these Regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"authorised officer\" means the City Clerk, or any officer of the City Council duly authorised in writing by the City Clerk for the purpose of inspecting standpipes;\n\"designated area\" means an area of the City which has been designated by the City Council as an area for occupation by persons holding certificates of right or temporary occupancy permits;\n\"occupier\" in respect of a designated area means a person residing within that area;\n\"public standpipe\" means a water supply point within a designated area, and intended for use by the occupiers thereof;\n\"unauthorised connection or attachment\" means a connection or attachment which has been made to a standpipe without the written permission of the City Council."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Use of water from public standpipe",
+      "content": "3. Use of water from public standpipe\nSubject to the provisions of bye-law 4, water from a public standpipe shall be available for use by occupiers of the designated area in which it is situated, or to persons so authorised in writing by the City Council."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Use of water by persons other than occupiers",
+      "content": "4. Use of water by persons other than occupiers"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "the City Clerk, or any officer of the City Council duly authorised in writing by the City Clerk for the purpose of inspecting standpipes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "designated area",
+      "definition": "an area of the City which has been designated by the City Council as an area for occupation by persons holding certificates of right or temporary occupancy permits",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public standpipe",
+      "definition": "a water supply point within a designated area, and intended for use by the occupiers thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unauthorised connection or attachment",
+      "definition": "a connection or attachment which has been made to a standpipe without the written permission of the City Council.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "bw-act-justices-of-the-peace",
+  "type": "statute",
+  "title": "Justices of the Peace",
+  "title_en": "Justices of the Peace",
+  "short_name": "Justices of the Peace",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/justices-of-the-peace",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Justices of the Peace Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "President may appoint Justices of the Peace",
+      "content": "2. President may appoint Justices of the Peace\nIt shall be lawful for the President to appoint, as occasion may require, any resident of Botswana to be a Justice of the Peace for Botswana or for any district thereof, who shall hold office during the President's pleasure, and whose appointment shall be notified in the Gazette ."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Oath to be taken by a Justice",
+      "content": "3. Oath to be taken by a Justice\nEvery Justice of the Peace shall on appointment take and subscribe the oaths in the forms in the Schedule before the High Court or a court presided over by a Magistrate Grade I or over."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Powers of Justice",
+      "content": "4. Powers of Justice\nA Justice of the Peace shall, subject to the provisions of this Act, have and exercise within the limits for which he is appointed such powers, rights, duties and jurisdictions as are vested in a Justice of the Peace by this Act or by or in virtue of any written law for the time being in force in Botswana."
+    }
+  ],
+  "definitions": []
+}

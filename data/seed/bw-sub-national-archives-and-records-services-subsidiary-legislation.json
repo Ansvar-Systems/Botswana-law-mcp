@@ -1,0 +1,136 @@
+{
+  "id": "bw-sub-national-archives-and-records-services-subsidiary-legislation",
+  "type": "statute",
+  "title": "National Archives and Records Services: Subsidiary Legislation",
+  "title_en": "National Archives and Records Services: Subsidiary Legislation",
+  "short_name": "National Archives and Recor...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/national-archives-and-records-services-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the National Archives and Records Services (Declaration of Secrecy) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Declaration of secrecy",
+      "content": "2. Declaration of secrecy\nEvery person who is appointed under or employed in carrying out the provisions of the Act shall make and subscribe before a commissioner of oaths a declaration of secrecy in the form set in the Schedule."
+    },
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the National Archives and Records Services Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In these Regulations, unless the context otherwise requires—\n\"accession list\" means a form used to capture records which are contained in a box;\n\"appraisal\" means the process of assessing and determining the value of records for their disposition;\n\"archives officer\" means an official of the National Archives and Records Services responsible for maintaining and preserving archives;\n\"Archives Repository\" means a facility designated for the storage of public records which have been selected for preservation as archives.\n\"consignment\" means a collection of records which are transferred to a Records Centre at the same time;\n\"consignment booklet\" means a compilation of accession lists, with location numbers, for a particular consignment;\n\"location number\" means a unique number given to a box containing records in a record centre;\n\"Records Centre\" means a facility designated for storage of semi-current records by the National Archives and Records Services;\n\"record creating agency\" means a ministry or government department responsible for producing a particular record;\n\"Record Management Procedures Manual\" means a document published by the National Archives and Record Services which sets out procedures for the management of public sector records;\n\"semi-current records\" means records that are infrequently consulted for current official business and have been inactive for at least a period of three years;\n\"transfer\" means a change of custody, ownership and responsibility for public records; and\n\"publication\" means books, published reports and pamphlets and include reports, periodicals and reprints of articles from periodicals, newspapers, maps, plans, illustrations and other materials whether printed, micrographed or produced by other processes, issued for sale or for free to members of the public."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Regulations shall apply to all places of deposit and prescribed bodies."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Transfer of Public Records (regs 4-10)",
+      "section": "4",
+      "title": "Primary appraisal of semi-current records",
+      "content": "4. Primary appraisal of semi-current records\n(1) A record creating agency shall not transfer semi-current records to a Record Centre unless the records have been subjected to a primary appraisal exercise and were found to have a continuing value.\n(2) Public records that have been selected for preservation shall be transferred to the Records Centre.\n(3) A record creating agency shall, before destroying records, apply to the Director for approval to destroy such records.\n(4) Where the Director approves destruction of records, he shall issue a certificate of destruction in Form B set out in Schedule 1."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Transfer of Public Records (regs 4-10)",
+      "section": "5",
+      "title": "Application for approval to transfer records",
+      "content": "5. Application for approval to transfer records\nAn application for approval to transfer semi-current records shall be made to the Director in writing, accompanied by a typed accession list of the records to be transferred as set out in Form A of Schedule 1."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Transfer of Public Records (regs 4-10)",
+      "section": "6",
+      "title": "Issue of approval to transfer records",
+      "content": "6. Issue of approval to transfer records\n(1) The Director may, if he is satisfied that the requirements of regulation 4 have been met, issue a written approval to transfer semi- current records and shall specify the date on which such semi-current records are to be transferred by the record creating agency, which date must be adhered to.\n(2) The record creating agency shall, while awaiting transfer, systematically store such records in a safe, secure, dust free and insect free environment.\n(3) Upon transfer of semi-current records to a records centre, the National Archives and Records Services shall—\n( a ) update the accession lists to indicate the date of preservation or destruction and the Records Centre location number; and\n( b ) produce a consignment booklet in duplicate and issue a copy to the record creating agency."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Transfer of Public Records (regs 4-10)",
+      "section": "7",
+      "title": "Rejection of application to transfer records",
+      "content": "7. Rejection of application to transfer records\n(1) The Director may reject an application for approval to transfer records after having inspected the records where the records—\n( a ) have not undergone primary appraisal;\n( b ) have not been properly accessioned and boxed; and\n( c ) are to be used for a short time and ought to have been destroyed in line with their retention periods."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accession list",
+      "definition": "a form used to capture records which are contained in a box",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appraisal",
+      "definition": "the process of assessing and determining the value of records for their disposition",
+      "source_provision": "s2"
+    },
+    {
+      "term": "archives officer",
+      "definition": "an official of the National Archives and Records Services responsible for maintaining and preserving archives",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Archives Repository",
+      "definition": "a facility designated for the storage of public records which have been selected for preservation as archives.\n\"consignment\" means a collection of records which are transferred to a Records Centre at the same time",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consignment booklet",
+      "definition": "a compilation of accession lists, with location numbers, for a particular consignment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "location number",
+      "definition": "a unique number given to a box containing records in a record centre",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Records Centre",
+      "definition": "a facility designated for storage of semi-current records by the National Archives and Records Services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "record creating agency",
+      "definition": "a ministry or government department responsible for producing a particular record",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Record Management Procedures Manual",
+      "definition": "a document published by the National Archives and Record Services which sets out procedures for the management of public sector records",
+      "source_provision": "s2"
+    },
+    {
+      "term": "semi-current records",
+      "definition": "records that are infrequently consulted for current official business and have been inactive for at least a period of three years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transfer",
+      "definition": "a change of custody, ownership and responsibility for public records",
+      "source_provision": "s2"
+    },
+    {
+      "term": "publication",
+      "definition": "books, published reports and pamphlets and include reports, periodicals and reprints of articles from periodicals, newspapers, maps, plans, illustrations and other materials whether printed, micrographed or produced by other processes, issued for sale or for free to members of the public.",
+      "source_provision": "s2"
+    }
+  ]
+}

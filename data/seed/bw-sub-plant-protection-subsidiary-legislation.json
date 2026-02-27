@@ -1,0 +1,56 @@
+{
+  "id": "bw-sub-plant-protection-subsidiary-legislation",
+  "type": "statute",
+  "title": "Plant Protection: Subsidiary Legislation",
+  "title_en": "Plant Protection: Subsidiary Legislation",
+  "short_name": "Plant Protection: Subsidiar...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/plant-protection-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Plant Protection Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Duty to declare plants",
+      "content": "2. Duty to declare plants\n(1) A person entering Botswana with a plant or plant product shall declare any such plant or plant product to a plant inspector.\n(2) A person who fails to declare a plant or plant product in terms of subregulation (1) commits an offence and is liable on conviction to a fine of P2 000."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Importation of certain plants prohibited",
+      "content": "3. Importation of certain plants prohibited\nImportation of plants listed in the First Schedule to these Regulations is prohibited."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application for an import permit or certificate",
+      "content": "4. Application for an import permit or certificate\n(1) A person shall not import any plant or plant product unless under an import permit issued under section 11 of the Act.\n(2) An application for an import permit shall be made two weeks in advance on the form prescribed in the Fifth Schedule to these Regulations."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Power to attach conditions to a permit",
+      "content": "5. Power to attach conditions to a permit\n(1) The Chief Plant Protection Officer shall have the powers to attach conditions to importation of plants or plants product listed in the Second and Third Schedule to these Regulations.\n(2) Conditions referred to in subregulation (1) shall be incorporated on the import permit issued under section 11 of the Act and shall form the basis for approval of the import permit."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Exemption",
+      "content": "6. Exemption\nPlant and plant products listed in the Fourth Schedule to these Regulations are exempt from the requirement of an import permit or certificate and shall only be subject to inspection on arrival into Botswana."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Issue of Phytosanitary Certificate",
+      "content": "7. Issue of Phytosanitary Certificate\n(1) A person who intends to export a plant or plant product shall apply for a Phytosanitary Certificate to the Chief Plant Protection Officer.\n(2) Before issuance of the Phytosanitary Certificate to an applicant, the Chief Plant Protection Officer shall inspect the plant or plant product to be exported to ensure that the plant or plant product meet the phytosanitary regulations of the importing country.\n(3) A Phytosanitary Certificate issued under these Regulations shall be proof that the plants or plant products covered by the certificate have been inspected according to appropriate procedures and are considered to be free from quarantine pests and practically free from other injurious pests.\n(4) The National Plant Protection Organisation shall charge a fee to be determined by the Chief Plant Protection Officer for performing its inspection services, payment shall be made before issuance of the certificate."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-central-district-council-dogs-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Central District Council (dogs) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Central District Council (dogs) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-central-district-council-dogs-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Central District Council (Dogs) Bye-Laws*.\n*Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"authorised officer\" means the Council Secretary or any officer of the Council duly authorised in writing by the Council Secretary to perform duties under these Bye-laws;\n\"Council\" means the Central District Council;\n\"public place\" means any road, street, thoroughfare, bridge, foot pavement, open space or park, within the area of jurisdiction of the Council and any enclosed space controlled by the Council;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "the Council Secretary or any officer of the Council duly authorised in writing by the Council Secretary to perform duties under these Bye-laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the Central District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public place",
+      "definition": "any road, street, thoroughfare, bridge, foot pavement, open space or park, within the area of jurisdiction of the Council and any enclosed space controlled by the Council",
+      "source_provision": "s2"
+    }
+  ]
+}

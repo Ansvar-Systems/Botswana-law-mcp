@@ -1,0 +1,362 @@
+{
+  "id": "bw-act-insurance-industry",
+  "type": "statute",
+  "title": "Insurance Industry",
+  "title_en": "Insurance Industry",
+  "short_name": "Insurance Industry",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/insurance-industry",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Insurance Industry Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"actuary\" means an associate or fellow of a professional actuarial body that is a member of the International Actuarial Association, or such other body as may be approved by the Regulatory Authority;\n\"approved person\" means a person who has relevant qualifications and experience to determine general insurance liabilities, which person is approved by the Regulatory Authority in terms of section 19;\n\"auditor\" means an auditor registered with the Botswana Institute of Chartered Accountants under the Accountants Act (Cap. 61:05);\n\"beneficial shareholder\" means the beneficiary of shares registered in another person&rsquo;s name, who ultimately becomes the owner of the shares;\n\"Botswana Institute of Chartered Accountants\" means the Institute that is established under the Accountants Act (Cap. 61:05);\n\"company\" means a company incorporated in accordance with, and registered under the Companies Act (Cap. 42:0)1, or deemed to have been so incorporated and registered;\n\"controller\" of an insurer, insurance broker or insurance agent includes—\n( a ) a person who is in a position to control or exert significant influence over the business or financial operations of an insurer, insurance broker or insurance agent;\n( b ) a director or member of the governing body of an insurer, insurance broker or insurance agent;\n( c ) a person that has the power to appoint another person to be a director or member of the governing body of an insurer, insurance broker or insurance agent;\n( d ) a person whose consent is needed for the appointment of another person as a director of an insurer, insurance broker or insurance agent;\n( e ) a person who holds at least 20 per cent of the shares of the insurer, insurance broker or insurance agent;\n( f ) a person who has the power to control at least 20 per cent of the voting rights attached to shares or other securities of the insurer, insurance broker or insurance agent;\n( g ) a person who holds rights in relation to an insurer, insurance broker or insurance agent, which if exercised, would result in that person holding at least 20 per cent of the shares of an insurer, insurance broker or insurance agent;\n( h ) if the insurer, insurance broker or insurance agent is a subsidiary of another person, a person that is a controller of the parent or controlling body; or\n( i ) a person declared by the Regulatory Authority to be a controller of an insurer, insurance broker or insurance agent, and written notice of the declaration is given to that person,\nbut a Minister or the Regulatory Authority, in that capacity, is not a controller of an insurer, insurance broker or insurance agent;\n\"court\" means the High Court of Botswana, and includes a Magistrate Court where the jurisdiction permits;\n\"derivative\" means a financial instrument, the price of which is derived from the value of one or more underlying assets or any agreed upon pricing arrangement;\n\"director\" in relation to a body corporate, has the same meaning assigned to it under the Companies Act;\n\"fair value\" has the same meaning assigned to it in the International Accounting Standards, or such other accounting standard as may be approved by the Regulatory Authority;\n\"financial crime\" means—\n( a ) a criminal offence (whether or not arising under this Act) that involves fraud or dishonesty in relation to an insurer, insurance broker or insurance agent;\n( b ) financing or facilitating a criminal offence (whether or not it arises under this Act) in relation to an insurer, insurance broker or insurance agent;\n( c ) dealing with the proceeds of a criminal offence (whether or not it arises under this Act) in relation to an insurer, insurance broker or insurance agent;\n( d ) the offence of money laundering in terms of the Proceeds and Instruments of Crime Act (Cap. 08:03); or\n( e ) financing of a terrorist activity;\n\"fit and proper requirements\" means the necessary qualities and traits that will allow a controller, director, manager, principal officer or significant shareholder to perform the duties and responsibilities of his or her position with the insurer, insurance broker or insurance agent, and includes—\n( a ) integrity demonstrated in personal conduct;\n( b ) soundness of judgment;\n( c ) financial soundness; or\n( d ) sufficient knowledge, experience and professional qualifications as may be determined by the Regulatory Authority;\n\"general insurance business\" means the business of providing or undertaking to provide policy benefits under any of the classes specified in Schedule 1;\n\"general insurance policy\" means an insurance policy of any class of a general insurance business, or a contract comprising a combination of any of those policies;\n\"general insurer\" means a person licensed or deemed to be licensed to conduct general insurance business;\n\"holding company\" has the same meaning assigned to it under the Companies Act;\n\"insurance agent\" means a person who solicits applications for insurance for an insurer;\n\"insurance business\" means the business of undertaking to provide policy benefits, which includes general insurance, life insurance and reinsurance, whether or not that business is a member of an association of underwriters;\n\"insurance broker\" means a person who offers services as an intermediary, otherwise than as an agent of the insurer;\n\"insurer\" means a person who undertakes liabilities by way of insurance (including general insurance, life insurance and reinsurance), whether or not as a member of an association of underwriters;\n\"International Actuarial Association\" means the worldwide association of professional actuarial associations;\n\"licence\" means a licence issued under this Act;\n\"life insured\" means a person, including an unborn child, to whose life, or to the functional ability or health of whose mind or body, a long term policy relates;\n\"linked liabilities\" means the liability of a long term insurer in respect of a linked policy;\n\"linked policy\" means a long term policy of which the amount of the policy benefits is not guaranteed by the long term insurer, but is determined solely by reference to the value of particular assets or categories of assets which are specified in the policy, and are actually held by or on behalf of the insurer, specifically for the purposes of the policy;\n\"long term insurance business\" means the business of providing or undertaking to provide policy benefits under any of the classes specified in Schedule 2;\n\"long term insurer\" means a person licensed or deemed to be licensed to conduct long term insurance business;\n\"long term policy\" means an insurance policy of any class of a long term insurance business, other than a linked policy of which the amount of policy benefits is determined in whole or in part by reference to the value of a defined asset or category of defined assets;\n\"manager\" includes an employee of the insurer who exercises managerial functions in relation to the insurer;\n\"market related policy\" means a long term policy other than a linked policy of which the amount of benefits is determined in whole or in part by reference to the value of a defined asset or category of defined assets;\n\"micro insurance policy\" means a contract in terms of which a person, in return for a premium, undertakes to provide benefits under any class of long term insurance and general insurance, subject to the following limitations—\n( a ) the benefits may not exceed P50 000 or any maximum amount that may be prescribed;\n( b ) the premium amount may not be guaranteed for a term exceeding 12 months; or\n( c ) a risk such as weather insurance, catastrophe and other pooled disaster risk policies, including a reinsurance policy of such a risk must be independent, and be excluded;\n\"net liabilities\" means the net of permitted reinsurance liabilities of the insurer;\n\"non-bank financial institution\" has the same meaning assigned to it under the Non-Bank Financial Institutions Regulatory Authority Act (Cap. 46:08);\n\"person associated with\" in relation to an insurer, insurance broker or insurance agent includes—\n( a ) the spouse or minor child of that person;\n( b ) any company of which that person is a director;\n( c ) any person who is an employee or partner of that person; or\n( d ) if the person is a company—\n(i) any director of that company,\n(ii) any subsidiary of that company, or\n(iii) any director or employee of any such subsidiary;\n\"permitted reinsurance\" means reinsurance permitted in the determination of the net policyholder liabilities and calculation of the prescribed capital target;\n\"policy\" includes every writing whereby any contract of insurance is made or agreed to be made; and \"insurance policy\" shall be construed accordingly;\n\"policy benefits\" means one or more sums of money, services or other benefits, including an annuity payable by an insurer to the policyholder in terms of an insurance policy;\n\"policyholder\" means a person who enters into a contract of insurance, and includes a person entitled to be provided with or enforce the policy benefits under an insurance policy;\n\"premium\" means the consideration given or to be given in return for an undertaking to provide policy benefits;\n\"prescribed capital target\" means an amount of capital which an insurer is required to have, as may be prescribed;\n\"principal officer\" means the person responsible for the daily management of an insurer, insurance broker or insurance agent;\n\"Regulatory Authority\" means the Non-Bank Financial Institutions Regulatory Authority established under the Non-Bank Financial Institutions Regulatory Authority Act;\n\"reinsurance\" means insurance provided by another insurer of all or part of a risk previously assumed by an insurer;\n\"representative\" means a natural person who renders services as an intermediary to a client for or on behalf of an insurer, insurance broker or insurance agent in terms of employment or any other mandatory agreement, and does not include a person rendering clerical, technical, administrative, legal, accounting or other service in a subsidiary or subordinate capacity, which service—\n( a ) does not require judgement on the part of the latter person; or\n( b ) does not lead another person to any specific insurance product in response to general inquiries;\n\"resident in Botswana\" in the case of a company means that—\n( a ) the company&rsquo;s registered office or place of incorporation is in Botswana; or\n( b ) the company is managed or controlled from Botswana;\n\"services as an intermediary\" means any act performed by a person, for or on behalf of the insurer or policyholder—\n( a ) the result of which is that another person may enter into, offer to enter into, vary or renew an insurance policy; or\n( b ) with a view to—\n(i) maintaining or servicing or providing administration services in relation to the policy,\n(ii) collecting, accounting for and paying premiums to the insurer, or\n(iii) receiving, submitting or processing claims against the policy;\n\"significant shareholder\" means a person who holds at least 20 per cent of the shares in an insurer, insurance broker or insurance agent as approved by the Regulatory Authority in terms of section 27(2);\n\"subsidiary\" has the same meaning assigned to it under the Companies Act;\n\"survival benefit\" means a policy benefit which is to be provided in the event of the life of a person or an unborn child, continuing or having continued for a given period;\n\"unborn child\" means a human foetus conceived but not born; and\n\"valuator\" means an actuary who is appointed as a valuator in terms of section 19."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Application of Act",
+      "content": "3. Application of Act\n(1) This Act applies to every insurer, insurance broker, insurance agent or representative and every class of insurance business.\n(2) This Act shall not apply to the Motor Vehicle Accident Fund established under the Motor Vehicle Accident Fund Act (Cap. 69:02)."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II Licensing of Insurers",
+      "section": "4",
+      "title": "Licensing of insurer",
+      "content": "4. Licensing of insurer\n(1) A person shall not commence or carry on insurance business—\n( a ) without a licence of an insurer issued under this Act; and\n( b ) contrary to the provisions of this Act.\n(2) For the purposes of this section, a person shall in the absence of evidence to the contrary, be deemed to be carrying on insurance business in Botswana, if the person undertakes to provide policy benefits under an insurance policy to another person.\n(3) A person shall not perform any act, the object of which is, or which results in or is likely to result in—\n( a ) another person entering into, offering to enter into or varying an insurance policy; or\n( b ) maintaining, servicing or otherwise dealing with an insurance policy to which an insurer is not a party,\nwithout the approval of the Regulatory Authority.\n(4) A person who carries on insurance business without a licence commits an offence and is liable to a fine not exceeding P100 000, as may be imposed by the Regulatory Authority."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II Licensing of Insurers",
+      "section": "5",
+      "title": "Restrictions on business",
+      "content": "5. Restrictions on business\n(1) An insurer shall not carry on such business, other than the insurance business which the insurer is authorised to carry on under a licence issued under section 8.\n(2) Notwithstanding the generality of subsection (1), an insurer shall not carry on—\n( a ) business which is prohibited by the Regulatory Authority, in relation to a particular insurer or to insurers in general; or\n( b ) business otherwise than in accordance with and subject to, the limitations and conditions which the Regulatory Authority may determine in relation to a particular insurer or insurers in general.\n(3) The Regulatory Authority shall not impose any restriction on business referred to under subsection (2), unless the Regulatory Authority has—\n( a ) given an insurer written notice of the intention to impose such restriction, setting out the reasons for the restriction and requesting the insurer to make any representation within the period specified in the notice, which period shall not be more than 21 days; and\n( b ) taken into account any representation made by the insurer within the period specified in the notice.\n(4) An insurer shall not transact both general and long term insurance business, unless that insurer is licensed as a reinsurer.\n(5) A general insurer shall not undertake to provide a survival benefit or any linked policy.\n(6) An insurer shall not offer any new product without the prior approval of the Regulatory Authority.\n(7) An insurer who contravenes a provision of this section is liable to a fine not exceeding P100 000 as may be imposed by the Regulatory Authority."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II Licensing of Insurers",
+      "section": "6",
+      "title": "Reinsurance",
+      "content": "6. Reinsurance\n(1) An insurer licensed under this Act shall not reinsure risks from another insurer or otherwise carry on reinsurance business except where—\n( a ) the insurer is licensed as a reinsurer to carry on reinsurance business only; or\n( b ) the insurer informs the Regulatory Authority of the intention to carry on reinsurance business, and undertakes to carry on the business in terms of the conditions the Regulatory Authority may approve.\n(2) Notwithstanding subsection (1), a reinsurer licensed under this Act may carry on reinsurance business of any category or any class except where specifically restricted."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II Licensing of Insurers",
+      "section": "7",
+      "title": "Application for insurance licence",
+      "content": "7. Application for insurance licence\n(1) A person who wishes to carry on insurance business shall apply to the Regulatory Authority for an insurance licence.\n(2) An application made under subsection (1) shall be in such form and accompanied by such fee as may be prescribed."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II Licensing of Insurers",
+      "section": "8",
+      "title": "Licensing requirements",
+      "content": "8. Licensing requirements\n(1) The Regulatory Authority shall not issue a licence to carry on insurance business unless the Regulatory Authority is satisfied that—\n( a ) the applicant is incorporated as a company under the Companies Act;\n( b ) the company is resident in Botswana;\n( c ) insurance business is the sole object of the company; and\n( d ) the person proposed to handle the day-to-day management of the company is resident in Botswana and meets the fit and proper requirements, as may be prescribed.\n(2) An applicant for a licence to carry on insurance business must have sufficient capital to carry on such business, which capital shall consist of paid-up shares or other funds set aside solely for the insurance business, and approved by the Regulatory Authority, subject to such terms and conditions as may be determined by the Regulatory Authority, which capital shall not amount to less than the greater of the minimum capital target, and the prescribed capital target.\n(3) Where the application meets all the requirements, the Regulatory Authority may issue a licence in such form as may be prescribed.\n(4) A licence issued under subsection (3) may be subject to such terms and conditions as the Regulatory Authority may specify in the licence.\n(5) The Regulatory Authority shall publish notice of the issue of a licence in the Gazette .\n(6) An insurer shall prominently display a copy of its licence at its principal office in Botswana.\n(7) An insurer who contravenes subsection (6) is liable to a fine not exceeding P1 000 as may be imposed by the Regulatory Authority."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II Licensing of Insurers",
+      "section": "9",
+      "title": "Validity of licence",
+      "content": "9. Validity of licence\n(1) A licence issued to an insurer shall be valid for a period of 12 months, and shall be renewed in the manner prescribed.\n(2) An insurer who does not renew a licence is liable to a fine of P2 500 for each day the licence is not renewed, up to a maximum of 90 days, as may be imposed by the Regulatory Authority.\n(3) Where an insurer fails to renew a licence after a period of 90 days as provided for under subsection (2), the Regulatory Authority shall cancel the licence."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II Licensing of Insurers",
+      "section": "10",
+      "title": "Licence conditions",
+      "content": "10. Licence conditions\nThe Regulatory Authority may impose licence conditions on a licence, which conditions may include—\n( a ) limiting the types of policies or policy terms and conditions that the insurer may enter into;\n( b ) limiting the amount or value of the policy benefits to be provided by the insurer under certain policies determined by the Regulatory Authority;\n( c ) limiting the amount of the premiums that the insurer may contract to receive, during a period determined by the Regulatory Authority;\n( d ) requiring the insurer to obtain reinsurance cover where the insurer reinsures at least a portion of the liabilities incurred as determined by the Regulatory Authority;\n( e ) requiring the insurer to institute a dispute resolution process between itself and the insured; and\n( f ) any other condition considered to be reasonably necessary by the Regulatory Authority to ensure that the insurance business concerned is in a sound financial condition in terms of section 28(1)."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II Licensing of Insurers",
+      "section": "11",
+      "title": "Variation of licence",
+      "content": "11. Variation of licence\nThe Regulatory Authority may, on the written request by an insurer, or on its own initiative by notice made in writing to an insurer, vary a licence by—\n( a ) restricting the activities that can be carried on in terms of the licence; or\n( b ) including further conditions on the licence."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II Licensing of Insurers",
+      "section": "12",
+      "title": "Suspension of licence",
+      "content": "12. Suspension of licence\n(1) The Regulatory Authority may suspend a licence—\n( a ) if it is satisfied that an insurer—\n(i) is likely not to carry on the business for which it is licensed with integrity, prudence and professional skill,\n(ii) is likely to become in an unsound financial position,\n(iii) is likely to cause or promote instability in the financial system,\n(iv) is likely not to comply with this Act,\n(v) is likely to be involved in financial crime, or\n(vi) has failed to pay a fine imposed by the Regulatory Authority under this Act; or\n( b ) on the written request by an insurer.\n(2) The Regulatory Authority shall not suspend a licence unless the Regulatory Authority has—\n( a ) given written notice of the suspension to an insurer, which notice shall state the reasons for such suspension and request the insurer to make a representation within the period specified in the notice, which shall not be more than 21 days; and\n( b ) taken into account any representation made by the insurer within the period specified in the notice.\n(3) Where the insurance licence is suspended, the insurer shall—\n( a ) not carry out the business or the part of the business in relation to which the suspension relates; or\n( b ) continue to be subject to any provision of this Act as if the licence has not been suspended.\n(4) Any insurer conducting business while the suspension of the insurance licence is still in effect, is liable to a fine not exceeding P100 000, as may be imposed by the Regulatory Authority."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II Licensing of Insurers",
+      "section": "13",
+      "title": "Cancellation of licence",
+      "content": "13. Cancellation of licence\n(1) The Regulatory Authority may cancel a licence—\n( a ) if it is satisfied that an insurer—\n(i) is not carrying on the business for which it is licensed with integrity, prudence and professional skill,\n(ii) is in an unsound financial position,\n(iii) is causing or promoting instability in the financial system,\n(iv) is not complying with this Act,\n(v) is involved in financial crime;\n(vi) has failed to pay a fine imposed by the Regulatory Authority under this Act,\n(vii) has made a material misrepresentation to members of the public in connection with the insurance business carried on by it,\n(viii) has failed to comply with the licence conditions imposed by the Regulatory Authority, or\n(ix) has failed to rectify the situation to the satisfaction of the Regulatory Authority within a period determined by the Regulatory Authority;\n( b ) if it is satisfied that the licence was obtained by means of fraud or misrepresentation; or\n( c ) on the written request by an insurer.\n(2) Where the Regulatory Authority intends to cancel a licence, the Regulatory Authority shall satisfy itself that—\n( a ) the insurer has made proper arrangements to ensure that its liabilities under all insurance policies or policies relating to the particular class of insurance business, as the case may be, will be met;\n( b ) all the insurance business or a particular class of insurance business of an insurer has been discontinued by virtue of its amalgamation with, or the transfer of its insurance business to another licensed insurer; or\n( c ) the insurance business is wound-up in terms of section 49 or 50.\n(3) The Regulatory Authority shall not cancel a licence unless the Regulatory Authority has—\n( a ) given written notice of the cancellation to an insurer, which notice shall state the reasons for such cancellation and request the insurer to make a representation within the period specified in the notice, which shall not be more than 21 days; and\n( b ) taken into account any representation made by the insurer within the period specified in the notice."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II Licensing of Insurers",
+      "section": "14",
+      "title": "Public notice",
+      "content": "14. Public notice\nThe Regulatory Authority shall give public notice, by publication in the Gazette and two newspapers of national circulation, of the—\n( a ) variation of a licence;\n( b ) suspension of a licence; or\n( c ) cancellation of a licence."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III Manner of Carrying on Insurance Business",
+      "section": "15",
+      "title": "Name of insurer",
+      "content": "15. Name of insurer\n(1) An insurer shall not be issued with a licence to conduct insurance business or conduct business under a name, or a translation, shortened form or derivative thereof, if the name, translation, shortened form or derivative—\n( a ) is identical to that of another insurer;\n( b ) so closely resembles that of another insurer that the one is likely to be mistaken for the other;\n( c ) is identical to that under which another insurer was previously licensed and reasonable grounds exist for objection to the name, translation, shortened form or derivative being used by the insurer; or\n( d ) is misleading or undesirable.\n(2) An insurer shall not change its name, or use a translation, shortened form or derivative thereof, without the prior approval of the Regulatory Authority.\n(3) An insurer shall not—\n( a ) change the name under which it is licensed; or\n( b ) use or refer to itself by a name other than the name under which it is licensed, including a shortened form or derivative of such name,\nwithout the prior written approval of the Regulatory Authority.\n(4) Subject to subsection (3), an insurer shall for all purposes and in every public document issued by it, use the name under which it is licensed.\n(5) An insurer who contravenes a provision of this section is liable to a fine not exceeding P30 000 as may be imposed by the Regulatory Authority."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III Manner of Carrying on Insurance Business",
+      "section": "16",
+      "title": "Principal office and principal officer",
+      "content": "16. Principal office and principal officer\n(1) An insurer shall—\n( a ) establish and maintain a principal office in Botswana; and\n( b ) with the approval of the Regulatory Authority, appoint a principal officer.\n(2) A person shall not be appointed as a principal officer unless he or she—\n( a ) satisfies the fit and proper requirements as may be prescribed; and"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "actuary",
+      "definition": "an associate or fellow of a professional actuarial body that is a member of the International Actuarial Association, or such other body as may be approved by the Regulatory Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved person",
+      "definition": "a person who has relevant qualifications and experience to determine general insurance liabilities, which person is approved by the Regulatory Authority in terms of section 19",
+      "source_provision": "s2"
+    },
+    {
+      "term": "auditor",
+      "definition": "an auditor registered with the Botswana Institute of Chartered Accountants under the Accountants Act (Cap. 61:05)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "beneficial shareholder",
+      "definition": "the beneficiary of shares registered in another person&rsquo",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Botswana Institute of Chartered Accountants",
+      "definition": "the Institute that is established under the Accountants Act (Cap. 61:05)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "company",
+      "definition": "a company incorporated in accordance with, and registered under the Companies Act (Cap. 42:0)1, or deemed to have been so incorporated and registered",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "the High Court of Botswana, and includes a Magistrate Court where the jurisdiction permits",
+      "source_provision": "s2"
+    },
+    {
+      "term": "derivative",
+      "definition": "a financial instrument, the price of which is derived from the value of one or more underlying assets or any agreed upon pricing arrangement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fair value",
+      "definition": "assigned to it in the International Accounting Standards, or such other accounting standard as may be approved by the Regulatory Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fit and proper requirements",
+      "definition": "the necessary qualities and traits that will allow a controller, director, manager, principal officer or significant shareholder to perform the duties and responsibilities of his or her position with the insurer, insurance broker or insurance agent, and includes—\n( a ) integrity demonstrated in personal conduct",
+      "source_provision": "s2"
+    },
+    {
+      "term": "general insurance business",
+      "definition": "the business of providing or undertaking to provide policy benefits under any of the classes specified in Schedule 1",
+      "source_provision": "s2"
+    },
+    {
+      "term": "general insurance policy",
+      "definition": "an insurance policy of any class of a general insurance business, or a contract comprising a combination of any of those policies",
+      "source_provision": "s2"
+    },
+    {
+      "term": "general insurer",
+      "definition": "a person licensed or deemed to be licensed to conduct general insurance business",
+      "source_provision": "s2"
+    },
+    {
+      "term": "holding company",
+      "definition": "assigned to it under the Companies Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "insurance agent",
+      "definition": "a person who solicits applications for insurance for an insurer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "insurance business",
+      "definition": "the business of undertaking to provide policy benefits, which includes general insurance, life insurance and reinsurance, whether or not that business is a member of an association of underwriters",
+      "source_provision": "s2"
+    },
+    {
+      "term": "insurance broker",
+      "definition": "a person who offers services as an intermediary, otherwise than as an agent of the insurer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "insurer",
+      "definition": "a person who undertakes liabilities by way of insurance (including general insurance, life insurance and reinsurance), whether or not as a member of an association of underwriters",
+      "source_provision": "s2"
+    },
+    {
+      "term": "International Actuarial Association",
+      "definition": "the worldwide association of professional actuarial associations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "life insured",
+      "definition": "a person, including an unborn child, to whose life, or to the functional ability or health of whose mind or body, a long term policy relates",
+      "source_provision": "s2"
+    },
+    {
+      "term": "linked liabilities",
+      "definition": "the liability of a long term insurer in respect of a linked policy",
+      "source_provision": "s2"
+    },
+    {
+      "term": "linked policy",
+      "definition": "a long term policy of which the amount of the policy benefits is not guaranteed by the long term insurer, but is determined solely by reference to the value of particular assets or categories of assets which are specified in the policy, and are actually held by or on behalf of the insurer, specifically for the purposes of the policy",
+      "source_provision": "s2"
+    },
+    {
+      "term": "long term insurance business",
+      "definition": "the business of providing or undertaking to provide policy benefits under any of the classes specified in Schedule 2",
+      "source_provision": "s2"
+    },
+    {
+      "term": "long term insurer",
+      "definition": "a person licensed or deemed to be licensed to conduct long term insurance business",
+      "source_provision": "s2"
+    },
+    {
+      "term": "long term policy",
+      "definition": "an insurance policy of any class of a long term insurance business, other than a linked policy of which the amount of policy benefits is determined in whole or in part by reference to the value of a defined asset or category of defined assets",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manager",
+      "definition": "an employee of the insurer who exercises managerial functions in relation to the insurer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "market related policy",
+      "definition": "a long term policy other than a linked policy of which the amount of benefits is determined in whole or in part by reference to the value of a defined asset or category of defined assets",
+      "source_provision": "s2"
+    },
+    {
+      "term": "micro insurance policy",
+      "definition": "a contract in terms of which a person, in return for a premium, undertakes to provide benefits under any class of long term insurance and general insurance, subject to the following limitations—\n( a ) the benefits may not exceed P50 000 or any maximum amount that may be prescribed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "net liabilities",
+      "definition": "the net of permitted reinsurance liabilities of the insurer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "non-bank financial institution",
+      "definition": "assigned to it under the Non-Bank Financial Institutions Regulatory Authority Act (Cap. 46:08)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permitted reinsurance",
+      "definition": "reinsurance permitted in the determination of the net policyholder liabilities and calculation of the prescribed capital target",
+      "source_provision": "s2"
+    },
+    {
+      "term": "policy",
+      "definition": "every writing whereby any contract of insurance is made or agreed to be made",
+      "source_provision": "s2"
+    },
+    {
+      "term": "policy benefits",
+      "definition": "one or more sums of money, services or other benefits, including an annuity payable by an insurer to the policyholder in terms of an insurance policy",
+      "source_provision": "s2"
+    },
+    {
+      "term": "policyholder",
+      "definition": "a person who enters into a contract of insurance, and includes a person entitled to be provided with or enforce the policy benefits under an insurance policy",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premium",
+      "definition": "the consideration given or to be given in return for an undertaking to provide policy benefits",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescribed capital target",
+      "definition": "an amount of capital which an insurer is required to have, as may be prescribed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "principal officer",
+      "definition": "the person responsible for the daily management of an insurer, insurance broker or insurance agent",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Regulatory Authority",
+      "definition": "the Non-Bank Financial Institutions Regulatory Authority established under the Non-Bank Financial Institutions Regulatory Authority Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reinsurance",
+      "definition": "insurance provided by another insurer of all or part of a risk previously assumed by an insurer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "representative",
+      "definition": "a natural person who renders services as an intermediary to a client for or on behalf of an insurer, insurance broker or insurance agent in terms of employment or any other mandatory agreement, and does not include a person rendering clerical, technical, administrative, legal, accounting or other service in a subsidiary or subordinate capacity, which service—\n( a ) does not require judgement on the part of the latter person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "services as an intermediary",
+      "definition": "any act performed by a person, for or on behalf of the insurer or policyholder—\n( a ) the result of which is that another person may enter into, offer to enter into, vary or renew an insurance policy",
+      "source_provision": "s2"
+    },
+    {
+      "term": "significant shareholder",
+      "definition": "a person who holds at least 20 per cent of the shares in an insurer, insurance broker or insurance agent as approved by the Regulatory Authority in terms of section 27(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "subsidiary",
+      "definition": "assigned to it under the Companies Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "survival benefit",
+      "definition": "a policy benefit which is to be provided in the event of the life of a person or an unborn child, continuing or having continued for a given period",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unborn child",
+      "definition": "a human foetus conceived but not born",
+      "source_provision": "s2"
+    },
+    {
+      "term": "valuator",
+      "definition": "an actuary who is appointed as a valuator in terms of section 19.",
+      "source_provision": "s2"
+    }
+  ]
+}

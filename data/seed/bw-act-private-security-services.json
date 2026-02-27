@@ -1,0 +1,81 @@
+{
+  "id": "bw-act-private-security-services",
+  "type": "statute",
+  "title": "Private Security Services",
+  "title_en": "Private Security Services",
+  "short_name": "Private Security Services",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/private-security-services",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Private Security Services Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Board\" means the Private Security Services Licensing Board established under section 3;\n\"licence\" means a private security service licence issued under section 19;\n\"licensee\" means a person issued with a licence under this Act;\n\"member\" means a member of the Board;\n\"private security service\" includes—\n( a ) protecting or safeguarding a person or property in any manner;\n( b ) giving advice on the protection or safeguarding of a person or property, or on the use of security equipment;\n( c ) providing a reactive or response service in connection with the safeguarding of a person or property;\n( d ) providing a service aimed at ensuring order and safety on the premises used for sporting, recreational, entertainment or any similar purposes;\n( e ) manufacturing, importing, distributing or advertising of monitoring devices or surveillance equipment;\n( f ) performing the functions of a private investigator;\n( g ) providing security training or instruction to a security service provider or prospective security service provider;\n( h ) installing, servicing or repairing security equipment;\n( i ) monitoring signals or transmissions from electronic security equipment;\n( j ) performing the functions of a locksmith;\n( k ) making a person or the services of a person available, whether directly or indirectly, for the rendering of any service referred to in the above paragraphs to another person; and\n( l ) managing, controlling or supervising the rendering of services referred to in paragraph ( a ) to ( j ).\n\"private security service provider\" means a person who renders a security service to another for a remuneration, reward, fee or benefit;\n\"secretary\" means a person appointed under section 4;\n\"Security Association\" means a body registered under the Societies Act (Cap. 18:01), which shall not comprise of less than 30 security services providers registered under the Companies Act (Cap. 42:01);\n\"security equipment\" means—\n( a ) an alarm system;\n( b ) a safe, vault or secured container;\n( c ) a satellite tracking device, closed circuit television or other electronic monitoring device or surveillance device;\n( d ) a device used for intrusion detection, access control, bomb detection, metal detection, x-ray inspection or for securing telephone communications;\n( e ) a specialised device used to open, close or engage locking mechanisms;\n( f ) a specialised device used to reproduce or duplicate keys or other objects which are used to unlock, close or engage locking mechanisms; or\n( g ) any other equipment as may be prescribed;\n\"security guard\" means any person—\n( a ) who is employed by another person, and who receives or is entitled to receive from such other person any remuneration, reward, fee or benefit, for rendering one or more security services;\n( b ) who assists in carrying on or conducting the affairs of a security service provider, and who receives or is entitled to receive from such other security service provider, any remuneration, reward, fee or benefit, in respect of one or more security services;\n( c ) who renders a security service under the control of security service provider and who receives or is entitled to receive from any other person any remuneration, reward, fee or benefit for such service; or\n( d ) whose services are directly or indirectly made available by a private security service provider to any other person, and who receives or is entitled to receive any remuneration, reward, fee or benefit for rendering one or more security services; and\n\"Security Officers Association\" means a body registered under the Societies Act, which adequately demonstrates to the Minister that it is representative of the majority of security guards working in Botswana at any given time."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II Establishment of Private Security Services Licensing Board",
+      "section": "3",
+      "title": "Establishment of Private Security Services Licensing Board",
+      "content": "3. Establishment of Private Security Services Licensing Board\n(1) There is hereby established a Private Security Services Licensing Board to perform the functions under this Act.\n(2) The Board shall consist of the following members appointed by the Minister—\n( a ) three representatives of Government;\n( b ) two representatives of the private sector;\n( c ) two representatives of the Security Association, elected by the Association upon notification from the Minister to elect members;\n( d ) two representatives of the Security Officers Association, elected by the Association upon notification from the Minister to elect members; and\n( e ) two additional members from the public."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Private Security Services Licensing Board established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a private security service licence issued under section 19",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "a person issued with a licence under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "private security service provider",
+      "definition": "a person who renders a security service to another for a remuneration, reward, fee or benefit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "secretary",
+      "definition": "a person appointed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Security Association",
+      "definition": "a body registered under the Societies Act (Cap. 18:01), which shall not comprise of less than 30 security services providers registered under the Companies Act (Cap. 42:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "security guard",
+      "definition": "any person—\n( a ) who is employed by another person, and who receives or is entitled to receive from such other person any remuneration, reward, fee or benefit, for rendering one or more security services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Security Officers Association",
+      "definition": "a body registered under the Societies Act, which adequately demonstrates to the Minister that it is representative of the majority of security guards working in Botswana at any given time.",
+      "source_provision": "s2"
+    }
+  ]
+}

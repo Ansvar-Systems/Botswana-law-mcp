@@ -1,0 +1,32 @@
+{
+  "id": "bw-sub-administration-of-estates-subsidiary-legislation",
+  "type": "statute",
+  "title": "Administration of Estates: Subsidiary Legislation",
+  "title_en": "Administration of Estates: Subsidiary Legislation",
+  "short_name": "Administration of Estates: ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/administration-of-estates-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Administration of Estates (Remuneration and Allowances Payable to Sworn Appraisers) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Remuneration of sworn appraisers",
+      "content": "2. Remuneration of sworn appraisers\nEvery sworn appraiser is entitled to receive remuneration according to the following tariff in respect of every appraisement made by him—\nP\n( a )\nvaluations of P200 or less\n2,00\n( b )\nvaluations over P200 up to and including P1000\n5,00\n( c )\nvaluations over P1000 up to and including P2000\n7,00\n( d )\nvaluations over P2000 up to and including P4000\n9,50\n( e )\nvaluations over P4000 up to and including P20 000\n9,50\nfor the first P4000\n4,00\nper P2000 or part thereof thereafter\n( f )\nvaluations over P20 000 up to and including P30 000\n41,50\nfor the first P20 000\n2,00\nper P2000 or part thereof thereafter\n( g )\nvaluations over P30 000 up to and including P200 000\n51,50\nfor the first P20 000\n1,75\nper P2000 or part thereof thereafter\n( h )\nvaluations over P200 000 up to and including P400 000\n200,25\nfor the first P200 000\n1,00\nper P2000 or part thereof thereafter\n( i )\nvaluations over P400 000 up to and including P800 000\n300,25\nfor the first P400 000\n0,871/2\nper P2000 or part thereof thereafter\n( j )\nvaluations over P800 000\n475,25\nfor the first P800 000\n5,50\nper P2000 or part thereof thereafter"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Transport allowance",
+      "content": "3. Transport allowance\n(1) In addition to the remuneration set out in regulation 2 the following transport allowance may be claimed in all cases in which the appraisement is made at a place more than 1.6 kilometres from the place of business of the appraiser—\n( a ) when own conveyance is used\n10t per km\n( b ) when public transport is used"
+    }
+  ],
+  "definitions": []
+}

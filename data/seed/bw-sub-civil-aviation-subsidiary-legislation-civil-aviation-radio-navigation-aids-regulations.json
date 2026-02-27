@@ -1,0 +1,524 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-radio-navigation-aids-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (radio Navigation Aids) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (radio Navigation Aids) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-radio-navigation-aids-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Radio Navigation Aids) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"aircraft-based augmentation system (ABAS)\" means an augmentation system that augments and/or integrates the information obtained from the other GNSS elements with information available on board the aircraft;\n\"air navigation services facility\" means any facility used, available for use, or designed for use in aid of navigation of aircraft, including airports, landing fields, any structures, mechanisms, lights, beacons, marks, communicating systems, or other instruments or devices used or useful as an aid to the safe taking off, navigation, and landing of aircraft and any combination of such facilities;\n\"alert\" means an indication provided to other aircraft systems or annunciation to the pilot to identify that an operating parameter of a navigation system is out of tolerance;\n\"alert limit\" means the error tolerance not to be exceeded without issuing an alert for a given parameter measurement;\n\"altitude\" means the vertical distance of a level, a point or an object considered as a point, measured from mean sea level (MSL);\n\"air navigation services provider\" means an entity established for the purpose of providing one or more of the air navigation services as defined in these Regulations;\n\"angular displacement sensitivity\" means the ratio of measured DDM to the corresponding angular displacement from the appropriate reference line;\n\"antenna port\" means a point where the received signal power is specified. For an active antenna, the antenna port is a fictitious point between the antenna elements and the antenna pre-amplifier. For a passive antenna, the antenna port is the output of the antenna itself;\n\"area navigation\" means a method of navigation which permits aircraft operation on any desired flight path within the coverage of ground or space-based navigation aids or within the limits of the capability of self-contained aids, or a combination of these;\n\"Authority\" means the Civil Aviation Authority of Botswana established under the Civil Aviation Act (Cap. 70:01);\n\"average radius of rated coverage\" means the radius of a circle having the same area as the rated coverage;\n\"axial ratio\" means the ratio, expressed in decibels, between the maximum output power and the minimum output power of an antenna to an incident linearly polarised wave as the polarisation orientation is varied over all directions perpendicular to the direction of propagation;\n\"back course sector\" means the course sector which is situated on the opposite side of the localizer from the runway;\n\"carrier energy\" means the average power supplied to the antenna transmission line by a transmitter during one radio frequency cycle under conditions of no modulation;\n\"certificate\" means the certificate for the provision of air navigation services issued by the Authority under the Civil Aviation (Certification of Air Navigation Services Providers) Regulations, 2021, Statutory No. 144 of 2021;\n\"channel of standard accuracy\" means the specified level of positioning, velocity and timing accuracy that is available to any GLONASS user on a continuous, worldwide basis;\n\"CNS\" means radio navigation aids, communication procedures including those with PANS (Procedures for Air Navigation Services), communication systems, surveillance and collision avoidance systems and aeronautical radio frequency spectrum utilisation;\n\"control motion noise (CMN)\" means that portion of the guidance signal error which causes control surface, wheel and column motion and could affect aircraft attitude angle during coupled flight, but does not cause aircraft displacement from the desired course and/or glide path;\n\"core satellite constellation(s)\" means the GPS and GLONASS;\n\"course line\" means the locus of points nearest to the runway centre line in any horizontal plane at which the DDM is zero;\n\"coupling\" means the association of two circuits or systems in such a way that power may be transferred from one to the other;\n\"course sector\" means a sector in a horizontal plane containing the course line and limited by the loci of points nearest to the course line at which the DDM is 0.155;\n\"displacement sensitivity (localizer)\" means the ratio of measured DDM to the corresponding lateral displacement from the appropriate reference line;\n\"DME\" means Distance Measuring Equipment;\n\"dead time\" means a period immediately following the decoding of a valid interrogation during which a received interrogation will not cause a reply to be generated;\n\"DME/N\" means distance measuring equipment, primarily serving operational needs of en route or Terminal Control Area navigation, where the \"N\" stands for narrow spectrum characteristics;\n\"DME/P\" means the distance measuring element of the MLS, where the \"P\" stands for precise distance measurement. The spectrum characteristics are those of DME/N;\n\"effective adjacent channel rejection\" means the rejection that is obtained at the appropriate adjacent channel frequency when all relevant receiver tolerances have been taken into account;\n\"elevation\" means the vertical distance of a point or a level, on or affixed to the surface of the earth, measured from mean sea level;\n\"essential radio navigation service\" means a radio navigation service whose disruption has a significant impact on operations in the affected airspace or aerodrome;\n\"equivalent isotropically radiated power (EIRP)\" means the product of the power supplied to the antenna and the antenna gain in a given direction relative to an isotropic antenna (absolute or isotropic gain);\n\"Facility Performance Category I – ILS\" means an ILS which provides guidance information from the coverage limit of the ILS to the point at which the localizer course line intersects the ILS glide path at a height of 60 metres (200 ft) or less above the horizontal plane containing the threshold;\n\"Facility Performance Category II – ILS\" means an ILS which provides guidance information from the coverage limit of the ILS to the point at which the localizer course line intersects the ILS glide path at a height of 15 metres (50 ft) or less above the horizontal plane containing the threshold;\n\"Facility Performance Category III – ILS\" means an ILS which, with the aid of ancillary equipment where necessary, provides guidance information from the coverage limit of the facility to, and along, the surface of the runway;\n\"fan marker beacon\" means a type of radio beacon, the emissions of which radiate in a vertical fan-shaped pattern;\n\"final approach (FA) mode\" means the condition of DME/P operation which supports flight operations in the final approach and runway regions;\n\"front course sector\" means the course sector which is situated on the same side of the localizer as the runway;\n\"GBAS/E\" means a ground-based augmentation system transmitting an elliptically-polarised VHF data broadcast;\n\"GBAS/H\" means a ground-based augmentation system transmitting a horizontally-polarised VHF data broadcast;\n\"global navigation satellite system (GNSS)\" means a worldwide position and time determination system that includes one or more satellite constellations, aircraft receivers and system integrity monitoring, augmented as necessary to support the require navigation performance for the intended operation;\n\"global navigation satellite system (GLONASS)\" means the satellite navigation system operated by the Russian Federation;\n\"GNSS position error\" means the difference between the true position and the position determined by the GNSS receiver;\n\"ground-based augmentation system (GBAS)\" means an augmentation system in which the user receives augmentation information directly from a ground-based transmitter;\n\"ground-based regional augmentation system (GRAS)\" means an augmentation system in which the user receives augmentation information directly from one of a group of ground-based transmitters covering a region;\n\"half course sector\" means the sector, in a horizontal plane containing the course line and limited by the loci of points nearest to the course line at which the DDM is 0.0775;\n\"height\" means the vertical distance of a level, a point or an object considered as a point, measured from a specified datum;\n\"Human Factors Principles\" means principles which apply to design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance;\n\"ILS\" means an Instrument Landing System;\n\"ILS glide path\" means that locus of points in the vertical plane containing the runway centre line at which the DDM is zero, which, of all such loci, is the closest to the horizontal plane;\n\"ILS glide path angle\" means the angle between a straight line which represents the mean of the ILS glide path and the horizontal;\n\"ILS glide path sector\" means the sector in the vertical plane containing the ILS glide path and limited by the loci of points nearest to the glide path at which the DDM is 0.175;\n\"ILS Point \"B\"\" means a point on the ILS glide path measured along the extended runway centre line in the approach direction a distance of 1050 metres (3 500 ft) from the threshold;\n\"initial approach (IA) mode\" means the condition of DME/P operation which supports those flight operations outside the final approach region and which is interoperable with DME/N;\n\"integrity\" means a measure of the trust that can be placed in the correctness of the information supplied by the total system and includes the ability of a system to provide timely and valid warnings to the user (alerts);\n\"key down time\" means the time during which a dot or dash of a Morse character is being transmitted;\n\"LF/MF\" means low frequency/medium frequency;\n\"locator\" means an LF/MF NDB used as an aid to final approach; conditions;\n\"mode X, Y,\" means a method of coding the DME transmissions by time spacing pulses of a pulse pair, so that each frequency can be used more than once;\n\"NDB\" means a radio transmitter at a known location, used as a radio navigation aid;\n\"path following error (PFE)\" means that portion of the guidance signal error which could cause aircraft displacement from the desired course and/or glide path;\n\"pseudo-range\" means the difference between the time of transmission by a satellite and reception by a GNSS receiver multiplied by the speed of light in a vacuum, including bias due to the difference between a GNSS receiver and satellite time reference;\n\"pulse code\" means the method of differentiating between W, X, Y and Z modes and between FA and IA modes;\n\"pulse decay time\" means the time as measured between the 10 and 90 per cent amplitude points on the trailing edge of the pulse envelope;\n\"pulse duration\" means the time interval between the 50 per cent amplitude point on leading and trailing edges of the pulse envelope;\n\"pulse rise time\" means the time as measured between the 10 and 90 per cent amplitude points on the leading edge of the pulse envelope;\n\"radio navigation service\" means a service providing guidance information or position data for the efficient and safe operation of aircraft supported by one or more radio navigation aids;\n\"rated coverage\" means the area surrounding an NDB within which the strength of the vertical field of the ground wave exceeds the minimum value specified for the geographical area in which the radio beacon is situated;\n\"receiver\" means a subsystem that receives GNSS signals and includes one or more sensors;\n\"reply efficiency\" means the ratio of replies transmitted by the transponder to the total of received valid interrogations;\n\"reserved (bits/words/fields)\" means bits/words/fields that are not allocated, but which are reserved for a particular GNSS application;\n\"search\" means the condition which exists when the DME interrogator is attempting to acquire and lock onto the response to its own interrogations from the selected transponder;\n\"satellite-based augmentation system (SBAS)\" means a wide coverage augmentation system in which the user receives augm"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Regulations shall apply to a person providing radio navigation aids services within designated airspace and at aerodromes."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II General Requirements (reg 4)",
+      "section": "4",
+      "title": "Requirements for radio navigation aids facilities",
+      "content": "4. Requirements for radio navigation aids facilities\nThe minimum requirements for planning, installation, commissioning, training, operations and maintenance of the radio navigation aids facilities shall conform to these Regulations."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "5",
+      "title": "Standard radio navigation aids",
+      "content": "5. Standard radio navigation aids\n(1) Standard radio navigation aids to be used for air navigation shall be—\n( a ) the Instrument Landing System (ILS);\n( b ) the global navigation satellite system (GNSS);\n( c ) the VHF Omnidirectional Radio Range (VOR);\n( d ) the Non-Directional Radio Beacon (NDB);\n( e ) the Distance Measuring Equipment (DME);\n( f ) the En Route VHF Marker Beacon; and\n( g ) microphone landing system (MLS).\n(2) Differences in radio navigation aids specified in subregulation (1) shall be published in an Aeronautical Information Publication (AIP).\n(3) The ANS shall publish in an (AIP) any radio navigation aid that is not an ILS, but which may be used in whole or in part with aircraft equipment designed for use with an ILS."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "6",
+      "title": "GNSS – specific provisions",
+      "content": "6. GNSS – specific provisions\n(1) A service provider shall terminate a GNSS satellite service, provided by one of its elements under the Requirements for the global navigation satellite system, on the basis of at least a six-year advance notice.\n(2) The Authority shall, upon approving the GNSS-based operations ensure that GNSS data relevant to those operations are recorded.\n(3) The Authority shall retain recordings for a period of at least 30 days.\n(4) Where the recordings are pertinent to accident and incident investigations, the Authority shall retain such recordings for longer periods until it is evident that they will no longer be required."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "7",
+      "title": "Precision approach radar",
+      "content": "7. Precision approach radar\n(1) A precision approach radar (PAR) system, where installed and operated as a radio navigation aid together with equipment for two-way communication with aircraft and facilities for the efficient co-ordination of these elements with air traffic control, shall conform to regulation 49.\n(2) Where a radio navigation aid is provided to support precision approach and landing, it shall be supplemented, as necessary, by a source or sources of guidance information which, when used in conjunction with appropriate procedures, will provide effective guidance to, and efficient coupling with, the desired reference path."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "8",
+      "title": "Composition of precision approach radar system",
+      "content": "8. Composition of precision approach radar system\n(1) The precision approach radar system shall comprise the following elements—\n( a ) the Precision Approach Radar element (PAR); and\n( b ) the Surveillance Radar Element (SRE).\n(2) Where the Precision Approach Radar only is used, the installation shall be identified by the term \"precision approach radar\" and not by the term \"precision approach radar system\"."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "9",
+      "title": "Specifications for precision approach radar elements",
+      "content": "9. Specifications for precision approach radar elements\nThe specifications for precision approach radar shall be as contained in Schedule 1."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "10",
+      "title": "Specifications for Surveillance Radar Element",
+      "content": "10. Specifications for Surveillance Radar Element\nA surveillance radar used as the SRE of a precision approach radar system shall satisfy the performance requirements as contained in Schedule 1."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "11",
+      "title": "Ground and flight testing",
+      "content": "11. Ground and flight testing\nRadio navigation aids of the types covered by the specifications in regulations 5 to 174 and available for use by aircraft engaged in international air navigation, shall be the subject of periodic ground and flight tests as contained in Schedule 4."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "12",
+      "title": "Operational status of radio navigation aids",
+      "content": "12. Operational status of radio navigation aids\nAerodrome control towers and units providing approach control service shall be provided with information on the operational status of radio navigation services essential for approach, landing and take-off at the aerodrome with which they are concerned, on a timely basis consistent with the use of the service involved."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "13",
+      "title": "Power supply for radio navigation aids and communication systems",
+      "content": "13. Power supply for radio navigation aids and communication systems\nRadio navigation aids and ground elements of communication systems shall be provided with suitable power supplies and means to ensure continuity of service, consistent with the use of the service involved."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "14",
+      "title": "Human factor considerations",
+      "content": "14. Human factor considerations\nHuman Factors Principles shall be observed in the design and certification of radio navigation aids.\n( a ) Instrument Landing System (regs 15-19)"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "15",
+      "title": "Basic requirements for instrument landing system – composition",
+      "content": "15. Basic requirements for instrument landing system – composition\n(1) The ILS shall comprise the following basic components—\n( a ) VHF localizer equipment, associated monitor system, remote control and indicator equipment;\n( b ) UHF glide path equipment, associated monitor system, remote control and indicator equipment; and\n( c ) DME or VHF Markers as a means to enable glide path verification checks.\n(2) Distance to threshold information shall be provided by either VHF marker beacons or Distance Measuring Equipment (DME) to enable glide path verification checks together with associated monitor systems and remote control and indicator equipment.\n(3) If one or more VHF marker beacons are used to provide distance to threshold information, the equipment shall conform to the specifications in regulations 42 to 48.\n(4) Facility Performance Categories I, II and III – ILS shall provide indications at designated remote-control points of the operational status of all ILS ground system components, as follows—\n( a ) for all Category II and Category III – ILS, the air traffic services unit involved in the control of aircraft on the final approach shall be one of the designated remote control points and shall receive information on the operational status of the ILS, with a delay commensurate with the requirements of the operational environment; and\n( b ) for a Category I – ILS, if that ILS provides an essential radio navigation service, the air traffic services unit involved in the control of aircraft on the final approach shall be one of the designated remote control points and shall receive information on the operational status of the ILS, with a delay commensurate with the requirements of the operational environment."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "16",
+      "title": "Basic requirements for instrument landing system – construction and adjustment",
+      "content": "16. Basic requirements for instrument landing system – construction and adjustment\nThe ILS shall be constructed and adjusted so that, at a specified distance from the threshold, similar instrumental indications in the aircraft represent similar displacements from the course line or ILS glide path as appropriate, irrespective of the particular ground installation in use."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "17",
+      "title": "Localizer and glide path components of facility performance categories",
+      "content": "17. Localizer and glide path components of facility performance categories\n(1) The localizer and glide path components specified in regulation 15(1)( a ) and ( b ) which form part of a Facility Performance Category I – ILS shall comply with regulations 20 to 41 respectively, except those in which the application to Facility Performance Category II – ILS is prescribed.\n(2) The localizer and glide path components specified in regulation 15(1)( a ) and ( b ) which form part of a Facility Performance Category II – ILS shall comply with the standards applicable to these components in a Facility Performance Category I – ILS, as supplemented or amended by regulations 20 to 41 in which the application to Facility Performance Category II – ILS is prescribed.\n(3) The localizer and glide path components and other ancillary equipment specified in regulation 15(1)( a ) and ( b ), which form part of a Facility Performance Category III – ILS, shall otherwise comply with the standards applicable to these components in Facility Performance Categories I and II – ILS, except as supplemented by the standards in regulations 20 to 41 in which application to Facility Performance Category III – ILS is prescribed."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "18",
+      "title": "ILS level of safety",
+      "content": "18. ILS level of safety\nThe ILS shall be so designed and maintained that the probability of operation within the performance requirements specified is of a high value, consistent with the category of operational performance concerned."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "19",
+      "title": "Two ILS facilities serving opposite ends of single runway",
+      "content": "19. Two ILS facilities serving opposite ends of single runway\n(1) Where two separate ILS facilities serve opposite ends of a single runway, an interlock shall ensure that only the localizer serving the approach direction in use shall radiate, except where the localizer in operational use is Facility Performance Category I – ILS and not operationally harmful interference results.\n(2) Where two separate ILS facilities serve opposite ends of a single runway and where a Facility Performance Category I – ILS is to be used for auto-coupled approaches and landings in visual conditions an interlock shall ensure that only the localizer serving the approach direction in use radiates:\nProvided the other localizer serving the approach direction in use, radiates.\n(3) Where ILS facilities serving opposite ends of the same runway or different runways at the same airport, use the same paired frequencies, an interlock shall ensure that only one facility shall radiate at a time.\n(4) Where there is a switching from one ILS facility to another, radiation from both facilities shall be suppressed for not less than 20 seconds.\n( b ) VHF Localizer and Associated Monitor (regs 20-32)"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "20",
+      "title": "VHF localizer and associated monitor specifications",
+      "content": "20. VHF localizer and associated monitor specifications\n(1) The specifications of the VHF localizer and associated monitor shall be as set out in Schedule 2.\n(2) The radiation from the localizer antenna system shall produce a composite field pattern which is amplitude modulated by a 90 Hz and a 150 Hz tone.\n(3) The radiation field pattern shall produce a course sector with one tone predominating on one side of the course and with the other tone predominating on the opposite side.\n(4) Where an observer faces the localizer from the approach end of a runway, the depth of modulation of the radio frequency carrier due to the 150 Hz tone shall predominate on the observer's right hand and that due to the 90 Hz tone shall predominate on the observer's left hand.\n(5) All horizontal angles employed in specifying the localizer field patterns shall originate from the centre of the localizer antenna system which provides the signals used in the front course sector."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "21",
+      "title": "VHF localizer radio frequency",
+      "content": "21. VHF localizer radio frequency\n(1) The localizer shall—\n( a ) operate in the band 108 MHz to 111.975 MHz; and\n( b ) where a single radio frequency carrier is used, the frequency tolerance shall not exceed 0.005 per cent.\n(2) Where two radio frequency carriers are used—\n( a ) the frequency tolerance shall not exceed 0.002 per cent;\n( b ) the nominal band occupied by the carriers shall be symmetrical about the assigned frequency; and\n( c ) with all tolerances applied, the frequency separation between the carriers shall not be less than 5 kHz nor more than 14 kHz.\n(3) The emission from the localizer shall—\n( a ) be horizontally polarised; and\n( b ) the vertically polarised component of the radiation on the course line shall not exceed that which corresponds to a DDM error of 0.016 when an aircraft is positioned on the course line and is in a roll attitude of 20 degrees from the horizontal.\n(4) For Facility Performance Category II localizers, the vertically polarised component of the radiation on the course line shall not exceed that which corresponds to a DDM error of 0.008 when an aircraft is positioned on the course line and is in a roll attitude of 20 degrees from the horizontal.\n(5) For Facility Performance Category III localizers, the vertically polarised component of the radiation within a sector bounded by 0.02 DDM either side of the course line shall not exceed that which corresponds to a DDM error of 0.005 when an aircraft is in a roll attitude of 20 degrees from the horizontal.\n(6) For Facility Performance Category III localizers, signals emanating from the transmitter shall contain no components which result in an apparent course line fluctuation of more than 0.005 DDM peak to peak in the frequency band 0.01 Hz to 10 Hz."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART III Radio Navigation Aids (regs 5-174)",
+      "section": "22",
+      "title": "VHF localizer coverage",
+      "content": "22. VHF localizer coverage\n(1) The localizer shall provide signals sufficient to allow satisfactory operation of a typical aircraft installation within the localizer and glide path coverage sectors.\n(2) —\n(1) The localizer coverage sector shall extend from the centre of the localizer antenna system to distances of—\n( a ) 46.3 km (25 NM) within plus or minus 10 degrees from the front course line;\n( b ) 31.5 km (17 NM) between 10 degrees and 35 degrees from the front course line; and\n( c ) 18.5 km (10 NM) outside of plus or minus 35 degrees from the front course line if coverage is provided.\n(2) In all parts of the coverage volume specified in subregulation (1), other than as specified in subregulations (3), (4) and (5), the field strength shall not be less than 40 microvolts (Âµv) per metre (minus 114 dBW/m 2'>).\n(3) For Facility Performance Category I localizers, the minimum field strength on the ILS glide path and within the localizer course sector from a distance of 18.5 km (10 NM) to a height of 60 m (200 ft) above the horizontal plane containing the threshold shall hot be less than 90 Âµv per metre (minus 107 dBW/m 2'>).\n(4) For Facility Performance Category II localizers, the minimum field strength on the ILS glide path and within the localizer course sector shall—\n( a ) not be less than 100 Âµv per metre (minus 106 dBW/m 2'>) at a distance of 18.5 km (10 NM) increasing to not less than 200 Âµv per metre (minus 100 dBW/m 2'>); and\n( b ) at a height of 15 m (50 ft) above the horizontal plane containing the threshold.\n(5) For Facility Performance Category III localizers, the minimum field strength on the ILS glide path and within the localizer course sector shall—\n( a ) not be less than 100 Âµv per metre (minus 106 dBW/m 2'>) at a distance of 18.5 km (10 NM);\n( b ) not increase to less than 200 Âµv per metre (minus 100 dBW/m 2'>) at 6 m (20 ft) above the horizontal plane containing the threshold;\n( c ) from this point to a further point 4 m (12 ft) above the runway centre line, and 300 m (1 000 ft) from the threshold in the direction of the localizer; and\n( d ) thereafter at a height of 4 m (12 ft) along the length of the runway in the direction of the localizer, the field strength shall not be less than 100 Âµv per metre (minus 106 dBW/m 2'>)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aircraft-based augmentation system (ABAS)",
+      "definition": "an augmentation system that augments and/or integrates the information obtained from the other GNSS elements with information available on board the aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air navigation services facility",
+      "definition": "any facility used, available for use, or designed for use in aid of navigation of aircraft, including airports, landing fields, any structures, mechanisms, lights, beacons, marks, communicating systems, or other instruments or devices used or useful as an aid to the safe taking off, navigation, and landing of aircraft and any combination of such facilities",
+      "source_provision": "s2"
+    },
+    {
+      "term": "alert",
+      "definition": "an indication provided to other aircraft systems or annunciation to the pilot to identify that an operating parameter of a navigation system is out of tolerance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "alert limit",
+      "definition": "the error tolerance not to be exceeded without issuing an alert for a given parameter measurement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "altitude",
+      "definition": "the vertical distance of a level, a point or an object considered as a point, measured from mean sea level (MSL)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air navigation services provider",
+      "definition": "an entity established for the purpose of providing one or more of the air navigation services as defined in these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "angular displacement sensitivity",
+      "definition": "the ratio of measured DDM to the corresponding angular displacement from the appropriate reference line",
+      "source_provision": "s2"
+    },
+    {
+      "term": "antenna port",
+      "definition": "a point where the received signal power is specified. For an active antenna, the antenna port is a fictitious point between the antenna elements and the antenna pre-amplifier. For a passive antenna, the antenna port is the output of the antenna itself",
+      "source_provision": "s2"
+    },
+    {
+      "term": "area navigation",
+      "definition": "a method of navigation which permits aircraft operation on any desired flight path within the coverage of ground or space-based navigation aids or within the limits of the capability of self-contained aids, or a combination of these",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Civil Aviation Authority of Botswana established under the Civil Aviation Act (Cap. 70:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "average radius of rated coverage",
+      "definition": "the radius of a circle having the same area as the rated coverage",
+      "source_provision": "s2"
+    },
+    {
+      "term": "axial ratio",
+      "definition": "the ratio, expressed in decibels, between the maximum output power and the minimum output power of an antenna to an incident linearly polarised wave as the polarisation orientation is varied over all directions perpendicular to the direction of propagation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "back course sector",
+      "definition": "the course sector which is situated on the opposite side of the localizer from the runway",
+      "source_provision": "s2"
+    },
+    {
+      "term": "carrier energy",
+      "definition": "the average power supplied to the antenna transmission line by a transmitter during one radio frequency cycle under conditions of no modulation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate",
+      "definition": "the certificate for the provision of air navigation services issued by the Authority under the Civil Aviation (Certification of Air Navigation Services Providers) Regulations, 2021, Statutory No. 144 of 2021",
+      "source_provision": "s2"
+    },
+    {
+      "term": "channel of standard accuracy",
+      "definition": "the specified level of positioning, velocity and timing accuracy that is available to any GLONASS user on a continuous, worldwide basis",
+      "source_provision": "s2"
+    },
+    {
+      "term": "CNS",
+      "definition": "radio navigation aids, communication procedures including those with PANS (Procedures for Air Navigation Services), communication systems, surveillance and collision avoidance systems and aeronautical radio frequency spectrum utilisation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "control motion noise (CMN)",
+      "definition": "that portion of the guidance signal error which causes control surface, wheel and column motion and could affect aircraft attitude angle during coupled flight, but does not cause aircraft displacement from the desired course and/or glide path",
+      "source_provision": "s2"
+    },
+    {
+      "term": "core satellite constellation(s)",
+      "definition": "the GPS and GLONASS",
+      "source_provision": "s2"
+    },
+    {
+      "term": "course line",
+      "definition": "the locus of points nearest to the runway centre line in any horizontal plane at which the DDM is zero",
+      "source_provision": "s2"
+    },
+    {
+      "term": "coupling",
+      "definition": "the association of two circuits or systems in such a way that power may be transferred from one to the other",
+      "source_provision": "s2"
+    },
+    {
+      "term": "course sector",
+      "definition": "a sector in a horizontal plane containing the course line and limited by the loci of points nearest to the course line at which the DDM is 0.155",
+      "source_provision": "s2"
+    },
+    {
+      "term": "displacement sensitivity (localizer)",
+      "definition": "the ratio of measured DDM to the corresponding lateral displacement from the appropriate reference line",
+      "source_provision": "s2"
+    },
+    {
+      "term": "DME",
+      "definition": "Distance Measuring Equipment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dead time",
+      "definition": "a period immediately following the decoding of a valid interrogation during which a received interrogation will not cause a reply to be generated",
+      "source_provision": "s2"
+    },
+    {
+      "term": "DME/N",
+      "definition": "distance measuring equipment, primarily serving operational needs of en route or Terminal Control Area navigation, where the \"N\" stands for narrow spectrum characteristics",
+      "source_provision": "s2"
+    },
+    {
+      "term": "DME/P",
+      "definition": "the distance measuring element of the MLS, where the \"P\" stands for precise distance measurement. The spectrum characteristics are those of DME/N",
+      "source_provision": "s2"
+    },
+    {
+      "term": "effective adjacent channel rejection",
+      "definition": "the rejection that is obtained at the appropriate adjacent channel frequency when all relevant receiver tolerances have been taken into account",
+      "source_provision": "s2"
+    },
+    {
+      "term": "elevation",
+      "definition": "the vertical distance of a point or a level, on or affixed to the surface of the earth, measured from mean sea level",
+      "source_provision": "s2"
+    },
+    {
+      "term": "essential radio navigation service",
+      "definition": "a radio navigation service whose disruption has a significant impact on operations in the affected airspace or aerodrome",
+      "source_provision": "s2"
+    },
+    {
+      "term": "equivalent isotropically radiated power (EIRP)",
+      "definition": "the product of the power supplied to the antenna and the antenna gain in a given direction relative to an isotropic antenna (absolute or isotropic gain)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Facility Performance Category I – ILS",
+      "definition": "an ILS which provides guidance information from the coverage limit of the ILS to the point at which the localizer course line intersects the ILS glide path at a height of 60 metres (200 ft) or less above the horizontal plane containing the threshold",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Facility Performance Category II – ILS",
+      "definition": "an ILS which provides guidance information from the coverage limit of the ILS to the point at which the localizer course line intersects the ILS glide path at a height of 15 metres (50 ft) or less above the horizontal plane containing the threshold",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Facility Performance Category III – ILS",
+      "definition": "an ILS which, with the aid of ancillary equipment where necessary, provides guidance information from the coverage limit of the facility to, and along, the surface of the runway",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fan marker beacon",
+      "definition": "a type of radio beacon, the emissions of which radiate in a vertical fan-shaped pattern",
+      "source_provision": "s2"
+    },
+    {
+      "term": "final approach (FA) mode",
+      "definition": "the condition of DME/P operation which supports flight operations in the final approach and runway regions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "front course sector",
+      "definition": "the course sector which is situated on the same side of the localizer as the runway",
+      "source_provision": "s2"
+    },
+    {
+      "term": "GBAS/E",
+      "definition": "a ground-based augmentation system transmitting an elliptically-polarised VHF data broadcast",
+      "source_provision": "s2"
+    },
+    {
+      "term": "GBAS/H",
+      "definition": "a ground-based augmentation system transmitting a horizontally-polarised VHF data broadcast",
+      "source_provision": "s2"
+    },
+    {
+      "term": "global navigation satellite system (GNSS)",
+      "definition": "a worldwide position and time determination system that includes one or more satellite constellations, aircraft receivers and system integrity monitoring, augmented as necessary to support the require navigation performance for the intended operation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "global navigation satellite system (GLONASS)",
+      "definition": "the satellite navigation system operated by the Russian Federation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "GNSS position error",
+      "definition": "the difference between the true position and the position determined by the GNSS receiver",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ground-based augmentation system (GBAS)",
+      "definition": "an augmentation system in which the user receives augmentation information directly from a ground-based transmitter",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ground-based regional augmentation system (GRAS)",
+      "definition": "an augmentation system in which the user receives augmentation information directly from one of a group of ground-based transmitters covering a region",
+      "source_provision": "s2"
+    },
+    {
+      "term": "half course sector",
+      "definition": "the sector, in a horizontal plane containing the course line and limited by the loci of points nearest to the course line at which the DDM is 0.0775",
+      "source_provision": "s2"
+    },
+    {
+      "term": "height",
+      "definition": "the vertical distance of a level, a point or an object considered as a point, measured from a specified datum",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Human Factors Principles",
+      "definition": "principles which apply to design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ILS",
+      "definition": "an Instrument Landing System",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ILS glide path",
+      "definition": "that locus of points in the vertical plane containing the runway centre line at which the DDM is zero, which, of all such loci, is the closest to the horizontal plane",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ILS glide path angle",
+      "definition": "the angle between a straight line which represents the mean of the ILS glide path and the horizontal",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ILS glide path sector",
+      "definition": "the sector in the vertical plane containing the ILS glide path and limited by the loci of points nearest to the glide path at which the DDM is 0.175",
+      "source_provision": "s2"
+    },
+    {
+      "term": "initial approach (IA) mode",
+      "definition": "the condition of DME/P operation which supports those flight operations outside the final approach region and which is interoperable with DME/N",
+      "source_provision": "s2"
+    },
+    {
+      "term": "integrity",
+      "definition": "a measure of the trust that can be placed in the correctness of the information supplied by the total system and includes the ability of a system to provide timely and valid warnings to the user (alerts)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "key down time",
+      "definition": "the time during which a dot or dash of a Morse character is being transmitted",
+      "source_provision": "s2"
+    },
+    {
+      "term": "LF/MF",
+      "definition": "low frequency/medium frequency",
+      "source_provision": "s2"
+    },
+    {
+      "term": "locator",
+      "definition": "an LF/MF NDB used as an aid to final approach",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mode X, Y,",
+      "definition": "a method of coding the DME transmissions by time spacing pulses of a pulse pair, so that each frequency can be used more than once",
+      "source_provision": "s2"
+    },
+    {
+      "term": "NDB",
+      "definition": "a radio transmitter at a known location, used as a radio navigation aid",
+      "source_provision": "s2"
+    },
+    {
+      "term": "path following error (PFE)",
+      "definition": "that portion of the guidance signal error which could cause aircraft displacement from the desired course and/or glide path",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pseudo-range",
+      "definition": "the difference between the time of transmission by a satellite and reception by a GNSS receiver multiplied by the speed of light in a vacuum, including bias due to the difference between a GNSS receiver and satellite time reference",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pulse code",
+      "definition": "the method of differentiating between W, X, Y and Z modes and between FA and IA modes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pulse decay time",
+      "definition": "the time as measured between the 10 and 90 per cent amplitude points on the trailing edge of the pulse envelope",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pulse duration",
+      "definition": "the time interval between the 50 per cent amplitude point on leading and trailing edges of the pulse envelope",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pulse rise time",
+      "definition": "the time as measured between the 10 and 90 per cent amplitude points on the leading edge of the pulse envelope",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radio navigation service",
+      "definition": "a service providing guidance information or position data for the efficient and safe operation of aircraft supported by one or more radio navigation aids",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rated coverage",
+      "definition": "the area surrounding an NDB within which the strength of the vertical field of the ground wave exceeds the minimum value specified for the geographical area in which the radio beacon is situated",
+      "source_provision": "s2"
+    },
+    {
+      "term": "receiver",
+      "definition": "a subsystem that receives GNSS signals and includes one or more sensors",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reply efficiency",
+      "definition": "the ratio of replies transmitted by the transponder to the total of received valid interrogations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reserved (bits/words/fields)",
+      "definition": "bits/words/fields that are not allocated, but which are reserved for a particular GNSS application",
+      "source_provision": "s2"
+    },
+    {
+      "term": "search",
+      "definition": "the condition which exists when the DME interrogator is attempting to acquire and lock onto the response to its own interrogations from the selected transponder",
+      "source_provision": "s2"
+    },
+    {
+      "term": "satellite-based augmentation system (SBAS)",
+      "definition": "a wide coverage augmentation system in which the user receives augm",
+      "source_provision": "s2"
+    }
+  ]
+}

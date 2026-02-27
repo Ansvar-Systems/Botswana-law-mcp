@@ -1,0 +1,430 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-air-traffic-services-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (air Traffic Services) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (air Traffic Services) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-air-traffic-services-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Air Traffic Services) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n\"accident\" means an occurrence associated with the operation of an aircraft which, in the case of—\n( a ) a manned aircraft, takes place between the time any person boards the aircraft with the intention of flight until such time as all persons have disembarked; or\n( b ) an unmanned aircraft, takes place between the time the aircraft is ready to move with the purpose of flight until such time it comes to rest at the end of the flight and the primary propulsion system is shut down, in which—\n(i) a person is fatally or seriously injured as a result of—\n( aa ) being in the aircraft;\n( bb ) direct contact with any part of the aircraft, including a part which has become detached from the aircraft; or\n( cc ) direct exposure to jet blast,\nexcept where the injury is from a natural cause, self-inflicted or inflicted by another person, or where the injury is due to a stowaway hiding outside an area normally available to passengers and crew,\n(ii) the aircraft sustains damage structural failure which—\n( aa ) adversely affects the structural strength, performance or flight characteristics of the aircraft; and\n( bb ) would normally require major repair or replacement of the affected component, except for engine failure or damage, when the damage is limited to a single engine, and its cowlings and accessories, propellers, wing tips, antennas, probes, vanes, tires, brakes, wheels, fairings, panels, landing gear doors, windscreens, small dents or puncture holes, the aircraft skin, minor damages to main rotor blades, tail rotor blades, landing gear, and those resulting from hail or bird strike including holes in the radome; or\n( cc ) the aircraft is missing or is completely inaccessible;\n\"advisory airspace\" means an airspace of defined dimensions, or designated route, within which an air traffic advisory service is available;\n\"advisory route\" means a designated route along which an air traffic advisory service is available;\n\"aerodrome\" means a defined area on land or water including any buildings, installations and equipment intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft;\n\"aerodrome control service\" means an air traffic control service for aerodrome traffic;\n\"aerodrome control tower\" means a unit established to provide air traffic control service to aerodrome traffic;\n\"aerodrome traffic\" means traffic on the manoeuvring area of an aerodrome and all aircraft flying in the vicinity of an aerodrome;\n\"aeronautical fixed service (AFS)\" means a telecommunication service between specified fixed points provided primarily for the safety of air navigation and for the regular, efficient and economical operation of air services;\n\"Aeronautical Information Publication (AIP)\" means a publication issued by or with the authority of a State and containing aeronautical information of a lasting character essential to air navigation;\n\"aeronautical mobile service\" means a mobile service between an aeronautical station and an aircraft station, or between an aircraft station, in which survival craft stations may participate, emergency position-indicating radio beacon stations may also participate in this service on designated distress and emergency frequencies;\n\"aeronautical telecommunications station\" means a station in the aeronautical telecommunication service;\n\"Airborne Collision Avoidance System (ACAS)\" means an aircraft system based on Secondary Surveillance Radar (SSR) transponder signals which operates independently of ground based equipment to provide advice to the pilot on potential conflicting aircrafts that are equipped with SSR transponders;\n\"aircraft\" means any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface;\n\"air-ground communication\" means a two-way communication between an aircraft and a station or location on the surface of the earth;\n\"AIRMET information\" means information issued by a meteorological watch office concerning the occurrence or expected occurrence of specified en route weather phenomena which may affect the safety of low-level aircraft operations and which was not already included in the forecast issued for low-level flights in the flight information region concerned or sub-area thereof;\n\"air traffic\" means an aircraft in flight or operating on the manoeuvring area of an aerodrome;\n\"air traffic advisory service\" means a service provided within an advisory airspace to ensure separation, in so far as practical, between aircraft which are operating on IFR flight plans;\n\"ATC\" means Air Traffic Control;\n\"air traffic control clearance\" means authorisation for an aircraft to proceed under conditions specified by an air traffic control unit;\n\"air traffic controller schedule\" means a plan for allocating air traffic controller duty periods and non-duty periods over a period of time, otherwise referred to as a roster;\n\"air traffic control service (ATS)\" means a service provided—\n( a ) for the purpose of preventing collisions between aircrafts;\n( b ) on the manoeuvring area between aircraft and obstructions; and\n( c ) for the purpose of expediting and maintaining an orderly flow of air traffic;\n\"air traffic control unit\" means a generic term meaning variously, area control centre, approach control unit or aerodrome control tower;\n\"air traffic flow management (ATFM)\" means a service established with the objective of contributing to a safe, orderly and expeditious flow of air traffic by ensuring that ATC capacity is utilised to the maximum extent possible and that the traffic volume is compatible with the capacities declared by the appropriate ATS authority;\n\"air traffic service\" means a generic term meaning variously, flight information service, alerting service, air traffic advisory service, air traffic control service (area control service, approach control service or aerodrome control service);\n\"air traffic services reporting office\" means a unit established for the purpose of receiving reports concerning air traffic services and flight plans submitted before departure;\n\"air traffic services unit\" means a generic term meaning variously, air traffic control unit, flight information centre or air traffic services reporting office;\n\"airway\" means a control area or portion thereof established in the form of a corridor;\n\"ALERFA\" means the code word used to designate an alert phase;\n\"alerting service\" means a service provided to notify appropriate organisations regarding aircraft in need of search and rescue aid, and assist such organisations as required;\n\"alert phase\" means a situation wherein apprehension exists as to the safety of an aircraft and its occupants;\n\"alternate aerodrome\" means an aerodrome to which an aircraft may proceed when it becomes either impossible or inadvisable to proceed to or to land at the aerodrome of intended landing where the necessary services and facilities are available, where aircraft performance requirements can be met and which is operational at the expected time of use;\n\"altitude\" means the vertical distance of a level, a point or an object considered as a point, measured from mean sea level;\n\"Appeals Tribunal\" means the Appeals Tribunal established under section 79 of the Act;\n\"approach control service\" means air traffic control service for arriving or departing controlled flights;\n\"approach control unit\" means a unit established to provide air traffic control service to controlled flights arriving at, or departing from, one or more aerodromes;\n\"appropriate ATS authority\" means the relevant authority designated by the State responsible for providing air traffic services in the airspace concerned;\n\"apron\" means a defined area on a land aerodrome, intended to accommodate an aircraft for purposes of loading or unloading passengers, mail or cargo, fuelling, parking or maintenance;\n\"apron management service\" means a service provided to regulate the activities and the movement of aircraft and vehicles on an apron;\n\"area control centre\" means a unit established to provide air traffic control service to a controlled flight in a control area under the unit's jurisdiction;\n\"area control service\" means air traffic control service for a controlled flight in a control area;\n\"area navigation (RNAV)\" means a method of navigation which permits aircraft operation on any desired flight path within the coverage of ground or space-based navigation aids or within the limits of the capability of self- contained aids, or a combination of these;\n\"area navigation route\" means an ATS route established for the use of an aircraft capable of employing area navigation;\n\"ATS route\" means a specified route designed for channeling the flow of traffic as necessary for the provision of air traffic services;\n\"Automatic Dependent Surveillance-Broadcast (ADS-B)\" means a means by which an aircraft, aerodrome vehicles and other objects can automatically transmit or receive data such as identification, position and additional data, as appropriate, in a broadcast mode via a data link;\n\"Automatic Dependent Surveillance-Contract (ADS-C)\" means a means by which the terms of an ADS-C agreement is exchanged between the ground system and the aircraft, via a data link, specifying under what conditions ADS-C reports would be initiated, and what data would be contained in the reports;\n\"Automatic Terminal Information Service (ATIS)\" means the automatic provision of current routine information to an arriving or departing aircraft throughout 24 hours or a specified portion thereof;\n\"base turn\" means a turn executed by an aircraft during the initial approach between the end of the outbound track and the beginning of the intermediate or final approach track;\n\"calendar\" means a discrete temporal reference system that provides the basis for defining temporal position to a resolution of one day;\n\"change-over point\" means the point at which an aircraft navigating on an ATS route segment defined by reference to very high frequency omni-directional radio ranges is expected to transfer its primary navigational reference from the facility behind the aircraft to the next facility ahead of the aircraft;\n\"clearance limit\" means the point to which an aircraft is granted an air traffic control clearance;\n\"conference communications\" means communication facilities whereby direct speech conversation may be conducted between three or more locations simultaneously;\n\"control area\" means a controlled airspace extending upwards from a specified limit above the earth;\n\"controlled aerodrome\" means an aerodrome at which air traffic control service is provided to aerodrome traffic;\n\"controlled airspace\" means an airspace of defined dimensions within which an air traffic control service is provided in accordance with the airspace classification;\n\"controlled flight\" means any flight which is subject to an air traffic control clearance;\n\"Controller-Pilot Data Link Communications (CPDLC)\" means a means of communication between a controller and a pilot, using data link for ATC communications;\n\"control zone\" means a controlled airspace extending upwards from the surface of the earth to a specified upper limit;\n\"cruising level\" means a level maintained during a significant portion of a flight;\n\"danger area\" means an airspace of defined dimensions within which an activity dangerous to a flight of aircraft may exist at a specified time;\n\"Data link-Automatic Terminal Information Service (D-ATIS)\" means the provision of ATIS through data link;\n\"data link communications\" means a form of communication intended for the exchange of messages via a data link;\n\"Data-link VOLMET (D-VOLMET)\" means provision of current aerodrome routine meteorological reports and aerodrome special meteorological reports, aerodrome forecasts, SIGMET, special air-reports not covered by a SIGMET and where available, AIRMET via data link;\n\"datum\" means"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Regulations shall apply to any person providing air traffic services within a designated air space and at an aerodrome registered in Botswana."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II General Provisions (regs 4-43)",
+      "section": "4",
+      "title": "Air Navigation Services Provider Certificate",
+      "content": "4. Air Navigation Services Provider Certificate\nA person who wishes to provide air traffic services shall have an Air Navigation Services Provider Certificate issued in accordance with the Civil Aviation (Air Navigation Services) Regulations (Cap. 71:01 (Sub. Leg.))."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II General Provisions (regs 4-43)",
+      "section": "5",
+      "title": "Establishment of air traffic services provider",
+      "content": "5. Establishment of air traffic services provider\n(1) The Authority shall determine, those portions of an airspace and those aerodromes where air traffic services shall be provided including territories over which the Authority has jurisdiction.\n(2) Air traffic services shall be provided in accordance with these Regulations, except that by mutual agreement, the Authority may delegate to another State the responsibility for establishing and providing air traffic services in flight information regions, control areas or control zones extending over the territory of Botswana.\n(3) The portion of the airspace of undetermined sovereignty where air traffic services are provided shall be determined on the basis of a regional air navigation agreement.\n(4) Where Botswana has accepted the responsibility to provide air traffic services in such portions of airspace referred to under subregulation (3), the Authority shall arrange for such services to be established and provided in accordance with these Regulations.\n(5) Where it has been determined that air traffic services will be provided, the Authority shall designate the air navigation services provider to be responsible for providing such services.\n(6) Where air traffic services are established, information shall be published in the AIP, as necessary to permit the utilisation of such services."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II General Provisions (regs 4-43)",
+      "section": "6",
+      "title": "Objectives of air traffic services",
+      "content": "6. Objectives of air traffic services\nThe objectives of the air traffic services shall be to—\n( a ) prevent collisions between aircraft;\n( b ) prevent collisions between aircraft on the manoeuvring area and obstructions on that area;\n( c ) expedite and maintain an orderly flow of air traffic;\n( d ) provide advice and information useful for the safe and efficient conduct of flights; and\n( e ) notify appropriate organisations regarding aircraft in need of search and rescue aid, and assist such organisations as required."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II General Provisions (regs 4-43)",
+      "section": "7",
+      "title": "Divisions of air traffic services",
+      "content": "7. Divisions of air traffic services\nAir traffic services provided for the purpose of these Regulations shall comprise of the—\n( a ) air traffic control service;\n( b ) area control service;\n( c ) approach control service;\n( d ) aerodrome control service;\n( e ) flight information service; and\n( f ) alerting service."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II General Provisions (regs 4-43)",
+      "section": "8",
+      "title": "Determination of need for air traffic services",
+      "content": "8. Determination of need for air traffic services\n(1) The need for the provision of air traffic services shall be determined by consideration of the following—\n( a ) the types of air traffic involved;\n( b ) the density of air traffic;\n( c ) the meteorological conditions; and\n( d ) such other factors as may be relevant.\n(2) The requirement for an aircraft to carry ACAS whilst flying in a given area shall not be considered as a factor in determining the need for air traffic services in that area."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II General Provisions (regs 4-43)",
+      "section": "9",
+      "title": "Designation of portions of airspace and controlled aerodromes where air traffic services are provided",
+      "content": "9. Designation of portions of airspace and controlled aerodromes where air traffic services are provided\n(1) Where it has been determined that air traffic services shall be provided in particular portions of an airspace or at a particular aerodrome, the portions of the airspace or the aerodromes shall be designated in relation to the air traffic services that are to be provided.\n(2) The designation of the particular portions of the airspace or aerodromes shall be—\n( a ) light information regions, portions of the airspace where it is determined that flight information service and alerting service will be provided, shall be designated as flight information regions;\n( b ) control areas and control zones—\n(i) portions of the airspace where it is determined that air traffic control services are provided to IFR flights shall be designated as control areas or control zones,\n(ii) portions of controlled airspace wherein it is determined that air traffic control services are also provided to VFR flights shall be designated as Classes B, C, or F airspace, and\n(iii) where designated within a flight information region, control areas and control zones shall form part of that flight information region;\n( c ) controlled aerodromes and such aerodromes where it is determined that air traffic control services are provided to aerodrome traffic shall be designated as controlled aerodromes;\n( d ) reduced vertical separation minima airspace;\n( e ) a sector, if the Authority considers such a designation is necessary to facilitate the provision of air traffic services within the flight information region; and\n( f ) air traffic services routes and significant points along the routes.\n(3) The Authority may designate portions of the airspace as special use airspace if it considers such airspace necessary in the interest of safety or national security or for any other reasons in the public interest.\n(4) Subject to subregulation (3), a special use airspace may be designated as—\n( a ) restricted area;\n( b ) prohibited area;\n( c ) danger area;\n( d ) low flying zone; and\n( e ) flight training area.\n(5) The lateral limits of the airspaces designated under this regulation shall be defined by—\n( a ) WGS-84 geographical co-ordinates; or\n( b ) the prominent geographical lines, circles or any part of a circle of a specified radius or great circle between two points or a parallel of latitude.\n(6) The vertical limits of airspaces designated under these Regulations shall be defined by heights, altitudes or flights levels.\n(7) The Authority shall publish the designation of particular portions of the airspace in the relevant aeronautical publications."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II General Provisions (regs 4-43)",
+      "section": "10",
+      "title": "Classification of airspaces",
+      "content": "10. Classification of airspaces\n(1) The Authority shall classify designated controlled airspace as set out in Schedule 1.\n(2) The Authority shall select airspace classes in accordance with the needs of the State.\n(3) The requirements for flights within each class of airspace shall be as set out in the table in Schedule 1."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II General Provisions (regs 4-43)",
+      "section": "11",
+      "title": "Performance-Based Navigation (PBN) operations",
+      "content": "11. Performance-Based Navigation (PBN) operations\n(1) The navigation specifications for PBN within the Gaborone Flight Information Region shall be in accordance with subregulation (2).\n(2) PBN specifications shall be as follows—\n( a ) RNAV 5 and RNAV 2 for en route continental ATS routes;\n( b ) RNAV 1 and RNP 1 for terminal area arrival or departure; and\n( c ) RNP APCH with (Bavo-RNAV), APV and LNAV for approach.\n(3) An ATS provider shall implement Performance-Based Navigation within designated airspaces and aerodromes in accordance with the set specifications."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II General Provisions (regs 4-43)",
+      "section": "12",
+      "title": "Performance-Based Communication (PBC) operations",
+      "content": "12. Performance-Based Communication (PBC) operations\n(1) The Authority shall determine RCP specifications when applying Performance-Based Communication (PBC).\n(2) Where applicable, the RCP specifications shall be determined on the basis of regional air navigation agreements.\n(3) The RCP specification shall be appropriate to the air traffic services provided in the Gaborone Flight Information Region."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II General Provisions (regs 4-43)",
+      "section": "13",
+      "title": "Performance-Based Surveillance (PSB) operations",
+      "content": "13. Performance-Based Surveillance (PSB) operations\n(1) The Authority shall determine RSP specifications when applying Performance-Based Surveillance (PBS).\n(2) Where applicable, the RSP specification shall be determined on the basis of regional air navigation agreements.\n(3) The RSP specification shall be appropriate to the air traffic services provided.\n(4) The ATS units shall be provided with equipment capable of performance consistent with the RSP specifications where applicable."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART II General Provisions (regs 4-43)",
+      "section": "14",
+      "title": "Establishment and designation of units providing air traffic services",
+      "content": "14. Establishment and designation of units providing air traffic services\nThe air traffic services shall be provided by units established and designated as follows—\n( a ) flight information established to provide flight information service and alerting service within flight information regions, unless the responsibility of providing such services within a flight information region is assigned to an air traffic control unit having adequate facilities for the discharge of such responsibility; or\n( b ) air traffic control units established to provide air traffic control services, flight information service and alerting service within control areas, control zones and at controlled aerodromes."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART II General Provisions (regs 4-43)",
+      "section": "15",
+      "title": "Specifications for flight information regions, control areas and control zones",
+      "content": "15. Specifications for flight information regions, control areas and control zones\n(1) The delineation of airspace, wherein air traffic services are to be provided, shall be related to the nature of the route structure and the need for efficient service rather than to national boundaries.\n(2) A flight information region shall—\n( a ) be delineated to cover the whole of the air route structure to be served by such regions; and\n( b ) include all airspace within the flight information region's lateral limits except as limited by an upper flight information region.\n(3) Where a flight information region is limited by an upper flight information region, the lower limit specified for the upper flight information region shall constitute the upper vertical limit of the flight information region and shall coincide with a VFR cruising level of the tables as set out in Schedule 1 to the Civil Aviation (Rules of the Air) Regulations (Cap. 71:01 (Sub. Leg.)).\n(4) A control area including, inter alia , airways and terminal control areas, shall be delineated so as to encompass sufficient airspace to contain the flight paths of IFR flights or portions thereof to which it is desired to provide the applicable parts of the air traffic control service, taking into account the capabilities of the navigation aids normally used in that area.\n(5) A lower limit of a control area shall be established at a height above the ground or water of not less than 200 m (700 ft).\n(6) The lower limit of a control area shall, when practicable and desirable in order to allow freedom of action for VFR flights below the control area, be established at a greater height than the minimum specified in subregulation (5).\n(7) When the lower limit of a control area is above 900 m (3 000 ft) Mean Sea Level (MSL) it shall coincide with a VFR cruising level of the table as set out in Schedule 1 to the Civil Aviation (Rules of the Air) Regulations.\n(8) An upper limit of a control area shall be established when either—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accident",
+      "definition": "an occurrence associated with the operation of an aircraft which, in the case of—\n( a ) a manned aircraft, takes place between the time any person boards the aircraft with the intention of flight until such time as all persons have disembarked",
+      "source_provision": "s2"
+    },
+    {
+      "term": "advisory airspace",
+      "definition": "an airspace of defined dimensions, or designated route, within which an air traffic advisory service is available",
+      "source_provision": "s2"
+    },
+    {
+      "term": "advisory route",
+      "definition": "a designated route along which an air traffic advisory service is available",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome",
+      "definition": "a defined area on land or water including any buildings, installations and equipment intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome control service",
+      "definition": "an air traffic control service for aerodrome traffic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome control tower",
+      "definition": "a unit established to provide air traffic control service to aerodrome traffic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aerodrome traffic",
+      "definition": "traffic on the manoeuvring area of an aerodrome and all aircraft flying in the vicinity of an aerodrome",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical fixed service (AFS)",
+      "definition": "a telecommunication service between specified fixed points provided primarily for the safety of air navigation and for the regular, efficient and economical operation of air services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Aeronautical Information Publication (AIP)",
+      "definition": "a publication issued by or with the authority of a State and containing aeronautical information of a lasting character essential to air navigation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical mobile service",
+      "definition": "a mobile service between an aeronautical station and an aircraft station, or between an aircraft station, in which survival craft stations may participate, emergency position-indicating radio beacon stations may also participate in this service on designated distress and emergency frequencies",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aeronautical telecommunications station",
+      "definition": "a station in the aeronautical telecommunication service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Airborne Collision Avoidance System (ACAS)",
+      "definition": "an aircraft system based on Secondary Surveillance Radar (SSR) transponder signals which operates independently of ground based equipment to provide advice to the pilot on potential conflicting aircrafts that are equipped with SSR transponders",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft",
+      "definition": "any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air-ground communication",
+      "definition": "a two-way communication between an aircraft and a station or location on the surface of the earth",
+      "source_provision": "s2"
+    },
+    {
+      "term": "AIRMET information",
+      "definition": "information issued by a meteorological watch office concerning the occurrence or expected occurrence of specified en route weather phenomena which may affect the safety of low-level aircraft operations and which was not already included in the forecast issued for low-level flights in the flight information region concerned or sub-area thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic",
+      "definition": "an aircraft in flight or operating on the manoeuvring area of an aerodrome",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic advisory service",
+      "definition": "a service provided within an advisory airspace to ensure separation, in so far as practical, between aircraft which are operating on IFR flight plans",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ATC",
+      "definition": "Air Traffic Control",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic control clearance",
+      "definition": "authorisation for an aircraft to proceed under conditions specified by an air traffic control unit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic controller schedule",
+      "definition": "a plan for allocating air traffic controller duty periods and non-duty periods over a period of time, otherwise referred to as a roster",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic control service (ATS)",
+      "definition": "a service provided—\n( a ) for the purpose of preventing collisions between aircrafts",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic control unit",
+      "definition": "a generic term meaning variously, area control centre, approach control unit or aerodrome control tower",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic flow management (ATFM)",
+      "definition": "a service established with the objective of contributing to a safe, orderly and expeditious flow of air traffic by ensuring that ATC capacity is utilised to the maximum extent possible and that the traffic volume is compatible with the capacities declared by the appropriate ATS authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic service",
+      "definition": "a generic term meaning variously, flight information service, alerting service, air traffic advisory service, air traffic control service (area control service, approach control service or aerodrome control service)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic services reporting office",
+      "definition": "a unit established for the purpose of receiving reports concerning air traffic services and flight plans submitted before departure",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic services unit",
+      "definition": "a generic term meaning variously, air traffic control unit, flight information centre or air traffic services reporting office",
+      "source_provision": "s2"
+    },
+    {
+      "term": "airway",
+      "definition": "a control area or portion thereof established in the form of a corridor",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ALERFA",
+      "definition": "the code word used to designate an alert phase",
+      "source_provision": "s2"
+    },
+    {
+      "term": "alerting service",
+      "definition": "a service provided to notify appropriate organisations regarding aircraft in need of search and rescue aid, and assist such organisations as required",
+      "source_provision": "s2"
+    },
+    {
+      "term": "alert phase",
+      "definition": "a situation wherein apprehension exists as to the safety of an aircraft and its occupants",
+      "source_provision": "s2"
+    },
+    {
+      "term": "alternate aerodrome",
+      "definition": "an aerodrome to which an aircraft may proceed when it becomes either impossible or inadvisable to proceed to or to land at the aerodrome of intended landing where the necessary services and facilities are available, where aircraft performance requirements can be met and which is operational at the expected time of use",
+      "source_provision": "s2"
+    },
+    {
+      "term": "altitude",
+      "definition": "the vertical distance of a level, a point or an object considered as a point, measured from mean sea level",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Appeals Tribunal",
+      "definition": "the Appeals Tribunal established under section 79 of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approach control service",
+      "definition": "air traffic control service for arriving or departing controlled flights",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approach control unit",
+      "definition": "a unit established to provide air traffic control service to controlled flights arriving at, or departing from, one or more aerodromes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appropriate ATS authority",
+      "definition": "the relevant authority designated by the State responsible for providing air traffic services in the airspace concerned",
+      "source_provision": "s2"
+    },
+    {
+      "term": "apron",
+      "definition": "a defined area on a land aerodrome, intended to accommodate an aircraft for purposes of loading or unloading passengers, mail or cargo, fuelling, parking or maintenance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "apron management service",
+      "definition": "a service provided to regulate the activities and the movement of aircraft and vehicles on an apron",
+      "source_provision": "s2"
+    },
+    {
+      "term": "area control centre",
+      "definition": "a unit established to provide air traffic control service to a controlled flight in a control area under the unit's jurisdiction",
+      "source_provision": "s2"
+    },
+    {
+      "term": "area control service",
+      "definition": "air traffic control service for a controlled flight in a control area",
+      "source_provision": "s2"
+    },
+    {
+      "term": "area navigation (RNAV)",
+      "definition": "a method of navigation which permits aircraft operation on any desired flight path within the coverage of ground or space-based navigation aids or within the limits of the capability of self- contained aids, or a combination of these",
+      "source_provision": "s2"
+    },
+    {
+      "term": "area navigation route",
+      "definition": "an ATS route established for the use of an aircraft capable of employing area navigation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ATS route",
+      "definition": "a specified route designed for channeling the flow of traffic as necessary for the provision of air traffic services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Automatic Dependent Surveillance-Broadcast (ADS-B)",
+      "definition": "a means by which an aircraft, aerodrome vehicles and other objects can automatically transmit or receive data such as identification, position and additional data, as appropriate, in a broadcast mode via a data link",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Automatic Dependent Surveillance-Contract (ADS-C)",
+      "definition": "a means by which the terms of an ADS-C agreement is exchanged between the ground system and the aircraft, via a data link, specifying under what conditions ADS-C reports would be initiated, and what data would be contained in the reports",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Automatic Terminal Information Service (ATIS)",
+      "definition": "the automatic provision of current routine information to an arriving or departing aircraft throughout 24 hours or a specified portion thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "base turn",
+      "definition": "a turn executed by an aircraft during the initial approach between the end of the outbound track and the beginning of the intermediate or final approach track",
+      "source_provision": "s2"
+    },
+    {
+      "term": "calendar",
+      "definition": "a discrete temporal reference system that provides the basis for defining temporal position to a resolution of one day",
+      "source_provision": "s2"
+    },
+    {
+      "term": "change-over point",
+      "definition": "the point at which an aircraft navigating on an ATS route segment defined by reference to very high frequency omni-directional radio ranges is expected to transfer its primary navigational reference from the facility behind the aircraft to the next facility ahead of the aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clearance limit",
+      "definition": "the point to which an aircraft is granted an air traffic control clearance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conference communications",
+      "definition": "communication facilities whereby direct speech conversation may be conducted between three or more locations simultaneously",
+      "source_provision": "s2"
+    },
+    {
+      "term": "control area",
+      "definition": "a controlled airspace extending upwards from a specified limit above the earth",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled aerodrome",
+      "definition": "an aerodrome at which air traffic control service is provided to aerodrome traffic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled airspace",
+      "definition": "an airspace of defined dimensions within which an air traffic control service is provided in accordance with the airspace classification",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled flight",
+      "definition": "any flight which is subject to an air traffic control clearance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Controller-Pilot Data Link Communications (CPDLC)",
+      "definition": "a means of communication between a controller and a pilot, using data link for ATC communications",
+      "source_provision": "s2"
+    },
+    {
+      "term": "control zone",
+      "definition": "a controlled airspace extending upwards from the surface of the earth to a specified upper limit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cruising level",
+      "definition": "a level maintained during a significant portion of a flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "danger area",
+      "definition": "an airspace of defined dimensions within which an activity dangerous to a flight of aircraft may exist at a specified time",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Data link-Automatic Terminal Information Service (D-ATIS)",
+      "definition": "the provision of ATIS through data link",
+      "source_provision": "s2"
+    },
+    {
+      "term": "data link communications",
+      "definition": "a form of communication intended for the exchange of messages via a data link",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Data-link VOLMET (D-VOLMET)",
+      "definition": "provision of current aerodrome routine meteorological reports and aerodrome special meteorological reports, aerodrome forecasts, SIGMET, special air-reports not covered by a SIGMET and where available, AIRMET via data link",
+      "source_provision": "s2"
+    }
+  ]
+}

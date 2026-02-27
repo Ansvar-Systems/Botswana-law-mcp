@@ -1,0 +1,68 @@
+{
+  "id": "bw-act-refugees-recognition-and-control",
+  "type": "statute",
+  "title": "Refugees (recognition and Control)",
+  "title_en": "Refugees (recognition and Control)",
+  "short_name": "Refugees (recognition and C...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/refugees-recognition-and-control",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Refugees (Recognition and Control) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act, unless the context otherwise requires—\n\"Committee\" means a Refugee Advisory Committee established under section 3;\n\"Convention\" means the United Nations Convention Relating to the Status of Refugees of the 28th July, 1951, as amended from time to time by any international agreement; but does not include any provisions thereof not binding under public international law upon the Republic;\n\"immigrant\" means any person in Botswana other than a citizen of Botswana;\n\"political refugee\" has the meaning assigned thereto in the Schedule;\n\"recognised refugee\" means an immigrant whom the Minister has declared in terms of section 8(1) that he recognises as a political refugee;\n\"removed from Botswana\" does not include deportation in terms of section 25 of the Immigration Act (Cap. 25:02).\n(2) Subject to the provisions of subsection (1), and unless the context otherwise requires, any word or expression defined in the Immigration Act shall bear the same meaning in this Act as in the Immigration Act."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Establishment of Refugee Advisory Committees",
+      "content": "3. Establishment of Refugee Advisory Committees\n(1) The Minister may, by order published in the Gazette , establish one or more Refugee Advisory Committees to carry out the functions conferred on such Committees by or under this Act.\n(2) A Committee shall consist of a chairman and not less than two, nor more than four, other members."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Refugees",
+      "section": "4",
+      "title": "Inquiry by Committee",
+      "content": "4. Inquiry by Committee\n(1) Unless the Minister otherwise directs, a Committee shall hold an inquiry into the case of any immigrant who on presenting himself to an immigration officer in terms of section 4 of the Immigration Act claims to be a political refugee."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Committee",
+      "definition": "a Refugee Advisory Committee established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Convention",
+      "definition": "the United Nations Convention Relating to the Status of Refugees of the 28th July, 1951, as amended from time to time by any international agreement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "immigrant",
+      "definition": "any person in Botswana other than a citizen of Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "political refugee",
+      "definition": "assigned thereto in the Schedule",
+      "source_provision": "s2"
+    },
+    {
+      "term": "recognised refugee",
+      "definition": "an immigrant whom the Minister has declared in terms of section 8(1) that he recognises as a political refugee",
+      "source_provision": "s2"
+    }
+  ]
+}

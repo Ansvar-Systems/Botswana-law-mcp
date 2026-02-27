@@ -1,0 +1,26 @@
+{
+  "id": "bw-act-explosives",
+  "type": "statute",
+  "title": "Explosives",
+  "title_en": "Explosives",
+  "short_name": "Explosives",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/explosives",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Explosives Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context requires—\n\"explosives\" means—\n( a ) nitroglycerine, dynamite, guncotton, blasting powders, fulminate of mercury or of other metals, coloured fires, and every other substance or mixture which is used or manufactured with a view to producing a practical effort of explosion or a pyrotechnic effect;\n( b ) any fuse, rocket, detonator, cartridge, and every adaptation or preparation of any explosive as herein defined;\n( c ) any other substance which the President may by regulation, made under section 4 declare to be an explosive;"
+    }
+  ],
+  "definitions": []
+}

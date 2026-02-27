@@ -1,0 +1,79 @@
+{
+  "id": "bw-act-forensic-procedures",
+  "type": "statute",
+  "title": "Forensic Procedures",
+  "title_en": "Forensic Procedures",
+  "short_name": "Forensic Procedures",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/forensic-procedures",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Forensic Procedures Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"authorised applicant\" means—\n( a ) the police officer in charge of a police station;\n( b ) the police officer investigating the crime in relation to which the forensic procedure is required; or\n( c ) the Director of Public Prosecutions;\n\"authorised person\" means—\n( a ) a person registered as a medical practitioner or health care professional under the Cap. 61:02 Botswana Health Professions Act;\n( b ) scene of crime officer;\n( c ) forensic officer;\n( d ) wildlife expert; or\n( e ) any other expert who collects forensic material;\n\"Board\" means the National DNA Database Advisory Board of Botswana established under section 23;\n\"Commissioner\" means the Commissioner of Police;\n\"consent\" means informed consent;\n\"child\" means a person under the age of 18 years;\n\"DNA\" means Deoxyribonucleic acid;\n\"forensic material\" means—\n( a ) a sample taken from—\n(i) a person’s body,\n(ii) a crime scene,\n(iii) items linked to a crime, or\n(iv) a scene or items linked to a scene\n( b ) a handprint, fingerprint, footprint or toe-print taken of a person from a crime scene or items linked to the crime or any other place linked to the matter under investigation;\n( c ) a photograph or video recording of—\n(i) a person at a crime scene or any other scene,\n(ii) a crime scene or any other scene,\n(iii) items linked to the crime or any matter under investigation, or\n(iv) items linked to the crime scene or any other scene;\n( d ) an audio recording; or\n( e ) a cast or impression taken from a person;\n\"forensic procedure\" means any process or action necessary for, and related to the collection of forensic material;\n\"intimate forensic procedure\" means—\n( a ) an external examination of the—\n(i) genital area,\n(ii) anal area,\n(iii) buttocks, or\n(iv) breasts, in the case of a female;\n( b ) the internal examination of any part of the body;\n( c ) the taking of a sample of blood or urine;\n( d ) the taking of a sample of pubic hair;\n( e ) the taking from a corpse a sample of—\n(i) tissue,\n(ii) the liver,\n(iii) the kidney,\n(iv) the heart,\n(v) the lungs,\n(vi) the brain, or\n(vii) any other internal organ;\n( f ) the taking of a sample by swab or washing from the—\n(i) genital area,\n(ii) anal area, or\n(iii) buttocks;\n( g ) the taking of a sample by—\n(i) vacuum suction,\n(ii) scraping, or\n(iii) lifting by tape,\nfrom the genital area, anal area or buttocks\n( h ) the taking of a dental impression; or\n( i ) the taking of a photograph of, or an impression or cast of, a wound from—\n(i) the genital area,\n(ii) the anal area,\n(iii) the buttocks, or\n(iv) the breasts, in the case of a female;\n\"incapable person\" means a person who is unable to give consent for the performance of a forensic procedure on his or her body because of immaturity or unsoundness of mind;\n\"investigating officer\" means the police officer in charge of an investigation into the commission of an offence in relation to which a forensic procedure is carried out or proposed to be carried out;\n\"member\" means member of the Board appointed in accordance with section 30;\n\"non-intimate forensic procedure\" means—\n( a ) an examination of any part of the body, other than—\n(i) the genital area,\n(ii) the anal area,\n(iii) the buttocks, or\n(iv) the breasts, in the case of a female,\nthat requires touching of the body or the removal of clothing;\n( b ) the taking of fingerprints;\n( c ) the taking of a sample—\n(i) of hair other than pubic hair,\n(ii) from a nail or under a nail,\n(iii) of saliva or a sample by buccal swab,\n(iv) by vacuum suction,\n(v) by scraping or by lifting by tape from any external part of the body, other than the genital or anal areas, the buttocks or, the breasts, in the case of a female; or\n(vi) by swab or washing from any external part of the body, other than the genital area, the anal area, the buttocks, or the breasts, in the case of a female; or\n( d ) the taking of a photograph of, or an impression or cast of a wound from, any part of the body other than—\n(i) the genital area,\n(ii) the anal area,\n(iii) the buttocks, or\n(iv) the breasts, in the case of a female;\n\"serious offender\" means a person who is charged with an offence which is punishable by—\n( a ) a term of imprisonment of three or more years;\n( b ) imprisonment for life; or\n( b ) death;\n\"suspect\" means—\n( a ) a person who is charged with an offence;\n( b ) a child or incapable person charged with an offence;\n( c ) a person who is summoned to appear before a court for an offence under this Act; or\n( d ) a person who is believed on reasonable grounds to have committed an offence; and\n\"volunteer\" means—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the National DNA Database Advisory Board of Botswana established under section 23",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "the Commissioner of Police",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consent",
+      "definition": "informed consent",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child",
+      "definition": "a person under the age of 18 years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "DNA",
+      "definition": "Deoxyribonucleic acid",
+      "source_provision": "s2"
+    },
+    {
+      "term": "forensic procedure",
+      "definition": "any process or action necessary for, and related to the collection of forensic material",
+      "source_provision": "s2"
+    },
+    {
+      "term": "incapable person",
+      "definition": "a person who is unable to give consent for the performance of a forensic procedure on his or her body because of immaturity or unsoundness of mind",
+      "source_provision": "s2"
+    },
+    {
+      "term": "investigating officer",
+      "definition": "the police officer in charge of an investigation into the commission of an offence in relation to which a forensic procedure is carried out or proposed to be carried out",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "member of the Board appointed in accordance with section 30",
+      "source_provision": "s2"
+    },
+    {
+      "term": "serious offender",
+      "definition": "a person who is charged with an offence which is punishable by—\n( a ) a term of imprisonment of three or more years",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "bw-act-registration-of-business-names",
+  "type": "statute",
+  "title": "Registration of Business Names",
+  "title_en": "Registration of Business Names",
+  "short_name": "Registration of Business Names",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/registration-of-business-names",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Registration of Business Names Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act, unless the context otherwise requires—\n\"beneficial owner\" means a natural person who, directly or indirectly through any contract, arrangement, understanding, relationship or otherwise, is the ultimately owns or has a controlling ownership or exercises ultimate effective control over an individual or exercises such control through positions held in a firm or body corporate or is the ultimate beneficiary of a share or other securities held by the individual, firm or body corporate;\n[ Act 14 of 2019, s. 2. ]\n\"body corporate\" includes an external company as defined in the Companies Act (Cap. 42:01), but does not include a corporation sole;\n\"business\" includes business of trade, occupation or profession established for the acquisition of gain and carried on by any person, body corporate, association, syndicate, or partnership, or by the individual members of any body corporate, association, syndicate, or partnership;\n\"business name\" means the name, title, description or style under which any business is carried on, whether in partnership or otherwise;\n\"firm\" means an incorporated body of one or more individuals who have entered into partnership with one another with a view to carrying on business for profit and may include societies registered in terms of the Societies Act (Cap. 18:01) and co-operatives registered in terms of the Co-operatives Societies Act (Cap. 42:04);\n\"foreign concern\" means any firm, individual or body corporate, whose principal place of business is not situated within Botswana;\n\"individual\" means a natural person and does not include a body corporate;\n\"initials\" includes any recognised abbreviation of a forename;\n\"register\" means the register which the Companies and Business Names Office is required to keep under section 20( b ) of the Companies and Intellectual Property Authority Act (Cap. 42:13);\n\"Registrar\" means the Registrar of Companies and Business Names appointed under section 25(1)( a ) of the Companies and Intellectual Property Authority Act (Cap. 42:13).\n(2) References in this Act to a change of name do not include a change of name which has taken place before the person whose name has been changed attained the age of 18 years."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Business names to be registered",
+      "content": "3. Business names to be registered\n(1) Subject to the provisions of this Act, every firm, body corporate or individual having a place of business in Botswana and carrying on business under a business name shall be registered in the manner required by this Act.\n(2) Where the business is carried on by a trustee in bankruptcy or manager appointed by any court, registration shall not be necessary.\n(3) Where a name or full name of an individual is used as part of the business name, another word or suffix shall be added to the name, to differentiate the business name from the name of the individual.\n(4) A purchase or acquisition of property by two or more persons as joint owners shall not be construed as carrying on of a business, whether or not the owners share any profits arising from the sale thereof."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application for reservation of name",
+      "content": "4. Application for reservation of name\n(1) The Registrar shall, on written application by the applicant, reserve a name pending the registration of a business name or the change of a name of an existing business; and such reservation shall be for a period of 30 days.\n(2) An application for the reservation of the name of a business shall be made to the Registrar in the prescribed form.\n(3) The Registrar may not reserve a name and no business may be registered by a name—\n( a ) the use of which will contravene the Banking Act (Cap. 46:01) or any other enactment;\n( b ) that is identical or almost identical to, the name of a registered business or a registered foreign concern or a body corporate, or a name registered under the Companies Act (Cap. 42:01), unless the registered business or registered foreign concern is in liquidation or insolvency and signifies in such manner as the Registrar may require, its consent to the registration;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "beneficial owner",
+      "definition": "a natural person who, directly or indirectly through any contract, arrangement, understanding, relationship or otherwise, is the ultimately owns or has a controlling ownership or exercises ultimate effective control over an individual or exercises such control through positions held in a firm or body corporate or is the ultimate beneficiary of a share or other securities held by the individual, firm or body corporate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "body corporate",
+      "definition": "an external company as defined in the Companies Act (Cap. 42:01), but does not include a corporation sole",
+      "source_provision": "s2"
+    },
+    {
+      "term": "business",
+      "definition": "business of trade, occupation or profession established for the acquisition of gain and carried on by any person, body corporate, association, syndicate, or partnership, or by the individual members of any body corporate, association, syndicate, or partnership",
+      "source_provision": "s2"
+    },
+    {
+      "term": "business name",
+      "definition": "the name, title, description or style under which any business is carried on, whether in partnership or otherwise",
+      "source_provision": "s2"
+    },
+    {
+      "term": "firm",
+      "definition": "an incorporated body of one or more individuals who have entered into partnership with one another with a view to carrying on business for profit and may include societies registered in terms of the Societies Act (Cap. 18:01) and co-operatives registered in terms of the Co-operatives Societies Act (Cap. 42:04)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foreign concern",
+      "definition": "any firm, individual or body corporate, whose principal place of business is not situated within Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "individual",
+      "definition": "a natural person and does not include a body corporate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "initials",
+      "definition": "any recognised abbreviation of a forename",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "the register which the Companies and Business Names Office is required to keep under section 20( b ) of the Companies and Intellectual Property Authority Act (Cap. 42:13)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of Companies and Business Names appointed under section 25(1)( a ) of the Companies and Intellectual Property Authority Act (Cap. 42:13).\n(2) References in this Act to a change of name do not include a change of name which has taken place before the person whose name has been changed attained the age of 18 years.",
+      "source_provision": "s2"
+    }
+  ]
+}

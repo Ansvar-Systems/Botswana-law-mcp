@@ -1,0 +1,81 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-south-east-district-council-cemetery-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : East District Council (cemetery) Bye-laws(south)",
+  "title_en": "Local Government : Subsidiary Legislation : East District Council (cemetery) Bye-laws(south)",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-south-east-district-council-cemetery-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the South-East District Council (Cemetery) Bye-laws."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"authorised official\" means the Council Secretary or any employee duly authorised thereto;\n\"caretaker\" means the person designated by the District Council as such;\n\"cemetery\" means any designated area established as a cemetery under bye-law 3;\n\"Council\" means the South-East District Council;\n\"Council area\" means the area of jurisdiction of South-East District Council so designated for the purpose of these Bye-laws;\n\"memorial work\" means any grave stone, monument epitaph, tabled or monumental inscription and any work ancillary thereto."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment of cemeteries",
+      "content": "3. Establishment of cemeteries\nThe Council shall establish and designate areas within the jurisdiction of the Council area as cemeteries."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Burial in cemetery",
+      "content": "4. Burial in cemetery\n(1) A person shall not bury or cause to be buried, a body in a place other than a cemetery.\n(2) Without prejudice to sub-bye-law (1), the Council may in special circumstances authorise burial in other places other than the designated cemetery."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Permit for burial",
+      "content": "5. Permit for burial\n(1) A person shall not bury or cause to be buried, a body in a cemetery unless a permit for the burial of that body has been issued by the Council or the caretaker of the cemetery and upon payment of the fees prescribed in bye-law 6.\n(2) A person who contravenes this bye-law commits an offence and is liable to the penalty prescribed under bye-law 21."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Application for burial permit",
+      "content": "6. Application for burial permit\n(1) Every application for a burial permit under these Bye-laws shall be in the Form A set out in Schedule 1 and, shall be accompanied by\n( a ) a death certificate signed by a medical practitioner or a certified copy thereof, or a letter certifying the deceaseds death from Kgosi , of the tribal territory; or\n( b ) by the written sanction of a magistrate or administrative officer authorising the burial."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised official",
+      "definition": "the Council Secretary or any employee duly authorised thereto",
+      "source_provision": "s2"
+    },
+    {
+      "term": "caretaker",
+      "definition": "the person designated by the District Council as such",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cemetery",
+      "definition": "any designated area established as a cemetery under bye-law 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "the South-East District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council area",
+      "definition": "the area of jurisdiction of South-East District Council so designated for the purpose of these Bye-laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "memorial work",
+      "definition": "any grave stone, monument epitaph, tabled or monumental inscription and any work ancillary thereto.",
+      "source_provision": "s2"
+    }
+  ]
+}

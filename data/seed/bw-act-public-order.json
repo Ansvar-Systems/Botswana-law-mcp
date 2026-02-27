@@ -1,0 +1,58 @@
+{
+  "id": "bw-act-public-order",
+  "type": "statute",
+  "title": "Public Order",
+  "title_en": "Public Order",
+  "short_name": "Public Order",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/public-order",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Public Order Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"controlled area\" means any area declared by the Minister to be a controlled area in pursuance of section 4(1);\n\"public meeting\" or \"meeting\" means any meeting in a public place and any meeting which the public or any section thereof are permitted to attend, whether on payment or otherwise;\n\"public place\" includes any public way and any building or place to which, for the time being, the public are entitled or permitted to have access either without condition or upon condition of making any payment, and any building or place which is for the time being used for any public or religious meeting or assembly;\n\"public procession\" or \"procession\" means a procession in, through, across or along a public place;\n\"public way\" includes any highway, market place, square, street, bridge or other way which is lawfully used by the public."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Powers for the preservation of public order on the occasion of public meetings and public processions",
+      "content": "3. Powers for the preservation of public order on the occasion of public meetings and public processions\nIf any police officer of or above the rank of Assistant Superintendent, having regard to the time or place at which and the circumstances in which any public meeting or any public procession is taking place or is intended to take place and in the case of a public procession to the route taken or proposed to be taken by the procession, has reasonable grounds for believing that the meeting or the procession, as the case may be, may occasion serious public disorder, he may give directions imposing on the persons organising or taking part in the meeting or procession such conditions as appear to him necessary for the preservation of public order, including, in the case of a procession, conditions prescribing the route to be taken by the procession and conditions prohibiting the procession from entering any public place specified in the directions:"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "controlled area",
+      "definition": "any area declared by the Minister to be a controlled area in pursuance of section 4(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "meeting",
+      "definition": "any meeting in a public place and any meeting which the public or any section thereof are permitted to attend, whether on payment or otherwise",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public place",
+      "definition": "any public way and any building or place to which, for the time being, the public are entitled or permitted to have access either without condition or upon condition of making any payment, and any building or place which is for the time being used for any public or religious meeting or assembly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "procession",
+      "definition": "a procession in, through, across or along a public place",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public way",
+      "definition": "any highway, market place, square, street, bridge or other way which is lawfully used by the public.",
+      "source_provision": "s2"
+    }
+  ]
+}

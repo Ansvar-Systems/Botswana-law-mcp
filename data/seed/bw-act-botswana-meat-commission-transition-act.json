@@ -1,0 +1,79 @@
+{
+  "id": "bw-act-botswana-meat-commission-transition-act",
+  "type": "statute",
+  "title": "Botswana Meat Commission (transition) Act",
+  "title_en": "Botswana Meat Commission (transition) Act",
+  "short_name": "Botswana Meat Commission (t...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/acts-on-notice/botswana-meat-commission-transition-act",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Meat Commission (Transition) Act, and shall come into operation on such date as the Minister may, by Order published in the Gazette, appoint."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Board\" means the Board of Directors of the Company referred to under section 5;\n\"Botswana Privatisation Asset Holding (Proprietary) Limited\" means a company established by the Government for the purpose of holding assets from or in respect of, privatised public enterprises, with the object of the economic empowerment of citizens of Botswana;\n\"Commission\" means Botswana Meat Commission established under the Botswana Meat Commission Act;\n\"Company\" means Botswana Meat Commission, as continued under section 3;\n\"conversion date\" means the date on which Botswana Meat Commission is registered as a company;\n\"Employee Share Ownership Plan\" means a plan established under section 6 for the benefit of staff of the Company who are citizens;\n\"Pension Fund\" means the Botswana Meat Commission Staff Pension Fund which is a defined contribution fund;\n\"Registrar\" means the Registrar of Companies appointed under the Companies Act (Cap. 42:01);\n\"repealed Act\" means the Botswana Meat Commission Act repealed under section 13; and\n\"subsidiary\" has the meaning assigned to it under the Companies Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Board of Directors of the Company referred to under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Botswana Privatisation Asset Holding (Proprietary) Limited",
+      "definition": "a company established by the Government for the purpose of holding assets from or in respect of, privatised public enterprises, with the object of the economic empowerment of citizens of Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commission",
+      "definition": "Botswana Meat Commission established under the Botswana Meat Commission Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Company",
+      "definition": "Botswana Meat Commission, as continued under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conversion date",
+      "definition": "the date on which Botswana Meat Commission is registered as a company",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Employee Share Ownership Plan",
+      "definition": "a plan established under section 6 for the benefit of staff of the Company who are citizens",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Pension Fund",
+      "definition": "the Botswana Meat Commission Staff Pension Fund which is a defined contribution fund",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of Companies appointed under the Companies Act (Cap. 42:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "the Botswana Meat Commission Act repealed under section 13",
+      "source_provision": "s2"
+    },
+    {
+      "term": "subsidiary",
+      "definition": "assigned to it under the Companies Act.",
+      "source_provision": "s2"
+    }
+  ]
+}

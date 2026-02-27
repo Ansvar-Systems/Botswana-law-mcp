@@ -1,0 +1,58 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-sowa-township-hawking-and-street-vending-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Sowa Township (hawking and Street Vending) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Sowa Township (hawking and Street Vending) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-sowa-township-hawking-and-street-vending-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Sowa Township (Hawking and Street Vending) Bye-laws*.\n*Originally made under the Township Act now repealed, these Regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"hawker\" means any person who travels from place to place carrying or hawking goods for sale;\n\"licensing authority\" means the Sowa Township Authority or any committee convened by the Township Authority to perform its functions under these Bye-laws;\n\"street vendor\" means any person who carries on the business of selling goods from a pitch at which he stations himself, whether in a public place or on ground over which he has no right of control;\n\"Township Authority\" means the Sowa Township Authority;\n\"township officer\" means the Chief Executive officer, the Treasurer or any other employee of the Township Authority duly authorised by the Chief Executive Officer, in writing, for the purpose of enforcing these Bye-laws."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Licence required to carry on hawking business",
+      "content": "3. Licence required to carry on hawking business\n(1) No person shall carry on the business of a hawker within Sowa Township unless he is the holder of a valid hawker's licence issued to him by the licensing authority.\n(2) Any person wishing to carry on the business of hawking shall apply to the licensing authority for a hawker's licence on such form and in such manner as the licensing authority may require, specifying the classes of goods in which he wishes to trade and the area in which he wishes to hawk.\n(3) If the licensing authority is satisfied that a licence is in order, it may, on payment by the applicant of a fee of P20, issue a licence to the applicant, for such goods and such area, and subject to such conditions or qualifications as may be specified therein."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "hawker",
+      "definition": "any person who travels from place to place carrying or hawking goods for sale",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensing authority",
+      "definition": "the Sowa Township Authority or any committee convened by the Township Authority to perform its functions under these Bye-laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "street vendor",
+      "definition": "any person who carries on the business of selling goods from a pitch at which he stations himself, whether in a public place or on ground over which he has no right of control",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Township Authority",
+      "definition": "the Sowa Township Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "township officer",
+      "definition": "the Chief Executive officer, the Treasurer or any other employee of the Township Authority duly authorised by the Chief Executive Officer, in writing, for the purpose of enforcing these Bye-laws.",
+      "source_provision": "s2"
+    }
+  ]
+}

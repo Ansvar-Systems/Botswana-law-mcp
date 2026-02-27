@@ -1,0 +1,325 @@
+{
+  "id": "bw-sub-national-meteorological-service-subsidiary-legislation",
+  "type": "statute",
+  "title": "National Meteorological Service: Subsidiary Legislation",
+  "title_en": "National Meteorological Service: Subsidiary Legislation",
+  "short_name": "National Meteorological Ser...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/national-meteorological-service-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Ozone Depleting Substances (ODS) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires—\n“ adverse effect ” means a change in the physical environment including a change in the climate, which has a significant deleterious effect on human health or on the compositions, resilience and production of managed ecosystems on materials useful to mankind;\n“ essential use ” means use of controlled substances designated by the parties to the Protocol to be necessary for health, safety and critical for the functioning of society; and for which there are no available technical and economic feasible alternative or substitutes that are acceptable with regards to environment and health;\n“ calculated levels ” in relation to a controlled substance that is imported or exported, means a quantity of controlled substances;\n“ controlled period ” means the period beginning 1st January in a given year and ending 31st December in the same year;\n“ controlled substance ” means a substance set out in column II of Schedule 1, whether in pure form or in a mixture, and includes isomers of substances, unless otherwise indicated;\n“ critical use ” means circumstances in which there are no technical and economic feasible alternatives or substitutes for methyl bromide suitable for crops or acceptable with regards to environment and health;\n“ date of prohibition ” means dates set out in paragraphs 2 of Schedule 1 and 2;\n“ equipment or products ” means equipment or and products which do not function without controlled substances, but do not include—\n( a ) equipment or products used for the production, processing, recovery, recycling, reclamation or destruction of controlled substances;\n( b ) containers used for the transportation or storage of controlled substances;\n“ law enforcement officer ” means a police officer, customs officer or any officer of the Service designated by the Director;\n“ manufacture ” means to make new products from raw material or assembled materials;\n“ ozone depleting potential ” means the ability of a controlled substance to destroy the atmospheric ozone based on atmospheric lifetime, stability and reactivity;\n“ ozone depleting substance ” means any chemical substance which destroys the ozone layer and is controlled under the Montreal Protocol and listed in Schedules I and II of these Regulations;\n“ ozone depleting substance dependent equipment ” means products or equipment consisting of ozone depleting substances, including equipment whose continuous functioning relies on the use of ozone depleting substance;\n“ Ozone Office ” means the National Ozone Office established under the National Meteorological Service for the prohibition and controlled use, movement and trading in ozone depleting substances;\n“ permit ” means a permit issued in terms of these regulations;\n“ production ” means the amount of controlled substances produced minus the amount destroyed by technologies to be approved by the parties to the Montreal Protocol and minus the amount entirely used as feedstock in the manufacture of other chemicals;\n“ Protocol ” means the Montreal Protocol on Substances that Deplete the Ozone layer, a treaty adopted on 16 September, 1987 and as adjusted or amended by the contracting Parties from time to time;\n“ quota system ” means a quantitative limit of releasing, for free circulation in Botswana, of imported controlled substances which shall be subject to limits and allocation by using the licensing system to be managed by the Director;\n“ reclaimed ” in respect of a controlled substances, means recovered, reprocessed and up-graded through processes such as filtering, drying distillation or chemical treatment in order to restore the controlled substances to industrial accepted re-use standards;\n“ recovered ” in respect of controlled substance, means collected after a substance has been used or collected from machinery, equipment or a container;\n“ recycled ” in respect of a controlled substance means re-used, recovered, cleaned by a process such as filtering, drying or re-used to recharge equipment;\n“ refrigerant ” means substance, whether part or mixture, that is used as a coolant in a refrigerator, freezer, cold room, dehumidifier, heat pump or an air conditioner;\n“ technician ” means an expert or trained individual qualified in new technology to service or maintain refrigeration or air conditioning systems; and\n“ transitional substances ” means any controlled substance listed in Schedule 2 of these Regulations or a compound containing any such substance and all isomers of such substance and partially halogenated fluoro-chemicals."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Control Measures",
+      "section": "3",
+      "title": "Prohibition of certain activities",
+      "content": "3. Prohibition of certain activities\n(1) No person shall produce or conduct any activity likely to produce any controlled substance or any other substance likely to deplete the ozone layer.\n(2) No person shall emit into the ambient air any ozone-depleting substance likely to result in adverse effects on human health and the environment."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Control Measures",
+      "section": "4",
+      "title": "Prohibition of importation or exportation of controlled substances",
+      "content": "4. Prohibition of importation or exportation of controlled substances\n(1) No person shall import or export or, in any manner, deal in a controlled substance or product containing a controlled substance except in accordance with these Regulations.\n(2) No person shall import or export a recovered, recycled, reclaimed or used controlled substance except with a permit issued under these Regulations.\n(3) The calculated level (L) of any imported or exported controlled substance shall be determined in accordance with the following formula—\nL= I x ODP, where—\n( a ) I is the quantity imported during that period; and\n( b ) ODP is the ozone depleting potential for the controlled substances as indicated in Schedules 1 and 2."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Control Measures",
+      "section": "5",
+      "title": "Prohibition of Importation, exportation or dealing after prohibition date",
+      "content": "5. Prohibition of Importation, exportation or dealing after prohibition date\n(1) No person shall import, export or, in any manner, deal with equipment or goods that are dependent on controlled substance within groups set out in Schedule 2 and Classes A, B and C of Schedule 3 after the date of prohibition set out in respect of that substance.\n(2) Notwithstanding subregulation (1), the prohibition shall not apply to—\n( a ) equipment or goods that were imported before the date of the prohibition of the substance; or\n( b ) equipment or goods that are recovered, re-cycled, re-claimed or used controlled substance imported or exported pursuant to a permit issued by the Director."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Control Measures",
+      "section": "6",
+      "title": "Prohibition of importation of aerosols",
+      "content": "6. Prohibition of importation of aerosols\n(1) No person shall import any aerosol product which uses Chlorofluorocarbon (CFCs) as a gas or a propellant.\n(2) Notwithstanding subregulation (1), the prohibition shall not apply to any medical aerosol."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Control Measures",
+      "section": "7",
+      "title": "Servicing and installation of ODS — dependent equipment",
+      "content": "7. Servicing and installation of ODS — dependent equipment\n(1) No person shall service an equipment or product that contains or uses a controlled substance unless he or she is issued with a permit under these Regulations.\n(2) No technician shall repair or service any equipment or product that contains or uses a controlled substance unless the technician has a permit issued under these Regulations.\n(3) No technician shall release into the ambient air any refrigerant that is controlled under the Protocol and listed under these Regulations."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Control Measures",
+      "section": "8",
+      "title": "Retrofitting ODS-dependent equipment",
+      "content": "8. Retrofitting ODS-dependent equipment\nNo person shall retrofit refrigeration or air conditioning equipment with any Hydro chlorofluorocarbons."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Control Measures",
+      "section": "9",
+      "title": "Fire fighting services",
+      "content": "9. Fire fighting services\nNo person shall—\n( a ) sell any fire extinguisher containing any Halon;\n( b ) refill any fire extinguishing system with any Halon;\n( c ) use any Halon where alternative substances such as carbon dioxide, water, dry powder, foam or inert gases are available; or\n( d ) use any Halon in fire-fighting demonstrations."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART IV Permits",
+      "section": "10",
+      "title": "Import and export permit",
+      "content": "10. Import and export permit\n(1) No person shall import, export, deal in any manner with the following controlled substances unless such person holds a permit issued under these Regulations—\n( a ) ozone depleting substance or ozone depleting substance dependent equipment or technologies for essential or critical use; or\n( b ) any chemical listed in Schedules 1 and 2.\n(2) The import or export licensing systems of controlled substances referred to in this regulation, shall be managed along the quota system set out in Schedule 6, which shall take into account the import needs of ozone depleting substances by Botswana consistent with the national requirements as per the Protocol."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART IV Permits",
+      "section": "11",
+      "title": "Import or export of ODS dependent equipment and goods from and to non-party States",
+      "content": "11. Import or export of ODS dependent equipment and goods from and to non-party States\nNotwithstanding regulation 10, the import or export of ozone depleting substances and equipment as specified in Schedule 1, 2 and 3 from and to States that are not parties to the Protocol is prohibited."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART IV Permits",
+      "section": "12",
+      "title": "Application for permit",
+      "content": "12. Application for permit\n(1) An application for a permit to—\n( a ) import a controlled substance, recovered, recycled, reclaimed or used controlled substance shall be in Form 1 as set out in Schedule 4; or\n( b ) export a controlled substance, recovered, recycled, reclaimed or used controlled substance shall be in Form 2 as set out in Schedule 4.\n(2) An application for a permit under subregulation (1) shall be accompanied by a fee set out in Schedule 5.\n(3) The Director shall, where he or she satisfied that the application made under subregulation (1) meets all the requirements, within 28 days of the receipt of the application, issue a permit in Form 3 set out in Schedule 4.\n(4) A permit issued under this regulation shall be valid for a period of 12 months and may be renewed upon payment of a fee, as may be prescribed, if the applicant has been complying with the provisions of these Regulations."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART IV Permits",
+      "section": "13",
+      "title": "Conditions for use of permit",
+      "content": "13. Conditions for use of permit\nA person issued with a permit under regulation 12 shall—\n( a ) comply with the conditions as set out in the permit;\n( b ) comply with the instructions issued by the Ozone Office in exercise of its functions under these Regulations;\n( c ) keep a record of activities prescribed in Form 4 as set out in Schedule 4 and submit the record to the Ozone Office six months from the commencement of the permit; and\n( d ) comply with any other conditions which the Ozone Office shall consider relevant for the purpose of these Regulations."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART IV Permits",
+      "section": "14",
+      "title": "Revocation, suspension or cancellation of permit",
+      "content": "14. Revocation, suspension or cancellation of permit\n(1) The Director may—\n( a ) revoke a permit if the permit holder obtained the permit by fraud or deliberate or negligent submission of false information;\n( b ) suspend the permit if the permit holder—\n(i) contravenes these Regulations or any term and condition of the permit, or\n(ii) fails, without reasonable cause, to comply with enforcement notice issued under regulation 20; or\n( c ) cancel the permit if the permit holder fails, without reasonable cause, to use the permit within the time stipulated in these Regulations.\n(2) The Director shall, before revoking, suspending or cancelling a permit, give written notice to the holder of the permit of the intention to revoke, suspend or cancel the permit and specify the reasons for the revocation, suspension or cancellation and require the person to show cause, within a period of not more than 30 days, why the permit should not be revoked, suspended or cancelled.\n(3) The Director shall not revoke, suspend or cancel a permit if the holder of the permit takes remedial measures, to the satisfaction of the Director, within a period of 30 days.\n(4) If the holder of a permit notified under subregulation (2) fails to show cause why the permit should not be revoked, suspended or cancelled or does not take remedial measures, to the satisfaction of the Director, within the time specified, the Director shall proceed to revoke, suspend or cancel the permit."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART IV Permits",
+      "section": "15",
+      "title": "Refusal to issue permit",
+      "content": "15. Refusal to issue permit\n(1) The Director may refuse to issue a permit if he or she is of the view that the application does not comply with the provisions of these Regulations.\n(2) Where the Director refuses to issue a permit, the applicant shall be notified in writing within 10 working days of the decision."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART IV Permits",
+      "section": "16",
+      "title": "Appeal",
+      "content": "16. Appeal\n(1) A person aggrieved by the decision of the Director may appeal to the Appeals Committee appointed under section 10 of the Act.\n(2) An appeal made in accordance with subregulation (1) shall—\n( a ) be made in writing within 30 days of notification of the decision;\n( b ) state the grounds for appeal; and\n( c ) be accompanied by all the relevant documents."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART IV Permits",
+      "section": "17",
+      "title": "Failure to use permit",
+      "content": "17. Failure to use permit\n(1) Where the holder of the permit is unable to use the permit within three months of the date of issue of the permit, the holder shall forthwith notify the Director giving reasons thereof, and the Director shall, if satisfied with the reasons, specify the period within which the holder shall comply with the terms of the permit.\n(2) Any permit that has lapsed before it is utilised can only be renewed if the permit holder makes a new application to the Director."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART IV Permits",
+      "section": "18",
+      "title": "Transfer of permit",
+      "content": "18. Transfer of permit\nA permit holder shall not transfer a permit to a third party,"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART IV Permits",
+      "section": "19",
+      "title": "Amendment of permit",
+      "content": "19. Amendment of permit\nThe Director may amend a permit—\n( a ) where some other person has taken over the running of the business from the holder of the permit, by substituting for the name of the holder with the name of the successor;\n( b ) where the name of business enterprise has changed, by substituting the name so changed; or\n( c ) for any other reason submitted by the applicant of the permit which the Director considers necessary."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART IV Permits",
+      "section": "20",
+      "title": "Enforcement notice",
+      "content": "20. Enforcement notice\n(1) Where any person contravenes or is likely to contravene any provision of these Regulations or instructions issued by the Director in the exercise of the functions associated with issuance of permit or any other condition of the permit, the Director may issue an enforcement notice upon that person.\n(2) A notice issued under subregulation (1) shall—\n( a ) state the contravention or likely contravention;\n( b ) specify the steps that have to be taken to remedy the contravention or avoid the contravention or its likelihood, as the case may be; and\n( c ) specify the effective date of the enforcement notice and the time limit within which the steps specified under paragraph (b) have to be taken."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART IV Permits",
+      "section": "21",
+      "title": "Permit register be to kept",
+      "content": "21. Permit register be to kept\n(1) The Director shall keep and maintain a register of permits issued.\n(2) The information recorded in the register in subregulation (1) shall be published in the Gazette at least once a year.\n(3) The register in subregulation (1) shall include the following information—\n( a ) a record of controlled substances imported, exported, dealt in or in use in the country;\n( b ) a record of returns made by permit holders;\n( c ) information on every received application; and\n( d ) any other information that the Director may consider necessary to preserve."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART IV Permits",
+      "section": "22",
+      "title": "Submission of annual reports",
+      "content": "22. Submission of annual reports\nA person permitted to import, export or deal in ozone depleting substances in any manner under regulation 12, shall submit to the Ozone Office, an annual report in Form 5 and 6 respectively, as set out in Schedule 4 by 15th January."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART IV General",
+      "section": "23",
+      "title": "Customs",
+      "content": "23. Customs\n(1) A person who imports or exports controlled substances or products containing a controlled substance shall provide a copy of the permit to a law enforcement officer at a port of entry or exit.\n(2) A law enforcement officer shall inspect and certify whether the controlled substance imported into or exported out of Botswana is consistent with these Regulations.\n(3) Where the exportation or importation is contrary to these Regulations, a law enforcement officer shall confiscate the products or substances.\n(4) The confiscated products or substances shall be disposed off by a law enforcement officer in accordance with the guidelines set out by the National Meteorological Service."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART IV General",
+      "section": "24",
+      "title": "Suppliers and distributors",
+      "content": "24. Suppliers and distributors\n(1) An importer of controlled substances shall cause a person who receives or buys any controlled substance from the importer to sign a declaration in Form 7 as set out in Schedule 4.\n(2) A person who supplies or distributes any controlled substances shall keep a record of names and addresses of the persons to whom the substances have been supplied or distributed and shall submit the record to the Ozone Office within 14 days of such supply or distribution."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART IV General",
+      "section": "25",
+      "title": "Product labeling",
+      "content": "25. Product labeling\n(1) An importer, producer, distributor, seller or exporter shall not import, produce, distribute, sell, export or deal in any manner with a product or other material containing an ozone depleting substance unless—\n( a ) the product or material containing an ozone depleting substance is labelled to indicate its identity ; and\n( b ) the substance is sealed in a package or other material to avoid any leakage.\n(2) A law enforcement officer shall confiscate all ozone depleting substances which are not labelled or whose labeling has been tampered with.\n(3) Where ozone depleting substance has been confiscated in accordance with subregulation (2), it shall be destroyed at the expense of the importer, exporter or manufacturer."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART IV General",
+      "section": "26",
+      "title": "Storage and disposal of controlled substances",
+      "content": "26. Storage and disposal of controlled substances\n(1) An importer, producer, distributor, exporter, seller, transporter or supplier of any controlled substances shall ensure that the controlled substances are stored in secure premises licensed by the Director for the purpose of storing controlled substances.\n(2) A person shall not dispose off any controlled substance without the approval and authorisation of the Director who will ensure the controlled substance is disposed of in an environmentally sound manner.\n(3) The Director shall liaise with the relevant authorities in matters relating to disposal of controlled substances."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART IV General",
+      "section": "27",
+      "title": "Transportation of controlled substances",
+      "content": "27. Transportation of controlled substances\n(1) Any person who intends to transport any controlled substance or any product or equipment containing a controlled substance except for personal domestic use, whether in transit or otherwise, shall apply to the Director for approval to transport such controlled substance through Botswana and ensure that the controlled substance is properly packaged and transported in accordance with these Regulations and applicable international standards.\n(2) An application for transport of controlled substance or any product or equipment containing a controlled substance through Botswana shall be made to the Ozone Office in form 8 as set out in Schedule 4.\n(3) The Director shall, where he or she is satisfied that the application made under subregulation (2) meets all the requirements, within 28 days of receipt of the application, issue a permit in Form 3 as set out in Schedule 4.\n(4) A person shall not, where the substance or product transported under subregulation (2) is in transit to another country, use, distribute, sell, dispose of or, deal in any manner, with the substance or product within Botswana."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART IV General",
+      "section": "28",
+      "title": "Publication of controlled substances",
+      "content": "28. Publication of controlled substances\nThe Ozone Office shall, before the 31st of December of every year, publish a list of existing controlled substances in the Gazette."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART IV General",
+      "section": "29",
+      "title": "Offences and penalities",
+      "content": "29. Offences and penalities\nA person who contravenes any provision of these Regulations commits an offence and is liable to a fine not exceeding P20 000 or to imprisonment for a term not exceeding two years, or to both."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART IV General",
+      "section": "30",
+      "title": "Transitional provisions",
+      "content": "30. Transitional provisions\n(1) A technician or person who services or repairs any product or technology that contains or uses any controlled substance shall, within six months from the coming into force of these Regulations, apply to the Ozone Office for the service permit under regulation 8.\n(2) An importer, producer, distributor, exporter, seller, transporter or supplier of any controlled substances or person to whom these Regulations apply, shall within three months from the coming into force of these Regulations, apply to the Ozone Office for an appropriate permit in accordance with these Regulations."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "adverse effect",
+      "definition": "a change in the physical environment including a change in the climate, which has a significant deleterious effect on human health or on the compositions, resilience and production of managed ecosystems on materials useful to mankind",
+      "source_provision": "s2"
+    },
+    {
+      "term": "essential use",
+      "definition": "use of controlled substances designated by the parties to the Protocol to be necessary for health, safety and critical for the functioning of society",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled period",
+      "definition": "the period beginning 1st January in a given year and ending 31st December in the same year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled substance",
+      "definition": "a substance set out in column II of Schedule 1, whether in pure form or in a mixture, and includes isomers of substances, unless otherwise indicated",
+      "source_provision": "s2"
+    },
+    {
+      "term": "critical use",
+      "definition": "circumstances in which there are no technical and economic feasible alternatives or substitutes for methyl bromide suitable for crops or acceptable with regards to environment and health",
+      "source_provision": "s2"
+    },
+    {
+      "term": "date of prohibition",
+      "definition": "dates set out in paragraphs 2 of Schedule 1 and 2",
+      "source_provision": "s2"
+    },
+    {
+      "term": "equipment or products",
+      "definition": "equipment or and products which do not function without controlled substances, but do not include—\n( a ) equipment or products used for the production, processing, recovery, recycling, reclamation or destruction of controlled substances",
+      "source_provision": "s2"
+    },
+    {
+      "term": "law enforcement officer",
+      "definition": "a police officer, customs officer or any officer of the Service designated by the Director",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manufacture",
+      "definition": "to make new products from raw material or assembled materials",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ozone depleting potential",
+      "definition": "the ability of a controlled substance to destroy the atmospheric ozone based on atmospheric lifetime, stability and reactivity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ozone depleting substance",
+      "definition": "any chemical substance which destroys the ozone layer and is controlled under the Montreal Protocol and listed in Schedules I and II of these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ozone depleting substance dependent equipment",
+      "definition": "products or equipment consisting of ozone depleting substances, including equipment whose continuous functioning relies on the use of ozone depleting substance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Ozone Office",
+      "definition": "the National Ozone Office established under the National Meteorological Service for the prohibition and controlled use, movement and trading in ozone depleting substances",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permit",
+      "definition": "a permit issued in terms of these regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "production",
+      "definition": "the amount of controlled substances produced minus the amount destroyed by technologies to be approved by the parties to the Montreal Protocol and minus the amount entirely used as feedstock in the manufacture of other chemicals",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Protocol",
+      "definition": "the Montreal Protocol on Substances that Deplete the Ozone layer, a treaty adopted on 16 September, 1987 and as adjusted or amended by the contracting Parties from time to time",
+      "source_provision": "s2"
+    },
+    {
+      "term": "quota system",
+      "definition": "a quantitative limit of releasing, for free circulation in Botswana, of imported controlled substances which shall be subject to limits and allocation by using the licensing system to be managed by the Director",
+      "source_provision": "s2"
+    },
+    {
+      "term": "refrigerant",
+      "definition": "substance, whether part or mixture, that is used as a coolant in a refrigerator, freezer, cold room, dehumidifier, heat pump or an air conditioner",
+      "source_provision": "s2"
+    },
+    {
+      "term": "technician",
+      "definition": "an expert or trained individual qualified in new technology to service or maintain refrigeration or air conditioning systems",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transitional substances",
+      "definition": "any controlled substance listed in Schedule 2 of these Regulations or a compound containing any such substance and all isomers of such substance and partially halogenated fluoro-chemicals.",
+      "source_provision": "s2"
+    }
+  ]
+}

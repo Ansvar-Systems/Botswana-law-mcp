@@ -1,0 +1,32 @@
+{
+  "id": "bw-act-boreholes",
+  "type": "statute",
+  "title": "Boreholes",
+  "title_en": "Boreholes",
+  "short_name": "Boreholes",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/boreholes",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Boreholes Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"borehole\" means a well sunk by means of a rig or machinery, and shall not include a well sunk by persons subject to any Botswana customary law, with hand labour only, in any of the tribal territories defined in the Tribal Territories Act (Cap. 32:03) or on any of the Barolong Farms;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "borehole",
+      "definition": "a well sunk by means of a rig or machinery, and shall not include a well sunk by persons subject to any Botswana customary law, with hand labour only, in any of the tribal territories defined in the Tribal Territories Act (Cap. 32:03) or on any of the Barolong Farms",
+      "source_provision": "s2"
+    }
+  ]
+}

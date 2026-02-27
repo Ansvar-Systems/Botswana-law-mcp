@@ -1,0 +1,403 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-surveillance-and-collision-avoidance-system-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (surveillance and Collision Avoidance System) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (surveillance and Collision Avoidance System) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-surveillance-and-collision-avoidance-system-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Surveillance and Collision Avoidance Systems) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations unless the context otherwise requires—\n\"Airborne Collision Avoidance System (ACAS)\" means an aircraft system based on Secondary Surveillance Radar (SSR) transponder signals which operates independently of ground-based equipment to provide advice to the pilot on potential conflicting aircraft that are equipped with SSR transponders;\n\"ACAS I\" means an ACAS which provides information an aid to \"see and avoid\" action but does not include the capability for generating resolution advisories (RAs);\n\"ACAS II\" means an ACAS which provides vertical resolution advisories (RAs) in addition to traffic advisories (TAs);\n\"ACAS III\" means an ACAS which provides vertical and horizontal resolution advisories (RAs) in addition to traffic advisories (TAs);\n\"ACAS broadcast\" means a long Mode S air-air surveillance interrogation (UF = 16) with the broadcast address;\n\"active RAC (Resolution Advisory Compliments)\" means an RAC currently constrains the selection of the RA, RACs that have been received within the last six seconds and have not been explicitly cancelled are active;\n\"active surveillance\" means the process of tracking an intruder by using the information gained from the replies to own ACAS interrogations;\n\"aircraft address\" means a unique combination of 24 bits available for assignment to an aircraft for the purpose of air-ground communications, navigation and surveillance;\n\"air navigation services\" means one or more of the following services provided for air navigation—\n( a ) air traffic services;\n( b ) instrument flight procedure design (IFPD) services;\n( c ) aeronautical information services (AIS);\n( d ) aeronautical cartographic services;\n( e ) aeronautical telecommunication services; or\n( f ) search and rescue services;\n\"Air Navigation Services Provider (ANSP)\" means an entity established for the purpose of providing one or more of the air navigation services as defined in these Regulations;\n\"altitude crossing RA\" means a Resolution Advisory is altitude crossing if own ACAS aircraft is currently at least 30 m (100 ft) below or above the threat aircraft for upward or downward sense advisories, respectively;\n\"approach angle\" means the difference in the ground headings of the two aircraft at closest approach, with 180 degrees defined as head on and 0 degrees defined as parallel;\n\"Automatic Dependent Surveillance-Broadcast (ADS-B) OUT\" means a function on an aircraft or vehicle that periodically broadcasts its state vector (position and velocity) and other information derived from on-board systems in a format suitable for ADS-B IN capable receivers;\n\"Automatic Dependent Surveillance-Broadcast (ADS-B) IN\" means a function that receives surveillance data from ADS-B OUT data sources;\n\"Automatic Dependent Surveillance-Broadcast (ADS-B) IN\" means a function that receives surveillance data from ADS-B OUT data sources;\n\"climb RA\" means a positive RA recommending a climb but not an increased climb;\n\"closest approach\" means the occurrence of minimum range between own ACAS aircraft and the intruder. A range at closest approach is the smallest range between the two aircraft and time of closest approach is the time at which this occurs;\n\"collision avoidance logic\" means the sub-system or part of ACAS that analyses data relating to an intruder and own aircraft, decides whether advisories are appropriate and, if so, generates the advisories, and it includes the following functions—\n( a ) range and altitude tracking;\n( b ) threat detection and RA generation; and\n( c ) it excludes surveillance;\n\"coordination\" means the process by which two ACAS-equipped aircraft select compatible Resolution Advisories (RAs) by the exchange of Resolution Advisory Complements (RACs);\n\"coordination interrogation\" means a Mode S Interrogation (uplink transmission) radiated by ACAS II or III and containing a resolution message;\n\"coordination reply\" means a Mode S reply (downlink transmission) acknowledging the receipt of a coordination interrogation by the Mode S transponder that is part of an ACAS II or III installation;\n\"corrective RA\" means a Resolution Advisory (RA) that advises the pilot to deviate from the current flight path;\n\"crossing encounter\" means an encounter in which the altitude separation of the two aircraft exceeds 100 ft at the beginning and at the end of the encounter window, and the relative vertical position of two aircraft at the end of the encounter window is reversed from that at the beginning of the encounter window;\n\"cycle\" means one complete pass through the sequence of functions executed by ACAS II or ACAS III, nominally once a second;\n\"descend RA\" means a positive RA recommending a descent but not an increased descent;\n\"established track\" means a track generated by ACAS air-air surveillance that is treated as the track of an actual aircraft;\n\"encounter\" for the purposes of defining the performance of the collision avoidance logic, an encounter consists of two simulated aircraft trajectories, the horizontal coordinates of the aircraft represent the actual position of the aircraft, but the vertical coordinate represents an altimeter measurement of altitude;\n\"encounter class\" means encounters classified according to whether the aircraft are transitioning at the beginning and end of the encounter window, and whether or not the encounter is crossing;\n\"encounter window\" means the time interval [tca - 40 s, tca + 10 s];\n\"extended hybrid surveillance\" means the process of using qualified ADS-B airborne position messages via 1 090 MHz extended squitter without validating 1 090 extended squitter data for the track by ACAS active interrogations;\n\"Horizontal Miss Distance (HMD)\" means the minimum horizontal separation observed in an encounter;\n\"human factors principles\" means principles which apply to design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance;\n\"hybrid surveillance\" means the process of using a combination of active surveillance and passive surveillance with validated data to update an ACAS track in order to preserve ACAS independence;\n\"increased rate RA\" means an RA with a strength that recommends increasing the altitude rate to a value exceeding that recommended by a previous climb or descend RA;\n\"intruder\" means an SSR transponder-equipped aircraft within the surveillance range of ACAS for which ACAS has an established track;\n\"MU\" means a designator Message, Airborne Collision Avoidance System in the message field or in short MU field;\n\"Multilateration (MLAT) System\" means a group of equipment configured to provide position derived from the Secondary Surveillance Radar (SSR) transponder signals (replies or squitters) primarily using Time Difference of Arrival (TDOA) techniques. Additional information, including identification, can be extracted from the received signals;\n\"original trajectory\" means the original trajectory of an ACAS-equipped aircraft followed by the aircraft in the same encounter when it was not ACAS-equipped;\n\"original rate\" means the original rate of an ACAS-equipped aircraft at any time is its altitude rate at the same time when it followed the original trajectory;\n\"own aircraft\" means an aircraft—\n( a ) fitted with an ACAS that is the subject of the discourse;\n( b ) which an ACAS is to protect against possible collisions; and\n( c ) which may enter a manoeuvre in response to an ACAS indication;\n\"passive surveillance\" means the process of tracking another aircraft without interrogating it, by using the other aircraft's extended squitters (ACAS uses the information obtained via 1090 MHz extended squitter to monitor the need for active surveillance only. Passive surveillance applies to both hybrid and extended hybrid surveillance);\n\"positive RA\" means a Resolution Advisory that advises the pilot either to climb or to descend (applies to ACAS II);\n\"potential threat\" means an intruder deserving special attention either because of its proximity to own aircraft or because successive range and altitude measurements indicate that it could be on a collision or near-collision course with own aircraft, and the warning time provided against a potential threat is sufficiently small that a Traffic Advisory (TA) is justified but not so small that a RA would be justified;\n\"Radio Frequency (RF)\" means a measured unit called hertz (Hz), which represent the number of cycles per second when a radio wave is transmitted from one point to the other;\n\"RA sense\" means the sense of an ACAS II RA is \"upward\" if it requires climb or limitation of descent rate and \"downward\" if it requires descent or limitation of climb rate, and it can be both upward and downward simultaneously if it requires limitation of the vertical rate to a specified range;\n\"required rate\" means for the standard pilot model, the required rate is that closest to the original rate consistent with the RA;\n\"Resolution Advisory (RA)\" means an indication given to the flight crew recommending—\n( a ) a manoeuvre intended to provide separation from all threats; or\n( b ) a manoeuvre restriction intended to maintain existing separation;\n\"Resolution Advisory Complement (RAC)\" means information provided by one ACAS to another via a Mode S interrogation in order to ensure complementary manoeuvres by restricting the choice of manoeuvres available to the ACAS receiving the RAC;\n\"Resolution Advisory Complements record (RAC record)\" means a composite of all currently active vertical RACs (VRCs) and horizontal RACs (HRCs) that have been received by ACAS. This information is provided by one ACAS to another ACAS or to a Mode S ground station via a Mode S reply;\n\"reversed sense RA\" means an RA that has had its sense reversed;\n\"Secondary Surveillance Radar (SSR)\" means a surveillance radar system which uses transmitters/receivers (interrogators) and transponders;\n\"sensitivity level ( S )\" means an integer defining a set of parameters used by the Traffic Advisory and collision avoidance algorithms to control the warning time provided by the potential threat and threat detection logic, as well as the values of parameters relevant to the RA selection logic;\n\"surveillance radar\" means radar equipment used to determine the position of an aircraft in range and azimuth;\n\"threat\" means an intruder deserving special attention either because of its proximity to own aircraft or because successive range and altitude measurements indicate that it could be on a collision or near-collision course with own aircraft, and the warning time provided against a threat is sufficiently small that an RA is justified;\n\"Time Difference of Arrival (TDOA)\" means the difference in relative time that a transponder signal from the same aircraft (or ground vehicle) is received at different receivers;\n\"Traffic Advisory (TA)\" means an indication given to the flight crew that a certain intruder is a potential threat;\n\"Traffic Information Service - Broadcast (TIS-B) IN\" means a surveillance function that receives and processes surveillance data from TIS-B OUT data sources;\n\"Traffic Information Service - Broadcast (TIS-B) OUT\" means a function on the ground that periodically broadcasts the surveillance information made available by ground sensors in a format suitable for TIS-B IN capable receivers;\n\"transitioning aircraft\" means an aircraft having an average vertical rate with a magnitude exceeding 400 feet per minute (ft/min), measured over some period of interest;\n\"transponder occupancy\" means a state of unavailability of the transponder from the time it detects an incoming signal that appears to cause some action or from the time of a self-initiated transmission, to the time that it is capable of replying to another interrogation;\n\"turn extent\" means an aircraft's ground heading at the end of a turn minus its ground heading at the beginning of the turn;\n\"validation\" means the process of verifying the relative position of"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Regulations shall apply to a person providing surveillance services within a designated airspace and at an aerodrome."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II General Requirements (regs 4-13)",
+      "section": "4",
+      "title": "Requirements for surveillance facility",
+      "content": "4. Requirements for surveillance facility\nThe minimum requirements for planning, installation, commissioning, training, operation and maintenance of the surveillance facility shall conform to these Regulations."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II General Requirements (regs 4-13)",
+      "section": "5",
+      "title": "Approval requirement",
+      "content": "5. Approval requirement\n(1) A person who wishes to operate a surveillance facility or system shall apply in writing to the Authority for an approval of the surveillance facility or system.\n(2) The Authority may approve surveillance facility or system in a designated airspace and aerodrome.\n(3) A person shall not provide or operate a surveillance facility or system in the designated airspace or aerodrome unless the surveillance facility or system has been approved by the Authority.\n(4) An Air Navigation Service Provider shall notify the Authority of his or her intention to procure, install, use, decommission, upgrade or relocate any surveillance facility in the designated airspace or aerodrome not less than 30 days prior to the date of procuring, installing, decommissioning, upgrading or relocating such surveillance system.\n(5) The Authority may approve installation, use, decommissioning, upgrading or relocation of all surveillance facilities in the designated airspace and aerodromes."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II General Requirements (regs 4-13)",
+      "section": "6",
+      "title": "Inspections and audits",
+      "content": "6. Inspections and audits\n(1) The Authority may carry out safety inspections and audits on a surveillance facility, document or record to determine compliance with these Regulations.\n(2) An inspector of the Authority shall have unrestricted access to a facility, installation, record or document of an Air Navigation Service Provider to determine compliance with these Regulations and required procedures."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II General Requirements (regs 4-13)",
+      "section": "7",
+      "title": "Siting and installation",
+      "content": "7. Siting and installation\nAn Air Navigation Service Provider shall before establishing any surveillance equipment site, whether temporary or permanent obtain approval of the site from the Authority."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II General Requirements (regs 4-13)",
+      "section": "8",
+      "title": "Classification of surveillance facilities",
+      "content": "8. Classification of surveillance facilities\nThe following list classifies the type of facilities used for the provision of aeronautical surveillance service—\n( a ) flight data processing facility;\n( b ) flight information facility;\n( c ) radar data processing facility;\n( d ) primary surveillance radar facility;\n( e ) Secondary Surveillance Radar facility;\n( f ) surface movement radar facility;\n( g ) Multilateration (MLAT) surveillance facility;\n( h ) precision runway monitor facility;\n( i ) automatic dependent surveillance system facility;\n( j ) uninterruptible and emergency power supply facility;\n( k ) essential service in a building and in equipment shelter housing facility (electrical power supply, air-conditioning, and security facility); and\n( l ) data recording facility."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II General Requirements (regs 4-13)",
+      "section": "9",
+      "title": "Availability and reliability of surveillance facility",
+      "content": "9. Availability and reliability of surveillance facility\n(1) An Air Navigation Service Provider shall establish an overall operation and maintenance plan for surveillance system which shall meet the safety, operational requirement and performance specification of a surveillance facility.\n(2) The operation and maintenance plan in subregulation (1) shall include—\n( a ) a procedure for the periodic inspection and testing of each facility to verify that it meets the specified operational and performance specifications;\n( b ) details of flight test, such as the standards and procedures to be used and flight test interval, which shall be in compliance with guidelines in International Civil Aviation Organisation Doc 8071 or any other appropriate International Civil Authority Organisation document;\n( c ) the interval between periodic inspection and flight test and the basis for that interval, and when the interval is changed, the reasons for such change shall be documented;\n( d ) the operation and maintenance instructions for each facility;\n( e ) an analysis of the number of personnel required to operate and maintain each surveillance facility, taking into account the workload required;\n( f ) the corrective plan and procedures for each surveillance facility, including whether the repair of modules and components are undertaken in house or by equipment manufacturers; and\n( g ) the spare support plan for each facility.\n(3) An Air Navigation Service Provider shall be responsible for the provision of surveillance service and facility, to ensure that the surveillance data necessary for the safe, regular and efficient operation of air navigation is accurate and available.\n(4) An Air Navigation Service Provider shall establish and document performance measures to be achieved for each surveillance system in terms of the following parameters—\n( a ) availability;\n( b ) reliability;\n( c ) accuracy;\n( d ) availability;\n( e ) integrity;\n( f ) Mean Time Between Failure (MTBF); and\n( g ) Mean Time to Repair (MTTF).\n(5) The parameters in subregulation (4), shall be derived or measured from—\n( a ) the configuration of each service; or\n( b ) the known performance of each service.\n(6) An Air Navigation Service Provider shall, describe in the operations manual the method used to calculate each of the values in subregulation (7).\n(7) The integrity values or characteristics shall be given for each facility that forms part of the surveillance service.\n(8) An Air Navigation Service Provider shall ensure a surveillance facility is connected to a power and a standby power supply, to ensure continuity of operation appropriate to the service being provided."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II General Requirements (regs 4-13)",
+      "section": "10",
+      "title": "Protection of surveillance radio signals from reflectors or diffractors",
+      "content": "10. Protection of surveillance radio signals from reflectors or diffractors\n(1) An Air Navigation Service Provider shall prevent any development near a radio site that may have a potential to reflect or diffract surveillance radio signals.\n(2) An Air Navigation Service Provider shall ensure that the following radar do not reflect or diffract surveillance radio signals—\n( a ) Primary Radar - Line of sight from the installation to surveillance areas or volume shall be maintained. No obstruction shall penetrate the volume above the radar platform for a distance of 4 600 m from the installation or prevent line-of-sight from the installation to aircraft during the approach phase and movements on runways;\n( b ) Secondary Surveillance Radar - Line of sight from the installation to surveillance areas or volume shall be maintained to a distance of 15 km. No obstruction shall penetrate the volume above the radar platform for a distance of 4 600 m from the installation or prevent line-of-sight from the installation to aircraft during the approach phase and movements on runways;\n( c ) Surface Movement Radar - Line-of-sight shall be maintained at ground level from the radar to all areas within the aerodrome boundary where any movement of aircraft, personnel or vehicles can occur;\n( d ) Multilateration (MLAT) - Line of sight from the installation to surveillance areas or volume shall be maintained. No obstruction shall penetrate the volume above the surveillance platform for a distance of 4 600 m from the installation or prevent line-of-sight from the installation to aircraft during the approach phase and movements on runway; and\n( e ) Automatic Dependent Surveillance - Broadcast (ADS-B) Line of sight from the installation to surveillance areas or volume shall be maintained. No obstruction shall penetrate the volume above the surveillance platform for a distance of 4 600 m from the installation or prevent line-of- sight from the installation to aircraft during the approach phase and movements on runways.\n(3) An Air Navigation Service Provider shall consult the Authority regarding the non-use of designs or certain materials considered to be reflective or that could cause attenuation of the signal, such as metal reinforced glass, metal cladding, chain-link fencing, on elevations facing the surveillance installations shall be undertaken."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II General Requirements (regs 4-13)",
+      "section": "11",
+      "title": "Periodic inspection and testing of surveillance facility",
+      "content": "11. Periodic inspection and testing of surveillance facility\nAn Air Navigation Service Provider shall establish a procedure for the periodic inspection and testing of a surveillance system, to verify that each facility meets the applicable operational requirements and performance specifications for that facility."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II General Requirements (regs 4-13)",
+      "section": "12",
+      "title": "Retention of surveillance data",
+      "content": "12. Retention of surveillance data\nAn Air Navigation Service Provider shall—\n( a ) establish a procedure for retention and release of surveillance data;\n( b ) retain recording of surveillance for a period of at least 30 days; and\n( c ) retain recordings that are pertinent to an accident or incident investigations for longer periods until it is evident that they will no longer be required."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II General Requirements (regs 4-13)",
+      "section": "13",
+      "title": "Recording and replay of ATS surveillance data",
+      "content": "13. Recording and replay of ATS surveillance data\n(1) An Air Navigation Service Provider shall provide recording equipment capable of automatic recording and replaying of surveillance data from primary and secondary radar equipment or other surveillance systems used as an aid to air traffic service.\n(2) A recording equipment shall provide a complete, identified, intelligible and accurate record of surveillance data to be recorded which may be used, in the event of an incident or in any investigation, by the designated Authority.\n(3) A recorded surveillance data shall include targets, system settings, time, alerts, alarms and any information necessary for investigation play back.\n(4) A replay equipment shall reconstruct the recorded data and shall, accurately reproduce all the features that were displayed, including display settings, at the relevant operational positions at the time of recording."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Airborne Collision Avoidance System (ACAS)",
+      "definition": "an aircraft system based on Secondary Surveillance Radar (SSR) transponder signals which operates independently of ground-based equipment to provide advice to the pilot on potential conflicting aircraft that are equipped with SSR transponders",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ACAS I",
+      "definition": "an ACAS which provides information an aid to \"see and avoid\" action but does not include the capability for generating resolution advisories (RAs)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ACAS II",
+      "definition": "an ACAS which provides vertical resolution advisories (RAs) in addition to traffic advisories (TAs)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ACAS III",
+      "definition": "an ACAS which provides vertical and horizontal resolution advisories (RAs) in addition to traffic advisories (TAs)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ACAS broadcast",
+      "definition": "a long Mode S air-air surveillance interrogation (UF = 16) with the broadcast address",
+      "source_provision": "s2"
+    },
+    {
+      "term": "active RAC (Resolution Advisory Compliments)",
+      "definition": "an RAC currently constrains the selection of the RA, RACs that have been received within the last six seconds and have not been explicitly cancelled are active",
+      "source_provision": "s2"
+    },
+    {
+      "term": "active surveillance",
+      "definition": "the process of tracking an intruder by using the information gained from the replies to own ACAS interrogations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft address",
+      "definition": "a unique combination of 24 bits available for assignment to an aircraft for the purpose of air-ground communications, navigation and surveillance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air navigation services",
+      "definition": "one or more of the following services provided for air navigation—\n( a ) air traffic services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Air Navigation Services Provider (ANSP)",
+      "definition": "an entity established for the purpose of providing one or more of the air navigation services as defined in these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "altitude crossing RA",
+      "definition": "a Resolution Advisory is altitude crossing if own ACAS aircraft is currently at least 30 m (100 ft) below or above the threat aircraft for upward or downward sense advisories, respectively",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approach angle",
+      "definition": "the difference in the ground headings of the two aircraft at closest approach, with 180 degrees defined as head on and 0 degrees defined as parallel",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Automatic Dependent Surveillance-Broadcast (ADS-B) OUT",
+      "definition": "a function on an aircraft or vehicle that periodically broadcasts its state vector (position and velocity) and other information derived from on-board systems in a format suitable for ADS-B IN capable receivers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Automatic Dependent Surveillance-Broadcast (ADS-B) IN",
+      "definition": "a function that receives surveillance data from ADS-B OUT data sources",
+      "source_provision": "s2"
+    },
+    {
+      "term": "climb RA",
+      "definition": "a positive RA recommending a climb but not an increased climb",
+      "source_provision": "s2"
+    },
+    {
+      "term": "closest approach",
+      "definition": "the occurrence of minimum range between own ACAS aircraft and the intruder. A range at closest approach is the smallest range between the two aircraft and time of closest approach is the time at which this occurs",
+      "source_provision": "s2"
+    },
+    {
+      "term": "collision avoidance logic",
+      "definition": "the sub-system or part of ACAS that analyses data relating to an intruder and own aircraft, decides whether advisories are appropriate and, if so, generates the advisories, and it includes the following functions—\n( a ) range and altitude tracking",
+      "source_provision": "s2"
+    },
+    {
+      "term": "coordination",
+      "definition": "the process by which two ACAS-equipped aircraft select compatible Resolution Advisories (RAs) by the exchange of Resolution Advisory Complements (RACs)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "coordination interrogation",
+      "definition": "a Mode S Interrogation (uplink transmission) radiated by ACAS II or III and containing a resolution message",
+      "source_provision": "s2"
+    },
+    {
+      "term": "coordination reply",
+      "definition": "a Mode S reply (downlink transmission) acknowledging the receipt of a coordination interrogation by the Mode S transponder that is part of an ACAS II or III installation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "corrective RA",
+      "definition": "a Resolution Advisory (RA) that advises the pilot to deviate from the current flight path",
+      "source_provision": "s2"
+    },
+    {
+      "term": "crossing encounter",
+      "definition": "an encounter in which the altitude separation of the two aircraft exceeds 100 ft at the beginning and at the end of the encounter window, and the relative vertical position of two aircraft at the end of the encounter window is reversed from that at the beginning of the encounter window",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cycle",
+      "definition": "one complete pass through the sequence of functions executed by ACAS II or ACAS III, nominally once a second",
+      "source_provision": "s2"
+    },
+    {
+      "term": "descend RA",
+      "definition": "a positive RA recommending a descent but not an increased descent",
+      "source_provision": "s2"
+    },
+    {
+      "term": "established track",
+      "definition": "a track generated by ACAS air-air surveillance that is treated as the track of an actual aircraft",
+      "source_provision": "s2"
+    },
+    {
+      "term": "encounter class",
+      "definition": "encounters classified according to whether the aircraft are transitioning at the beginning and end of the encounter window, and whether or not the encounter is crossing",
+      "source_provision": "s2"
+    },
+    {
+      "term": "encounter window",
+      "definition": "the time interval [tca - 40 s, tca + 10 s]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "extended hybrid surveillance",
+      "definition": "the process of using qualified ADS-B airborne position messages via 1 090 MHz extended squitter without validating 1 090 extended squitter data for the track by ACAS active interrogations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Horizontal Miss Distance (HMD)",
+      "definition": "the minimum horizontal separation observed in an encounter",
+      "source_provision": "s2"
+    },
+    {
+      "term": "human factors principles",
+      "definition": "principles which apply to design, certification, training, operations and maintenance and which seek safe interface between the human and other system components by proper consideration to human performance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hybrid surveillance",
+      "definition": "the process of using a combination of active surveillance and passive surveillance with validated data to update an ACAS track in order to preserve ACAS independence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "increased rate RA",
+      "definition": "an RA with a strength that recommends increasing the altitude rate to a value exceeding that recommended by a previous climb or descend RA",
+      "source_provision": "s2"
+    },
+    {
+      "term": "intruder",
+      "definition": "an SSR transponder-equipped aircraft within the surveillance range of ACAS for which ACAS has an established track",
+      "source_provision": "s2"
+    },
+    {
+      "term": "MU",
+      "definition": "a designator Message, Airborne Collision Avoidance System in the message field or in short MU field",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Multilateration (MLAT) System",
+      "definition": "a group of equipment configured to provide position derived from the Secondary Surveillance Radar (SSR) transponder signals (replies or squitters) primarily using Time Difference of Arrival (TDOA) techniques. Additional information, including identification, can be extracted from the received signals",
+      "source_provision": "s2"
+    },
+    {
+      "term": "original trajectory",
+      "definition": "the original trajectory of an ACAS-equipped aircraft followed by the aircraft in the same encounter when it was not ACAS-equipped",
+      "source_provision": "s2"
+    },
+    {
+      "term": "original rate",
+      "definition": "the original rate of an ACAS-equipped aircraft at any time is its altitude rate at the same time when it followed the original trajectory",
+      "source_provision": "s2"
+    },
+    {
+      "term": "own aircraft",
+      "definition": "an aircraft—\n( a ) fitted with an ACAS that is the subject of the discourse",
+      "source_provision": "s2"
+    },
+    {
+      "term": "passive surveillance",
+      "definition": "the process of tracking another aircraft without interrogating it, by using the other aircraft's extended squitters (ACAS uses the information obtained via 1090 MHz extended squitter to monitor the need for active surveillance only. Passive surveillance applies to both hybrid and extended hybrid surveillance)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "positive RA",
+      "definition": "a Resolution Advisory that advises the pilot either to climb or to descend (applies to ACAS II)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "potential threat",
+      "definition": "an intruder deserving special attention either because of its proximity to own aircraft or because successive range and altitude measurements indicate that it could be on a collision or near-collision course with own aircraft, and the warning time provided against a potential threat is sufficiently small that a Traffic Advisory (TA) is justified but not so small that a RA would be justified",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Radio Frequency (RF)",
+      "definition": "a measured unit called hertz (Hz), which represent the number of cycles per second when a radio wave is transmitted from one point to the other",
+      "source_provision": "s2"
+    },
+    {
+      "term": "RA sense",
+      "definition": "the sense of an ACAS II RA is \"upward\" if it requires climb or limitation of descent rate and \"downward\" if it requires descent or limitation of climb rate, and it can be both upward and downward simultaneously if it requires limitation of the vertical rate to a specified range",
+      "source_provision": "s2"
+    },
+    {
+      "term": "required rate",
+      "definition": "for the standard pilot model, the required rate is that closest to the original rate consistent with the RA",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Resolution Advisory (RA)",
+      "definition": "an indication given to the flight crew recommending—\n( a ) a manoeuvre intended to provide separation from all threats",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Resolution Advisory Complement (RAC)",
+      "definition": "information provided by one ACAS to another via a Mode S interrogation in order to ensure complementary manoeuvres by restricting the choice of manoeuvres available to the ACAS receiving the RAC",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Resolution Advisory Complements record (RAC record)",
+      "definition": "a composite of all currently active vertical RACs (VRCs) and horizontal RACs (HRCs) that have been received by ACAS. This information is provided by one ACAS to another ACAS or to a Mode S ground station via a Mode S reply",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reversed sense RA",
+      "definition": "an RA that has had its sense reversed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Secondary Surveillance Radar (SSR)",
+      "definition": "a surveillance radar system which uses transmitters/receivers (interrogators) and transponders",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sensitivity level ( S )",
+      "definition": "an integer defining a set of parameters used by the Traffic Advisory and collision avoidance algorithms to control the warning time provided by the potential threat and threat detection logic, as well as the values of parameters relevant to the RA selection logic",
+      "source_provision": "s2"
+    },
+    {
+      "term": "surveillance radar",
+      "definition": "radar equipment used to determine the position of an aircraft in range and azimuth",
+      "source_provision": "s2"
+    },
+    {
+      "term": "threat",
+      "definition": "an intruder deserving special attention either because of its proximity to own aircraft or because successive range and altitude measurements indicate that it could be on a collision or near-collision course with own aircraft, and the warning time provided against a threat is sufficiently small that an RA is justified",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Time Difference of Arrival (TDOA)",
+      "definition": "the difference in relative time that a transponder signal from the same aircraft (or ground vehicle) is received at different receivers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Traffic Advisory (TA)",
+      "definition": "an indication given to the flight crew that a certain intruder is a potential threat",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Traffic Information Service - Broadcast (TIS-B) IN",
+      "definition": "a surveillance function that receives and processes surveillance data from TIS-B OUT data sources",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Traffic Information Service - Broadcast (TIS-B) OUT",
+      "definition": "a function on the ground that periodically broadcasts the surveillance information made available by ground sensors in a format suitable for TIS-B IN capable receivers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transitioning aircraft",
+      "definition": "an aircraft having an average vertical rate with a magnitude exceeding 400 feet per minute (ft/min), measured over some period of interest",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transponder occupancy",
+      "definition": "a state of unavailability of the transponder from the time it detects an incoming signal that appears to cause some action or from the time of a self-initiated transmission, to the time that it is capable of replying to another interrogation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "turn extent",
+      "definition": "an aircraft's ground heading at the end of a turn minus its ground heading at the beginning of the turn",
+      "source_provision": "s2"
+    },
+    {
+      "term": "validation",
+      "definition": "the process of verifying the relative position of",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "bw-act-control-of-livestock-industry",
+  "type": "statute",
+  "title": "Control of Livestock Industry",
+  "title_en": "Control of Livestock Industry",
+  "short_name": "Control of Livestock Industry",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/control-of-livestock-industry",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Control of Livestock Industry Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nFor the purposes of this Act, the expression—\n\"Chief\" has the meaning assigned to it under the Bogosi Act (Cap. 41:01);\n\"export slaughter house\" means a slaughter house licensed as an export slaughter house under section 29;\n\"livestock\" includes cattle, sheep and goats;\n\"non-tribal area\" means any area which is not a tribal area as defined in this section;\n\"slaughter house\" means a place where livestock are slaughtered for human consumption;\n\"tribal area\" means the area known as the Barolong Farms, as described in Schedule B to the Botswana Boundaries Act (Cap. 03:01), and the Bamangwato, Batawana, Bakgatla, Bakwena, Bangwaketse, Bamalete and the Batlokwa Tribal Territories, as defined in the Tribal Territories Act (Cap. 32:03), or any area which may be added thereto by law."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Purchases of Livestock",
+      "section": "3",
+      "title": "Permits for sale or disposal by persons subject to any Botswana customary law",
+      "content": "3. Permits for sale or disposal by persons subject to any Botswana customary law\nThere shall be established in each tribal area a system of Chief's permits in a form approved by the President and in each non-tribal area a system of District Commissioner's permits in a form approved by the President to authorise the sale or disposal of livestock by a person subject to any customary law of Botswana to any person other than a person subject to any customary law of Botswana domiciled in the same area."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Purchases of Livestock",
+      "section": "4",
+      "title": "Purchase or acquisition of livestock",
+      "content": "4. Purchase or acquisition of livestock\nNo person shall purchase or otherwise acquire for the purpose of trade within Botswana any livestock unless he is the holder of a current licence issued under this Part and no person shall purchase or otherwise acquire from a person subject to customary law any livestock unless that person is in possession of a Chief's or District Commissioner's permit authorising such transaction:\nProvided that any person who is subject to any customary law in Botswana and is domiciled in Botswana may, without obtaining a licence under this Part, purchase or otherwise acquire livestock within his own tribal area or within his own non-tribal area, as the case may be, for his own use or for disposal within that area to any other such person so domiciled."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Purchases of Livestock",
+      "section": "5",
+      "title": "Sale or disposal of livestock",
+      "content": "5. Sale or disposal of livestock\nNo person subject to any customary law of Botswana shall sell or otherwise dispose of livestock to a person other than a person subject to a customary law of Botswana and domiciled in the same tribal or non-tribal area, as the case may be, unless he is in possession of a Chief's or District Commissioner's permit authorising such transaction.\n(2) Subject to the provisions of subsection (1), no person shall sell or otherwise dispose of livestock within Botswana to any person other than the holder of a current licence issued under this Part:\nProvided that any person licensed under this Part may barter or exchange livestock with a person subject to any customary law of Botswana who is in possession of a Chief's or District Commissioner's permit."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Purchases of Livestock",
+      "section": "6",
+      "title": "Licences and fees",
+      "content": "6. Licences and fees\n(1) Licences under this Part are as follows—\n( a ) a livestock buyer's licence;\n( b ) a livestock buyer's agent's licence.\n(2) Every licence issued under this Part shall expire on the 31st day of December next following the date of issue, and subject to the provisions of section 9 there shall be payable in respect of each such livestock buyer's licence the sum of P70 for an annual licence, and P52,50 for a licence issued after the 30th day of June in any year, and in respect of each such livestock buyer's agent's licence the sum of P50 for an annual licence, and P32,50 for a licence issued after the 30th day of June in any year.\n(3) Every licence under this Part shall be issued subject to such conditions as the President may impose, and any such conditions shall be endorsed on the licence:\nProvided that any endorsement restricting the area within which the purchase or acquisition of livestock may be effected shall not apply to any place appointed in terms of section 17 for the public sale of livestock.\n(4) No livestock buyer's licence issued under this Part shall be transferable.\n(5) No livestock buyer's licence shall be issued under this Part unless the person applying therefor has produced to the officer authorised to issue the same a certificate under the hand of the Registrar of Brands that the applicant has been registered under the provisions of the Branding of Cattle Act (Cap. 36:02) as the proprietor of a brand.\n(6) The person to whom a livestock buyer's licence has been issued shall be entitled to nominate one agent or employee to purchase or otherwise acquire livestock on his behalf, and, if approved, he shall be issued with a livestock buyer's agent's licence on payment of the fee prescribed in subsection (2):\nProvided that where the holder of a general trading licence is issued under this Part with a free livestock buyer's licence, any employee of such general trader may purchase or otherwise acquire livestock under the said free livestock buyer's licence on behalf of such general trader, at the licensed premises only.\n(7) A livestock buyer's licence may be transferred with the approval of the authorised officer and provided the name of the transferee is substituted by the authorised officer for that already endorsed on the licence.\n(8) The issue or renewal of any licence under this Part or the alteration of the endorsement on any such licence may be refused by the President or any officer authorised to issue licences, without any reason being given for such refusal."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Purchases of Livestock",
+      "section": "7",
+      "title": "Fees for permits",
+      "content": "7. Fees for permits\n(1) The President may make regulations prescribing the fees which may be charged on the issue of a Chief's or District Commissioner's permit for each head of livestock covered by such permit."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Chief",
+      "definition": "assigned to it under the Bogosi Act (Cap. 41:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "export slaughter house",
+      "definition": "a slaughter house licensed as an export slaughter house under section 29",
+      "source_provision": "s2"
+    },
+    {
+      "term": "livestock",
+      "definition": "cattle, sheep and goats",
+      "source_provision": "s2"
+    },
+    {
+      "term": "non-tribal area",
+      "definition": "any area which is not a tribal area as defined in this section",
+      "source_provision": "s2"
+    },
+    {
+      "term": "slaughter house",
+      "definition": "a place where livestock are slaughtered for human consumption",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tribal area",
+      "definition": "the area known as the Barolong Farms, as described in Schedule B to the Botswana Boundaries Act (Cap. 03:01), and the Bamangwato, Batawana, Bakgatla, Bakwena, Bangwaketse, Bamalete and the Batlokwa Tribal Territories, as defined in the Tribal Territories Act (Cap. 32:03), or any area which may be added thereto by law.",
+      "source_provision": "s2"
+    }
+  ]
+}

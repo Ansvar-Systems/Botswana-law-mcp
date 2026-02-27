@@ -1,0 +1,66 @@
+{
+  "id": "bw-sub-telecommunications-subsidiary-legislation",
+  "type": "statute",
+  "title": "Telecommunications: Subsidiary Legislation",
+  "title_en": "Telecommunications: Subsidiary Legislation",
+  "short_name": "Telecommunications: Subsidi...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/telecommunications-subsidiary-legislation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Telecommunications Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-2)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise requires-\n\"Act\" means the Telecommunications Act (Cap. 72:03);\n\"address capacity\" means a part of the address plan's total address resource;\n\"Authority\" means the Telecommunications Authority;\n\"connection to a telecommunication system\" means either direct connection by wired, radio optical or other electromagnetic means, to the termination point of a telecommunication system, or the interworking point of such a system;\n\"license\" means a service provider as defined under section 2 of the Act, and shall include a telecommunication system operator;\n\"number capacity\" means a part of the numbering plan's total number resource."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Telecommunication Networks and Services (regs 3-16)",
+      "section": "3",
+      "title": "General obligation",
+      "content": "3. General obligation\nEvery licensee shall-\n( a ) operate his telecommunication system or provide his telecommunication service in accordance with international telecommunication treaties and conventions which are binding on Botswana;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the Telecommunications Act (Cap. 72:03)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "address capacity",
+      "definition": "a part of the address plan's total address resource",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Telecommunications Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "connection to a telecommunication system",
+      "definition": "either direct connection by wired, radio optical or other electromagnetic means, to the termination point of a telecommunication system, or the interworking point of such a system",
+      "source_provision": "s2"
+    },
+    {
+      "term": "license",
+      "definition": "a service provider as defined under section 2 of the Act, and shall include a telecommunication system operator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "number capacity",
+      "definition": "a part of the numbering plan's total number resource.",
+      "source_provision": "s2"
+    }
+  ]
+}

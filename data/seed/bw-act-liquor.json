@@ -1,0 +1,192 @@
+{
+  "id": "bw-act-liquor",
+  "type": "statute",
+  "title": "Liquor",
+  "title_en": "Liquor",
+  "short_name": "Liquor",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/liquor",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Liquor Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"authorised officer\" means a person so designated under section 26;\n\"control authority\" means liquor control authority in the relevant district, sub district, town or city, established under section 3;\n\"bar\" means a place used for the sale of intoxicating liquor, non-intoxicating drinks and snacks, for consumption on the premises;\n\"bottle store\" means a place used for the sale of intoxicating liquor, non-intoxicating drinks in sealed vessels and snacks for consumption off the premises;\n\"bulk\" means quantities of goods as packaged by the manufacturer and not broken up into smaller quantities or single units, save that in the case of high value items such as fridges, furniture and bicycles, a wholesaler may sell an item in smaller quantities or single units;\n\"club\" means a place where intoxicating liquor in unsealed vessels and food can be purchased, for consumption at such place;\n\"council\" means a city or town council established under the Townships Act (Cap. 40:02) or a district council established under the Local Government (District Councils) Act (Cap. 40:01);\n\"discotheque/nightclub\" means a place of entertainment with facilities for dancing to music or live entertainment, where intoxicating liquor is sold for consumption at such place;\n\"discrimination\" means the treating of any person on the grounds of sex, colour, race, nationality or creed, or religion, less favourably than, or in any manner different from, any person;\n\"distributor\" means a person who carries on the business of negotiating contracts between parties for any product for which he is an agent for reward;\n\"fronting\" means obtaining a licence to enable another person, who would otherwise not qualify to obtain such a licence, to run a business;\n\"intoxicating liquor\" means spirits, wine, beer, cider or any other fermented, distilled or spirituous liquor and includes traditional beer;\n\"licensee\" means a person to whom a licence has been issued under this Act;\n\"liquor depot\" means a place used for sale of—\n( a ) traditional beer brewed under licence from sorghum meal and mealie-meal by fermentation of malt for commercial purposes;\n( b ) non-intoxicating drinks;\n( c ) snacks; or\n( d ) smoker&rsquo;s requisites;\n[ 28 of 2018, s. 2. ]\n\"liquor depot licence\" means a licence for the operation of a liquor depot;\n[ 28 of 2018, s. 2. ]\n\"major road\" means a primary (national or local) and secondary road;\n[ 28 of 2018, s. 2. ]\n\"member\" means a member of a control authority;\n\"primary (local road)\" means a road with a road reserve of 45 metres and carriage way of seven point five metres;\n[ 28 of 2018, s. 2. ]\n\"primary (national road)\" means a road with a road reserve of 60 metres and carriage way of seven point five metres;\n[ 28 of 2018, s. 2. ]\n\"region\" means an area made up of districts in the same geographical area;\n\"register\" means a register kept in accordance with section 9( b );\n\"secondary road\" means a road with a road reserve of 30 metres and carriage way of six metres;\n[ 28 of 2018, s. 2. ]\n\"sell\" means to sell by retail or wholesale and includes to barter, exchange, offer or expose for sale;\n\"smoker's requisites\" includes cigarettes, cigarette lighters, cigarette filters, tobacco, tobacco pipes, ash trays and other related cigarette accessories;\n[ 28 of 2018, s. 2. ]\n\"trade\" means to carry on the business of selling intoxicating liquor;\n\"traditional beer\" means—\n( a ) beer brewed under licence from sorghum-meal or mixture of sorghum-meal and mealie-meal by the fermentation of malt sorghum for commercial purposes;\n( b ) any other beer declared by regulations made under section 42 to be traditional beer;\n\"temporary liquor licence\" means an authorisation permitting the holder to sell intoxicating liquor at a public place for consumption at such place, for a period not exceeding 90 days; and\n\"wholesale\" means a place used for the selling of intoxicating liquor and other beverages in bulk."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment of Liquor Control Authorities",
+      "section": "3",
+      "title": "Establishment of liquor control authority",
+      "content": "3. Establishment of liquor control authority\n(1) There is hereby established a liquor control authority for each district, sub district, town and city.\n(2) The Minister shall by notice published in the Gazette , appoint members of the control authority.\n(3) A control authority established under subsection (1) shall consist of the following members—\n( a ) a Chairman, who shall be appointed by the Minister from the private sector;\n( b ) an environmental health officer;\n( c ) a physical planner;\n( d ) a member of the Botswana Police Service;\n( e ) a representative of a non-governmental organisation;\n( f ) one member of the community;\n( g ) three councilors;\n( h ) a representative of the Ministry of Trade and Industry; and\n( i ) a representative of Tribal Administration.\n(4) The members shall elect from among their number, the Vice-Chairman."
+    },
+    {
+      "provision_ref": "s3A",
+      "chapter": "PART II Establishment of Liquor Control Authorities",
+      "section": "3A",
+      "title": "Co-option of advisory personnel",
+      "content": "3A. Co-option of advisory personnel\nA control authority may co-opt any person to attend any meeting of the authority on any matter for the purpose of assisting or advising the authority, but such person shall have no right to vote.\n[ 28 of 2018, s. 3. ]"
+    },
+    {
+      "provision_ref": "s3B",
+      "chapter": "PART II Establishment of Liquor Control Authorities",
+      "section": "3B",
+      "title": "Secretariat",
+      "content": "3B. Secretariat\nThe Minister shall designate an office to be the Secretariat of a control authority.\n[ 28 of 2018, s. 3. ]"
+    },
+    {
+      "provision_ref": "s3C",
+      "chapter": "PART II Establishment of Liquor Control Authorities",
+      "section": "3C",
+      "title": "Functions of Secretariat",
+      "content": "3C. Functions of Secretariat\nThe Secretariat shall—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "a person so designated under section 26",
+      "source_provision": "s2"
+    },
+    {
+      "term": "control authority",
+      "definition": "liquor control authority in the relevant district, sub district, town or city, established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bar",
+      "definition": "a place used for the sale of intoxicating liquor, non-intoxicating drinks and snacks, for consumption on the premises",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bottle store",
+      "definition": "a place used for the sale of intoxicating liquor, non-intoxicating drinks in sealed vessels and snacks for consumption off the premises",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bulk",
+      "definition": "quantities of goods as packaged by the manufacturer and not broken up into smaller quantities or single units, save that in the case of high value items such as fridges, furniture and bicycles, a wholesaler may sell an item in smaller quantities or single units",
+      "source_provision": "s2"
+    },
+    {
+      "term": "club",
+      "definition": "a place where intoxicating liquor in unsealed vessels and food can be purchased, for consumption at such place",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council",
+      "definition": "a city or town council established under the Townships Act (Cap. 40:02) or a district council established under the Local Government (District Councils) Act (Cap. 40:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "discotheque/nightclub",
+      "definition": "a place of entertainment with facilities for dancing to music or live entertainment, where intoxicating liquor is sold for consumption at such place",
+      "source_provision": "s2"
+    },
+    {
+      "term": "discrimination",
+      "definition": "the treating of any person on the grounds of sex, colour, race, nationality or creed, or religion, less favourably than, or in any manner different from, any person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "distributor",
+      "definition": "a person who carries on the business of negotiating contracts between parties for any product for which he is an agent for reward",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fronting",
+      "definition": "obtaining a licence to enable another person, who would otherwise not qualify to obtain such a licence, to run a business",
+      "source_provision": "s2"
+    },
+    {
+      "term": "intoxicating liquor",
+      "definition": "spirits, wine, beer, cider or any other fermented, distilled or spirituous liquor and includes traditional beer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "a person to whom a licence has been issued under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "liquor depot",
+      "definition": "a place used for sale of—\n( a ) traditional beer brewed under licence from sorghum meal and mealie-meal by fermentation of malt for commercial purposes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "liquor depot licence",
+      "definition": "a licence for the operation of a liquor depot",
+      "source_provision": "s2"
+    },
+    {
+      "term": "major road",
+      "definition": "a primary (national or local) and secondary road",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of a control authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "primary (local road)",
+      "definition": "a road with a road reserve of 45 metres and carriage way of seven point five metres",
+      "source_provision": "s2"
+    },
+    {
+      "term": "primary (national road)",
+      "definition": "a road with a road reserve of 60 metres and carriage way of seven point five metres",
+      "source_provision": "s2"
+    },
+    {
+      "term": "region",
+      "definition": "an area made up of districts in the same geographical area",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "a register kept in accordance with section 9( b )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "secondary road",
+      "definition": "a road with a road reserve of 30 metres and carriage way of six metres",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sell",
+      "definition": "to sell by retail or wholesale and includes to barter, exchange, offer or expose for sale",
+      "source_provision": "s2"
+    },
+    {
+      "term": "smoker's requisites",
+      "definition": "cigarettes, cigarette lighters, cigarette filters, tobacco, tobacco pipes, ash trays and other related cigarette accessories",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trade",
+      "definition": "to carry on the business of selling intoxicating liquor",
+      "source_provision": "s2"
+    },
+    {
+      "term": "temporary liquor licence",
+      "definition": "an authorisation permitting the holder to sell intoxicating liquor at a public place for consumption at such place, for a period not exceeding 90 days",
+      "source_provision": "s2"
+    },
+    {
+      "term": "wholesale",
+      "definition": "a place used for the selling of intoxicating liquor and other beverages in bulk.",
+      "source_provision": "s2"
+    }
+  ]
+}

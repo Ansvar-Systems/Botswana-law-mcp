@@ -1,0 +1,81 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-ghanzi-district-council-dogs-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Ghanzi District Council (dogs) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Ghanzi District Council (dogs) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-ghanzi-district-council-dogs-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-laws may be cited as the Ghanzi District Council (Dogs) Bye-laws*.\n*Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application of Bye-laws",
+      "content": "2. Application of Bye-laws\nThese Bye-laws shall apply to Ghanzi township area."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "3. Interpretation\nIn these Bye-laws, unless the context otherwise requires\n\"authorised officer\" means the Council Secretary or any other officer of the Council authorised in writing by the Council Secretary to perform the duties under these Bye-laws;\n\"Council\" means the Ghanzi District Council;\n\"licence\" means a licence issued under bye-law 4;\n\"public place\" means any road, street, thoroughfare, bridge, foot pavement, open space or park within the Council's area of jurisdiction and the enclosed space within its control;\n\"rabies certificate\" means a certificate signed by a veterinary officer stating that a dog has been vaccinated against rabies; and\n\"veterinary officer\" includes a veterinary officer, livestock officer or stock inspector employed in the Government service and a veterinary surgeon defined under the Veterinary Surgeons Act (Cap. 61:04)."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Licensing of dogs",
+      "content": "4. Licensing of dogs\n(1) A person shall not keep a dog which is over six months old without a licence to keep that dog, issued under these Bye-laws.\n(2) The owner of a dog shall, within four weeks of the dog attaining the age of six months, apply to an authorised officer for a licence to keep that dog in Form A set out in Schedule I.\n(3) The authorised officer shall, on receipt of a written application, upon the payment of the fee set out in Schedule II and after the production of a rabies certificate by the applicant, issue a dog licence in Form B set out in Schedule I.\n(4) In the case of any dispute as to whether a dog is six months old or not, the opinion of a veterinary officer shall be final."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Duration of licence",
+      "content": "5. Duration of licence\nA licence issued under bye-law 4 shall be\n( a ) valid for 12 months and shall be renewable for a further period of 12 months upon application by the owner of the dog; and\n( b ) symbolised by issuing of a metal tag to the licensee."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Renewal of licence",
+      "content": "6. Renewal of licence\n(1) A holder of a dog licence may, upon its expiry, apply for a renewal to the authorised officer, in Form C set out in Schedule I, for a period of 12 months.\n(2) An application for renewal in terms of sub-bye-law (1) shall be made not later than one month before the expiry of that licence.\n(3) Subject to the provisions of sub-bye-law (4), the authorised officer may, on receipt of an application, renew the licence by endorsing on the licence and upon payment of a fee set out in Schedule II to these Bye-laws, and may attach such conditions to the renewal thereof as he or she may determine.\n(4) The Registrar may refuse to renew a licence if satisfied that\n( a ) the conditions of the licence have not been complied with;\n( b ) the conditions of these Bye-laws have not been complied with; or"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "the Council Secretary or any other officer of the Council authorised in writing by the Council Secretary to perform the duties under these Bye-laws",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Council",
+      "definition": "the Ghanzi District Council",
+      "source_provision": "s3"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued under bye-law 4",
+      "source_provision": "s3"
+    },
+    {
+      "term": "public place",
+      "definition": "any road, street, thoroughfare, bridge, foot pavement, open space or park within the Council's area of jurisdiction and the enclosed space within its control",
+      "source_provision": "s3"
+    },
+    {
+      "term": "rabies certificate",
+      "definition": "a certificate signed by a veterinary officer stating that a dog has been vaccinated against rabies",
+      "source_provision": "s3"
+    },
+    {
+      "term": "veterinary officer",
+      "definition": "a veterinary officer, livestock officer or stock inspector employed in the Government service and a veterinary surgeon defined under the Veterinary Surgeons Act (Cap. 61:04).",
+      "source_provision": "s3"
+    }
+  ]
+}

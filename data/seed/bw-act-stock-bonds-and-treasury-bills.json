@@ -1,0 +1,54 @@
+{
+  "id": "bw-act-stock-bonds-and-treasury-bills",
+  "type": "statute",
+  "title": "Stock, Bonds and Treasury Bills",
+  "title_en": "Stock, Bonds and Treasury Bills",
+  "short_name": "Stock, Bonds and Treasury B...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/stock-bonds-and-treasury-bills",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Stock, Bonds and Treasury Bills Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Bank\" means the Bank of Botswana established under the Bank of Botswana Act (Cap. 55:01);\n\"bonds\" means any fixed income instrument, debt security or loan, given by an investor to an issuer in return for the promise of being paid interest at given times, and the principal in full at the maturity of the bond;\n\"debt service ratio\" means interest and principal payments due on public and publicly guaranteed debt during the year, which is expressed as a percentage of the total exports of goods and services for that year;\n\"scripless format\" means a paperless system where ownership of securities is recorded in an electronic book-entry format;\n\"stock\" means any equity investment that entitles the investor to co-ownership in the issuing organisations earnings and assets; and"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bank",
+      "definition": "the Bank of Botswana established under the Bank of Botswana Act (Cap. 55:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bonds",
+      "definition": "any fixed income instrument, debt security or loan, given by an investor to an issuer in return for the promise of being paid interest at given times, and the principal in full at the maturity of the bond",
+      "source_provision": "s2"
+    },
+    {
+      "term": "debt service ratio",
+      "definition": "interest and principal payments due on public and publicly guaranteed debt during the year, which is expressed as a percentage of the total exports of goods and services for that year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "scripless format",
+      "definition": "a paperless system where ownership of securities is recorded in an electronic book-entry format",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stock",
+      "definition": "any equity investment that entitles the investor to co-ownership in the issuing organisations earnings and assets",
+      "source_provision": "s2"
+    }
+  ]
+}

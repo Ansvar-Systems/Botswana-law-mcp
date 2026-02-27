@@ -1,10 +1,10 @@
 /**
- * Rate-limited HTTP client for Botswana Law (elaws.gov.bw)
+ * Rate-limited HTTP client for Botswana Law (botswanalaws.com)
  *
- * - 500ms minimum delay between requests (be respectful to government servers)
+ * - 500ms minimum delay between requests (be respectful to the server)
  * - User-Agent header identifying the MCP
- * - Fetches structured AKN HTML from elaws.gov.bw
- * - No auth needed (Government Open Data)
+ * - Fetches HTML from botswanalaws.com (Joomla CMS)
+ * - No auth needed for publicly available content
  */
 
 const USER_AGENT = 'botswana-law-mcp/1.0 (https://github.com/Ansvar-Systems/botswana-law-mcp; hello@ansvar.ai)';

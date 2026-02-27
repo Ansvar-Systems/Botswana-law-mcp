@@ -1,0 +1,303 @@
+{
+  "id": "bw-act-botswana-stock-exchange",
+  "type": "statute",
+  "title": "Botswana Stock Exchange",
+  "title_en": "Botswana Stock Exchange",
+  "short_name": "Botswana Stock Exchange",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-stock-exchange",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Stock Exchange Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act-\n\"annual general meeting\" means an annual general meeting convened in terms of section 19(1);\n\"applicant\" means a person making application for licence in terms of Part IV;\n\"appointed Committee member\" means a Committee member appointed in terms of-\n( a ) section 5(1)( a ); or\n( b ) section 12(1)( a );\n\"appointed date\" means the date appointed as the date of commencement of this Act or the relevant part thereof;\n\"associate member\" means a member of the Exchange who, not being a licensed stockbroker, acts as the agent of a licensed stockbroker in the conduct of Exchange transactions;\n\"banking institution\" means an accepting house, commercial bank, discount house, merchant bank or financial institution;\n\"Board\" means the Board of Trustees of the Botswana Stock Exchange Security Fund and established by section 72(2);\n\"brokerage\" means the commission charged by a stockbroker in respect of the purchase or sale of listed securities on behalf of a client;\n\"broker's note\" means a broker's note referred to in section 52;\n\"Chairman\" means the Committee member elected in terms of section 6(1) or 6(2) to be the Chairman of the Exchange;\n\"client\", save in section 87, means a person who instructs a stockbroker to purchase or sell listed securities;\n\"commercial bank\" means a registered commercial bank approved by the Committee;\n\"Committee\" means the Committee of the Botswana Stock Exchange referred to in section 4;\n\"Committee member\" means an appointed Committee member or an elected Committee member;\n\"company\" includes any body corporate;\n\"defaulter\" means a stockbroker who makes default in one or more of his Exchange transactions;\n\"elected Committee member\" means a Committee member-\n( a ) elected in terms of section 5(1)( b ); or\n( b ) co-opted in terms of section 12(1)( b ) or section 12(4);\n\"Exchange\" means the Botswana Stock Exchange established by section 3;\n\"Exchange auditor\" means the auditor elected or appointed in terms of section 41;\n\"Exchange estate\", in relation to a defaulter who has been suspended from practice, or a person who was a stockbroker and who has died, or whose licence has been cancelled, means the assets and liabilities arising from the Exchange transactions of that defaulter or person and includes-\n( a ) the proprietary rights of that defaulter or person; and\n( b ) differences paid to the Secretary in respect of the closing of Exchange transactions entered into by that defaulter or person;\n\"Exchange meeting\" means an annual general meeting or a special meeting;\n\"Exchange transaction\" means any transaction entered into under the auspices of the Botswana Stock Exchange;\n\"financial institution\" means a registered financial institution approved by the Committee;\n\"financial year\", in relation to the Exchange, means a period of 12 months up to and including the 31st December of each year;\n\"Fund\" means the Botswana Stock Exchange Security Fund established by section 72(1);\n\"inspector\" ...;\n[2 of 2007, s. 107.]\n\"insurer\" means a person registered as an insurer in terms of the Insurance Industry Act;\n\"issuer\" means any issuer of securities, including the Government;\n\"licensing certificate\" means a licencing certificate issued in terms of this Act;\n[2 of 2007, s. 107.]\n\"listed security\" means any security which is included in the official list;\n\"member of the Exchange\" means a person who-\n( a ) is licensed as a stockbroker in Botswana; or\n( b ) has been admitted by the Committee to membership of the Exchange as an associate member, a non-broking member, or member appointed by the Regulatory Authority;\n\"official list\" means the list of securities kept in terms of section 16(1)( a );\n\"partnership\" means a partnership of licensed stockbrokers;\n\"proprietary right\" means a share in the assets of the Exchange acquired by-\n( a ) an applicant for the purpose of a licence;\n( b ) a person seeking admission as an associate member; or\n( c ) a licensed stockbroker, bearing a nominal value specified in the rules and bearing interest at a rate fixed by the Exchange in annual general meeting;\n\"Register\" means the Register of Stockbrokers established in terms of this Act;\n\"Registrar\" means the Regulatory Authority established under the Non-Bank Financial Institutions Regulatory Authority Act (Cap. 46:08);\n[2 of 2007, s. 107.]\n\"scrip\" means share certificates, certified deeds and provisional share certificates;\n\"Secretary\" means the Secretary appointed in terms of section 18(1);\n\"security\" -\n( a ) means any fully paid up share, stock, debenture, debenture stock, loan stock, unit in a unit portfolio or other security, other than a bearer security or proprietary right; and\n( b ) includes any right of option to acquire a security referred to in paragraph ( a ), whether fully paid up or not;\n\"special meeting\" means a special meeting of the Exchange convened in terms of section 19(3);\n\"stockbroker\" means a person who-\n( a ) carries on the business of purchasing and selling or purchasing or selling listed securities on behalf of other persons; or\n( b ) regularly purchases and sells or purchases or sells listed securities on his own behalf, otherwise than through a licensed stockbroker and includes a company licensed in terms of section 30;\n\"the rules\" means the rules made by the Committee in terms of section 89(1);\n\"Vice-Chairman\" means the Committee member elected in terms of section 6(1) or 6(2) to be the Vice-Chairman of the Exchange."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Botswana Stock Exchange",
+      "section": "3",
+      "title": "Establishment of Botswana Stock Exchange",
+      "content": "3. Establishment of Botswana Stock Exchange\nThere is hereby established a stock exchange to be known as the Botswana Stock Exchange, which shall be a body corporate and shall be capable of suing and being sued in its corporate name and, subject to the provisions of this Act, of performing all such acts as bodies corporate may by law perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Botswana Stock Exchange",
+      "section": "4",
+      "title": "Committee of Stock Exchange",
+      "content": "4. Committee of Stock Exchange\nThe affairs of the Exchange shall, subject to the provisions of this Act, be managed and controlled by a committee to be known as the Committee of the Botswana Stock Exchange."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Botswana Stock Exchange",
+      "section": "5",
+      "title": "Composition of Committee",
+      "content": "5. Composition of Committee\n(1) The Committee shall consist of-\n( a ) three members appointed by the Minister on the recommendation of the Regulatory Authority; and\n[2 of 2007, s. 107.]\n( b ) not less than two or more than six members, as the Committee may from time to time determine-\n(i) elected by members of the Exchange; and\n(ii) not more than two of whom shall be members of any one partnership or company,\nwho shall hold office for a period of one year, but shall be eligible to be re-appointed or re-elected.\n(2) The Minister may, on the recommendation of the Regulatory Authority, appoint any person, other than a member of the Non-Bank Financial Institutions Regulatory Authority, to the Committee as an alternate to an appointed Committee member, and that person-\n[2 of 2007, s. 107.]\n( a ) shall act as a Committee member only when the appointed Committee member to whom he is alternate is unable to exercise his functions on the Committee by reason of illness, absence from Botswana or other reasonable cause; and\n( b ) when acting as a Committee member, shall-\n(i) exercise the functions and powers and perform the duties of the appointed Committee member to whom he is alternate; and\n(ii) for the purposes of this Act, be deemed to have been duly appointed to the Committee in terms of subsection (1)( a ).\n(3) The Secretary shall notify the Registrar in writing of any change in the membership of the Committee, within a period of 14 days from the date of the change."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Botswana Stock Exchange",
+      "section": "6",
+      "title": "Chairman, Vice-Chairman and Treasurer of Exchange",
+      "content": "6. Chairman, Vice-Chairman and Treasurer of Exchange\n(1) The Committee members shall elect from among the elected Committee members a Chairman, Vice-Chairman and Treasurer of the Exchange at the first Committee meeting after an election referred to in section 5(1)( b ).\n(2) If there is at any time a vacancy in the office of Chairman, Vice-Chairman or Treasurer of the Exchange, the Committee members may elect an elected Committee member to fill that vacancy.\n(3) The Vice-Chairman shall-\n( a ) assist the Chairman in the exercise of the functions and powers and the performance of the duties of the Chairman; and\n( b ) exercise the functions and powers and perform the duties referred to in paragraph ( a ) during any period when the Chairman is unable to exercise those functions and powers or perform those duties.\n(4) If both the Chairman and the Vice-Chairman are absent from a Committee meeting, the Committee members present may elect a Committee member to preside as chairman at that meeting."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II Botswana Stock Exchange",
+      "section": "7",
+      "title": "Remuneration and allowances of Committee members",
+      "content": "7. Remuneration and allowances of Committee members\nA Committee member shall be paid out of the funds of the Exchange such remuneration and allowances, if any, as the Committee may from time to time determine."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II Botswana Stock Exchange",
+      "section": "8",
+      "title": "Disqualification for appointment or election as Committee member",
+      "content": "8. Disqualification for appointment or election as Committee member\nNo person shall be appointed or elected as a Committee member and no person shall be qualified to hold office as a Committee member who has-\n( a ) in terms of a law in force in any country-\n(i) been adjudged or otherwise declared insolvent or bankrupt and has not been rehabilitated or discharged; or\n(ii) made an assignment to, or arrangement or composition with, his creditors which has not been rescinded or set aside; or\n( b ) within the period of 10 years immediately preceding the date of his proposed appointment or election, been convicted-\n(i) within Botswana of a criminal offence; or\n(ii) outside Botswana of an offence by whatever name called which, if committed within Botswana, would have been a criminal offence, and sentenced by a court to imprisonment for six months or more without the option of a fine, whether or not that sentence has been suspended, and for which he has not received a free pardon."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II Botswana Stock Exchange",
+      "section": "9",
+      "title": "Vacation of office by Committee member",
+      "content": "9. Vacation of office by Committee member\nA Committee member shall vacate his office and his office shall become vacant-\n( a ) after a period of 30 days from the date upon which he-\n(i) gives notice in writing to the Chairman, or in his absence, to the Vice-Chairman, of his intention to resign his office, unless it is agreed between himself and the Chairman, or the Vice-Chairman, as the case may be, that such vacation of office shall take place after such shorter period as they may jointly agree; or\n(ii) is sentenced by a court to such imprisonment as is referred to in section 8( b ) after conviction for an offence referred to in that section:\nProvided that if, during that period of 30 days, an application for a free pardon is made or an appeal is filed, the question of whether or not the member is to vacate his office shall not be determined until the final disposal of that application or appeal, whereupon that member shall forthwith vacate his office and his office shall become vacant unless he is granted a free pardon, his conviction is set aside, his sentence is reduced to a term of imprisonment of less than six months or a punishment other than imprisonment is substituted;\n( b ) if he becomes disqualified in terms of section 8( a ) to hold office as a Committee member;\n( c ) if he is required in terms of section 11 to vacate his office;\n( d ) if he is absent without the permission of the Committee from three consecutive Committee meetings of which he has had notice to attend;\n( e ) if he is expelled from membership of the Committee by a resolution of-\n(i) the Committee passed by a majority of not less than two-thirds of the Committee members present and voting at a Committee meeting of which special notice has been given; or\n(ii) the Exchange passed by a majority of not less than two-thirds of the members of the Exchange present and voting at a special meeting convened for the purpose;\n( f ) in the case of an elected Committee member-\n(i) if he ceases to be a member of the Exchange;\n(ii) who is a licensed stockbroker, if he is suspended from practice; or\n(iii) if he ceases to be employed by a company which nominated him as its representative or is at any time withdrawn by such company even though he may still be in its employ."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II Botswana Stock Exchange",
+      "section": "10",
+      "title": "Committee member to declare interest",
+      "content": "10. Committee member to declare interest\nIf at any Committee meeting a Committee member is aware that any matter which, directly or indirectly, beneficially affects-\n( a ) himself or his spouse or child;\n( b ) any person who is a debtor, creditor, partner, employee or agent of the Committee member;\n( c ) any person who is a debtor under a mortgage bond of any body corporate or person of which the Committee member is a director or officer or under which he holds any office or position other than that of auditor; or\n( d ) any company of which he is a director,\nis to be discussed or is under discussion, that Committee member shall forthwith declare to the Committee meeting his interest in that matter."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II Botswana Stock Exchange",
+      "section": "11",
+      "title": "Regulatory Authority may direct Committee and Committee member to vacate office, etc.",
+      "content": "11. Regulatory Authority may direct Committee and Committee member to vacate office, etc.\n(1) The Regulatory Authority may, by written notice to the Committee and the Committee member, direct a Committee member to vacate his or her office, but only if the Regulatory Authority is satisfied that the Committee member member-\n( a ) is not fit and proper to be a Committee member; or\n( b ) is mentally or physically incapable of performing the duties of the office efficiently.\n[ 2 of 2007, s. 107. ]\n(1A) Part IX of the Non-Bank Financial Institutions Regulatory Authority Act (Cap. 46:08) applies in relation to a decision of the Regulatory Authority under this section as if it were a decision under section 53(2)( c ) of that Act.\n[ 2 of 2007, s. 107. ]\n(2) The Regulatory Authority shall suspend from office a Committee member against whom criminal proceedings are instituted for an offence in respect of which a sentence of imprisonment may be imposed, and whilst that Committee member is so suspended he shall not carry out any duties or be entitled to any remuneration or allowances as a Committee member."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II Botswana Stock Exchange",
+      "section": "12",
+      "title": "Filling of vacancies on Committee",
+      "content": "12. Filling of vacancies on Committee\n(1) On the death of, or the vacating of office by, a Committee member-\n( a ) the Minister shall, in the case of an appointed Committee member, on the recommendation of the Regulatory Authority, appoint a person; or\n[2 of 2007, s. 107.]\n( b ) the Committee shall, in the case of an elected Committee member, co-opt a member,\nto take the place of the member dying or vacating office until the expiry of the period during which such member would otherwise have continued in office:\nProvided that no licensed stockbroker shall be co-opted if he is a member of a partnership of which two serving elected Committee members are members.\n(2) If the members of the Exchange or of the Committee, as the case may be, for any reason fail, neglect or refuse-\n( a ) to elect any of the Committee members referred to in section 5(1)( b ); or\n( b ) to co-opt a member in terms of subsection (1)( b ), the Minister may appoint a person or persons, as the case may be, to fill the vacancy or vacancies left unfilled by reason of such failure, neglect or refusal.\n(3) A Committee member appointed by the Minister in terms of subsection (2) shall, for the purposes of this Act, and as the case may be, be deemed to have been-\n( a ) elected to the Committee in terms of section 5(1)( b ); or\n( b ) co-opted in terms of subsection (1)( b ).\n(4) If an elected Committee member is granted leave of absence by the Committee, the Committee may co-opt a member of the Exchange to fill the vacancy during the absence of that elected Committee member."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II Botswana Stock Exchange",
+      "section": "13",
+      "title": "Voting at Committee meetings",
+      "content": "13. Voting at Committee meetings\nAt a Committee meeting, each Committee member present shall have one vote on each question before the Committee and, in the event of an equality of votes, the person presiding at the Committee meeting shall have a casting vote, in addition to his deliberative vote."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART II Botswana Stock Exchange",
+      "section": "14",
+      "title": "Validity of decisions and acts of Committee",
+      "content": "14. Validity of decisions and acts of Committee"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "annual general meeting",
+      "definition": "an annual general meeting convened in terms of section 19(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "applicant",
+      "definition": "a person making application for licence in terms of Part IV",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appointed Committee member",
+      "definition": "a Committee member appointed in terms of-\n( a ) section 5(1)( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appointed date",
+      "definition": "the date appointed as the date of commencement of this Act or the relevant part thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "associate member",
+      "definition": "a member of the Exchange who, not being a licensed stockbroker, acts as the agent of a licensed stockbroker in the conduct of Exchange transactions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "banking institution",
+      "definition": "an accepting house, commercial bank, discount house, merchant bank or financial institution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of Trustees of the Botswana Stock Exchange Security Fund and established by section 72(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "brokerage",
+      "definition": "the commission charged by a stockbroker in respect of the purchase or sale of listed securities on behalf of a client",
+      "source_provision": "s2"
+    },
+    {
+      "term": "broker's note",
+      "definition": "a broker's note referred to in section 52",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairman",
+      "definition": "the Committee member elected in terms of section 6(1) or 6(2) to be the Chairman of the Exchange",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commercial bank",
+      "definition": "a registered commercial bank approved by the Committee",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Committee",
+      "definition": "the Committee of the Botswana Stock Exchange referred to in section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Committee member",
+      "definition": "an appointed Committee member or an elected Committee member",
+      "source_provision": "s2"
+    },
+    {
+      "term": "company",
+      "definition": "any body corporate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "defaulter",
+      "definition": "a stockbroker who makes default in one or more of his Exchange transactions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "elected Committee member",
+      "definition": "a Committee member-\n( a ) elected in terms of section 5(1)( b )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Exchange",
+      "definition": "the Botswana Stock Exchange established by section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Exchange auditor",
+      "definition": "the auditor elected or appointed in terms of section 41",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Exchange meeting",
+      "definition": "an annual general meeting or a special meeting",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Exchange transaction",
+      "definition": "any transaction entered into under the auspices of the Botswana Stock Exchange",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial institution",
+      "definition": "a registered financial institution approved by the Committee",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Fund",
+      "definition": "the Botswana Stock Exchange Security Fund established by section 72(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "insurer",
+      "definition": "a person registered as an insurer in terms of the Insurance Industry Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "issuer",
+      "definition": "any issuer of securities, including the Government",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensing certificate",
+      "definition": "a licencing certificate issued in terms of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "listed security",
+      "definition": "any security which is included in the official list",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member of the Exchange",
+      "definition": "a person who-\n( a ) is licensed as a stockbroker in Botswana",
+      "source_provision": "s2"
+    },
+    {
+      "term": "official list",
+      "definition": "the list of securities kept in terms of section 16(1)( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "partnership",
+      "definition": "a partnership of licensed stockbrokers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "proprietary right",
+      "definition": "a share in the assets of the Exchange acquired by-\n( a ) an applicant for the purpose of a licence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Register",
+      "definition": "the Register of Stockbrokers established in terms of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Regulatory Authority established under the Non-Bank Financial Institutions Regulatory Authority Act (Cap. 46:08)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "scrip",
+      "definition": "share certificates, certified deeds and provisional share certificates",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Secretary",
+      "definition": "the Secretary appointed in terms of section 18(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "special meeting",
+      "definition": "a special meeting of the Exchange convened in terms of section 19(3)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stockbroker",
+      "definition": "a person who-\n( a ) carries on the business of purchasing and selling or purchasing or selling listed securities on behalf of other persons",
+      "source_provision": "s2"
+    },
+    {
+      "term": "the rules",
+      "definition": "the rules made by the Committee in terms of section 89(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Vice-Chairman",
+      "definition": "the Committee member elected in terms of section 6(1) or 6(2) to be the Vice-Chairman of the Exchange.",
+      "source_provision": "s2"
+    }
+  ]
+}

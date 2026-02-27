@@ -1,0 +1,103 @@
+{
+  "id": "bw-act-botswana-meat-commission",
+  "type": "statute",
+  "title": "Botswana Meat Commission",
+  "title_en": "Botswana Meat Commission",
+  "short_name": "Botswana Meat Commission",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-meat-commission",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Meat Commission Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"chairperson\" means the person appointed as the chairperson of the Commission under paragraph 2(1) of the Schedule;\n[ 26 of 2004, s. 2(a). ]\n\"Chief Executive Officer\" means the person appointed the Chief Executive Officer of the Commission, under paragraph 9(1) of the Schedule;\n[ 26 of 2004, s. 2(b). ]\n\"Commission\" means the Commission established under section 3;\n\"financial year\" means a period of 12 months ending on 30th September in any year or on such other day as the Commission may determine;\n\"livestock\" means cattle and such other kinds of domestic animals as may from time to time be designated by the Minister in terms of section 4(3)."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II The Commission and its Functions",
+      "section": "3",
+      "title": "Establishment of Commission",
+      "content": "3. Establishment of Commission\n(1) There is hereby established a Commission to be known as the Botswana Meat Commission.\n(2) The Commission shall be a body corporate capable of suing and of being sued under the said name.\n(3) The provisions of the Schedule shall have effect with respect to the Commission."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II The Commission and its Functions",
+      "section": "4",
+      "title": "Purpose of Commission",
+      "content": "4. Purpose of Commission\n(1) The purpose for which the Commission is established is to carry on the business referred to in subsections (2) and (3) in such a manner as to promote the interests of the livestock producing industry of Botswana, and in particular to secure that so far as is reasonably possible all livestock offered or available for sale in Botswana to the Commission are purchased and that the prices paid therefor are reasonable and to carry out such other functions as the Minister may, by notice in writing to the Commission, declare to be in the interests of the livestock producing industry.\n(2) The business of the Commission is to purchase cattle and to slaughter the same and prepare and sell the products of such slaughtering or, if the Commission thinks fit, to sell on the hoof cattle so purchased; in addition the Commission may, in its discretion and with the consent of the Minister, promote schemes for the improvement of the standard and condition of cattle to be sent for slaughter or sold on the hoof and promote other commercial schemes for the development and improvement of the livestock industry.\n(3) The provisions of subsection (2) shall have effect, in like manner as they have in respect of cattle, in respect of such other kinds of domestic animals as the Minister may from time to time designate by order published in the Gazette after consultation with the Commission."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II The Commission and its Functions",
+      "section": "5",
+      "title": "General powers of Commission",
+      "content": "5. General powers of Commission\nSubject to the provisions of this Act, the Commission shall have power to do anything and enter into any transaction which in its opinion is calculated to facilitate the achievement of the purpose for which it is established, or the proper discharge of any function conferred or imposed upon it by or under this Act or any other law, or which is incidental or conducive thereto."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II The Commission and its Functions",
+      "section": "6",
+      "title": "Formation of companies",
+      "content": "6. Formation of companies\n(1) The Commission may, with the consent of the Minister, form one or more companies under the Companies Act (Cap 42:01) to carry on any business and to carry out any purpose which the Commission itself may carry on or carry out.\n(2) Any consent to the formation of a company given by the Minister may be given subject to such conditions as he may see fit to impose."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II The Commission and its Functions",
+      "section": "7",
+      "title": "General duties of Commission",
+      "content": "7. General duties of Commission\nThe Commission shall ensure that its business is conducted efficiently and economically, and in a manner which in the opinion of the Commission is best calculated to achieve the purpose for which it is established."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II The Commission and its Functions",
+      "section": "8",
+      "title": "Interests of employees",
+      "content": "8. Interests of employees\n(1) The Commission shall take all practicable steps to secure—\n( a ) the safety, health and welfare of persons in its employment or in the employment of others in activities carried on in association with the Commission; and\n( b ) the skill, knowledge or usefulness of such persons in the conduct of the activities in which they are employed.\n(2) In the performance of its duty under subsection (1), and in dealing with matters affecting terms or conditions of employment, the Commission shall, from time to time, except insofar as it is satisfied that adequate machinery exists for achieving the purpose of this subsection, seek consultation with persons or bodies appearing to it to represent or to have qualifications to speak on behalf of substantial numbers of the employees affected."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II The Commission and its Functions",
+      "section": "9",
+      "title": "Powers of Minister in relation to Commission",
+      "content": "9. Powers of Minister in relation to Commission"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "chairperson",
+      "definition": "the person appointed as the chairperson of the Commission under paragraph 2(1) of the Schedule",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Executive Officer",
+      "definition": "the person appointed the Chief Executive Officer of the Commission, under paragraph 9(1) of the Schedule",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commission",
+      "definition": "the Commission established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial year",
+      "definition": "a period of 12 months ending on 30th September in any year or on such other day as the Commission may determine",
+      "source_provision": "s2"
+    },
+    {
+      "term": "livestock",
+      "definition": "cattle and such other kinds of domestic animals as may from time to time be designated by the Minister in terms of section 4(3).",
+      "source_provision": "s2"
+    }
+  ]
+}

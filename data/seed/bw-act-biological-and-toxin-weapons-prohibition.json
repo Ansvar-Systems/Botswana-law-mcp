@@ -1,0 +1,70 @@
+{
+  "id": "bw-act-biological-and-toxin-weapons-prohibition",
+  "type": "statute",
+  "title": "Biological and Toxin Weapons (prohibition)",
+  "title_en": "Biological and Toxin Weapons (prohibition)",
+  "short_name": "Biological and Toxin Weapon...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/biological-and-toxin-weapons-prohibition",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as Biological and Toxin Weapons (Prohibition) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Authority\" means the Chemical, Biological, Nuclear and Radiological Weapons Management Authority established under section 5 of the Chemical Weapons (Prohibition) Act (Cap. 24:04);\n\"biological or toxin weapon\" means—\n( a ) microbial or other biological agents or toxins, whatever their origin or method of production, of types and in quantities that have no justification for prophylactic, protective or other peaceful purposes; or\n( b ) weapons, equipment or means of delivery designed to use such agents or toxins for hostile purposes or in armed conflict;\n\"Board\" means the Board established under section 7 of the Chemical Weapons (Prohibition) Act (Cap. 24:04);\n\"controlled agents and toxins\" means such controlled agents and toxins which appear on the list established and maintained under section 6;\n\"Convention\" means the Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on their Destruction signed on 10 April, 1972, as set out in the Schedule to this Act, and includes any amendments thereto; and\n\"proliferation financing\" means the act of providing funds or financial services which are used, in whole or in part, for the manufacture, acquisition, possession, development, export, transhipment, brokering, transport, transfer, stockpiling or use of any biological or toxin weapon and its means of delivery and related materials, including both technologies and goods used for non-legitimate purposes."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application of Convention",
+      "content": "3. Application of Convention\nThe Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on their Destruction, as set out in the Schedule to this Act and any amendments thereto, shall have force of law in Botswana."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Act binds the State",
+      "content": "4. Act binds the State\nThis Act binds the State."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Prohibition of the use of biological or toxin weapons",
+      "content": "5. Prohibition of the use of biological or toxin weapons\n(1) A person who—\n( a ) intentionally releases biological agents or toxins;\n( b ) develops, produces, manufactures, otherwise acquires, stockpiles, stores, possesses, transports, imports, exports, tranships, acts as a broker for, or retains any biological or toxin weapon, or transfers, directly or indirectly, to anyone, any biological or toxin weapon;\n( c ) uses any biological or toxin weapon;\n( d ) engages in preparations to use any biological or toxin weapon;\n( e ) constructs, acquires or retains any facility intended for the production of biological or toxin weapons;\n( f ) diverts any biological agent or toxin from peaceful uses to biological or toxin weapons;\n( g ) tampers with any facility, package or container containing any biological or toxin weapon in order to cause their release; or\n( h ) diverts or steals any biological or toxin weapon in order to cause their release,"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Authority",
+      "definition": "the Chemical, Biological, Nuclear and Radiological Weapons Management Authority established under section 5 of the Chemical Weapons (Prohibition) Act (Cap. 24:04)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board established under section 7 of the Chemical Weapons (Prohibition) Act (Cap. 24:04)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled agents and toxins",
+      "definition": "such controlled agents and toxins which appear on the list established and maintained under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Convention",
+      "definition": "the Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on their Destruction signed on 10 April, 1972, as set out in the Schedule to this Act, and includes any amendments thereto",
+      "source_provision": "s2"
+    },
+    {
+      "term": "proliferation financing",
+      "definition": "the act of providing funds or financial services which are used, in whole or in part, for the manufacture, acquisition, possession, development, export, transhipment, brokering, transport, transfer, stockpiling or use of any biological or toxin weapon and its means of delivery and related materials, including both technologies and goods used for non-legitimate purposes.",
+      "source_provision": "s2"
+    }
+  ]
+}

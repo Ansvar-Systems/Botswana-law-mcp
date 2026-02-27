@@ -1,0 +1,56 @@
+{
+  "id": "bw-act-authentication-of-documents",
+  "type": "statute",
+  "title": "Authentication of Documents",
+  "title_en": "Authentication of Documents",
+  "short_name": "Authentication of Documents",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/authentication-of-documents",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Authentication of Documents Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"authenticate\" , in relation to a document, means to certify the authenticity of the signature thereon, the capacity in which the person signing the document has acted and, where appropriate, the identity of the seal or stamp which the document bears;\n\"competent officer\" means a person for the time being performing the duties of one of the offices designated in section 7;\n\"Convention\" means the convention abolishing the requirements of legislation for Foreign Public Documents made at the Hague and dated the 5th October, 1961;\n\"document\" includes a book, record, deed, power of attorney, affidavit, certificate, contract, plan, map, drawing, writing and any other method of conveying information in visible form;\n\"legalisation\" means the formality by which the diplomatic or consular agent of the country in which a document is to be produced certifies the authenticity of the signature, the capacity in which the person signing the document has acted and where appropriate, the identity of the seal or stamp which it bears;\n\"public document\" includes—\n( a ) a document emanating from an authority or an official connected with the courts of any State being a party to the Convention, including those emanating from a public prosecutor, a clerk or registrar of a court, a sheriff or a process server;\n( b ) an administrative document not hereinafter excluded;\n( c ) a notarial act;\n( d ) an official certificate which is placed on a document signed by a person in his private capacity, such as an official certificate recording the registration of a document, or the fact that it was in existence on a certain date, and an official or notarial authentication of a signature;\nbut does not include—\n(i) a document executed by a diplomatic or consular agent;\n(ii) an administrative document dealing directly with a commercial or customs operation;\n\"signature\" , in relation to a document, includes execution of the document by any other lawful means, and \"sign\" has a corresponding meaning."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II General",
+      "section": "3",
+      "title": "Effect of authentication",
+      "content": "3. Effect of authentication\n(1) The provisions of this section shall apply in all criminal and civil proceedings in any court in Botswana and to the acceptance of documents by the officer in charge of any public office in Botswana.\n(2) A certificate which purports to be signed, sealed or stamped by an officer whose certificate is declared by this Act to be sufficient authentication of a document may be accepted in evidence without proof of the signature, seal or stamp of such officer, and when accepted shall be presumed to be signed, sealed or stamped by such officer."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "competent officer",
+      "definition": "a person for the time being performing the duties of one of the offices designated in section 7",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Convention",
+      "definition": "the convention abolishing the requirements of legislation for Foreign Public Documents made at the Hague and dated the 5th October, 1961",
+      "source_provision": "s2"
+    },
+    {
+      "term": "document",
+      "definition": "a book, record, deed, power of attorney, affidavit, certificate, contract, plan, map, drawing, writing and any other method of conveying information in visible form",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legalisation",
+      "definition": "the formality by which the diplomatic or consular agent of the country in which a document is to be produced certifies the authenticity of the signature, the capacity in which the person signing the document has acted and where appropriate, the identity of the seal or stamp which it bears",
+      "source_provision": "s2"
+    }
+  ]
+}

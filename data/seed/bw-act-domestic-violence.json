@@ -1,0 +1,54 @@
+{
+  "id": "bw-act-domestic-violence",
+  "type": "statute",
+  "title": "Domestic Violence",
+  "title_en": "Domestic Violence",
+  "short_name": "Domestic Violence",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/domestic-violence",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Domestic Violence Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"applicant\" means any person who alleges to have been subjected to an act of domestic violence;\n\"child\" includes biological, adopted, step or any child in the care or custody of the applicant or respondent;\n\"court\" means a magistrates court of any rank, and includes a customary court which has been authorised, by statutory instrument, to hear a matter under this Act;\n\"domestic relationship\" means a relationship between an applicant and the respondent in any of the following ways—\n( a ) they are or were married to each other;\n( b ) they are or were cohabiting;\n( c ) they are a child of the applicant or respondent;\n( d ) they are family members;\n( e ) they would be family members related by affinity if the persons referred to in paragraph ( b ) were, or could be married to each other;\n( f ) they share or shared the same residence; or\n( g ) they are or were in an engagement, dating including an actual or perceived romantic, intimate or sexual relationship;\n\"domestic violence\" means any controlling or abusive behavior that harms the health or safety of the applicant and includes—\n( a ) physical abuse or threat thereof;\n( b ) sexual abuse or threat thereof;\n( c ) emotional, verbal or psychological abuse;\n( d ) economic abuse;\n( e ) intimidation;\n( f ) harassment;\n( g ) damage to property;\n( h ) where the applicant and the respondent do not stay in the same home, entry into the applicant's home without his or her consent;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "applicant",
+      "definition": "any person who alleges to have been subjected to an act of domestic violence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child",
+      "definition": "biological, adopted, step or any child in the care or custody of the applicant or respondent",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "a magistrates court of any rank, and includes a customary court which has been authorised, by statutory instrument, to hear a matter under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "domestic relationship",
+      "definition": "a relationship between an applicant and the respondent in any of the following ways—\n( a ) they are or were married to each other",
+      "source_provision": "s2"
+    },
+    {
+      "term": "domestic violence",
+      "definition": "any controlling or abusive behavior that harms the health or safety of the applicant and includes—\n( a ) physical abuse or threat thereof",
+      "source_provision": "s2"
+    }
+  ]
+}

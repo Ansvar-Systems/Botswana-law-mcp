@@ -1,0 +1,187 @@
+{
+  "id": "bw-act-radiation-protection",
+  "type": "statute",
+  "title": "Radiation Protection",
+  "title_en": "Radiation Protection",
+  "short_name": "Radiation Protection",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/radiation-protection",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Radiation Protection Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"accident\" means any unintended event, including operating errors, equipment failures or other mishaps, the consequences or potential consequences of which are not negligible from the point of view of protection or safety;\n\"atomic energy\" means ionising radiation emitted as a result of electronic or nuclear transitions in an atom;\n\"Board\" means the Radiation Protection Board established under section 5;\n\"Chairperson\" means the Chairperson of the Board;\n\"Director\" means the Director of the Inspectorate, appointed under section 18;\n\"dose limit\" means the value of the effective dose or the equivalent dose to individuals from controlled practices that may not be exceeded;\n\"exposure\" means any act or condition of being subject to radiation;\n\"ionising radiation\" , for the purposes of radiation protection, means radiation capable of producing ion pairs in a biological material;\n\"licence\" means a licence granted under section 23;\n\"licensee\" means the holder of a licence granted under section 23;\n\"medical practitioner\" means a medical practitioner registered as a medical practitioner under the Botswana Health Professions Act (Cap. 61:02);\n\"member\" means a member of the Board;\n\"Minister\" means the Minister of Communications, Science and Technology or any other Minister to whom the President may, from time to time, assign the administration of this Act;\n\"practice\" means any human activity that introduces additional sources of exposure, or exposure pathways or extends exposure to additional people, from an existing source, so as to increase the exposure or the likelihood of exposure of people or the number of people exposed;\n\"radiation equipment\" means equipment or machinery associated with the use or operation of a radiation source, and includes the radiation source itself and any structure used to support or shield the equipment, machinery or radiation source;\n\"radiation generator\" means a device capable of generating radiation, such as X-rays, neutrons, electrons or other charged particles, which may be used for scientific, industrial or medical purposes;\n\"Radiation Inspector\" means a person appointed as a Radiation Inspector under section 21;\n\"Radiation Safety Officer\" means an officer appointed under section 29;\n\"Radiation Waste Management Officer\" means an officer appointed under section 31;\n\"radiation worker\" means a person potentially exposed to ionising radiation as a result of his or her occupation;\n\"radioactive material\" means any material emitting ionising radiation above the levels provided for under section 4;\n\"radioactive substance\" means a substance that contains one or more radionuclides of which the activity or the concentration cannot be disregarded as far as radiation protection is concerned;\n\"radioactive waste\" means any material that contains or is contaminated with radionuclides at concentrations or radioactivity levels greater than the exempt quantities, or quantities prescribed by the Minister and for which no use is foreseen;\n\"radiological work\" means work involving the use of radioactive materials or other radiation generators or sources capable of emitting ionising radiation;\n\"sealed source\" means a radiation source consisting of a radioactive substance enclosed in enclosures or arranged in such other way that there is no risk of the substance being liberated or becoming accessible to direct contact during normal use;\n\"source\" means anything that may cause radiation exposure such as by emitting ionising radiation or releasing radioactive substances or materials; and\n\"transport\" means transport of any source by—\n( a ) any vessel or boat within the territorial waterways of the Republic of Botswana;\n( b ) any aircraft within the airspace of the Republic of Botswana; or\n( c ) any means of land transport."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary",
+      "section": "3",
+      "title": "Application of Act",
+      "content": "3. Application of Act\n(1) This Act shall apply to any person or body of persons whose undertaking involves or includes generally the use of atomic energy and nuclear technology and, in particular, the production, processing, handling, use, holding, possessing, storage, transport and disposal of natural and artificial radioactive materials and radiation devices in respect of any other activity which involves a risk or harm arising from radiation.\n(2) This Act binds the State."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary",
+      "section": "4",
+      "title": "Exemptions, exclusions and clearance",
+      "content": "4. Exemptions, exclusions and clearance\n(1) This Act shall not apply to any material or use of any material which may be exempted by the Regulations.\n(2) This Act shall not apply to ionising radiation generators of a type approved by the Board or any electronic tubes such as cathode ray tubes for the display of visual images, provided that—\n( a ) such generators or electronic tubes do not cause in any normal operating conditions an ambient dose equivalent rate or a directional dose equivalent rate exceeding such dose as may be prescribed by the Minister; or\n( b ) the maximum radiation energy produced by such generators or electronic tubes is not greater than the minimum radiation energy prescribed by the Minister.\n(3) Sources including substances, materials and articles within notified or authorised practices may be exempted from further requirements of this Act subject to complying with clearance levels approved by the Board.\n(4) Any exposure whose magnitude or likelihood is essentially unamenable to control through the requirements of this Act is deemed to be excluded from the application of this Act.\n(5) Upon the recommendation of the Board or for any reason that he or she may consider to be necessary, the Minister may, by order published in the Gazette , exempt from the operation of any of the provisions of this Act any person using any material which contains radioactive substances of more than the prescribed limits."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Radiation Protection Board",
+      "section": "5",
+      "title": "Establishment of Board",
+      "content": "5. Establishment of Board\n(1) There is hereby established a Board, to be known as the Radiation Protection Board, which shall perform such functions as may be conferred on it by this Act or any other enactment.\n(2) The Board shall consist of a minimum of five and a maximum of seven members appointed by the Minister."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Radiation Protection Board",
+      "section": "6",
+      "title": "Disqualification, removal and resignation",
+      "content": "6. Disqualification, removal and resignation\n(1) No person shall be appointed as a member, nor shall any person be qualified to hold office as a member, who—\n( a ) has, in terms of any law in force in any country—\n(i) been adjudged or otherwise declared insolvent or bankrupt, and has not been rehabilitated or discharged, or\n(ii) made an assignment, arrangement or composition with his or her creditors, which has not been rescinded or set aside;\n( b ) has, within a period of 10 years immediately preceding the date of his or her proposed appointment, been convicted—\n(i) in Botswana, of a criminal offence, or\n(ii) outside Botswana, of an offence which, if committed in Botswana, would have been a criminal offence,\nand sentenced by a court of competent jurisdiction to imprisonment for six months or more without the option of a fine, whether that sentence has been suspended or not, and for which he or she has not received a free pardon;\n( c ) is of unsound mind;\n( d ) is a member of Parliament or a Councillor;\n( e ) being a holder of a professional qualification, has been suspended or barred from practising the profession within or outside Botswana; or\n( f ) is a licensee.\n(2) The Minister may, by notice in writing, remove a member from office where a member—\n( a ) is absent, without reasonable cause, from three consecutive meetings of the Board of which he or she has had notice;\n( b ) is inefficient;\n( c ) has been found to be physically or mentally incapable of performing his or her duties efficiently, and a medical practitioner has issued a certificate to that effect;\n( d ) contravenes the provisions of this Act or otherwise misconducts himself or herself to the detriment of the objectives of the Board; or\n( e ) has failed to comply with the provisions of section 13.\n(3) A member may resign from office by giving 30 days notice in writing to the Minister.\n(4) The office of a member shall become vacant after—\n( a ) a period of 30 days from the date a ruling against the member is made on all appeals made in respect of a conviction against him or her under subsection (1)( b );\n( b ) a period of 30 days has elapsed from the date the member gives notice in writing to the Minister under subsection (3), of his or her intention to resign; or\n( c ) a period of 30 days has elapsed from the date the member is given notice in writing by the Minister to vacate office.\n(5) For the purposes of subsection (2)( d ), \"misconduct\" includes any act done without reasonable excuse by a member which—\n( a ) amounts to failure to perform, in a proper manner, any duty imposed on him or her as a member;"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accident",
+      "definition": "any unintended event, including operating errors, equipment failures or other mishaps, the consequences or potential consequences of which are not negligible from the point of view of protection or safety",
+      "source_provision": "s2"
+    },
+    {
+      "term": "atomic energy",
+      "definition": "ionising radiation emitted as a result of electronic or nuclear transitions in an atom",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "the Radiation Protection Board established under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "the Chairperson of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the Director of the Inspectorate, appointed under section 18",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dose limit",
+      "definition": "the value of the effective dose or the equivalent dose to individuals from controlled practices that may not be exceeded",
+      "source_provision": "s2"
+    },
+    {
+      "term": "exposure",
+      "definition": "any act or condition of being subject to radiation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence granted under section 23",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "the holder of a licence granted under section 23",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical practitioner",
+      "definition": "a medical practitioner registered as a medical practitioner under the Botswana Health Professions Act (Cap. 61:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister of Communications, Science and Technology or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "practice",
+      "definition": "any human activity that introduces additional sources of exposure, or exposure pathways or extends exposure to additional people, from an existing source, so as to increase the exposure or the likelihood of exposure of people or the number of people exposed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radiation equipment",
+      "definition": "equipment or machinery associated with the use or operation of a radiation source, and includes the radiation source itself and any structure used to support or shield the equipment, machinery or radiation source",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radiation generator",
+      "definition": "a device capable of generating radiation, such as X-rays, neutrons, electrons or other charged particles, which may be used for scientific, industrial or medical purposes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Radiation Inspector",
+      "definition": "a person appointed as a Radiation Inspector under section 21",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Radiation Safety Officer",
+      "definition": "an officer appointed under section 29",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Radiation Waste Management Officer",
+      "definition": "an officer appointed under section 31",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radiation worker",
+      "definition": "a person potentially exposed to ionising radiation as a result of his or her occupation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radioactive material",
+      "definition": "any material emitting ionising radiation above the levels provided for under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radioactive substance",
+      "definition": "a substance that contains one or more radionuclides of which the activity or the concentration cannot be disregarded as far as radiation protection is concerned",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radioactive waste",
+      "definition": "any material that contains or is contaminated with radionuclides at concentrations or radioactivity levels greater than the exempt quantities, or quantities prescribed by the Minister and for which no use is foreseen",
+      "source_provision": "s2"
+    },
+    {
+      "term": "radiological work",
+      "definition": "work involving the use of radioactive materials or other radiation generators or sources capable of emitting ionising radiation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sealed source",
+      "definition": "a radiation source consisting of a radioactive substance enclosed in enclosures or arranged in such other way that there is no risk of the substance being liberated or becoming accessible to direct contact during normal use",
+      "source_provision": "s2"
+    },
+    {
+      "term": "source",
+      "definition": "anything that may cause radiation exposure such as by emitting ionising radiation or releasing radioactive substances or materials",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transport",
+      "definition": "transport of any source by—\n( a ) any vessel or boat within the territorial waterways of the Republic of Botswana",
+      "source_provision": "s2"
+    }
+  ]
+}

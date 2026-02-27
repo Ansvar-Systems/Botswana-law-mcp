@@ -1,0 +1,195 @@
+{
+  "id": "bw-sub-civil-aviation-subsidiary-legislation-civil-aviation-aeronautical-radio-frequency-spectrum-utilisation-regulations",
+  "type": "statute",
+  "title": "Civil Aviation: Subsidiary Legislation: Civil Aviation (aeronautical Radio Frequency Spectrum Utilisation) Regulations",
+  "title_en": "Civil Aviation: Subsidiary Legislation: Civil Aviation (aeronautical Radio Frequency Spectrum Utilisation) Regulations",
+  "short_name": "Civil Aviation: Subsidiary ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/subsidiary-legislation/civil-aviation-subsidiary-legislation-civil-aviation-aeronautical-radio-frequency-spectrum-utilisation-regulations",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Regulations may be cited as the Civil Aviation (Aeronautical Radio Frequency Spectrum Utilisation) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Regulations, unless the context otherwise provides—\n\"air navigation service\" means one or more of the following services provided for air navigation—\n( a ) traffic services;\n( b ) Instrument Flight Procedure Design (IFPD) services;\n( c ) Aeronautical Information Services (AIS);\n( d ) aeronautical cartographic services;\n( e ) aeronautical telecommunication services; and\n( f ) search and rescue services;\n\"air navigation service facility\" means any facility used, available for use, or designed for use in aid of navigation of an aircraft, and includes—\n( a ) airports, landing fields, any structures, mechanisms, lights, beacons, marks, communication systems; or\n( b ) instruments or devices used as an aid to the safe taking off, navigation and landing of an aircraft; and\n( c ) any combination of such facilities;\n\"air navigation service provider (ANSP)\" means an entity established for the purposes of providing one or more of the air navigation services as defined in these Regulations;\n\"air traffic management (ATM)\" means the dynamic integrated management of air traffic and airspace including—\n( a ) air traffic services;\n( b ) airspace management; and\n( c ) air traffic flow management,\nsafely, economically and efficiently, through the provision of facilities and seamless services, in collaboration with all parties, and involving airborne and ground-based functions;\n\"air traffic management system\" means a system that provides air traffic management through the collaborative integration of humans, information, technology, facilities and services, supported by air, ground or space based communications, navigation and surveillance;\n\"air traffic safety electronics personnel (ATSEP)\" means a person directly engaged with operations, maintenance and installation activities of communications, navigation and surveillance (CNS) or air traffic management systems;\n\"double channel simplex\" means a simplex using two frequency channels, one in each direction;\n\"Instrument Landing System (ILS)\" means the equipment that provides precision guidance to an aircraft during the final stages of the approach, the signals can either be interpreted by the pilot from instruments or be input directly into the autopilot and flight management system, and comprise of the following basic components—\n( a ) Very High Frequency (VHF) localiser equipment, associated monitor system, remote control and indicator equipment;\n( b ) UHF glide path equipment, associated monitor system, remote control and indicator equipment; and\n( c ) an appropriate means to enable glide path verification checks;\n\"MANSOPS\" means manual of air navigation services operations;\n\"offset frequency simplex\" means a variation of a single channel simplex where telecommunication between two stations is achieved by using in each direction, frequencies that are intentionally slightly different but contained within a portion of the spectrum allotted for the operation;\n\"operational control communication\" means communication required for the exercise of authority over the initiation continuation, diversion or termination of a flight in the interest of the safety of an aircraft and the regularity and efficiency of a flight;\n\"simplex\" means a method in which telecommunication between two stations takes place in one direction at a time and when applied to the aeronautical mobile service, this method may be subdivided as follows—\n( a ) single channel simplex;\n( b ) double channel simplex; and\n( c ) offset frequency simplex;\n\"single channel simplex\" means a simplex using the same frequency in each direction;\n\"VHF Digital Link (VDL)\" means a constituent mobile sub-network of the Aeronautical Telecommunication Network (ATN) operating in the aeronautical mobile VHF band; and\n\"VHF Omni-directional Radio Range (VOR)\" means a short-range radio navigation aid that produces an infinite number of bearings that may be visualised as lines radiating from the beacon – the number of bearings, referred to as radicals (a radical is identified by its magnetic bearing from the VOR) can be limited to 360, one degree apart."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary (regs 1-3)",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application\nThese Regulations shall apply to any person providing a communications, navigation and surveillance facility service at an aerodrome and within a designated air space for civil aviation purposes."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II General Requirements (regs 4-29)",
+      "section": "4",
+      "title": "Compliance with the Regulations",
+      "content": "4. Compliance with the Regulations\nAn air navigation service provider shall ensure that the minimum requirements for planning, installation, commissioning, training, operation and maintenance of a facility comply with these Regulations."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II General Requirements (regs 4-29)",
+      "section": "5",
+      "title": "Certification of air navigation service provider",
+      "content": "5. Certification of air navigation service provider\nA person shall not provide an air navigation service or operate a facility to support an air traffic service unless he or she holds an air navigation service provider certificate issued in accordance with the Civil Aviation (Certification of Air Navigation Services Providers) Regulations (Cap. 71:01 (Sub. Leg.))."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II General Requirements (regs 4-29)",
+      "section": "6",
+      "title": "Approval by Authority",
+      "content": "6. Approval by Authority\n(1) A person shall not provide an air navigation service or operate a communications, navigation and surveillance facility or system in a designated aerodrome and airspace unless the facility or system is approved by the Authority.\n(2) An air navigation service provider shall seek approval from the Authority for the installation, use, decommissioning, upgrading or relocation of a communications, navigation and surveillance facility in a designated aerodrome and airspace.\n(3) For the purposes of subregulation (2), approval from the Authority shall be sought in accordance with the Civil Aviation (Certification of Air Navigation Service Providers) Regulations."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART II General Requirements (regs 4-29)",
+      "section": "7",
+      "title": "Notification requirement",
+      "content": "7. Notification requirement\nAn air navigation service provider shall notify the Authority of the air service provider's intention to procure, install, use, upgrade, decommission, or relocate a communications, navigation and surveillance facility in a designated aerodrome and airspace, 30 days prior to the commencement of the process."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART II General Requirements (regs 4-29)",
+      "section": "8",
+      "title": "Inspection and audit",
+      "content": "8. Inspection and audit\n(1) The Authority shall carry out a safety inspection on a communications, navigation and surveillance facility and audit an air navigation service provider's documents and records in order to determine the air navigation service provider's compliance with these Regulations.\n(2) For the purposes of determining compliance with these Regulations, an inspector of the Authority shall have unrestricted access to the facilities, installations, records and documents of an air navigation service provider."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART II General Requirements (regs 4-29)",
+      "section": "9",
+      "title": "Siting and installation",
+      "content": "9. Siting and installation\n(1) An air navigation service provider shall choose a site for the installation of a new communications, navigation and surveillance facility based on operational requirements, construction aspects and maintainability.\n(2) An air navigation service provider shall establish procedures to ensure that a communications, navigation and surveillance system—\n( a ) is designed to meet the applicable operational specification for that facility;\n( b ) is installed and commissioned as required by the Authority;\n( c ) complies with applicable system characteristics and specification standards of the Authority; and\n( d ) is operated, maintained, available and reliable in accordance with the requirements of the Authority.\n(3) A communications, navigation and surveillance facility shall be installed by an experienced ATSEP with the relevant rating for the facility."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART II General Requirements (regs 4-29)",
+      "section": "10",
+      "title": "Commission requirement",
+      "content": "10. Commission requirement\n(1) An air navigation service provider shall establish procedures to ensure that—\n( a ) each new facility—\n(i) is commissioned to meet the specifications for that facility, and\n(ii) complies with applicable standards; and\n( b ) the system performance of a new facility has been validated by the necessary tests and that all parties involved with the operations and maintenance of the facility, including its maintenance contractors, have accepted and are satisfied with the test results.\n(2) The procedures referred to in subregulation (1) shall include documentation of tests conducted on the facility prior to the commissioning of the facility, including tests that test the facility's compliance with applicable standards and any flight check required."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART II General Requirements (regs 4-29)",
+      "section": "11",
+      "title": "Availability and reliability of communications, navigation and surveillance (CNS) facility",
+      "content": "11. Availability and reliability of communications, navigation and surveillance (CNS) facility\n(1) An air navigation service provider shall be responsible for the provision of communications, navigation and surveillance services and facilities to ensure that telecommunication information and data necessary for the safe, regular and efficient operation of air navigation is available.\n(2) The functional specification of each of the air navigation service provider's telecommunication services shall include the following values or characteristics for each service—\n( a ) availability;\n( b ) reliability;\n( c ) accuracy;\n( d ) integrity;\n( e ) mean time between failure (MTBF); and\n( f ) mean time to repair (MTTF).\n(3) The values referred to in subregulation (2) shall be derived or measured from either or both of the configuration of each service and the known performance of each service.\n(4) An air navigation service provider shall describe in the operations manual the method used to calculate each of the values.\n(5) For a radio navigation service, the air navigation service provider shall provide integrity values or characteristics for each kind of navigation aid and facility that forms part of the service.\n(6) An air navigation service provider shall ensure that a communications, navigation and surveillance facility is installed with main and standby power supply as well as adequate air conditioning to ensure continuity of operation appropriate to the service being provided."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART II General Requirements (regs 4-29)",
+      "section": "12",
+      "title": "Monitoring, review and reporting of technical facility",
+      "content": "12. Monitoring, review and reporting of technical facility\nAn air navigation service provider shall monitor, review and report the performance of a technical facility in accordance with these Regulations."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART II General Requirements (regs 4-29)",
+      "section": "13",
+      "title": "Interface arrangement for support service",
+      "content": "13. Interface arrangement for support service\nAn air navigation service provider shall formalise interface arrangements with external organisations, where applicable, in the form of service level agreements, detailing—\n( a ) the interface and functional specifications of the support service;\n( b ) the service level of the support service such as availability, accuracy, integrity and recovery time of failure of service; and\n( c ) the monitoring and reporting of the operational status of the service to the service provider."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART II General Requirements (regs 4-29)",
+      "section": "14",
+      "title": "Keeping records",
+      "content": "14. Keeping records\n(1) An air navigation service provider shall maintain records which are necessary for the operation and maintenance of the air navigation service and establish procedures to identify, collect, index, store, maintain and dispose of such records.\n(2) The procedures in subregulation (1) shall cover—\n( a ) the performance and maintenance history of each facility;\n( b ) the establishment of periodic test programmes for each facility;\n( c ) each item of test equipment required for the measurement of critical performance parameters;\n( d ) each reported or detected facility malfunction;\n( e ) each internal quality assurance review; and\n( f ) information about each person who is authorised to place facility into operational service.\n(3) An air service provider shall ensure that data and voice for an air navigation service operational system are recorded continuously and that a procedure is established for the retention and utilisation of such recordings for analysis.\n(4) An air navigation service provider shall keep records under the control of the relevant key personnel and control access to the records system to ensure appropriate security.\n(5) Notwithstanding subregulation (4), an air navigation service provider may, where necessary, avail copies of records to personnel."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART II General Requirements (regs 4-29)",
+      "section": "15",
+      "title": "Keeping and retention of documents",
+      "content": "15. Keeping and retention of documents\n(1) An air navigation service provider shall maintain documents which are necessary for the operation and maintenance of the air navigation service and establish a process for the control of such documents.\n(2) Without prejudice to the generality of subregulation (1), an air service provider shall keep the following documents—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "air navigation service",
+      "definition": "one or more of the following services provided for air navigation—\n( a ) traffic services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air navigation service facility",
+      "definition": "any facility used, available for use, or designed for use in aid of navigation of an aircraft, and includes—\n( a ) airports, landing fields, any structures, mechanisms, lights, beacons, marks, communication systems",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air navigation service provider (ANSP)",
+      "definition": "an entity established for the purposes of providing one or more of the air navigation services as defined in these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic management (ATM)",
+      "definition": "the dynamic integrated management of air traffic and airspace including—\n( a ) air traffic services",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic management system",
+      "definition": "a system that provides air traffic management through the collaborative integration of humans, information, technology, facilities and services, supported by air, ground or space based communications, navigation and surveillance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "air traffic safety electronics personnel (ATSEP)",
+      "definition": "a person directly engaged with operations, maintenance and installation activities of communications, navigation and surveillance (CNS) or air traffic management systems",
+      "source_provision": "s2"
+    },
+    {
+      "term": "double channel simplex",
+      "definition": "a simplex using two frequency channels, one in each direction",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Instrument Landing System (ILS)",
+      "definition": "the equipment that provides precision guidance to an aircraft during the final stages of the approach, the signals can either be interpreted by the pilot from instruments or be input directly into the autopilot and flight management system, and comprise of the following basic components—\n( a ) Very High Frequency (VHF) localiser equipment, associated monitor system, remote control and indicator equipment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "MANSOPS",
+      "definition": "manual of air navigation services operations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "offset frequency simplex",
+      "definition": "a variation of a single channel simplex where telecommunication between two stations is achieved by using in each direction, frequencies that are intentionally slightly different but contained within a portion of the spectrum allotted for the operation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "operational control communication",
+      "definition": "communication required for the exercise of authority over the initiation continuation, diversion or termination of a flight in the interest of the safety of an aircraft and the regularity and efficiency of a flight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "simplex",
+      "definition": "a method in which telecommunication between two stations takes place in one direction at a time and when applied to the aeronautical mobile service, this method may be subdivided as follows—\n( a ) single channel simplex",
+      "source_provision": "s2"
+    },
+    {
+      "term": "single channel simplex",
+      "definition": "a simplex using the same frequency in each direction",
+      "source_provision": "s2"
+    },
+    {
+      "term": "VHF Digital Link (VDL)",
+      "definition": "a constituent mobile sub-network of the Aeronautical Telecommunication Network (ATN) operating in the aeronautical mobile VHF band",
+      "source_provision": "s2"
+    },
+    {
+      "term": "VHF Omni-directional Radio Range (VOR)",
+      "definition": "a short-range radio navigation aid that produces an infinite number of bearings that may be visualised as lines radiating from the beacon – the number of bearings, referred to as radicals (a radical is identified by its magnetic bearing from the VOR) can be limited to 360, one degree apart.",
+      "source_provision": "s2"
+    }
+  ]
+}

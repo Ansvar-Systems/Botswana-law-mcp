@@ -1,0 +1,38 @@
+{
+  "id": "bw-act-married-persons-property-repealed",
+  "type": "statute",
+  "title": "Married Persons Property",
+  "title_en": "Married Persons Property",
+  "short_name": "Married Persons Property",
+  "status": "repealed",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/repealed-acts/married-persons-property-repealed",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Married Persons Property Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"matrimonial domicile\" ...;\n[11 of 2008, s. 3(a).]\n\"Registrar\" means the Registrar of Deeds."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Community of property excluded",
+      "content": "3. Community of property excluded\n(1) Community of property and community of profit and loss or any liabilities or privileges resulting therefrom shall not attach to any marriage solemnised between spouses one of whom is domiciled in Botswana, unless such spouses have, by an instrument in writing, signed by each of them prior to the solemnisation of their marriage and in the presence of two persons, one of whom shall be an administrative officer or justice of the peace or a commissioner of oaths, who shall subscribe thereto as witness, express their wish to be exempt from the provisions of this Act.\n[11 of 2008, s. 3(b).]\n(2) Such instrument shall be as nearly as possible in the form set out in the First Schedule and shall be registered in the Deeds Registry within 90 days after the execution thereof and shall not be valid unless so registered:\nProvided that if any instrument submitted for registration within the said period of 90 days has on the face of it any defect the Registrar shall return it to the person by whom it was submitted setting out the defects and requiring the instrument to be returned to him within such period of time, not being less than 60 days, as he may in his discretion allow, with such defects corrected; if the instrument is returned to the Registrar within the time allowed by him with the defects corrected, then it shall be registered by the Registrar and shall be valid notwithstanding that it was registered more than 90 days after execution."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of Deeds.",
+      "source_provision": "s2"
+    }
+  ]
+}

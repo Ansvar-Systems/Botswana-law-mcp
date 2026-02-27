@@ -1,0 +1,88 @@
+{
+  "id": "bw-act-public-audit",
+  "type": "statute",
+  "title": "Public Audit",
+  "title_en": "Public Audit",
+  "short_name": "Public Audit",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/public-audit",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Public Audit Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\n(1) In this Act, unless the context otherwise requires—\n\"audit\" means the examination or the investigation, in accordance with any applicable standards, of those aspects to be reported on in terms of this Act;\n\"Auditor-General\" means the person appointed under section 112 of the Constitution;\n\"Deputy Auditor-General\" means the person appointed under section 112 of the Constitution;\n\"financial year\" means any period of 12 months ending on 31st of March;\n\"Public Accounts Committee\" means the Committee appointed under the Standing Orders of the National Assembly;\n\"public fund\" means any fund or account of public moneys;\n\"public moneys\" , subject to the provisions of subsection (2), means—\n( a ) public revenues; and\n( b ) any trust or other moneys, stamps or securities received or held, whether temporarily or otherwise, by any public officer in his or her official capacity either alone or jointly with any other person;\n\"public officer\" has the meaning assigned to it in the Public Service Act (Cap. 26:01), subject to the provisions of subsections (3) and (4);\n\"public supplies\" means property of any description, other than money, stamps and securities, belonging to, in the possession of, or under the control of Government; and\n\"standards\" means the standards by which an audit is conducted and includes audit practices, procedures and guidelines.\n(2) Where the Minister responsible for finance is of the opinion that adequate provision exists outside this Act for the audit of moneys forming part of any trust fund of which a public officer is a trustee, he or she may, by Order published in the Gazette , direct that such moneys shall not be public moneys for the purposes of this Act.\n(3) For the purposes of this Act, a person shall not be considered to be a public officer by reason only of the fact that he or she is in receipt of any remuneration or allowance from public revenues, and the provisions of section 127(3) and (4) of the Constitution shall have effect in relation to this Act as they have in relation to the Constitution.\n(4) A public officer acting otherwise than in his or her official capacity shall not be regarded as a public officer for the purposes of this Act.\n(5) Where there is any doubt as to the capacity in which a public officer acts, he or she shall be deemed to be acting in his or her official capacity unless the contrary is proved."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Appointment of Auditor-General and Staff",
+      "section": "3",
+      "title": "Continuation of office of Auditor-General",
+      "content": "3. Continuation of office of Auditor-General\nThe office of the Auditor-General in existence immediately before the commencement of this Act is continued in existence subject to the provisions of this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Appointment of Auditor-General and Staff",
+      "section": "4",
+      "title": "Appointment of Auditor-General",
+      "content": "4. Appointment of Auditor-General"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "audit",
+      "definition": "the examination or the investigation, in accordance with any applicable standards, of those aspects to be reported on in terms of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Auditor-General",
+      "definition": "the person appointed under section 112 of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Deputy Auditor-General",
+      "definition": "the person appointed under section 112 of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial year",
+      "definition": "any period of 12 months ending on 31st of March",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Public Accounts Committee",
+      "definition": "the Committee appointed under the Standing Orders of the National Assembly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public fund",
+      "definition": "any fund or account of public moneys",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public officer",
+      "definition": "assigned to it in the Public Service Act (Cap. 26:01), subject to the provisions of subsections (3) and (4)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public supplies",
+      "definition": "property of any description, other than money, stamps and securities, belonging to, in the possession of, or under the control of Government",
+      "source_provision": "s2"
+    },
+    {
+      "term": "standards",
+      "definition": "the standards by which an audit is conducted and includes audit practices, procedures and guidelines.\n(2) Where the Minister responsible for finance is of the opinion that adequate provision exists outside this Act for the audit of moneys forming part of any trust fund of which a public officer is a trustee, he or she may, by Order published in the Gazette , direct that such moneys shall not be public moneys for the purposes of this Act.\n(3) For the purposes of this Act, a person shall not be considered to be a public officer by reason only of the fact that he or she is in receipt of any remuneration or allowance from public revenues, and the provisions of section 127(3) and (4) of the Constitution shall have effect in relation to this Act as they have in relation to the Constitution.\n(4) A public officer acting otherwise than in his or her official capacity shall not be regarded as a public officer for the purposes of this Act.\n(5) Where there is any doubt as to the capacity in which a public officer acts, he or she shall be deemed to be acting in his or her official capacity unless the contrary is proved.",
+      "source_provision": "s2"
+    }
+  ]
+}

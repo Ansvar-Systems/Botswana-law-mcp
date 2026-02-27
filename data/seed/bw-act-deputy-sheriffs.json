@@ -1,0 +1,28 @@
+{
+  "id": "bw-act-deputy-sheriffs",
+  "type": "statute",
+  "title": "Deputy Sheriffs",
+  "title_en": "Deputy Sheriffs",
+  "short_name": "Deputy Sheriffs",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/deputy-sheriffs",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Deputy Sheriffs Act"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—"
+    }
+  ],
+  "definitions": []
+}

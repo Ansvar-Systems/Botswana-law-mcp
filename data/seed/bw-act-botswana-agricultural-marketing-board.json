@@ -1,0 +1,85 @@
+{
+  "id": "bw-act-botswana-agricultural-marketing-board",
+  "type": "statute",
+  "title": "Botswana Agricultural Marketing Board",
+  "title_en": "Botswana Agricultural Marketing Board",
+  "short_name": "Botswana Agricultural Marke...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/botswana-agricultural-marketing-board",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Botswana Agricultural Marketing Board Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"Board\" means the Botswana Agricultural Marketing Board established under section 3;\n\"chairman\" means the member designated as such by the Minister under section 4(1);\n\"deputy chairman\" means the member designated as such by the Minister under section 4(1);\n\"development fund\" means the development fund established under section 13(1);\n\"member\" means a member of the Board;\n\"scheduled produce\" means the produce specified in the First Schedule;\n\"stabilisation fund\" means the stabilisation fund established under section 12(1)."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Establishment of the Board",
+      "section": "3",
+      "title": "Establishment of Board",
+      "content": "3. Establishment of Board\nThere is hereby established a Board to be known as the Botswana Agricultural Marketing Board, which shall be a body corporate with perpetual succession and a common seal, with power to sue and be sued and to purchase, hold, manage and dispose of land and other property for the purposes of performing its functions and exercising its power under this Act and for those purposes entering into such contracts as it may consider necessary or expedient."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Establishment of the Board",
+      "section": "4",
+      "title": "Membership of Board",
+      "content": "4. Membership of Board\n(1) The Board shall consist of not less than eight nor more than 10 members appointed by the Minister, of whom one member shall be designated by the Minister as chairman and one member shall be designated by the minister as deputy chairman.\n(2) No person shall be appointed to be a member of the Board—\n( a ) if he has been declared insolvent or bankrupt under any law in any country and has not been rehabilitated or discharged, or has made a composition with his creditors and has not paid his debts in full;\n( b ) if he is incapacitated by physical or mental illness or infirmity from performing his functions as a member;\n( c ) if he has been sentenced to imprisonment without the option of a fine or has been convicted of any offence involving dishonesty; or\n( d ) if he is a Member of the National Assembly.\n(3) Every appointment to the Board shall be published in the Gazette ."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Establishment of the Board",
+      "section": "5",
+      "title": "Terms of office of members",
+      "content": "5. Terms of office of members\n(1) Subject to the provisions of this section, the members of the Board shall hold office for such period not exceeding three years as the Minister may in each case specify."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Botswana Agricultural Marketing Board established under section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "chairman",
+      "definition": "the member designated as such by the Minister under section 4(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "deputy chairman",
+      "definition": "the member designated as such by the Minister under section 4(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "development fund",
+      "definition": "the development fund established under section 13(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "scheduled produce",
+      "definition": "the produce specified in the First Schedule",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stabilisation fund",
+      "definition": "the stabilisation fund established under section 12(1).",
+      "source_provision": "s2"
+    }
+  ]
+}

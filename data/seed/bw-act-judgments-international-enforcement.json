@@ -1,0 +1,85 @@
+{
+  "id": "bw-act-judgments-international-enforcement",
+  "type": "statute",
+  "title": "Judgments (international Enforcement)",
+  "title_en": "Judgments (international Enforcement)",
+  "short_name": "Judgments (international En...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/judgments-international-enforcement",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Judgments (International Enforcement) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART II Judgments Generally",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Part, unless the contrary intention appears—\n\"appeal\" includes any proceeding by way of discharging or setting aside a judgment or an application for a new trial or a stay of execution;\n\"country of the original court\" means the country in which the original court is situated;\n\"judgment\" means a judgment or order given or made by a court in any civil proceedings or a judgment or order given or made by a court in any criminal proceedings for the payment of a sum of money in respect of compensation or damages to an injured party, and includes an award in proceedings on arbitration if the award has, in pursuance of the law in force in the place where it was made, become enforceable in the same manner as a judgment given by a court in that place;\n\"judgment creditor\" means the person in whose favour the judgment was given and includes any person in whom the rights under the judgment have become vested by succession or assignment or otherwise;\n\"judgment debtor\" means the person against whom the judgment was given, and includes any person against whom the judgment is enforceable under the law of the original court;\n\"judgments given in the High Court\" include judgments given on appeal against any judgments so given;\n\"original court\" , in relation to any judgment, means the court by which the judgment was given;\n\"prescribed\" means prescribed by rules of court;\n\"registering court\" , in relation to any judgment, means the court to which an application to register the judgment is made;\n\"registration\" means registration under this Part.\n(2) For the purposes of this Part, \"action in personam \" shall not include any matrimonial cause or any proceedings in connection with any of the following matters, that is to say, matrimonial matters, administration of the estates of deceased persons, insolvency, winding-up of companies, lunacy, or guardianship of infants."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART II Judgments Generally",
+      "section": "3",
+      "title": "Application of Part II",
+      "content": "3. Application of Part II\n(1) Where the President is satisfied that, in the event of the benefits conferred by this Part being extended to judgments given in the superior courts of any country, substantial reciprocity of treatment will be assured as respects the enforcement in that country of judgments given in the High Court of Botswana, the President may, by statutory instrument, order—\n( a ) that this Part shall extend to that country; and\n( b ) that such courts of that country as are specified in the order shall be the superior courts of that country for the purposes of this Part.\n(2) Any judgment of a superior court of a country to which this Part extends, other than a judgment of such a court given on appeal from a court which is not a superior court, shall be a judgment to which this Part applies, if—\n( a ) it is final and conclusive between the parties thereto;\n( b ) there is payable thereunder a sum of money, not being a sum payable in respect of taxes or other charges of a like nature or in respect of a fine or other penalty; and\n( c ) it is given after the coming into operation of the order directing that this Part shall extend to that country.\n(3) For the purposes of this section, a judgment shall be deemed to be final and conclusive notwithstanding that an appeal may be pending against it, or that it may still be subject to appeal, in the courts of the country of the original court."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART II Judgments Generally",
+      "section": "4",
+      "title": "Continuance of existing provisions",
+      "content": "4. Continuance of existing provisions\n(1) This Part also extends to every country to which the United Kingdom Judgments Act applied immediately before the commencement of this Part.\n(2) The President may by statutory instrument declare, as respects any country, that—\n( a ) it is a country to which, by virtue of subsection (1), this Part extends; and\n( b ) such courts of that country as are specified in the declaration are superior courts of that country for the purposes of this Part,\nand the declaration shall be conclusive as to those matters.\n(3) The purpose of a declaration under subsection (2) is to facilitate the ascertainment of the matters to which it relates and the fact that a declaration has not been made as respects any country shall not affect the question whether, by virtue of subsection (1), this Part extends to that country or what courts are superior courts of that country."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART II Judgments Generally",
+      "section": "5",
+      "title": "Registration of judgment",
+      "content": "5. Registration of judgment"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "appeal",
+      "definition": "any proceeding by way of discharging or setting aside a judgment or an application for a new trial or a stay of execution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "country of the original court",
+      "definition": "the country in which the original court is situated",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judgment",
+      "definition": "a judgment or order given or made by a court in any civil proceedings or a judgment or order given or made by a court in any criminal proceedings for the payment of a sum of money in respect of compensation or damages to an injured party, and includes an award in proceedings on arbitration if the award has, in pursuance of the law in force in the place where it was made, become enforceable in the same manner as a judgment given by a court in that place",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judgment creditor",
+      "definition": "the person in whose favour the judgment was given and includes any person in whom the rights under the judgment have become vested by succession or assignment or otherwise",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judgment debtor",
+      "definition": "the person against whom the judgment was given, and includes any person against whom the judgment is enforceable under the law of the original court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by rules of court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registration",
+      "definition": "registration under this Part.\n(2) For the purposes of this Part, \"action in personam \" shall not include any matrimonial cause or any proceedings in connection with any of the following matters, that is to say, matrimonial matters, administration of the estates of deceased persons, insolvency, winding-up of companies, lunacy, or guardianship of infants.",
+      "source_provision": "s2"
+    }
+  ]
+}

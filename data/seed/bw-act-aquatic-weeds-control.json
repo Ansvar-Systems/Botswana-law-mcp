@@ -1,0 +1,52 @@
+{
+  "id": "bw-act-aquatic-weeds-control",
+  "type": "statute",
+  "title": "Aquatic Weeds (control)",
+  "title_en": "Aquatic Weeds (control)",
+  "short_name": "Aquatic Weeds (control)",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/aquatic-weeds-control",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Aquatic Weeds (Control) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act—\n\"aquatic apparatus\" means any article designed for use in, on, under or around surface waters, which comes into contact with water during use;\n\"aquatic weed\" means any aquatic weed specified in the Schedule, and includes any portion, fragment, trace or seed of any such weed;\n\"boat\" includes any vessel or craft designed, suitable or used for the purpose of floating in, on, or under surface waters;\n\"infested waters\" means waters declared under section 6 to be infested with aquatic weeds;\n\"surface waters\" means all water flowing over the surface of the ground or contained in or flowing from any river, spring, stream or watercourse or any lake, dam, pan, pond or swamp."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aquatic apparatus",
+      "definition": "any article designed for use in, on, under or around surface waters, which comes into contact with water during use",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aquatic weed",
+      "definition": "any aquatic weed specified in the Schedule, and includes any portion, fragment, trace or seed of any such weed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "boat",
+      "definition": "any vessel or craft designed, suitable or used for the purpose of floating in, on, or under surface waters",
+      "source_provision": "s2"
+    },
+    {
+      "term": "infested waters",
+      "definition": "waters declared under section 6 to be infested with aquatic weeds",
+      "source_provision": "s2"
+    },
+    {
+      "term": "surface waters",
+      "definition": "all water flowing over the surface of the ground or contained in or flowing from any river, spring, stream or watercourse or any lake, dam, pan, pond or swamp.",
+      "source_provision": "s2"
+    }
+  ]
+}

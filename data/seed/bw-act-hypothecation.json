@@ -1,0 +1,53 @@
+{
+  "id": "bw-act-hypothecation",
+  "type": "statute",
+  "title": "Hypothecation",
+  "title_en": "Hypothecation",
+  "short_name": "Hypothecation",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/hypothecation",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Hypothecation Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"agricultural produce\" means crops or agricultural produce, whether future, growing or severed from the land, and after severance whether subjected to any treatment or manufacture or not; livestock and the produce and progeny thereof; and other agricultural or horticultural produce whether subjected to any treatment or manufacture or not;\n\"authorised creditor\" means a person authorised by regulations to be a person empowered to take security by way of hypothec under the provisions of this Act;\n\"buyer\" means a person to whom or through whom agricultural produce is required to be sold in accordance with the provisions of section 6;\n\"livestock\" includes—\n( a ) any bovine animal, horse, ass, mule, sheep, goat or pig;\n( b ) any fowl, goose, duck or turkey kept for commercial purposes;\n\"loan\" includes the contracts known in Setswana as \"go fisa\", and any similar contract."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Loans and advances secured by hypothec",
+      "content": "3. Loans and advances secured by hypothec\n(1) Subject to this section (and subject to any limitation which the Minister may prescribe), an authorised creditor may secure any loan, advance, debt and possible future debt by hypothec of crops or other agricultural or natural produce, whether attached to the soil or not, felled timber, animals, fodder, industrial and fishing materials, rolling stock, boats, fishing tackle or nets, raw materials, equipment, machinery, stock-in-trade, goods, and generally all produce of labour and things necessarily used in connection with production, or other movable property of whatsoever kind or description, of which the hypothecator is the owner, and in respect which he has the right of use and disposal, whether or not on the date of such hypothecation the property or thing offered as security is in existence or has been acquired by the hypothecator.\n(2) A document evidencing a hypothecation entered into under this section shall—\n( a ) include—\n(i) a statement that the authorised creditor has either himself, or through his servant or agent, explained to the hypothecator the effect of making such deed and that the hypothecator understands the explanation; and\n(ii) such other matters as may be prescribed; and"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "agricultural produce",
+      "definition": "crops or agricultural produce, whether future, growing or severed from the land, and after severance whether subjected to any treatment or manufacture or not",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised creditor",
+      "definition": "a person authorised by regulations to be a person empowered to take security by way of hypothec under the provisions of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "buyer",
+      "definition": "a person to whom or through whom agricultural produce is required to be sold in accordance with the provisions of section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "loan",
+      "definition": "the contracts known in Setswana as \"go fisa\", and any similar contract.",
+      "source_provision": "s2"
+    }
+  ]
+}

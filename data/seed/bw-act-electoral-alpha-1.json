@@ -1,0 +1,422 @@
+{
+  "id": "bw-act-electoral-alpha-1",
+  "type": "statute",
+  "title": "Electoral",
+  "title_en": "Electoral",
+  "short_name": "Electoral",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/electoral-alpha-1",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Introductory",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Electoral Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Introductory",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"assistant returning officer\" means a person appointed as assistant returning officer under section 4;\n[5 of 1999, s. 2(b).]\n\"candidate\" means a candidate for election as a Member;\n\"close of nominations\" , in relation to any election, means the hour at which the period appointed by a writ, or in pursuance of section 47 for the receipt of nomination in that election, expires;\n\"constituency\" means a constituency delimited in accordance with Chapter V of the Constitution;\n\"council\" means a district council, city council or town council;\n\"designated polling district\" means a polling district designated by the Commission in terms of the proviso to section 7(1);\n\"election\" means the election of a Member;\n\"election officer\" means a returning officer, assistant returning officer, presiding officer or polling officer;\n\"election petition\" means a petition made in terms of Part X;\n\"election roll\" means a roll prepared in pursuance of section 12(4);\n\"entitled to registration\" , in relation to any polling station, means entitled to be registered as a voter in respect of that polling station in accordance with the provisions of Chapter V of the Constitution;\n\"existing roll\" means any roll other than a roll which in terms of section 12(6) or (7) has ceased to have effect;\n\"Form\" means Form prescribed in the Schedule;\n\"general registration period\" means any period appointed as such under section 7(1);\n\"general roll\" means a roll prepared in pursuance of section 12(2) and includes, in the circumstances set out in section 12(7), an election roll;\n\"identity card\" means an identity card issued under the National Registration Act (Cap. 01:02);\n\"Independent Electoral Commission\" means the Independent Electoral Commission appointed under section 65A of the Constitution (in this Act referred to as \"the Commission\");\n\"magistrate\" means a person appointed as a Magistrate Grade II or over and having jurisdiction in the constituency concerned;\n\"Member\" means an Elected Member of the National Assembly or an Elected Member of a council;\n[5 of 1999, s. 2(a).]\n\"nomination day\" , in relation to any election, means the day appointed by a writ for the receipt of nominations in that election; or any other day to which such day may be adjourned by virtue of the provisions of section 46;\n\"objection\" means an objection under section 18;\n\"personal representative\" means, in relation to a person who is dead, the person who in law (including the customary law where this is applicable) represents the estate of that person;\n\"police officer\" has the meaning assigned to it by section 2 of the Police Act (Cap. 21:01);\n\"poll\" means a poll conducted in accordance with this Act;\n\"polling day\" , in relation to any election, means the day appointed by a writ for the taking of any poll which may be necessary in that election; or any other day to which the taking of such poll may be adjourned by virtue of the provisions of sections 46 or 65;\n\"polling district\" means a polling district established under section 5;\n\"polling officer\" , in relation to any polling station, means any person appointed as such for that polling station under section 4;\n\"polling station\" means a polling station established under section 5;\n\"presiding officer\" , in relation to any polling station, means the person appointed as presiding officer for that polling station under section 4 and includes, to the extent to which he is permitted to act, a polling officer appointed in respect of that polling station;\n\"principal registration officer\" means the person appointed as principal registration officer under section 4;\n[5 of 1999, s. 2(c).]\n\"registered\" means registered as a voter under this Act;\n\"registration officer\" means any person appointed as registration officer under section 4 and includes the principal registration officer;\n[5 of 1999, s. 2(d).]\n\"return\" means the return of election expenses referred to in section 87;\n\"returning officer\" means the person appointed as returning officer under section 4 and includes, to the extent to which he is permitted to act, any person appointed as assistant returning officer;\n[5 of 1999, s. 2(e).]\n\"roll\" means a general roll, supplementary roll or election roll prepared in pursuance of section 12;\n\"Secretary\" means the Secretary to the Independent Electoral Commission appointed under section 66 of the Constitution;\n\"Speaker\" means the Speaker of the National Assembly;\n\"symbol\" means a symbol allotted to a candidate in pursuance of section 44 or registered in respect of a political party in pursuance of section 150;\n\"tendered ballot paper\" means a ballot paper issued under section 62;\n\"tendered vote\" means a vote cast using a tendered ballot paper;\n\"voter\" means a person registered as a voter under this Act and in relation to any constituency means any person who is entitled, in terms of sections 31 and 32, to vote at elections in that constituency;\n\"voter's registration card\" means a voter's registration card given to a voter under section 10, 17 or 25 and includes a duplicate of such card given to a voter under section 29;\n\"voter's registration record card\" means a voter's registration record card completed in respect of a voter under section 10 or 17;\n\"voting colour\" means a colour allotted to a candidate in pursuance of section 44 or registered in respect of a political party in pursuance of section 150;\n\"writ\" means a writ of election issued in terms of section 34."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Introductory",
+      "section": "3",
+      "title": "Duties of Secretary",
+      "content": "3. Duties of Secretary\nThe Secretary shall, subject to the directions and supervision of the Commission—\n( a ) exercise general direction and supervision over the registration of voters;\n( b ) exercise general direction and supervision over the administrative conduct of elections and enforce on the part of all election officers fairness, impartiality and compliance with the provisions of this Act;\n( c ) issue to election officers and registration officers such instructions as he may deem necessary to ensure effective execution of the provisions of this Act; and\n( d ) exercise and perform all other powers and duties conferred and imposed upon him by this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Introductory",
+      "section": "4",
+      "title": "Appointment of officers",
+      "content": "4. Appointment of officers\n(1) The Secretary shall appoint—\n( a ) a principal registration officer for each constituency; and\n( b ) such other registration officers, for each constituency and polling station, as he may deem necessary.\n[5 of 1999, s. 3(a).]\n(2) The Secretary shall appoint—\n( a ) a returning officer and such number of assistant returning officers, for each constituency and polling district, as he may deem necessary; and\n( b ) a presiding officer and such number of polling officers as he may deem necessary for each polling station.\n[5 of 1999, s. 3(b).]\n(3) Registration and election officers shall—\n( a ) execute and perform the powers and duties conferred upon them by this Act in accordance with such instructions as they may be given by the Secretary; and\n( b ) not place in jeopardy their fairness, impartiality and compliance with the provisions of this Act as is required under section 3( b ), or in any manner harm the credibility, impartiality, independence or integrity of the Commission.\n[6 of 2023, s. 2.]\n(4) For purposes of registration and elections to be conducted outside Botswana, the Secretary shall appoint registration and election officers in such countries as he may consider necessary.\n(5) Appointments made under this section shall be published in the Gazette ."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART I Introductory",
+      "section": "5",
+      "title": "Establishment of polling districts and stations",
+      "content": "5. Establishment of polling districts and stations\n(1) As soon as practicable after constituencies have been delimited, the Secretary shall divide each constituency into polling districts and establish one or more polling stations in each polling district; and shall cause notice of the boundaries of every such polling district, the situation of every such polling station and the names by which such polling districts and polling stations are to be known, to be published in the Gazette and in such other manners as he may consider appropriate.\n(2) The Secretary may from time to time in like manner add to the number of polling stations established in any polling district or vary the situation within a polling district of any polling station established therein.\n(3) For purposes of registration and elections to be conducted outside Botswana, the Commission shall establish polling stations outside Botswana—\n( a ) at all Botswana Embassies and Consular Missions; and\n( b ) at such other places as the Commission may consider necessary.\n[5 of 1999, s. 4.]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART II Disqualification of Voters",
+      "section": "6",
+      "title": "Disqualification of voters",
+      "content": "6. Disqualification of voters\n(1) No person shall be qualified to be registered as a voter who—\n( a ) is, by virtue of his own act, under any acknowledgement of allegiance, obedience or adherence to a foreign power or state;\n( b ) is, for an offence which is a criminal offence under the law of Botswana, under sentence of death imposed on him by a court in any part of the Commonwealth, or, subject to the provisions of subsection (2), under sentence of imprisonment (by whatever name called, and whether or not it is a suspended sentence) of or exceeding six months imposed on him by such a court, or substituted by competent authority for some other sentence imposed on him by such a court;\n[S.I. 120/1993.]\n( c ) is a person certified to be insane or otherwise adjudged or declared to be of unsound mind under any law for the time being in force in Botswana; or\n( d ) is disqualified from voting at any election under any law for the time being in force in Botswana relating to offences connected with elections.\n(2) For the purposes of subsection (1)( b )—\n( a ) two or more sentences of imprisonment that are required to be served consecutively shall be regarded as a single term of imprisonment for the aggregate period of those terms; and\n( b ) no account shall be taken of a sentence of imprisonment imposed as an alternative to or in default of the payment of a fine."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART III Registration of Voters and Preparation of Rolls",
+      "section": "7",
+      "title": "General registration of voters",
+      "content": "7. General registration of voters\n(1) Whenever polling districts and polling stations have been established under section 5 or whenever the Commission considers that it is necessary for new general rolls to be prepared in order to obtain accurate rolls of voters in any constituency or constituencies the Commission shall by order published in the Gazette appoint a period to be a general registration period in respect of the constituency or constituencies specified in the order:\nProvided that if it appears to the Commission in relation to any polling district that there is good reason to believe that the relevant sections of the existing rolls constitute at that time a substantially accurate record of the persons entitled to registration at polling stations in that district the Commission may in such order designate that polling district as a district in which the relevant sections of the existing rolls shall be used in the preparation of general rolls following that general registration period.\n(2) During a general registration period registration officers shall attend at all polling stations (other than polling stations in constituencies not included in an order published under subsection (1) and in designated polling districts) for the purpose of registering voters.\n(3) During a general registration period in any designated polling district, the Secretary shall cause copies of the relevant sections of the existing rolls to be made available for inspection by the public at the office of the principal registration officer, and at such other places as may be determined by the principal registration officer.\n[2 of 2004, s. 2.]\n(4) On publication of an order appointing a general registration period, the Secretary shall publish a notice or notices, in such manner as he may consider appropriate—\n( a ) calling upon every person who is entitled to registration (otherwise than in respect of a polling station in a designated polling district) to apply for registration during the general registration period, and specifying the dates, times and places when and at which persons so entitled may apply for such registration;\n( b ) informing all persons who are entitled to registration in respect of polling stations in any designated polling district of the dates, times and places when and at which copies of the relevant sections of the existing rolls will be available for inspection by the public in pursuance of subsection (3), and calling upon all such persons who are not already registered in respect of any such polling station to apply for registration during the general registration period, and specifying the dates, times and places when and at which persons so entitled may apply for such registration.\n(5) Registration of voters may, in order to obtain accurate rolls of voters in any constituency under subsection (1) and to ensure safe custody of the rolls, be carried out by electronic or other secure means as the Secretary may determine.\n[6 of 2023, s. 3.]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART III Registration of Voters and Preparation of Rolls",
+      "section": "8",
+      "title": "Supplementary registration of voters",
+      "content": "8. Supplementary registration of voters\n(1) Registration of voters otherwise than during a general registration period shall be carried out at the office of the principal registration officer for each constituency, and at such other places as the Secretary may from time to time appoint for such purpose.\n(2) Notwithstanding the provisions of subsection (1), a principal registration officer or his authorised representative may, during any official visit to any part of his constituency, register voters in that part of the constituency.\n[21 of 2008, s. 2.]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART III Registration of Voters and Preparation of Rolls",
+      "section": "9",
+      "title": "Registration of non-resident citizens",
+      "content": "9. Registration of non-resident citizens\n(1) Where a person entitled to register as a voter in terms of this Act is resident outside Botswana, such person may be registered in accordance with the provisions of this section.\n(2) Whenever a registration period is appointed under section 7 or 8, the Secretary shall cause a notice to be published in—\n( a ) a foreign newspaper in a foreign country circulating in the area of the country where citizens of Botswana are resident; or\n( b ) any other medium as the Secretary may determine, including the Commission?s website, a Government web page and any electronic media,\ncalling upon every citizen entitled to be registered as a voter in terms of this Act to apply for registration during the registration period on such date, time and place as may be specified in the notice; and the provisions of section 10 shall, with such modifications and adaptations as may be necessary, have effect.\n[6 of 2023, s. 4.]\n(3) The registration officer shall, on completion of a registration of any person, forward the completed voter's registration record card to the Secretary who shall incorporate the registration in the roll of the voters in the constituency of that person."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART III Registration of Voters and Preparation of Rolls",
+      "section": "10",
+      "title": "Applications for registration",
+      "content": "10. Applications for registration\n(1) During a general registration period—\n( a ) any person who claims to be entitled to registration in respect of any polling station not in a designated polling district may, unless he has an existing registration in respect of a polling station in a designated polling district, make application for registration by attending before a registration officer at that polling station;\n( b ) any person who claims to be entitled to registration in respect of any polling station in a designated polling district may, unless he has an existing registration in respect of that polling station or a polling station in a designated polling district, make an application for registration by attending before a registration officer for the constituency which contains that polling station.\n(2) At any other time, any person who claims to be entitled to registration may, if he is not already a voter, make an application for registration by attending before a registration officer for the constituency which contains that polling station in respect of which he claims to be entitled to registration.\n(3) If an application for registration is made, the registration officer shall determine whether or not the applicant is entitled to registration in respect of that polling station, and, if satisfied that he is, shall—\n( a ) complete a voter's registration record card in Form A in relation to the applicant;\n( b ) require the applicant to make the declaration set out in that form;\n( c ) register the applicant as a voter in respect of that polling station by completing the voter's registration card in Form B in relation to the applicant, and giving it to the applicant; and\n( d ) forward the completed voter's registration record card to the Secretary.\n[21 of 2008, s. 3(a).]\n(4) ...\n[21 of 2008, s. 3(b).]\n(5) A registration officer shall not register any applicant who does not produce his national identity card at the time of applying for registration as a voter.\n[2 of 2004, s. 3(b).]\n(6) If a registration officer is not satisfied that an applicant is entitled to registration, he shall complete and give to the applicant a notice of rejection in Form C and send a counterpart of such notice to the principal registration officer."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART III Registration of Voters and Preparation of Rolls",
+      "section": "11",
+      "title": "Enquiries by registration officer",
+      "content": "11. Enquiries by registration officer\nFor the purpose of satisfying himself with regard to any matter, or for the purposes of determining any matter relating to any application for registration, a registration officer may make such enquiry as he considers necessary.\n[ 2 of 2004, s. 4. ]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART III Registration of Voters and Preparation of Rolls",
+      "section": "12",
+      "title": "General, supplementary and election rolls",
+      "content": "12. General, supplementary and election rolls\n(1) There shall be general rolls, supplementary rolls and election rolls of the voters in each constituency.\n(2) As soon as practicable after the termination of a general registration period, the Secretary shall cause to be prepared a roll of voters in the constituencies affected by such general registration period, containing—\n( a ) in respect of polling stations not included in any designated polling district, the names of voters registered in respect of such polling stations during the general registration period;\n( b ) in respect of any polling stations included in a designated polling district, the names of voters registered in the relevant sections of the existing rolls together with the names of voters registered in respect of such polling stations between the expiration of the period in respect of which the last existing roll was prepared and the expiration of the general registration period.\n(3) As soon as practicable after 31st December in each year and at such other intervals as he may consider appropriate the Secretary shall cause to be prepared a roll of voters for each constituency, containing the names of voters registered in that constituency since the last such roll was prepared and not included in any general roll prepared under subsection (2), such roll to be known as a supplementary roll.\n(4) Whenever a writ of election is issued, the Secretary shall amalgamate into one roll for each constituency concerned—\n( a ) the last general roll for such constituency; and\n( b ) all supplementary rolls for such constituency in operation on the day on which such writ is issued,\nand any such amalgamated roll shall be known as an election roll and may be maintained in such form of permanent record as the Minister may by regulations prescribe.\n(5) A roll shall come into operation on certification in terms of section 15.\n(6) Upon the coming into operation of a general roll for any constituency, any previous general roll and any existing supplementary rolls for the constituency shall cease to have effect and the Secretary may cause the same to be destroyed.\n(7) Upon the coming into operation of an election roll for any constituency, the general roll and all supplementary rolls which have been amalgamated into the election roll shall cease to have effect and the Secretary may cause the same to be destroyed, and for the purposes of this Act such election roll shall be deemed to be the last general roll for the constituency concerned.\n(8) Notwithstanding any provision of this Act, the Secretary shall determine a cut-off date for registration of voters and shall, before a writ of elections is issued, compile and mature all rolls into one operative roll.\n[21 of 2008, s. 4.]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART III Registration of Voters and Preparation of Rolls",
+      "section": "13",
+      "title": "Form of rolls",
+      "content": "13. Form of rolls\nEvery roll shall—\n( a ) state the surname, other names, sex, postal address, house number or plot number (where practicable), national identity card number of every voter named therein, and the serial number of the voter's registration card given to him;\n[2 of 2004, s. 5.]\n( b ) be compiled in alphabetical order in relation to the surname of the voter; and\n[20 of 2012, s. 2.]\n( c ) be divided into sections each relating to the voters registered in respect of a particular polling station."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART III Registration of Voters and Preparation of Rolls",
+      "section": "14",
+      "title": "Publication of rolls",
+      "content": "14. Publication of rolls\nOn the completion of any general roll or supplementary roll, and on the certification of any election roll, the Secretary shall publish the roll by—\n( a ) making it and copies thereof available for inspection by the public in accordance with the provisions of section 16; and\n( b ) giving notice thereof in the Gazette and in such other manner as he may consider appropriate, specifying the places at which it and such copies are so available, and in the case of a general roll or a supplementary roll, setting out as in Form D the manner in which objections in respect of the roll may be made."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART III Registration of Voters and Preparation of Rolls",
+      "section": "15",
+      "title": "Certification of rolls",
+      "content": "15. Certification of rolls\n(1) As soon as practicable after any objections in relation to a general roll or supplementary roll published under section 14 have been determined, the Secretary shall certify the roll in the manner provided in Form E:\nProvided that if at the expiration of 42 days in the case of a general roll or 21 days in the case of a supplementary roll after such publication, any objection in relation to a roll has not yet been determined, the Secretary may certify the roll in accordance with the provisions of this section notwithstanding such objection, but if he does so he shall thereafter, in accordance with the provisions of section 24, alter the roll if necessary to give effect to the decision of a magistrate in relation to that objection.\n(2) As soon as practicable after the certification of a general roll or supplementary roll under this section the Secretary shall give notice in the Gazette and in such other manner as he may consider appropriate that the roll has been certified and is in operation, and that it and copies thereof are open for inspection by the public in accordance with the provisions of section 16, specifying the places at which it and such copies are so available.\n(3) The Secretary shall certify an election roll in the manner provided in Form E as soon as it has been completed."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART III Registration of Voters and Preparation of Rolls",
+      "section": "16",
+      "title": ">Inspection of rolls>",
+      "content": "16. >Inspection of rolls>\n(1) Every existing roll shall be open for inspection by the public without fee at the office of the Secretary during the hours the office is open.\n(2) A copy of every existing roll for a constituency shall be kept at the office of the principal registration officer for that constituency and at such other places therein as the principal registration officer may determine, and shall be open for inspection by the public without fee during such reasonable hours as the principal registration officer may appoint.\n(3) Any person may, upon payment of a fee prescribed by the Secretary from time to time, make hard copies of a roll or take extracts there from during the hours aforesaid.\n[21 of 2008, s. 5.]\n(4) In addition to subsections (1) and (2), the Secretary may open a copy of every existing roll for inspection by the public in the Commission?s website, a Government web page or other electronic media as the Secretary may determine.\n[6 of 2023, s. 5.]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART IV Appeals, Objections and Cancellations",
+      "section": "17",
+      "title": "Appeal against rejection under section 10",
+      "content": "17. Appeal against rejection under section 10\n(1) An applicant whose application has been rejected under section 10(6) may appeal to a magistrate.\n(2) Notice of any such appeal shall be in Form F and shall be delivered to the principal registration officer for the constituency where the applicant applied within a period of seven days after the rejection of the application, together with a deposit of P10.\n[2 of 2004, s. 6.]\n(3) On receipt of any notice of appeal the principal registration officer shall forthwith set down the appeal for hearing before a magistrate and the magistrate shall appoint a place and as early a day as is practicable for the hearing of the appeal.\n(4) The principal registration officer shall cause an appellant to be notified of the day and place appointed by the magistrate for the hearing of his appeal.\n(5) The magistrate shall then determine any such appeal and forthwith notify the principal registration officer concerned of his decision in relation thereto.\n(6) If a magistrate allows an appeal the principal registration officer on being so notified shall—\n( a ) complete a voter's registration record card in Form A in relation to the appellant, and endorse the card with an entry to the effect that the appeal has been allowed;\n( b ) register the appellant as a voter in respect of the polling station named by the appellant in his notice of appeal by completing a voter's registration card in Form B in relation to the appellant in the manner prescribed in section 10(3)( c ) and giving it to the appellant;\n( c ) forward the completed voter's registration record card to the Secretary, and\n( d ) refund the appellant's deposit.\n(7) If a magistrate disallows an appeal the principal registration officer on being so notified shall pay the appellant's deposit into the general revenues of Botswana.\n(8) The decision of a magistrate on an appeal shall be final and shall not be challenged in any proceedings whatsoever."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART IV Appeals, Objections and Cancellations",
+      "section": "18",
+      "title": "Objections",
+      "content": "18. Objections\n(1) Any person whose name is included in a roll for any constituency may object to the inclusion of any other name appearing therein or in any other existing roll relating to that constituency.\n(2) An objection shall be made in writing in Form G, and shall be delivered to the principal registration officer for the constituency together with a deposit of P10 within 21 days in the case of the supplementary roll, and 42 days in the case of the general roll, of—\n( a ) the date of publication under section 14, of the roll to which it relates; or\n( b ) the date on which notice of an insertion is given in pursuance of section 27 where the objection relates to the name of the voter inserted in a roll in pursuance of section 25 or 26( a ).\n[2 of 2004, s. 7.]\n(3) On receipt of an objection under this section the principal registration officer shall forthwith set down the objection for hearing before a magistrate and the magistrate shall appoint a place and as early a date as is practicable for the hearing of the objection.\n(4) The principal registration officer shall cause the objector and the person to whom the objection relates to be notified of the time and place appointed by the magistrate for the hearing of the objection and shall forward to the person to whom the objection relates a copy of the objection.\n(5) The magistrate shall then determine the objection."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART IV Appeals, Objections and Cancellations",
+      "section": "19",
+      "title": "Determination of objections",
+      "content": "19. Determination of objections\n(1) The provisions of this section shall apply to the hearing of an objection under the provisions of section 18.\n(2) The person to whom the objection relates may appear either in person or by a person appointed in writing under his hand, or may forward by post to the magistrate a statement signed by him setting forth his answer to the objection.\n(3) If the objector or the person to whom the objection relates appears by some other person the magistrate may, if he deems it necessary, adjourn the hearing for the attendance in person of the objector or the person to whom the objection relates and may make an order requiring his attendance accordingly.\n(4) The magistrate shall forthwith notify the principal registration officer concerned of his decision in relation to any objection.\n(5) If a magistrate upholds an objection, the principal registration officer shall refund the objector's deposit and the provisions of section 24 shall have effect.\n(6) If a magistrate disallows an objection the principal registration officer shall pay the objector's deposit into the general revenues of Botswana.\n(7) If in addition the magistrate is of the opinion that the objection was made without reasonable cause, he may order the objector to pay to the person to whom the objection relates such sum not exceeding P500 as he considers will compensate the person to whom the objection relates for the trouble and expense to which he may have been put by reason of the objection.\n[21 of 2008, s. 6.]\n(8) Any sum to be paid under subsection (7) shall be recoverable as a civil debt.\n(9) The decision of a magistrate on an objection shall be final and shall not be challenged in any proceedings whatsoever."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART IV Appeals, Objections and Cancellations",
+      "section": "20",
+      "title": ">Failure of an objector to appear >",
+      "content": "20. >Failure of an objector to appear >\nWhen an objector fails to appear on the day and at the place and time appointed by the magistrate for the hearing of the objection, the magistrate shall disallow the objection and may order the objector to pay such costs to the person against whom the objection was made, as the magistrate may determine.\n[21 of 2008, s. 7.]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART IV Appeals, Objections and Cancellations",
+      "section": "21",
+      "title": "Cancellation by principal registration officer",
+      "content": "21. Cancellation by principal registration officer\n(1) If any principal registration officer has reason to believe that any voter enrolled in any section of an existing roll in his constituency is not, or is no longer, entitled to registration in respect of the polling station to which that registration relates he shall send to that voter written notice of cancellation in Form H setting forth the grounds on which he proposes to cancel the voter's registration in respect of that polling station and that unless, on representations made by the voter or otherwise, the principal registration officer withdraws the notice, or unless an appeal by the voter under section 22 is allowed, the voter's registration in that polling station will be cancelled and his name struck off the roll:\nProvided that:\n(i) in the case of a voter whose registration it is proposed to cancel on the grounds that he does not possess the residence qualification, the principal registration officer may publish such notice in the Gazette and such publication shall be sufficient compliance with the provisions of this subsection; and\n(ii) no such notice shall be so sent or published during the period between the issue of a writ of election having effect in relation to that constituency and the close of polling in the election to which the writ relates.\n(2) If notice of appeal is not duly given and the principal registration officer does not withdraw the notice, the provisions of section 24 shall have effect.\n(3) For the purposes of this section \"the residence qualification\" means either of the qualifications referred to in section 67(1)( c ) of the Constitution."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART IV Appeals, Objections and Cancellations",
+      "section": "22",
+      "title": "Appeal against cancellation under section 21",
+      "content": "22. Appeal against cancellation under section 21\n(1) A voter who has received notice of cancellation under section 21(1) may appeal to a magistrate.\n(2) Notice of any such appeal shall be in Form I and shall be delivered to the principal registration officer who sent the notice of cancellation to the voter within a period of 14 days after delivery of such notice of cancellation.\n(3) On receipt of any notice of appeal the principal registration officer shall forthwith set down the appeal for hearing before a magistrate and the magistrate shall appoint a place and as early a day as is practicable for the hearing of the appeal.\n(4) The principal registration officer shall cause an appellant to be notified of the day and place appointed by the magistrate for the hearing of his appeal.\n(5) The magistrate shall then determine any such appeal and forthwith notify the principal registration officer concerned of his decision in relation thereto.\n(6) If a magistrate disallows an appeal the provisions of section 24 shall have effect."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART IV Appeals, Objections and Cancellations",
+      "section": "23",
+      "title": "Procedure for hearing appeals or objections",
+      "content": "23. Procedure for hearing appeals or objections\n(1) The procedure for the hearing of appeals or objections shall be regulated in such manner as the presiding magistrate may direct.\n(2) For the purpose of determining an appeal or objection a magistrate may summon any person to appear before him to give evidence on oath or affirmation, and may order the production of any document bearing on any issue relevant to the determination of such appeal or objection."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART IV Appeals, Objections and Cancellations",
+      "section": "24",
+      "title": "Notification to Secretary",
+      "content": "24. Notification to Secretary\nIf a magistrate upholds an objection in pursuance of section 19 or if notice of cancellation is given to any voter in pursuance of section 21 and either such voter does not appeal under section 22 and the notice is not withdrawn, or such voter does appeal and his appeal is dismissed, the principal registration officer concerned shall—\n( a ) notify the Secretary accordingly who shall, subject to the provisions of section 28, cancel the voter's registration by making an appropriate endorsement on the voter's registration record card relating to such voter, and delete his name from the roll; and\n( b ) require the person whose registration is cancelled to surrender to the principal registration officer the voter's registration card given to that person in pursuance of this Act, and forward such card to the Secretary."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART V Supplementary",
+      "section": "25",
+      "title": "Transfer of registration",
+      "content": "25. Transfer of registration\n(1) Any person who is registered as a voter in respect of any polling station (hereinafter referred to as \"the existing polling station\") and has become entitled to registration in respect of any other polling station (hereinafter referred to as \"the other polling station\") may make application for the transfer of his registration in the manner provided by this section:\nProvided that, during a general registration period, this section shall have effect only where the existing polling station is in a designated polling district.\n(2) Any person who wishes to make such an application shall attend before a registration officer for the constituency in which the other polling station is situate.\n(3) The registration officer shall determine whether the applicant is entitled to transfer his registration to the other polling station and, if satisfied that he is, shall—\n( a ) require him to surrender the voter's registration card given to him in pursuance of this Act on his registration in respect of the existing polling station;\n( b ) complete a registration transfer card in Form J in relation to the applicant;\n( c ) require him to make the declaration set out in that Form;\n( d ) transfer the applicant's registration to the other polling station by making an appropriate endorsement on the surrendered voter's registration card, completing a new voter's registration card in Form B in relation to the applicant and giving it to the applicant;\n( e ) forward the surrendered voter's registration card and the completed registration transfer card to the Secretary.\n(4) The Secretary shall—\n( a ) make an appropriate endorsement on the applicant's registration record card;\n( b ) delete the applicant's name from the roll on which he is enrolled; and\n( c ) insert his name in the appropriate section of the existing roll for the constituency which includes the polling station to which he has been transferred.\n(5) If the registration officer is not satisfied that the applicant is entitled to transfer his registration he shall complete and give to the applicant a notice of rejection in Form K and send a counterpart of such notice to the principal registration officer; and the provisions of section 17 shall have effect in respect thereof as they have in respect of a notice of rejection under section 10.\n(6) Any notice of appeal against such a rejection shall be as in Form K.\n(7) The provisions of section 11 shall have effect in relation to an application under this section as they have in relation to an application under section 10.\n(8) For the avoidance of doubt, no person shall make an application for the transfer of his registration under this section after a vacancy has occurred in the constituency or polling district in which the polling station to which he wishes to transfer is situated.\n[21 of 2008, s. 8.]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART V Supplementary",
+      "section": "26",
+      "title": "Formal alterations to rolls",
+      "content": "26. Formal alterations to rolls\nAn alteration to any existing roll which is required—\n( a ) to insert a voter's name which was incorrectly omitted;\n( b ) to transfer a voter's name from an incorrect section to the correct section;\n( c ) to correct any clerical error made therein;\n( d ) to change, on the application of a voter, the original name or address of that voter to an altered name or address (otherwise than in pursuance of a transfer of registration under section 25);\n( e ) to delete the name of any person whom the Secretary is satisfied is dead,\nmay, subject to the provisions of section 28, be made by the Secretary at any time:\nProvided that no alteration shall be made to a roll in terms of paragraph ( d ) unless the voter produces the voter's registration card given to him in pursuance of this Act, to enable it to be endorsed under section 27(2)."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART V Supplementary",
+      "section": "27",
+      "title": "Procedure for alteration of rolls",
+      "content": "27. Procedure for alteration of rolls\n(1) Upon making any alteration to a roll, the Secretary shall forthwith notify the principal registration officer concerned of the details of such alteration, and the principal registration officer shall cause a similar alteration to be made to every copy of such roll in his possession or in the possession of any other registration officer in that constituency.\n(2) In addition, in the case of—\n( a ) any alteration involving the insertion of a name therein in terms of section 25 or 26( a ) the Secretary shall give notice thereof in the Gazette and in such other manner as he may consider appropriate specifying the places at which the altered roll and copies thereof are available for inspection by the public in terms of section 16, and setting out as in Form L the manner in which objections in respect of such insertion may be made;\n( b ) any alteration in terms of section 26( d ) the Secretary shall make a corresponding endorsement to the voter's registration record card relating to the voter, and cause a corresponding endorsement to be made to his voter's registration card;\n( c ) any alteration in terms of section 26( e ) the Secretary shall make a corresponding endorsement to the voter's registration record card relating to the deceased voter, and destroy the card after the expiration of such period as he may deem fit."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART V Supplementary",
+      "section": "28",
+      "title": "Restrictions on acts of Secretary after issue of writ of election",
+      "content": "28. Restrictions on acts of Secretary after issue of writ of election\nAfter the issue of any writ of election, the Secretary shall not—\n( a ) prepare, publish or certify any roll other than an election roll;\n[21 of 2008, s. 9(a).]\n( b ) make any endorsement to a voter's registration record card;\n( c ) cause any endorsement to be made to any voter's registration card; or\n( d ) make any alteration to a roll to correct a patent error,\n[21 of 2008, s. 9(b).]\nhaving effect in relation to the constituency to which the writ relates, until the close of polling in the election to which the writ relates."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART V Supplementary",
+      "section": "29",
+      "title": "Issue of duplicate voter's registration card",
+      "content": "29. Issue of duplicate voter's registration card\nWhere a voter loses his voter's registration card, or the card is destroyed, any registration officer, on being satisfied as to such loss or destruction, may issue a duplicate voter's registration card to such person:\nProvided that no duplicate voter's registration card shall be issued on any day fixed for polling at the constituency, polling district or polling station at which the voter is registered to vote.\n[ 2 of 2004, s. 8. ]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART V Supplementary",
+      "section": "30",
+      "title": "Service of notices",
+      "content": "30. Service of notices\nAny notification which a principal registration officer is required to give or cause to be given shall be deemed to have been duly given if sent by registered post to the address given in any form completed by the appellant or objector, as the case may be, or in the case of the person to whom an objection relates, to the address of such person as shown in the roll."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART VI Elections",
+      "section": "31",
+      "title": "Entitlement to vote",
+      "content": "31. Entitlement to vote\n(1) Subject to the provisions of this section, of section 60 and of Chapter V of the Constitution, a person shall not be entitled to vote at any polling station in an election in any constituency unless he has been registered as a voter for that constituency in respect of that polling station and he produces his voter's registration card and his identity card in accordance with the provisions of section 54.\n(2) No person shall be entitled to vote more than once at any election."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "assistant returning officer",
+      "definition": "a person appointed as assistant returning officer under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "candidate",
+      "definition": "a candidate for election as a Member",
+      "source_provision": "s2"
+    },
+    {
+      "term": "constituency",
+      "definition": "a constituency delimited in accordance with Chapter V of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council",
+      "definition": "a district council, city council or town council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "designated polling district",
+      "definition": "a polling district designated by the Commission in terms of the proviso to section 7(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "election",
+      "definition": "the election of a Member",
+      "source_provision": "s2"
+    },
+    {
+      "term": "election officer",
+      "definition": "a returning officer, assistant returning officer, presiding officer or polling officer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "election petition",
+      "definition": "a petition made in terms of Part X",
+      "source_provision": "s2"
+    },
+    {
+      "term": "election roll",
+      "definition": "a roll prepared in pursuance of section 12(4)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "existing roll",
+      "definition": "any roll other than a roll which in terms of section 12(6) or (7) has ceased to have effect",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Form",
+      "definition": "Form prescribed in the Schedule",
+      "source_provision": "s2"
+    },
+    {
+      "term": "general registration period",
+      "definition": "any period appointed as such under section 7(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "general roll",
+      "definition": "a roll prepared in pursuance of section 12(2) and includes, in the circumstances set out in section 12(7), an election roll",
+      "source_provision": "s2"
+    },
+    {
+      "term": "identity card",
+      "definition": "an identity card issued under the National Registration Act (Cap. 01:02)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Independent Electoral Commission",
+      "definition": "the Independent Electoral Commission appointed under section 65A of the Constitution (in this Act referred to as \"the Commission\")",
+      "source_provision": "s2"
+    },
+    {
+      "term": "magistrate",
+      "definition": "a person appointed as a Magistrate Grade II or over and having jurisdiction in the constituency concerned",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Member",
+      "definition": "an Elected Member of the National Assembly or an Elected Member of a council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "objection",
+      "definition": "an objection under section 18",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police officer",
+      "definition": "assigned to it by section 2 of the Police Act (Cap. 21:01)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "poll",
+      "definition": "a poll conducted in accordance with this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "polling district",
+      "definition": "a polling district established under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "polling station",
+      "definition": "a polling station established under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "principal registration officer",
+      "definition": "the person appointed as principal registration officer under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered",
+      "definition": "registered as a voter under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registration officer",
+      "definition": "any person appointed as registration officer under section 4 and includes the principal registration officer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "return",
+      "definition": "the return of election expenses referred to in section 87",
+      "source_provision": "s2"
+    },
+    {
+      "term": "returning officer",
+      "definition": "the person appointed as returning officer under section 4 and includes, to the extent to which he is permitted to act, any person appointed as assistant returning officer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "roll",
+      "definition": "a general roll, supplementary roll or election roll prepared in pursuance of section 12",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Secretary",
+      "definition": "the Secretary to the Independent Electoral Commission appointed under section 66 of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Speaker",
+      "definition": "the Speaker of the National Assembly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "symbol",
+      "definition": "a symbol allotted to a candidate in pursuance of section 44 or registered in respect of a political party in pursuance of section 150",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tendered ballot paper",
+      "definition": "a ballot paper issued under section 62",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tendered vote",
+      "definition": "a vote cast using a tendered ballot paper",
+      "source_provision": "s2"
+    },
+    {
+      "term": "voter",
+      "definition": "a person registered as a voter under this Act and in relation to any constituency means any person who is entitled, in terms of sections 31 and 32, to vote at elections in that constituency",
+      "source_provision": "s2"
+    },
+    {
+      "term": "voter's registration card",
+      "definition": "a voter's registration card given to a voter under section 10, 17 or 25 and includes a duplicate of such card given to a voter under section 29",
+      "source_provision": "s2"
+    },
+    {
+      "term": "voter's registration record card",
+      "definition": "a voter's registration record card completed in respect of a voter under section 10 or 17",
+      "source_provision": "s2"
+    },
+    {
+      "term": "voting colour",
+      "definition": "a colour allotted to a candidate in pursuance of section 44 or registered in respect of a political party in pursuance of section 150",
+      "source_provision": "s2"
+    },
+    {
+      "term": "writ",
+      "definition": "a writ of election issued in terms of section 34.",
+      "source_provision": "s2"
+    }
+  ]
+}

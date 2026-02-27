@@ -1,0 +1,110 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-ghanzi-district-council-markets-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Ghanzi District Council (markets) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Ghanzi District Council (markets) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-ghanzi-district-council-markets-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-Laws may be cited as the Ghanzi District Council (Markets) Bye-Laws*.\n*Originally made under the Township Act now repealed, these regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-Laws, unless the context otherwise requires\n\"Council\" means the Ghanzi District Council;\n\"health inspector\" means a health inspector employed by the Government or by the Council;\n\"market\" means a market established under bye-law 3;\n\"Council Officer\" means the Council Secretary or any Council employee authorised by the Council Secretary in writing for the purpose of these Bye-Laws;\n\"Licensing Officer\" means the Council Secretary or any Council employee authorised by the Council Secretary in writing for the purpose of these Bye-Laws;\n\"stall\" includes a building, stand, shelter and table used for the provision of a service to the public; and\n\"stall holder\" means a person hiring a stall under these Bye-Laws."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment and control of market",
+      "content": "3. Establishment and control of market\n(1) The Council may establish a market.\n(2) The Council shall control and supervise any market established under sub-bye-law (1).\n(3) No person may erect a building, tent, booth, shelter or other structure within a market without the written permission of the Council."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application to hire stall",
+      "content": "4. Application to hire stall\n(1) A person who wishes to hire a stall shall apply to the Licensing Officer in Form 1 set out in the First Schedule.\n(2) The Licensing Officer shall reject an application made to him or her under sub-bye-law (1) where\n( a ) every stall of the type for which the application is made is already hired;\n( b ) the applicant is under 16 years of age; or\n( c ) in the opinion of the Licensing Officer, to grant the application would not be in the public interest.\n(3) A Licensing Officer shall, where he or she rejects an application under this bye-law, notify the applicant in writing, stating the reasons for the rejection.\n(4) A Memorandum of Agreement of Lease, as set out in Form 3 in the First Schedule, shall be signed by the Ghanzi District Council as the \"Lessor\" and the permit holder as the \"Lessee\"."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Issue of permit",
+      "content": "5. Issue of permit\nWhere an application under bye-law 4 is approved, the Licensing Officer shall issue a permit in Form 2 set out in the First Schedule."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Hire fees and rent",
+      "content": "6. Hire fees and rent\nMonthly payments for rent or hire of a stall shall be made in advance at the Ghanzi District Council Revenue Office."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Hours and days of operation",
+      "content": "7. Hours and days of operation\nThe hours and days of operation of a stall shall be as set out in the Second Schedule."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Subletting of stall",
+      "content": "8. Subletting of stall\n(1) A stall holder shall not sublet a stall.\n(2) A stall holder who contravenes sub-bye-law (1) commits an offence.\n(3) A stall holder who contravenes the provisions of sub-bye-law (1) shall forfeit, to the Council, the monthly payment for rent or hire of a stall."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Revocation of permit",
+      "content": "9. Revocation of permit\n(1) The Council shall revoke a permit of a stall holder where the stall holder\n( a ) does not pay fees in accordance with bye-law 7; or\n( b ) contravenes bye-laws 8, 11, or 14.\n(2) The Council shall, where it revokes a permit under sub-bye-law (1), cancel the permit and Memorandum of Agreement of Lease."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Cleanliness of stall",
+      "content": "10. Cleanliness of stall\n(1) A permit holder shall take all reasonable steps to ensure that his or her stall and all utensils, machinery and equipment used therein and all goods sold or displayed for sale therein are at all times in a clean and hygienic condition, and that he or she and every other person engaged in business at the stall are at all times while so engaged, in a proper state of cleanliness."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Council",
+      "definition": "the Ghanzi District Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health inspector",
+      "definition": "a health inspector employed by the Government or by the Council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "market",
+      "definition": "a market established under bye-law 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council Officer",
+      "definition": "the Council Secretary or any Council employee authorised by the Council Secretary in writing for the purpose of these Bye-Laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Licensing Officer",
+      "definition": "the Council Secretary or any Council employee authorised by the Council Secretary in writing for the purpose of these Bye-Laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stall",
+      "definition": "a building, stand, shelter and table used for the provision of a service to the public",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stall holder",
+      "definition": "a person hiring a stall under these Bye-Laws.",
+      "source_provision": "s2"
+    }
+  ]
+}

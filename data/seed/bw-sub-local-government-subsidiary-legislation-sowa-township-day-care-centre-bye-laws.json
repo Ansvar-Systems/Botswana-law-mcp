@@ -1,0 +1,85 @@
+{
+  "id": "bw-sub-local-government-subsidiary-legislation-sowa-township-day-care-centre-bye-laws",
+  "type": "statute",
+  "title": "Local Government : Subsidiary Legislation : Sowa Township (day-care Centre) Bye-laws",
+  "title_en": "Local Government : Subsidiary Legislation : Sowa Township (day-care Centre) Bye-laws",
+  "short_name": "Local Government : Subsidia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/local-government-subsidiary/local-government-subsidiary-legislation-sowa-township-day-care-centre-bye-laws",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART I Preliminary (bye-laws 1- 8)",
+      "section": "1",
+      "title": "Citation",
+      "content": "1. Citation\nThese Bye-Laws may be cited as the Sowa Township (Day-Care Centre) Bye-Laws.\n*Originally made under the Township Act now repealed, these Regulations have been continued under s 94(2) of the Local Government Act, 2013."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART I Preliminary (bye-laws 1- 8)",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn these Bye-Laws, unless the context otherwise requires\n\"authorised officer\" means the Township Authority or any employee of the Council duly authorised, in writing, by the Council to perform duties under these Bye-Laws;\n\"care giver\" means a person trained to teach, train, and care for babies and children below the age of six, and registered as such with the Sowa Township Authority;\n\"Authority\" means the Sowa Township Authority;\n\"day-care centre\" means a place for the care, education and supervision of children below the age of six;\n\"infectious disease\" includes diphtheria, cerebrospinal meningitis, whooping cough, measles, mumps, German measles (rubella), chicken pox, scabies, ringworm of scalp or body, and typhoid fever;\n\"licence\" means a licence issued under bye-law 3;\n\"qualified teacher\" means a teacher qualified to the satisfaction of the Ministry of Education, to teach children below the age of six."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART I Preliminary (bye-laws 1- 8)",
+      "section": "3",
+      "title": "Licensing of day-care centres",
+      "content": "3. Licensing of day-care centres\n(1) A person shall not operate a day-care centre (hereinafter referred to as a \"centre\") without a licence issued by the Authority.\n(2) A person under the age of 18 years shall not operate a centre.\n(3) Any person who wishes to operate a centre shall make an application for a licence to the Authority, in Form 1 set out in the Schedule hereto, giving details of\n( a ) the premises intended to be used for the centre;\n( b ) the names and qualifications of all the teachers and assistants to be employed at the centre; and\n( c ) any other information with regard to the proposed centre as the Authority may require.\n(4) Upon receipt of the application, the Authority shall cause to be conducted such inspections as it may consider appropriate to ensure that the premises of the centre comply with the relevant health and building control standards.\n(5) If the Authority is satisfied that the proposed centre meets all the requirements of these Bye-Laws and any other relevant legislation, it may, on payment of a fee of P100, issue to the applicant a licence in Form 2 set out in the Schedule hereto.\n(6) A licence issued under sub-bye-law (5) may be subject to such conditions as the Council considers necessary, which conditions shall be endorsed on the licence.\n(7) A person who contravenes sub-bye-law (1) commits an offence and is liable to the penalties prescribed under bye-law 31."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART I Preliminary (bye-laws 1- 8)",
+      "section": "4",
+      "title": "Duration and renewal of day-care licence",
+      "content": "4. Duration and renewal of day-care licence\n(1) A licence issued under bye-law (3) shall be valid until the 31st December of the year of issue.\n(2) A licence shall be renewable from year to year, on payment of an annual fee of P100.\n(3) An application for the renewal of a licence shall be made in Form 3 set out in the Schedule hereto."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART I Preliminary (bye-laws 1- 8)",
+      "section": "5",
+      "title": "Suspension and revocation of licence",
+      "content": "5. Suspension and revocation of licence\n(1) The Authority may\n( a ) suspend a licence issued under bye-law 4 where\n(i) any condition of the licence is not adhered to;\n(ii) a centre has failed to comply with these Bye-Laws; or\n(iii) an authorised officer, after conducting an inspection, has recommended a suspension of the licence due to a failure of the centre to comply with the relevant health standards.\n( b ) revoke a licence issued under bye-law 3 where\n(i) a centre has failed to comply with any of the conditions of the licence;\n(ii) a centre has contravened or failed to comply with any of the provisions of these bye-laws; or\n(iii) an authorised officer, after conducting an inspection, has recommended a revocation of the licence due to any reason.\n(2) Any suspension or revocation of a licence under this bye-law shall be published by notice in the Gazette , and two newspapers in circulation in Botswana."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "the Township Authority or any employee of the Council duly authorised, in writing, by the Council to perform duties under these Bye-Laws",
+      "source_provision": "s2"
+    },
+    {
+      "term": "care giver",
+      "definition": "a person trained to teach, train, and care for babies and children below the age of six, and registered as such with the Sowa Township Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Sowa Township Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "day-care centre",
+      "definition": "a place for the care, education and supervision of children below the age of six",
+      "source_provision": "s2"
+    },
+    {
+      "term": "infectious disease",
+      "definition": "diphtheria, cerebrospinal meningitis, whooping cough, measles, mumps, German measles (rubella), chicken pox, scabies, ringworm of scalp or body, and typhoid fever",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued under bye-law 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "qualified teacher",
+      "definition": "a teacher qualified to the satisfaction of the Ministry of Education, to teach children below the age of six.",
+      "source_provision": "s2"
+    }
+  ]
+}

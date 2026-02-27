@@ -1,0 +1,26 @@
+{
+  "id": "bw-act-general-law-cape-statutes-revision",
+  "type": "statute",
+  "title": "General Law (cape Statutes) Revision",
+  "title_en": "General Law (cape Statutes) Revision",
+  "short_name": "General Law (cape Statutes)...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/general-law-cape-statutes-revision",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the General Law (Cape Statutes) Revision Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application of certain Cape Statutes to Botswana to be discontinued",
+      "content": "2. Application of certain Cape Statutes to Botswana to be discontinued\nAll laws enacted by the legislative authority of the Colony of the Cape of Good Hope, in force in Botswana by virtue of the provisions of the General Law Proclamation, 1909, other than—\n( a ) laws which, notwithstanding that they may have been made before the 10th day of June, 1891, have been applied to Botswana, or to anything in Botswana, by some other law; and\n( b ) the laws specified in the Schedule (to the extent set out in the third column thereof),\nshall from the commencement of this Act no longer be in force in Botswana."
+    }
+  ],
+  "definitions": []
+}

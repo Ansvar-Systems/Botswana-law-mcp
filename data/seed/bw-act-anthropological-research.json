@@ -1,0 +1,32 @@
+{
+  "id": "bw-act-anthropological-research",
+  "type": "statute",
+  "title": "Anthropological Research",
+  "title_en": "Anthropological Research",
+  "short_name": "Anthropological Research",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/anthropological-research",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Anthropological Research Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act—\n\"anthropological research\" means investigation or research of a physical anthropological, social anthropological, cultural anthropological, sociological, physiological, group psychological, linguistic, ethnological, ethnographical, or ethno-historical nature and includes research into the human geography and human ecology of any area."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "anthropological research",
+      "definition": "investigation or research of a physical anthropological, social anthropological, cultural anthropological, sociological, physiological, group psychological, linguistic, ethnological, ethnographical, or ethno-historical nature and includes research into the human geography and human ecology of any area.",
+      "source_provision": "s2"
+    }
+  ]
+}

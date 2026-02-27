@@ -1,0 +1,65 @@
+{
+  "id": "bw-act-married-persons-property",
+  "type": "statute",
+  "title": "Married Persons Property",
+  "title_en": "Married Persons Property",
+  "short_name": "Married Persons Property",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://botswanalaws.com/consolidated-statutes/principle-legislation/married-persons-property",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title\nThis Act may be cited as the Married Persons Property Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"community of property\" means the community of property, profit and loss;\n\"property regime\" means a marital property regime which can either be in community of property or out of community of property;\n\"Registrar\" means the Registrar of Deeds; and\n\"repealed Act\" means the Married Persons Property Act repealed under section 13 of this Act."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Exclusion of section 16 of Cap. 33:02",
+      "content": "3. Exclusion of section 16 of Cap. 33:02\nSection 16 of the Deeds Registry Act (Cap. 33:02) shall not apply in relation to any instrument attested under this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Community of property excluded",
+      "content": "4. Community of property excluded\n(1) Subject to subsection (3), a marriage solemnised under the Marriage Act (Cap. 29:01), where one of the spouses is domiciled in Botswana, is presumed to be out of community of property, profit and loss.\n(2) In pursuance of subsection (1), spouses shall each sign an instrument in Form A set out in the First Schedule, in the presence of three witnesses, being one witness for each spouse and one of whom shall be—\n( a ) an administrative officer;\n( b ) a justice of the peace; or\n( c ) a commissioner of oaths.\n(3) Notwithstanding subsection (1), spouses who wish their property regime to be in community of property, shall each sign an instrument in Form B set out in the First Schedule, in the presence of three witnesses, being one witness for each spouse and one of whom shall be—\n( a ) an administrative officer;\n( b ) a justice of the peace; or\n( c ) a commissioner of oaths."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Proprietary consequences of marriages of persons subject to customary law",
+      "content": "5. Proprietary consequences of marriages of persons subject to customary law\n(1) Notwithstanding that a marriage has been solemnised under the Marriage Act (Cap. 29:01), the provisions of this Act shall not apply to the property of spouses who are subject to Botswana customary law.\n(2) Subject to the provisions of this section and of the Dissolution of Marriages of Persons Subject to Customary Law (Disposal of Property) Act (Cap. 29:05), the property of spouses who are subject to customary law shall be held, disposed of, and devolve according to customary law, unless disposed of by will.\n(3) Notwithstanding subsections (1) and (2), the spouses in a marriage between persons subject to customary law may, prior to the solemnisation of the marriage, express their wish to exclude customary law application to their proprietary rights, by an instrument in writing—"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "community of property",
+      "definition": "the community of property, profit and loss",
+      "source_provision": "s2"
+    },
+    {
+      "term": "property regime",
+      "definition": "a marital property regime which can either be in community of property or out of community of property",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of Deeds",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "the Married Persons Property Act repealed under section 13 of this Act.",
+      "source_provision": "s2"
+    }
+  ]
+}
