@@ -1,16 +1,17 @@
-# Botswanan Law MCP Server
+# Botswana Law MCP Server
 
-**The Botswana Law alternative for the AI age.**
+**The BACLAYS alternative for the AI age.**
 
-[![npm version](https://badge.fury.io/js/%40ansvar/botswana-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/botswana-law-mcp)
+[![npm version](https://badge.fury.io/js/@ansvar%2Fbotswana-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/botswana-law-mcp)
 [![MCP Registry](https://img.shields.io/badge/MCP-Registry-blue)](https://registry.modelcontextprotocol.io)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Botswana-law-mcp?style=social)](https://github.com/Ansvar-Systems/Botswana-law-mcp)
 [![CI](https://github.com/Ansvar-Systems/Botswana-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/Botswana-law-mcp/actions/workflows/ci.yml)
-[![Database](https://img.shields.io/badge/database-pre--built-green)]()
-[![Provisions](https://img.shields.io/badge/provisions-21%2C559-blue)]()
+[![Daily Data Check](https://github.com/Ansvar-Systems/Botswana-law-mcp/actions/workflows/check-updates.yml/badge.svg)](https://github.com/Ansvar-Systems/Botswana-law-mcp/actions/workflows/check-updates.yml)
+[![Database](https://img.shields.io/badge/database-pre--built-green)](https://github.com/Ansvar-Systems/Botswana-law-mcp)
+[![Provisions](https://img.shields.io/badge/provisions-7%2C626-blue)](https://github.com/Ansvar-Systems/Botswana-law-mcp)
 
-Query **494 Botswanan Acts** -- from the Data Protection Act and Computer Misuse and Cybercrimes Act to the Companies Act, Constitution of Botswana, and more -- directly from Claude, Cursor, or any MCP-compatible client.
+Query **882 Botswanan Acts** -- from the Data Protection Act 2018 and the Penal Code to the Companies Act, Employment Act, and more -- directly from Claude, Cursor, or any MCP-compatible client.
 
 If you're building legal tech, compliance tools, or doing Botswanan legal research, this is your verified reference database.
 
@@ -20,11 +21,12 @@ Built by [Ansvar Systems](https://ansvar.eu) -- Stockholm, Sweden
 
 ## Why This Exists
 
-Botswanan legal research is scattered across Botswana Law Reports, the Botswana Gazette, and various government portals. Whether you're:
-- A **lawyer** validating citations in a brief or contract under Botswanan law
-- A **compliance officer** checking if the Data Protection Act 2019 provisions apply to your processing activities
-- A **legal tech developer** building tools on Botswanan legislation
-- A **researcher** tracing legislative history from colonial-era statutes to the 2010 Constitution
+Botswanan legal research means navigating laws.parliament.bw, botswanalii.org, and scattered government PDF publications. Whether you're:
+
+- A **lawyer** validating citations in a brief or contract
+- A **compliance officer** checking obligations under the Data Protection Act 2018 or the Financial Intelligence Act
+- A **legal tech developer** building tools on Botswanan law
+- A **researcher** tracing legislative provisions across 882 Acts
 
 ...you shouldn't need dozens of browser tabs and manual PDF cross-referencing. Ask Claude. Get the exact provision. With context.
 
@@ -114,37 +116,64 @@ npx @ansvar/botswana-law-mcp
 
 Once connected, just ask naturally:
 
-- *"What does the Data Protection Act 2019 say about consent?"*
-- *"Is the Companies Act 2015 still in force?"*
-- *"Find provisions about cybersecurity in the Computer Misuse and Cybercrimes Act"*
-- *"What does the Constitution of Botswana say about the right to privacy?"*
-- *"Search for data breach notification requirements in Botswanan law"*
-- *"What are the obligations under the National Payment Systems Act?"*
-- *"Validate this legal citation"*
-- *"Build a legal stance on personal data processing in Botswana"*
+- *"What does the Data Protection Act 2018 say about consent for data processing?"*
+- *"Find provisions in the Penal Code about fraud and financial crimes"*
+- *"Search for company law requirements under the Companies Act"*
+- *"What does the Employment Act say about termination and severance?"*
+- *"Is the Financial Intelligence Act still in force?"*
+- *"Find provisions about competition law under the Competition Act"*
+- *"Build a legal stance on corporate governance obligations in Botswana"*
+- *"Validate the citation 'Section 12 of the Data Protection Act 2018'"*
 
 ---
 
-## Key Legislation Covered
+## What's Included
 
-| Act | Year | Significance |
-|-----|------|-------------|
-| **Data Protection Act** | 2019 | Comprehensive data protection law modeled on EU GDPR; established the Office of the Data Protection Commissioner (ODPC) |
-| **Computer Misuse and Cybercrimes Act** | 2018 | Comprehensive cybercrime legislation (note: Sections 22, 23, 24, 27, and 53 were partially suspended by the High Court pending constitutional review) |
-| **Botswana Information and Communications Act** | 1998 (amended) | Regulates telecommunications and ICT sector; establishes the Communications Authority of Botswana |
-| **Companies Act** | 2015 | Modern company law framework replacing the Companies Act (Cap 486) |
-| **Consumer Protection Act** | 2012 | Consumer rights and fair trade practices |
-| **Access to Information Act** | 2016 | Right to access government-held information |
-| **National Payment Systems Act** | 2011 | Regulation of payment systems including mobile money (M-Pesa) |
-| **Constitution of Botswana** | 2010 | Supreme law; Article 31 guarantees the right to privacy |
+| Category | Count | Details |
+|----------|-------|---------|
+| **Acts** | 882 statutes | Comprehensive Botswanan legislation |
+| **Provisions** | 7,626 sections | Full-text searchable with FTS5 |
+| **Legal Definitions** | 7,703 definitions | Extracted from Act texts |
+| **Database Size** | ~17 MB | Optimized SQLite, portable |
+| **Freshness Checks** | Automated | Monitoring against laws.parliament.bw |
+
+**Verified data only** -- every citation is validated against official sources (laws.parliament.bw, botswanalii.org). Zero LLM-generated content.
 
 ---
 
-## Deployment Tier
+## Why This Works
 
-**SMALL** -- Single tier, bundled SQLite database shipped with the npm package.
+**Verbatim Source Text (No LLM Processing):**
+- All statute text is ingested from botswanalaws.com and the Parliament of Botswana (laws.parliament.bw)
+- Provisions are returned **unchanged** from SQLite FTS5 database rows
+- Zero LLM summarization or paraphrasing -- the database contains statute text, not AI interpretations
 
-**Estimated database size:** ~80-150 MB (full corpus of Botswanan federal legislation)
+**Smart Context Management:**
+- Search returns ranked provisions with BM25 scoring (safe for context)
+- Provision retrieval gives exact text by Act name and section number
+- Cross-references help navigate without loading everything at once
+
+**Technical Architecture:**
+```
+botswanalaws.com / laws.parliament.bw --> Parse --> SQLite --> FTS5 snippet() --> MCP response
+                                            ^                        ^
+                                     Provision parser         Verbatim database query
+```
+
+### Traditional Research vs. This MCP
+
+| Traditional Approach | This MCP Server |
+|---------------------|-----------------|
+| Search laws.parliament.bw by Act name | Search by plain language: *"data protection consent"* |
+| Navigate multi-section Acts manually | Get the exact provision with context |
+| Manual cross-referencing between Acts | `build_legal_stance` aggregates across sources |
+| "Is this Act still in force?" --> check manually | `check_currency` tool --> answer in seconds |
+| Find SADC/AU alignment --> dig through frameworks | `get_eu_basis` --> linked frameworks instantly |
+| No API, no integration | MCP protocol --> AI-native |
+
+**Traditional:** Search laws.parliament.bw --> Download PDF --> Ctrl+F --> Cross-reference Acts --> Check amendments manually --> Repeat
+
+**This MCP:** *"What are the data subject rights under the Data Protection Act 2018 and how do they compare to SADC frameworks?"* --> Done.
 
 ---
 
@@ -154,56 +183,39 @@ Once connected, just ask naturally:
 
 | Tool | Description |
 |------|-------------|
-| `search_legislation` | FTS5 full-text search across all provisions with BM25 ranking |
-| `get_provision` | Retrieve specific provision by statute + chapter/section |
-| `check_currency` | Check if statute is in force, amended, or repealed |
-| `validate_citation` | Validate citation against database (zero-hallucination check) |
-| `build_legal_stance` | Aggregate citations from statutes for a legal topic |
+| `search_legislation` | FTS5 full-text search across 7,626 provisions with BM25 ranking. Supports quoted phrases, boolean operators, prefix wildcards |
+| `get_provision` | Retrieve specific provision by Act name and section number |
+| `check_currency` | Check if an Act is in force, amended, or repealed |
+| `validate_citation` | Validate citation against database -- zero-hallucination check. Supports "Section 12 Data Protection Act 2018", "s. 5 Penal Code" |
+| `build_legal_stance` | Aggregate citations from multiple Acts for a legal topic |
 | `format_citation` | Format citations per Botswanan conventions (full/short/pinpoint) |
-| `list_sources` | List all available statutes with metadata |
-| `about` | Server info, capabilities, and coverage summary |
+| `list_sources` | List all available Acts with metadata, coverage scope, and data provenance |
+| `about` | Server info, capabilities, dataset statistics, and coverage summary |
 
-### EU/International Law Integration Tools (5)
+### International Law Integration Tools (5)
 
 | Tool | Description |
 |------|-------------|
-| `get_eu_basis` | Get EU directives/regulations for Botswanan statute |
-| `get_botswanan_implementations` | Find Botswanan laws implementing EU act |
-| `search_eu_implementations` | Search EU documents with Botswanan implementation counts |
-| `get_provision_eu_basis` | Get EU law references for specific provision |
-| `validate_eu_compliance` | Check implementation status of EU directives |
+| `get_eu_basis` | Get international frameworks (SADC, AU, Commonwealth) that a Botswanan Act aligns with |
+| `get_botswanan_implementations` | Find Botswanan laws implementing a specific international framework or convention |
+| `search_eu_implementations` | Search international documents with Botswanan alignment counts |
+| `get_provision_eu_basis` | Get international law references for a specific provision |
+| `validate_eu_compliance` | Check alignment status of Botswanan laws against international standards |
 
 ---
 
-## Why This Works
+## International Law Alignment
 
-**Verbatim Source Text (No LLM Processing):**
-- All statute text is ingested from official Botswanan government sources
-- Provisions are returned **unchanged** from SQLite FTS5 database rows
-- Zero LLM summarization or paraphrasing -- the database contains regulation text, not AI interpretations
+Botswana is not an EU member state. Botswanan law develops through its own Westminster-derived constitutional and parliamentary framework, with international alignment through:
 
-**Smart Context Management:**
-- Search returns ranked provisions with BM25 scoring (safe for context)
-- Provision retrieval gives exact text by statute identifier + chapter/section
-- Cross-references help navigate without loading everything at once
+- **SADC** -- Southern African Development Community protocols on trade, finance, and governance; SADC Model Law on Data Protection
+- **African Union (AU)** -- Malabo Convention on Cybersecurity and Personal Data Protection; AU frameworks on digital economy
+- **Commonwealth** -- Commonwealth legal traditions and model laws; Commonwealth Cyber Declaration
+- **UN Conventions** -- UNCAC (anti-corruption), Convention on the Rights of the Child, and international human rights instruments
 
-**Technical Architecture:**
-```
-Official Sources --> Parse --> SQLite --> FTS5 snippet() --> MCP response
-                     ^                       ^
-              Provision parser         Verbatim database query
-```
+The international bridge tools allow you to explore these alignment relationships -- checking which Botswanan provisions correspond to SADC or AU requirements, and vice versa.
 
-### Traditional Research vs. This MCP
-
-| Traditional Approach | This MCP Server |
-|---------------------|-----------------|
-| Search official databases by statute number | Search by plain language |
-| Navigate multi-chapter statutes manually | Get the exact provision with context |
-| Manual cross-referencing between laws | `build_legal_stance` aggregates across sources |
-| "Is this statute still in force?" --> check manually | `check_currency` tool --> answer in seconds |
-| Find EU basis --> dig through EUR-Lex | `get_eu_basis` --> linked EU directives instantly |
-| No API, no integration | MCP protocol --> AI-native |
+> **Note:** International cross-references reflect alignment and framework relationships, not direct transposition. Botswana develops its own legislative approach, and the alignment tools help identify where Botswanan and international law address similar domains.
 
 ---
 
@@ -211,7 +223,29 @@ Official Sources --> Parse --> SQLite --> FTS5 snippet() --> MCP response
 
 All content is sourced from authoritative Botswanan legal databases:
 
-- **[Botswana Law Reports](https://botswanalaw.org)** -- Official Botswanan government legal database
+- **[botswanalaws.com](https://www.botswanalaws.com/)** -- Botswana laws and Acts database (primary source)
+- **[Parliament of Botswana](https://www.parliament.gov.bw/)** -- Official Acts and subsidiary legislation
+- **[botswanalii.org](https://www.botswanalii.org/)** -- Botswana Legal Information Institute
+
+### Data Provenance
+
+| Field | Value |
+|-------|-------|
+| **Authority** | Republic of Botswana |
+| **Primary source** | botswanalaws.com / laws.parliament.bw |
+| **Languages** | English (official language) |
+| **Coverage** | 882 consolidated Acts |
+| **Last ingested** | 2026-02-25 |
+
+### Automated Freshness Checks
+
+A [GitHub Actions workflow](.github/workflows/check-updates.yml) monitors data sources for changes:
+
+| Check | Method |
+|-------|--------|
+| **Act amendments** | Drift detection against known provision anchors |
+| **New Acts** | Comparison against source index |
+| **Repealed Acts** | Status change detection |
 
 **Verified data only** -- every citation is validated against official sources. Zero LLM-generated content.
 
@@ -240,17 +274,21 @@ See [SECURITY.md](SECURITY.md) for the full policy and vulnerability reporting.
 
 > **THIS TOOL IS NOT LEGAL ADVICE**
 >
-> Statute text is sourced from official Botswanan government publications. However:
+> Statute text is sourced from botswanalaws.com and laws.parliament.bw. However:
 > - This is a **research tool**, not a substitute for professional legal counsel
-> - **Court case coverage is limited** -- do not rely solely on this for case law research
+> - **Court case coverage is not included** -- do not rely solely on this for case law research
 > - **Verify critical citations** against primary sources for court filings
-> - **EU cross-references** are extracted from statute text, not EUR-Lex full text
+> - **International cross-references** reflect alignment relationships, not direct transposition
 
 **Before using professionally, read:** [DISCLAIMER.md](DISCLAIMER.md) | [SECURITY.md](SECURITY.md)
 
 ### Client Confidentiality
 
 Queries go through the Claude API. For privileged or confidential matters, use on-premise deployment.
+
+### Bar Association
+
+For professional legal use in Botswana, consult guidance from the **Law Society of Botswana** regarding professional obligations and confidentiality requirements.
 
 ---
 
@@ -273,6 +311,22 @@ npm run dev                                       # Start MCP server
 npx @anthropic/mcp-inspector node dist/index.js   # Test with MCP Inspector
 ```
 
+### Data Management
+
+```bash
+npm run ingest              # Ingest Acts from botswanalaws.com
+npm run build:db            # Rebuild SQLite database
+npm run drift:detect        # Run drift detection against anchors
+npm run check-updates       # Check for amendments and new Acts
+npm run census              # Generate coverage census
+```
+
+### Performance
+
+- **Search Speed:** <100ms for most FTS5 queries
+- **Database Size:** ~17 MB (efficient, portable)
+- **Reliability:** 100% ingestion success rate across 882 Acts
+
 ---
 
 ## Related Projects: Complete Compliance Suite
@@ -288,10 +342,7 @@ This server is part of **Ansvar's Compliance Suite** -- MCP servers that work to
 ### [@ansvar/security-controls-mcp](https://github.com/Ansvar-Systems/security-controls-mcp)
 **Query 261 security frameworks** -- ISO 27001, NIST CSF, SOC 2, CIS Controls, SCF, and more. `npx @ansvar/security-controls-mcp`
 
-### [@ansvar/automotive-cybersecurity-mcp](https://github.com/Ansvar-Systems/Automotive-MCP)
-**Query UNECE R155/R156 and ISO 21434** -- Automotive cybersecurity compliance. `npx @ansvar/automotive-cybersecurity-mcp`
-
-**30+ national law MCPs** covering Australia, Brazil, Canada, China, Denmark, Finland, France, Germany, Ghana, Iceland, India, Ireland, Israel, Italy, Japan, Botswana, Netherlands, Nigeria, Norway, Singapore, Slovenia, South Korea, Sweden, Switzerland, Thailand, UAE, UK, and more.
+**70+ national law MCPs** covering Australia, Brazil, Canada, Denmark, Ethiopia, France, Germany, Ghana, India, Ireland, Japan, Kenya, Malawi, Netherlands, Nigeria, Norway, Singapore, South Africa, Sweden, Switzerland, UAE, UK, and more.
 
 ---
 
@@ -300,23 +351,25 @@ This server is part of **Ansvar's Compliance Suite** -- MCP servers that work to
 Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 Priority areas:
-- Court case law expansion
-- EU cross-reference improvements
-- Historical statute versions and amendment tracking
-- Additional statutory instruments and regulations
+- Court case law expansion (High Court of Botswana, Court of Appeal)
+- SADC protocol alignment mapping
+- AU Malabo Convention cross-references
+- Historical Act versions and amendment tracking
+- Subsidiary legislation and statutory instruments
 
 ---
 
 ## Roadmap
 
-- [x] Core statute database with FTS5 search
-- [x] EU/international law cross-references
+- [x] Core Act database with FTS5 search
+- [x] Full corpus ingestion (882 Acts, 7,626 provisions, 7,703 definitions)
+- [x] International law alignment tools
 - [x] Vercel Streamable HTTP deployment
 - [x] npm package publication
-- [ ] Court case law expansion
-- [ ] Historical statute versions (amendment tracking)
-- [ ] Preparatory works / explanatory memoranda
-- [ ] Lower court and tribunal decisions
+- [ ] Court case law expansion (High Court, Court of Appeal)
+- [ ] Historical Act versions (amendment tracking)
+- [ ] Subsidiary legislation and statutory instruments
+- [ ] SADC protocol cross-references
 
 ---
 
@@ -325,12 +378,12 @@ Priority areas:
 If you use this MCP server in academic research:
 
 ```bibtex
-@software{botswana_law_mcp_2025,
+@software{botswana_law_mcp_2026,
   author = {Ansvar Systems AB},
-  title = {Botswanan Law MCP Server: AI-Powered Legal Research Tool},
-  year = {2025},
+  title = {Botswana Law MCP Server: AI-Powered Legal Research Tool},
+  year = {2026},
   url = {https://github.com/Ansvar-Systems/Botswana-law-mcp},
-  note = {Botswanan legal database with full-text search and EU cross-references}
+  note = {882 Botswanan Acts with 7,626 provisions sourced from botswanalaws.com}
 }
 ```
 
@@ -342,16 +395,16 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Statutes & Legislation:** Botswanan Government (public domain)
-- **EU Metadata:** EUR-Lex (EU public domain)
+- **Statutes & Legislation:** Republic of Botswana (public domain)
+- **International Framework Metadata:** SADC / AU / Commonwealth (public domain)
 
 ---
 
 ## About Ansvar Systems
 
-We build AI-accelerated compliance and legal research tools for the global market. This MCP server started as our internal reference tool -- turns out everyone building compliance tools has the same research frustrations.
+We build AI-accelerated compliance and legal research tools for the global market. This MCP server started as our internal reference tool -- turns out everyone building for the Botswanan or Southern African market has the same research frustrations.
 
-So we're open-sourcing it.
+So we're open-sourcing it. Navigating 882 Acts shouldn't require a law degree.
 
 **[ansvar.eu](https://ansvar.eu)** -- Stockholm, Sweden
 
