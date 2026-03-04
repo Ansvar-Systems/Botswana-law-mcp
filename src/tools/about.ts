@@ -44,7 +44,7 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       {
         name: 'Botswana Laws Online',
         url: 'https://botswanalaws.com',
-        authority: 'Attorney General's Chambers',
+        authority: 'Attorney General\'s Chambers',
       },
     ],
     freshness: {
