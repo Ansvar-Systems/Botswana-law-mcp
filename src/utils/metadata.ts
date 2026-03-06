@@ -32,12 +32,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Botswana Law (elaws.gov.bw) — National Council for Law Reporting',
-    jurisdiction: 'KE',
+    data_source: 'Laws of Botswana (lawsofbotswana.info) — Attorney General\'s Chambers, Republic of Botswana',
+    jurisdiction: 'BW',
     disclaimer:
-      'This data is sourced from Botswana Law under Government Open Data principles. ' +
-      'The authoritative versions are in English. Swahili translations may be available for some documents. ' +
-      'Always verify with the official Botswana Law portal (elaws.gov.bw).',
+      'This data is sourced from the Laws of Botswana under Government Open Data principles. ' +
+      'The authoritative versions are maintained by the Attorney General\'s Chambers of the Republic of Botswana. ' +
+      'Always verify with the official Laws of Botswana portal (lawsofbotswana.info).',
     freshness,
   };
 }
